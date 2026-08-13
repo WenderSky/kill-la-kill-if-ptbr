@@ -126,6 +126,17 @@ Baixe o pacote da sua plataforma na página de [**Releases**](../../releases/lat
 
 > 💡 Rode com `bash instalar.sh` mesmo, e não `./instalar.sh`: o bit de execução se perde quando o arquivo passa pelo Windows.
 
+### 📋 Instalar na mão, sem o instalador
+
+Se preferir copiar e colar, dá. A pasta `dados/ResourceWin` é um espelho da estrutura do jogo: copie **`ResourceWin`** e cole dentro da pasta do jogo, **mesclando** as pastas e sobrescrevendo os arquivos repetidos.
+
+- Windows: `...\steamapps\common\KILL la KILL -IF\`
+- Steam Deck: `~/.local/share/Steam/steamapps/common/KILL la KILL -IF/` — ou `/run/media/mmcblk0p1/steamapps/common/KILL la KILL -IF/` se estiver no cartão SD
+
+> ⚠️ No Steam Deck, o Dolphin vai perguntar o que fazer com a pasta que já existe: escolha **Mesclar**, nunca *Substituir*. Substituir apaga o resto do `ResourceWin` e o jogo para de abrir.
+
+Fazendo assim você perde o **backup**: o instalador guarda os 23 arquivos originais antes de copiar, e é isso que o desinstalador usa depois. Para desfazer, aí só pelo Steam — *Propriedades → Arquivos instalados → Verificar integridade*.
+
 ### ⚙️ O idioma do jogo tem que estar em Inglês
 
 A tradução ocupa o slot do inglês, que é o **padrão** do jogo — quem nunca mexeu nisso não precisa fazer nada.

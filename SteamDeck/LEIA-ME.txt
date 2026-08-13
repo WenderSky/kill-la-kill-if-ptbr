@@ -20,6 +20,31 @@ COMO INSTALAR
   cartão SD. Se não encontrar, ele pergunta o caminho.
 
 
+INSTALAR NA MÃO, SEM O SCRIPT
+
+  Dá para copiar e colar, se preferir. A pasta dados/ResourceWin
+  é um espelho da estrutura do jogo.
+
+  1. Copie a pasta  dados/ResourceWin
+  2. Cole dentro da pasta do jogo:
+
+       ~/.local/share/Steam/steamapps/common/KILL la KILL -IF/
+
+     ou, se o jogo estiver no cartão SD:
+
+       /run/media/mmcblk0p1/steamapps/common/KILL la KILL -IF/
+
+  3. O Dolphin vai avisar que a pasta já existe. Escolha
+     MESCLAR (Merge) — NÃO escolha "Substituir": substituir
+     apaga o resto do ResourceWin e o jogo para de abrir.
+  4. Nos arquivos repetidos, escolha "Sobrescrever todos".
+
+  O que você perde fazendo assim: o backup. O script guarda os
+  originais antes de copiar, e é isso que o desinstalar.sh usa.
+  Copiando na mão, para desfazer só pelo Steam: Propriedades do
+  jogo > Arquivos instalados > Verificar integridade.
+
+
 O IDIOMA DO JOGO PRECISA ESTAR EM INGLÊS
 
   A tradução ocupa o slot do inglês, que é o padrão do jogo.
