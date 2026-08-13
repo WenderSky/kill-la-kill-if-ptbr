@@ -184,6 +184,26 @@ Idioma > Inglês.
 [b]Para desinstalar:[/b] dois cliques em DESINSTALAR.bat. O jogo volta ao inglês
 na hora.
 
+[hr][/hr]
+
+[h2]Prefere instalar na mão?[/h2]
+
+Dá. A pasta [i]dados\ResourceWin[/i] do pacote é um espelho da estrutura do jogo,
+então copiar e colar funciona igual.
+
+[olist]
+[*]Abra o pacote e copie a pasta [b]ResourceWin[/b] de dentro de [i]dados[/i].
+[*]Cole dentro da pasta do jogo:
+[code]...\steamapps\common\KILL la KILL -IF\[/code]
+[*]O Windows vai perguntar o que fazer com a pasta que já existe. Escolha
+[b]mesclar[/b] e depois [b]substituir os arquivos[/b] repetidos.
+[/olist]
+
+[quote=O que você perde fazendo assim]O backup. O instalador guarda os 23
+arquivos originais antes de copiar, e é isso que o DESINSTALAR.bat usa depois.
+Copiando na mão não tem de onde voltar — para desfazer, só pelo Steam:
+Propriedades do jogo > Arquivos instalados > Verificar integridade.[/quote]
+
 
 ═══════════════════════════════════════════════════════════════════════════════
  SEÇÃO 5  ·  título: "Instalação no Steam Deck"
@@ -214,6 +234,34 @@ permissão de execução quando passa pelo Windows. Chamando com "bash" na frent
 funciona de qualquer jeito e você não precisa se preocupar com isso.[/quote]
 
 [b]Para desinstalar:[/b] no mesmo lugar, rode [code]bash desinstalar.sh[/code]
+
+[hr][/hr]
+
+[h2]Prefere instalar na mão, pelo Dolphin?[/h2]
+
+Dá, e é só copiar e colar. A pasta [i]dados/ResourceWin[/i] do pacote é um
+espelho da estrutura do jogo.
+
+[olist]
+[*]No Modo Área de Trabalho, abra o pacote e copie a pasta [b]ResourceWin[/b] de
+dentro de [i]dados[/i].
+[*]Cole dentro da pasta do jogo:
+[code]~/.local/share/Steam/steamapps/common/KILL la KILL -IF/[/code]
+ou, se o jogo estiver no cartão SD:
+[code]/run/media/mmcblk0p1/steamapps/common/KILL la KILL -IF/[/code]
+[*]O Dolphin vai avisar que a pasta já existe. Escolha [b]Mesclar[/b] (Merge).
+[*]Nos arquivos repetidos, escolha [b]Sobrescrever todos[/b].
+[/olist]
+
+[b]Atenção a um detalhe:[/b] escolha [b]Mesclar[/b], nunca [b]Substituir[/b].
+Substituir apaga o resto do ResourceWin — que tem os modelos, as texturas e o
+som do jogo — e aí o jogo para de abrir. Se acontecer, dá para recuperar
+verificando a integridade pelo Steam, mas é download de novo.
+
+[quote=O que você perde fazendo assim]O backup. O script guarda os 23 arquivos
+originais antes de copiar, e é isso que o desinstalar.sh usa depois. Copiando na
+mão não tem de onde voltar — para desfazer, só pelo Steam: Propriedades do jogo
+> Arquivos instalados > Verificar integridade.[/quote]
 
 
 ═══════════════════════════════════════════════════════════════════════════════
