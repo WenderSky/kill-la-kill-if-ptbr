@@ -1,0 +1,438 @@
+{
+ "origem": "KlkResources/S701_MES/MES_151_DTR_ACT",
+ "conteudo": "Falas em batalha - DTR",
+ "parte": "4/4",
+ "instrucoes": "Traduza o campo 'en' para portugues do Brasil e escreva o resultado em 'pt'. Nao altere 'id'. Mantenha intactos os codigos entre chaves ({CA}, {LA}, {BR}, {JU}, {SP}, {GD}, {LS}, {L1}, {R1}, setas), os marcadores de formato (%d, %l, %ls, %hs) e as quebras de linha \\n. Se uma linha nao precisar de traducao, deixe 'pt' vazio.",
+ "linhas": [
+  {
+   "id": "C151_VS_C051_VICTORY_02_KEYWORD_01",
+   "en": "Even though we're just plain old humans, we can handle ourselves.\nI didn't need a Goku Uniform to beat you. ",
+   "pt": "Mesmo sendo apenas humanos comuns, nós damos conta do recado.\nNão precisei de um Uniforme Goku para acabar com você. "
+  },
+  {
+   "id": "C151_VS_C051_VICTORY_02_KEYWORD_02",
+   "en": "I guess the majesty of my gorgeousness was greater than your musical prowess.\nAm I right... or am I right?",
+   "pt": "Acho que a majestade do meu esplendor foi maior que o seu talento musical.\nEu estou certo... ou estou certo?"
+  },
+  {
+   "id": "C151_VS_C051_VICTORY_03_KEYWORD_01",
+   "en": "We're gonna exterminate all the Life Fibers.\nThat means your Goku Uniform, too.",
+   "pt": "Nós vamos exterminar todas as Fibras de Vida.\nIsso inclui seu Uniforme Goku também."
+  },
+  {
+   "id": "C151_VS_C051_VICTORY_03_KEYWORD_02",
+   "en": "We fought today, but you're not our enemy. The Life Fibers are.\nI hope one day, we can fight them together.",
+   "pt": "Lutamos hoje, mas você não é nosso inimigo. As Fibras de Vida são.\nEspero que um dia possamos enfrentá-las juntos."
+  },
+  {
+   "id": "C151_VS_C061_VICTORY_01_KEYWORD_01",
+   "en": "That Goku Uniform makes you strong, but you're still human.\nThat's why I beat you.",
+   "pt": "Esse Uniforme Goku te deixa forte, mas você ainda é humano.\nPor isso que eu derrotei você."
+  },
+  {
+   "id": "C151_VS_C061_VICTORY_01_KEYWORD_02",
+   "en": "That's an Elite for you... One tough cookie.",
+   "pt": "Esse é um Elite pra você... Osso duro de roer."
+  },
+  {
+   "id": "C151_VS_C061_VICTORY_02_KEYWORD_01",
+   "en": "Even though we're just plain old humans, we can handle ourselves.\nI didn't need a Goku Uniform to beat you. ",
+   "pt": "Mesmo sendo apenas humanos comuns, nós damos conta do recado.\nNão precisei de um Uniforme Goku para acabar com você. "
+  },
+  {
+   "id": "C151_VS_C061_VICTORY_02_KEYWORD_02",
+   "en": "We proved the Ultimate Double Naked DTR can stand up to a Goku Uniform.\nThe tech team's gonna flip when they hear.",
+   "pt": "Nós provamos que o DTR Duplo Peladão Supremo bate de frente com um Uniforme Goku.\nA equipe técnica vai enlouquecer quando ficar sabendo."
+  },
+  {
+   "id": "C151_VS_C061_VICTORY_03_KEYWORD_01",
+   "en": "We're gonna exterminate all the Life Fibers.\nThat means your Goku Uniform, too.",
+   "pt": "Nós vamos exterminar todas as Fibras de Vida.\nIsso inclui seu Uniforme Goku também."
+  },
+  {
+   "id": "C151_VS_C061_VICTORY_03_KEYWORD_02",
+   "en": "Having my data taken was just about the most unusual thing I've ever experienced.\nIt's kind of refreshing, actually.",
+   "pt": "Ter meus dados extraídos foi a coisa mais inusitada que eu já experienciei.\nÉ até meio revigorante, na verdade."
+  },
+  {
+   "id": "C151_VS_C071_VICTORY_01_KEYWORD_01",
+   "en": "Looks like it's the end of the road for you, lady.",
+   "pt": "Parece que é o fim da linha para você, madame."
+  },
+  {
+   "id": "C151_VS_C071_VICTORY_01_KEYWORD_02",
+   "en": "Ragyo Kiryuin has been captured. Three cheers for Nudist Beach!",
+   "pt": "Ragyo Kiryuin foi capturada. Três vivas para a Nudist Beach!"
+  },
+  {
+   "id": "C151_VS_C071_VICTORY_02_KEYWORD_01",
+   "en": "We'll take down everyone that relies on Life Fibers for power.\nWe're plain old humans, but we fight legit. ",
+   "pt": "Vamos derrubar todos que dependem do poder das Fibras de Vida.\nSomos apenas humanos comuns, mas lutamos pra valer. "
+  },
+  {
+   "id": "C151_VS_C071_VICTORY_02_KEYWORD_02",
+   "en": "Yup, it looks like we're one step closer to the liberation of humanity.",
+   "pt": "Sim, parece que estamos um passo mais perto da libertação da humanidade."
+  },
+  {
+   "id": "C151_VS_C071_VICTORY_03_KEYWORD_01",
+   "en": "You Life Fibers belittled us humans. Hence this result.",
+   "pt": "Vocês Fibras de Vida subestimaram nós humanos. Daí esse resultado."
+  },
+  {
+   "id": "C151_VS_C071_VICTORY_03_KEYWORD_02",
+   "en": "We won. Ahhhh, I can feel a breeze on the nipples of my heart! It's the breeze of FREEDOM!",
+   "pt": "Nós vencemos. Ahhhh, eu consigo sentir uma brisa nos mamilos do meu coração! É a brisa da LIBERDADE!"
+  },
+  {
+   "id": "C151_VS_C081_VICTORY_01_KEYWORD_01",
+   "en": "You Life Fibers underestimate humans. That's why you lost. That's why you'll always lose.",
+   "pt": "Vocês Fibras de Vida subestimam os humanos. Por isso vocês perderam. Por isso vocês sempre perderão."
+  },
+  {
+   "id": "C151_VS_C081_VICTORY_01_KEYWORD_02",
+   "en": "Phew! After a while, fighting all these lil' creepies really wears a body down.",
+   "pt": "Ufa! Depois de um tempo, lutar contra essas coisinhas nojentas realmente cansa o corpo."
+  },
+  {
+   "id": "C151_VS_C081_VICTORY_02_KEYWORD_01",
+   "en": "We'll take down everyone that relies on Life Fibers for power.\nWe're plain old humans, but we fight legit. ",
+   "pt": "Vamos derrubar todos que dependem do poder das Fibras de Vida.\nSomos apenas humanos comuns, mas lutamos pra valer. "
+  },
+  {
+   "id": "C151_VS_C081_VICTORY_02_KEYWORD_02",
+   "en": "We're one step closer to liberating all of humanity.",
+   "pt": "Estamos um passo mais perto de libertar toda a humanidade."
+  },
+  {
+   "id": "C151_VS_C081_VICTORY_03_KEYWORD_01",
+   "en": "You Life Fibers underestimate humans. That's why you lost. That's why you'll always lose.",
+   "pt": "Vocês Fibras de Vida subestimam os humanos. Por isso vocês perderam. Por isso vocês sempre perderão."
+  },
+  {
+   "id": "C151_VS_C081_VICTORY_03_KEYWORD_02",
+   "en": "If you ask me, beating the Grand Couturier means we're making progress!",
+   "pt": "Se você me perguntar, derrotar a Grande Costureira significa que estamos progredindo!"
+  },
+  {
+   "id": "C151_VS_C141_VICTORY_01_KEYWORD_01",
+   "en": "Knowing the weapons your enemy's packin is basic combat strategy.\nGoku Uniforms are nothing if you're prepared for 'em.",
+   "pt": "Conhecer as armas do seu inimigo é estratégia básica de combate.\nUniformes Goku não são nada se você estiver preparado para eles."
+  },
+  {
+   "id": "C151_VS_C141_VICTORY_01_KEYWORD_02",
+   "en": "Hm! I guess my beauty was just a little too intense for her.",
+   "pt": "Hm! Acho que a minha beleza foi um pouquinho intensa demais pra ela."
+  },
+  {
+   "id": "C151_VS_C141_VICTORY_02_KEYWORD_01",
+   "en": "Oh my God. You're fighting style's a hot mess.",
+   "pt": "Meu Deus. Seu estilo de luta é uma verdadeira bagunça."
+  },
+  {
+   "id": "C151_VS_C141_VICTORY_02_KEYWORD_02",
+   "en": "As your teacher, I'm glad I could demonstrate my skills on you.",
+   "pt": "Como seu professor, fico feliz em poder demonstrar as minhas habilidades em você."
+  },
+  {
+   "id": "C151_VS_C141_VICTORY_03_KEYWORD_01",
+   "en": "When you wake up, you'll feel refreshed and energized. Same as before.\nAnnnd you're out like a light, so I'm just talkin' to myself.",
+   "pt": "Quando acordar, vai se sentir revigorada e cheia de energia. Igual antes.\nEee você capotou, então eu só estou falando comigo mesmo."
+  },
+  {
+   "id": "C151_VS_C141_VICTORY_03_KEYWORD_02",
+   "en": "You still can't handle my charms. Not yet at least.",
+   "pt": "Você ainda não consegue lidar com os meus encantos. Pelo menos não ainda."
+  },
+  {
+   "id": "C151_VS_C151_VICTORY_01_KEYWORD_01",
+   "en": "I will defeat my enemy... even if my enemy is me.",
+   "pt": "Derrotarei o meu inimigo... mesmo que o meu inimigo seja eu mesmo."
+  },
+  {
+   "id": "C151_VS_C151_VICTORY_01_KEYWORD_02",
+   "en": "It's impossible for you to be as gorgeous as the real deal.",
+   "pt": "É impossível você ser tão maravilhoso quanto o original."
+  },
+  {
+   "id": "C151_VS_C151_VICTORY_02_KEYWORD_01",
+   "en": "If you're in my way, you're goin' down. Even if you're me.",
+   "pt": "Se estiver no meu caminho, você vai cair. Mesmo que seja eu."
+  },
+  {
+   "id": "C151_VS_C151_VICTORY_02_KEYWORD_02",
+   "en": "Well, we won. But we never found out the true identity of whoever that was.",
+   "pt": "Bom, vencemos. Mas nunca descobrimos a verdadeira identidade de seja lá quem for esse."
+  },
+  {
+   "id": "C151_VS_C151_VICTORY_03_KEYWORD_01",
+   "en": "I saw this comin' a mile away.\nIt's easy to figure out a plan when your enemy's you and uses the same gear.",
+   "pt": "Eu vi isso vindo de longe.\nÉ fácil bolar um plano quando seu inimigo é você e usa o mesmo equipamento."
+  },
+  {
+   "id": "C151_VS_C151_VICTORY_03_KEYWORD_02",
+   "en": "I never thought I'd fight someone who looked as hot as me.\nI guess he's what's called a doppelganger.",
+   "pt": "Nunca pensei que lutaria com alguém tão gostoso quanto eu.\nAcho que ele é o que chamam de doppelganger."
+  },
+  {
+   "id": "C151_KACHINUKI_START_01_KEYWORD_01",
+   "en": "This fight could go either way...",
+   "pt": "Essa luta pode pender para qualquer lado..."
+  },
+  {
+   "id": "C151_KACHINUKI_START_01_KEYWORD_02",
+   "en": "It don't matter. Let's get in there and kill 'em all!",
+   "pt": "Não importa. Vamos entrar lá e acabar com todos eles!"
+  },
+  {
+   "id": "C151_KACHINUKI_START_02_KEYWORD_01",
+   "en": "We have some unexpected company. Let's strut our stuff!",
+   "pt": "Temos visitas inesperadas. Vamos mostrar o que temos!"
+  },
+  {
+   "id": "C151_KACHINUKI_START_02_KEYWORD_02",
+   "en": "Anyone that stands in our way gets no mercy!",
+   "pt": "Qualquer um que fique no nosso caminho não terá piedade!"
+  },
+  {
+   "id": "C151_KACHINUKI_START_03_KEYWORD_01",
+   "en": "I'm ready, you bastards. Come at me!",
+   "pt": "Estou pronto, seus desgraçados. Pode vir!"
+  },
+  {
+   "id": "C151_KACHINUKI_START_03_KEYWORD_02",
+   "en": "This looks like it's going to take awhile. Stay sharp!",
+   "pt": "Isso parece que vai demorar um pouco. Fique alerta!"
+  },
+  {
+   "id": "C151_KACHINUKI_FINISH_EXCELLENT_01_KEYWORD_01",
+   "en": "Huh! Not bad.",
+   "pt": "Huh! Nada mau."
+  },
+  {
+   "id": "C151_KACHINUKI_FINISH_EXCELLENT_01_KEYWORD_02",
+   "en": "You see that? Training, baby! It's all in the training.",
+   "pt": "Viu isso? Treino, meu bem! É tudo questão de treino."
+  },
+  {
+   "id": "C151_KACHINUKI_FINISH_EXCELLENT_02_KEYWORD_01",
+   "en": "It looks like everything went according to plan.",
+   "pt": "Parece que tudo ocorreu de acordo com o plano."
+  },
+  {
+   "id": "C151_KACHINUKI_FINISH_EXCELLENT_02_KEYWORD_02",
+   "en": "Now that I've totally stripped, there's nothing I can't do!",
+   "pt": "Agora que me despi por completo, não há nada que eu não possa fazer!"
+  },
+  {
+   "id": "C151_KACHINUKI_FINISH_GREAT_01_KEYWORD_01",
+   "en": "All that training paid off.",
+   "pt": "Todo esse treino valeu a pena."
+  },
+  {
+   "id": "C151_KACHINUKI_FINISH_GREAT_01_KEYWORD_02",
+   "en": "Mmm! Not bad! Not bad at all!",
+   "pt": "Mmm! Nada mau! Nada mau mesmo!"
+  },
+  {
+   "id": "C151_KACHINUKI_FINISH_GREAT_02_KEYWORD_01",
+   "en": "Yeah, pretty good.",
+   "pt": "É, mandamos bem."
+  },
+  {
+   "id": "C151_KACHINUKI_FINISH_GREAT_02_KEYWORD_02",
+   "en": "If we try hard enough, everything works out.",
+   "pt": "Se nos esforçarmos o bastante, tudo dá certo."
+  },
+  {
+   "id": "C151_KACHINUKI_FINISH_GOOD_01_KEYWORD_01",
+   "en": "Not yet! My body hasn't even begun to sparkle!",
+   "pt": "Ainda não! Meu corpo nem começou a brilhar!"
+  },
+  {
+   "id": "C151_KACHINUKI_FINISH_GOOD_01_KEYWORD_02",
+   "en": "Welp. I guess that'll do.",
+   "pt": "Bom. Acho que isso serve."
+  },
+  {
+   "id": "C151_KACHINUKI_FINISH_GOOD_02_KEYWORD_01",
+   "en": "It was okay.",
+   "pt": "Foi bom."
+  },
+  {
+   "id": "C151_KACHINUKI_FINISH_GOOD_02_KEYWORD_02",
+   "en": "Next time, we have to try harder.",
+   "pt": "Na próxima vez, teremos que nos esforçar mais."
+  },
+  {
+   "id": "C151_KACHINUKI_FINISH_PASS_01_KEYWORD_01",
+   "en": "Yeah. That pretty much sucked.",
+   "pt": "É. Isso foi bem bosta."
+  },
+  {
+   "id": "C151_KACHINUKI_FINISH_PASS_01_KEYWORD_02",
+   "en": "Let's come back after we've honed our bodies more.",
+   "pt": "Vamos voltar quando nossos corpos estiverem mais aprimorados."
+  },
+  {
+   "id": "C151_KACHINUKI_FINISH_PASS_02_KEYWORD_01",
+   "en": "We made it by a chest hair.",
+   "pt": "Sobrevivemos por um pelo no peito."
+  },
+  {
+   "id": "C151_KACHINUKI_FINISH_PASS_02_KEYWORD_02",
+   "en": "We barely made it. Let's try harder next time. ",
+   "pt": "Passamos por um fio. Vamos nos esforçar mais na próxima. "
+  },
+  {
+   "id": "C151_KACHINUKI_FINISH_BAD_01_KEYWORD_01",
+   "en": "God, that blew. Next time we do this, we need a better plan.",
+   "pt": "Deus, isso foi um lixo. Na próxima vez, precisaremos de um plano melhor."
+  },
+  {
+   "id": "C151_KACHINUKI_FINISH_BAD_01_KEYWORD_02",
+   "en": "Oh, well. Back to training for us.",
+   "pt": "Ah, bom. De volta aos treinos pra gente."
+  },
+  {
+   "id": "C151_KACHINUKI_FINISH_BAD_02_KEYWORD_01",
+   "en": "Son of a--! This bites!",
+   "pt": "Filho da p--! Que merda!"
+  },
+  {
+   "id": "C151_KACHINUKI_FINISH_BAD_02_KEYWORD_02",
+   "en": "Oooohh, poop. I guess it's back to the old nudie drawing board.",
+   "pt": "Aaaahh, merda. Acho que teremos que voltar à velha prancheta de nudistas."
+  },
+  {
+   "id": "C151_COVERS_START_01_KEYWORD_01",
+   "en": "Hoooo boy! There's so many of 'em.\nIt's like all the clothes of the world are ganging up on us.",
+   "pt": "Uou! Tem tantos deles.\nÉ como se todas as roupas do mundo estivessem se juntando contra nós."
+  },
+  {
+   "id": "C151_COVERS_START_01_KEYWORD_02",
+   "en": "Huh! This couldn'ta worked out any better.\nThis way, I don't have to worry about missing.",
+   "pt": "Hã! Não poderia ter sido melhor.\nAssim, eu não preciso me preocupar em errar."
+  },
+  {
+   "id": "C151_COVERS_START_02_KEYWORD_01",
+   "en": "The odds are against us, but we can't back down now. Let's ROCK!",
+   "pt": "As chances estão contra nós, mas não podemos recuar agora. Vamos DETONAR!"
+  },
+  {
+   "id": "C151_COVERS_START_02_KEYWORD_02",
+   "en": "We'll take all you bastard suits on at once! BRING IT!",
+   "pt": "Vamos acabar com todos vocês, ternos desgraçados, de uma vez! PODEM VIR!"
+  },
+  {
+   "id": "C151_COVERS_START_03_KEYWORD_01",
+   "en": "Outnumbered and outmatched. Groovy.",
+   "pt": "Em menor número e potência. Muito bem."
+  },
+  {
+   "id": "C151_COVERS_START_03_KEYWORD_02",
+   "en": "Hmph! They're just mass-produced crap.\nI'm gonna enjoy lining 'em up and killing 'em all!",
+   "pt": "Hmph! São só lixo produzido em massa.\nVou adorar enfileirar todos e acabar com eles!"
+  },
+  {
+   "id": "C151_COVERS_FINISH_EXCELLENT_01_KEYWORD_01",
+   "en": "We nudists shall never yield to the threat of clothes!",
+   "pt": "Nós nudistas nunca cederemos à ameaça das roupas!"
+  },
+  {
+   "id": "C151_COVERS_FINISH_EXCELLENT_01_KEYWORD_02",
+   "en": "Your numbers won't make a difference!",
+   "pt": "Os seus números não vão fazer diferença!"
+  },
+  {
+   "id": "C151_COVERS_FINISH_EXCELLENT_02_KEYWORD_01",
+   "en": "Whew, we're one step closer to liberation from clothes.",
+   "pt": "Ufa, estamos um passo mais perto da libertação das roupas."
+  },
+  {
+   "id": "C151_COVERS_FINISH_EXCELLENT_02_KEYWORD_02",
+   "en": "I'll tell you two things. First: a fight isn't all about numbers.\nSecond: strategy overcomes short-handedness. Remember that.",
+   "pt": "Vou te dizer duas coisas. Primeira: uma luta não é só sobre números.\nSegunda: a estratégia supera a desvantagem numérica. Lembre-se disso."
+  },
+  {
+   "id": "C151_COVERS_FINISH_GREAT_01_KEYWORD_01",
+   "en": "Our strategy worked!",
+   "pt": "Nossa estratégia funcionou!"
+  },
+  {
+   "id": "C151_COVERS_FINISH_GREAT_01_KEYWORD_02",
+   "en": "We don't need anyone else to deal with these pieces of crap.",
+   "pt": "Não precisamos de mais ninguém para lidar com esses pedaços de lixo."
+  },
+  {
+   "id": "C151_COVERS_FINISH_GREAT_02_KEYWORD_01",
+   "en": "Alright, our DTR should fair more than adequately against COVERS.",
+   "pt": "Tudo bem, nosso DTR deve se sair mais do que adequadamente contra os Casulos."
+  },
+  {
+   "id": "C151_COVERS_FINISH_GREAT_02_KEYWORD_02",
+   "en": "Our training paid off.",
+   "pt": "Nosso treino deu resultado."
+  },
+  {
+   "id": "C151_COVERS_FINISH_GOOD_01_KEYWORD_01",
+   "en": "Excellent work! Let's stay focused for the next round!",
+   "pt": "Trabalho excelente! Vamos manter o foco pro próximo round!"
+  },
+  {
+   "id": "C151_COVERS_FINISH_GOOD_01_KEYWORD_02",
+   "en": "Hmph, not bad at all.",
+   "pt": "Hmph, nada mau."
+  },
+  {
+   "id": "C151_COVERS_FINISH_GOOD_02_KEYWORD_01",
+   "en": "I'll give you a pass on this one.",
+   "pt": "Vou dar um desconto dessa vez."
+  },
+  {
+   "id": "C151_COVERS_FINISH_GOOD_02_KEYWORD_02",
+   "en": "Yeah, everything went just as planned. We can take it easy for a bit.",
+   "pt": "Sim, tudo ocorreu conforme o planejado. Podemos relaxar um pouco."
+  },
+  {
+   "id": "C151_COVERS_FINISH_PASS_01_KEYWORD_01",
+   "en": "We've achieved our objective. Let's pull back for now.",
+   "pt": "Atingimos o nosso objetivo. Vamos recuar por enquanto."
+  },
+  {
+   "id": "C151_COVERS_FINISH_PASS_01_KEYWORD_02",
+   "en": "Yeah, let's call it a day.",
+   "pt": "Sim, por hoje chega."
+  },
+  {
+   "id": "C151_COVERS_FINISH_PASS_02_KEYWORD_01",
+   "en": "We've achieved our objective. Good enough.",
+   "pt": "Atingimos o nosso objetivo. Bom o bastante."
+  },
+  {
+   "id": "C151_COVERS_FINISH_PASS_02_KEYWORD_02",
+   "en": "Yeah. Not perfect, but certainly not bad.",
+   "pt": "É. Não foi perfeito, mas não foi nada mau."
+  },
+  {
+   "id": "C151_COVERS_FINISH_BAD_01_KEYWORD_01",
+   "en": "Damn, I guess now's the time.",
+   "pt": "Maldição, acho que chegou a hora."
+  },
+  {
+   "id": "C151_COVERS_FINISH_BAD_01_KEYWORD_02",
+   "en": "Please don't try to sell clothes to nudists...",
+   "pt": "Por favor, não tente vender roupas para nudistas..."
+  },
+  {
+   "id": "C151_COVERS_FINISH_BAD_02_KEYWORD_01",
+   "en": "We were foolish to think we could take on so many opponents in the first place.",
+   "pt": "Fomos idiotas de pensar que poderíamos enfrentar tantos oponentes pra começar."
+  },
+  {
+   "id": "C151_COVERS_FINISH_BAD_02_KEYWORD_02",
+   "en": "The Ultimate Double Naked DTR won't hold up... Let's fall back!",
+   "pt": "O DTR Duplo Peladão Supremo não vai aguentar... Vamos recuar!"
+  }
+ ]
+}

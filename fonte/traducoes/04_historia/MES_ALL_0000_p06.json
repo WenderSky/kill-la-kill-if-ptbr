@@ -1,0 +1,1008 @@
+{
+ "origem": "KlkStory/STY_MS_0000/MES_ALL_0000",
+ "conteudo": "Modo Historia - dialogos",
+ "parte": "6/8",
+ "instrucoes": "Traduza o campo 'en' para portugues do Brasil e escreva o resultado em 'pt'. Nao altere 'id'. Mantenha intactos os codigos entre chaves ({CA}, {LA}, {BR}, {JU}, {SP}, {GD}, {LS}, {L1}, {R1}, setas), os marcadores de formato (%d, %l, %ls, %hs) e as quebras de linha \\n. Se uma linha nao precisar de traducao, deixe 'pt' vazio.",
+ "linhas": [
+  {
+   "id": "STS_S05A_205_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S05A_206_A",
+   "en": "It is done.",
+   "pt": "Está feito."
+  },
+  {
+   "id": "STS_S05A_207_A",
+   "en": "Way to go, Satsuki!\nI didn't think anyone could beat Lady Ragyo. I'm impressed!",
+   "pt": "Mandou bem, Satsuki!\nEu não achei que alguém pudesse derrotar a Senhora Ragyo. Estou impressionada!"
+  },
+  {
+   "id": "STS_S05A_207_B",
+   "en": "Way to go, Satsuki!\nI didn't think anyone could beat Lady Ragyo. I'm impressed!",
+   "pt": "Mandou bem, Satsuki!\nEu não achei que alguém pudesse derrotar a Senhora Ragyo. Estou impressionada!"
+  },
+  {
+   "id": "STS_S05A_207_C",
+   "en": "You're next...",
+   "pt": "Você é a próxima..."
+  },
+  {
+   "id": "STS_S05A_208_A",
+   "en": "...Nui Harime.",
+   "pt": "...Nui Harime."
+  },
+  {
+   "id": "STS_S05A_209_A",
+   "en": "Oooooo! You're so scary, Satsuki!",
+   "pt": "Oooooo! Você dá tanto medo, Satsuki!"
+  },
+  {
+   "id": "STS_S05A_210_A",
+   "en": "We'll take it from here, Lady Satsuki.",
+   "pt": "Nós assumimos daqui, Senhora Satsuki."
+  },
+  {
+   "id": "STS_S05A_210_B",
+   "en": "No! You don't stand a chance against the Grand Couturier.",
+   "pt": "Não! Vocês não têm a menor chance contra a Grã-Costureira."
+  },
+  {
+   "id": "STS_S05A_211_A",
+   "en": "She's right! You're all pretty much useless for her.",
+   "pt": "Ela tem razão! Vocês são todos bem inúteis para ela."
+  },
+  {
+   "id": "STS_S05A_211_B",
+   "en": "But for me...?",
+   "pt": "Mas para mim...?"
+  },
+  {
+   "id": "STS_S05A_212_A",
+   "en": "You're gonna come in real handy!",
+   "pt": "Vocês vão ser muito úteis!"
+  },
+  {
+   "id": "STS_S05A_213_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S05A_214_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S05A_215_A",
+   "en": "You...!",
+   "pt": "Você...!"
+  },
+  {
+   "id": "STS_S05A_216_A",
+   "en": "What have you done?!",
+   "pt": "O que você fez?!"
+  },
+  {
+   "id": "STS_S05A_216_B",
+   "en": "Tee-hee!\nI've never seen you freak out before, Lady Satsuki!",
+   "pt": "Hee-hee!\nNunca vi você surtar antes, Senhora Satsuki!"
+  },
+  {
+   "id": "STS_S05A_216_C",
+   "en": "Were these kids really that important to you?",
+   "pt": "Essas crianças eram mesmo tão importantes para você?"
+  },
+  {
+   "id": "STS_S05A_216_D",
+   "en": "What have you done to them?!\nAnswer me!",
+   "pt": "O que você fez com eles?!\nMe responda!"
+  },
+  {
+   "id": "STS_S05A_217_A",
+   "en": "Don't you worry! They're okay!\nI've just sewn my basting thread right into their brains.",
+   "pt": "Não se preocupe! Eles estão bem!\nEu só costurei minha linha de alinhavo direto nos cérebros deles."
+  },
+  {
+   "id": "STS_S05A_217_B",
+   "en": "Don't you worry! They're okay!\nI've just sewn my basting thread right into their brains.",
+   "pt": "Não se preocupe! Eles estão bem!\nEu só costurei minha linha de alinhavo direto nos cérebros deles."
+  },
+  {
+   "id": "STS_S05A_218_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S05A_219_A",
+   "en": "Mind Stitching...!",
+   "pt": "Costura Mental...!"
+  },
+  {
+   "id": "STS_S05A_220_A",
+   "en": "That's right! ",
+   "pt": "Isso mesmo!"
+  },
+  {
+   "id": "STS_S05A_221_A",
+   "en": "And now, they'll do what I tell 'em to!",
+   "pt": "E agora, eles vão fazer o que eu mandar!"
+  },
+  {
+   "id": "STS_S05A_222_A",
+   "en": "All rightie, my new little puppet soldiers....",
+   "pt": "Certo, meus novos soldadinhos de marionete..."
+  },
+  {
+   "id": "STS_S05A_223_A",
+   "en": "All rightie, my new little puppet soldiers....",
+   "pt": "Certo, meus novos soldadinhos de marionete..."
+  },
+  {
+   "id": "STS_S05A_223_B",
+   "en": "...Get Satsuki.",
+   "pt": "...Peguem a Satsuki."
+  },
+  {
+   "id": "STS_S06A_226_A",
+   "en": "Ugh! I'm sorry... Lady Satsuki.",
+   "pt": "Ugh! Me desculpe... Senhora Satsuki."
+  },
+  {
+   "id": "STS_S06A_227_A",
+   "en": "I'll never forgive that bitch for making me attack Satsuki.",
+   "pt": "Eu nunca vou perdoar aquela vadia por me fazer atacar a Satsuki."
+  },
+  {
+   "id": "STS_S06A_227_B",
+   "en": "She can stitch Life Fibers into the brains of anyone wearing a Goku uniform.\nHow terrifying.",
+   "pt": "Ela pode costurar Fibras de Vida nos cérebros de qualquer um vestindo um Uniforme Goku.\nQue aterrorizante."
+  },
+  {
+   "id": "STS_S06A_227_C",
+   "en": "She can stitch Life Fibers into the brains of anyone wearing a Goku uniform.\nHow terrifying.",
+   "pt": "Ela pode costurar Fibras de Vida nos cérebros de qualquer um vestindo um Uniforme Goku.\nQue aterrorizante."
+  },
+  {
+   "id": "STS_S06A_228_A",
+   "en": "It's nothing more than puppet string.",
+   "pt": "Não passa de cordas de marionete."
+  },
+  {
+   "id": "STS_S06A_229_A",
+   "en": "Your cheap tricks can't beat the Elite Four.",
+   "pt": "Seus truques baratos não podem derrotar os Quatro Elites."
+  },
+  {
+   "id": "STS_S06A_229_B",
+   "en": "Honestly… I thought the four of you were strong enough to handle her.\nWhat a disappointment! ",
+   "pt": "Sinceramente... Eu achei que vocês quatro fossem fortes o bastante para lidar com ela.\nQue decepção!"
+  },
+  {
+   "id": "STS_S06A_230_A",
+   "en": "Damn you! I've had it with your B.S.!",
+   "pt": "Maldita! Já cansei das suas merdas!"
+  },
+  {
+   "id": "STS_S06A_231_A",
+   "en": "Why don't you act like good little piggies and shush!",
+   "pt": "Por que vocês não agem como bons porquinhos e calam a boca!"
+  },
+  {
+   "id": "STS_S06A_232_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S06A_233_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S06A_234_A",
+   "en": "Damn you.",
+   "pt": "Maldita seja."
+  },
+  {
+   "id": "STS_S06A_235_A",
+   "en": "I don't know what's so Elite about these four.",
+   "pt": "Não sei o que tem de tão Elite nesses quatro."
+  },
+  {
+   "id": "STS_S06A_236_A",
+   "en": "I mean, they're not even all that fun to play with!",
+   "pt": "Digo, eles nem são tão divertidos assim de brincar!"
+  },
+  {
+   "id": "STS_S06A_238_A",
+   "en": "All right, nobody move!",
+   "pt": "Certo, ninguém se mexe!"
+  },
+  {
+   "id": "STS_S06A_240_A",
+   "en": "Matoi...!",
+   "pt": "Matoi...!"
+  },
+  {
+   "id": "STS_S06A_241_A",
+   "en": "What in the blue hell's going on, Nui?!",
+   "pt": "O que caralhos está acontecendo, Nui?!"
+  },
+  {
+   "id": "STS_S06A_241_B",
+   "en": "What in the blue hell's going on, Nui?!",
+   "pt": "O que caralhos está acontecendo, Nui?!"
+  },
+  {
+   "id": "STS_S06A_242_A",
+   "en": "What're you doin' with that Scissor Blade?!",
+   "pt": "O que você está fazendo com essa Lâmina-Tesoura?!"
+  },
+  {
+   "id": "STS_S06A_243_A",
+   "en": "Oh, this is the other half of your Scissors!",
+   "pt": "Ah, essa é a outra metade da sua Tesoura!"
+  },
+  {
+   "id": "STS_S06A_243_B",
+   "en": "I pulled it out of your dear, dead daddy!",
+   "pt": "Eu arranquei do seu querido e morto papaizinho!"
+  },
+  {
+   "id": "STS_S06A_244_A",
+   "en": "Wait... it was you?! ",
+   "pt": "Espera... foi você?!"
+  },
+  {
+   "id": "STS_S06A_245_A",
+   "en": "Yes, indeedie! It tooootally was!",
+   "pt": "Sim, certinho! Fui euzinha meeeesma!"
+  },
+  {
+   "id": "STS_S06A_245_B",
+   "en": "Yes, indeedie! It tooootally was!",
+   "pt": "Sim, certinho! Fui euzinha meeeesma!"
+  },
+  {
+   "id": "STS_S06A_247_A",
+   "en": "I'm the one who killed him! ",
+   "pt": "Fui eu quem matou ele!"
+  },
+  {
+   "id": "STS_S06A_248_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S06A_249_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S06A_250_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S06A_251_A",
+   "en": "YOU BITCH!",
+   "pt": "SUA VADIA!"
+  },
+  {
+   "id": "STS_S06A_252_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S06A_253_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S06A_254_A",
+   "en": "Why'd you do it! Why'd you kill my dad?!",
+   "pt": "Por que você fez isso?! Por que matou o meu pai?!"
+  },
+  {
+   "id": "STS_S06A_255_A",
+   "en": "Oh Ryuko! You're so gorgeous when you're angry!",
+   "pt": "Ah, Ryuko! Você fica tão linda quando está com raiva!"
+  },
+  {
+   "id": "STS_S06A_256_A",
+   "en": "But to be honest, I'm a little disappointed.",
+   "pt": "Mas para ser sincera, estou um pouco decepcionada."
+  },
+  {
+   "id": "STS_S06A_256_B",
+   "en": "Your dad was way tougher than you.",
+   "pt": "O seu pai era bem mais durão que você."
+  },
+  {
+   "id": "STS_S06A_257_A",
+   "en": "Say what?!",
+   "pt": "O que disse?!"
+  },
+  {
+   "id": "STS_S06A_258_A",
+   "en": "I don't think you're strong enough to avenge your poor ol' father! ",
+   "pt": "Eu não acho que você seja forte o bastante para vingar seu pobre e velho pai!"
+  },
+  {
+   "id": "STS_S06A_258_B",
+   "en": "Nope, nope, nope!",
+   "pt": "Não, não, não!"
+  },
+  {
+   "id": "STS_S06A_259_A",
+   "en": "That frickin' does it!",
+   "pt": "Agora chega, porra!"
+  },
+  {
+   "id": "STS_S06A_260_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S06A_261_A",
+   "en": "Stop it, Matoi! ",
+   "pt": "Pare com isso, Matoi!"
+  },
+  {
+   "id": "STS_S06A_261_B",
+   "en": "Calm down,\nor you'll be possessed by the Life Fibers' urge to destroy!",
+   "pt": "Acalme-se,\nou você será possuída pelo desejo de destruição das Fibras de Vida!"
+  },
+  {
+   "id": "STS_S06A_262_A",
+   "en": "Shut up!",
+   "pt": "Cala a boca!"
+  },
+  {
+   "id": "STS_S06A_263_A",
+   "en": "Out of my way!",
+   "pt": "Sai da minha frente!"
+  },
+  {
+   "id": "STS_S06A_264_A",
+   "en": "Nui Harime and Satsuki Kiryuin... ",
+   "pt": "Nui Harime e Satsuki Kiryuin..."
+  },
+  {
+   "id": "STS_S06A_264_B",
+   "en": "I'm gonna take both your asses down!",
+   "pt": "Eu vou acabar com a porra da raça de vocês duas!"
+  },
+  {
+   "id": "STS_S06A_265_A",
+   "en": "And then... I'm gonna make you tell me everything!",
+   "pt": "E depois... Vou fazer vocês me contarem tudo!"
+  },
+  {
+   "id": "STS_S06A_266_A",
+   "en": "Yay Ryuko! ",
+   "pt": "Eba, Ryuko!"
+  },
+  {
+   "id": "STS_S06A_266_B",
+   "en": "This is so much fun!",
+   "pt": "Isso é tão divertido!"
+  },
+  {
+   "id": "STS_S06A_267_A",
+   "en": "If you can't be reasoned with, then I have to put you down...",
+   "pt": "Se você não pode ser convencida, então terei que te abater..."
+  },
+  {
+   "id": "STS_S06A_267_B",
+   "en": "...while you're still human.",
+   "pt": "...enquanto você ainda é humana."
+  },
+  {
+   "id": "STS_S07A_270_A",
+   "en": "A girl who's being worn by her Kamui,\nis no match for Satsuki Kiryuin. ",
+   "pt": "Uma garota que é vestida pelo seu Kamui,\nnão é páreo para Satsuki Kiryuin."
+  },
+  {
+   "id": "STS_S07A_271_A",
+   "en": "A girl who's being worn by her Kamui,\nis no match for Satsuki Kiryuin. ",
+   "pt": "Uma garota que é vestida pelo seu Kamui,\nnão é páreo para Satsuki Kiryuin."
+  },
+  {
+   "id": "STS_S07A_272_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S07A_273_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S07A_274_A",
+   "en": "Really! Losing yourself over some ridiculous emotional outburst.",
+   "pt": "Sério! Se perder por causa de uma explosão emocional ridícula."
+  },
+  {
+   "id": "STS_S07A_274_B",
+   "en": "Really! Losing yourself over some ridiculous emotional outburst.",
+   "pt": "Sério! Se perder por causa de uma explosão emocional ridícula."
+  },
+  {
+   "id": "STS_S07A_274_C",
+   "en": "How pathetic.",
+   "pt": "Que patético."
+  },
+  {
+   "id": "STS_S07A_275_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S07A_277_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S07A_278_A",
+   "en": "Finish what you start…\nfor as long as a single strand of thread connects my head to my body, I can always regenerate. ",
+   "pt": "Termine o que começar...\nenquanto um único fio conectar minha cabeça ao meu corpo, eu sempre posso me regenerar."
+  },
+  {
+   "id": "STS_S07A_278_B",
+   "en": "Finish what you start…\nfor as long as a single strand of thread connects my head to my body, I can always regenerate. ",
+   "pt": "Termine o que começar...\nenquanto um único fio conectar minha cabeça ao meu corpo, eu sempre posso me regenerar."
+  },
+  {
+   "id": "STS_S07A_278_C",
+   "en": "And it appears your Bakuzan could not sever all the connecting threads!",
+   "pt": "E pelo visto sua Bakuzan não conseguiu cortar todos os fios conectados!"
+  },
+  {
+   "id": "STS_S07A_279_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S07A_280_A",
+   "en": "You monster...",
+   "pt": "Sua monstra..."
+  },
+  {
+   "id": "STS_S07A_281_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S07A_282_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S07A_283_A",
+   "en": "How much longer do you plan on sleeping, Nui?",
+   "pt": "Quanto tempo mais você planeja dormir, Nui?"
+  },
+  {
+   "id": "STS_S07A_283_B",
+   "en": "Gooooood morning, Lady Ragyo.",
+   "pt": "Booooom dia, Senhora Ragyo."
+  },
+  {
+   "id": "STS_S07A_283_C",
+   "en": "Oh, my. How odd.",
+   "pt": "Oh, nossa. Que estranho."
+  },
+  {
+   "id": "STS_S07A_284_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S07A_285_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S07A_286_A",
+   "en": "Interesting.",
+   "pt": "Interessante."
+  },
+  {
+   "id": "STS_S07A_287_A",
+   "en": "What is it, Lady Ragyo?",
+   "pt": "O que foi, Senhora Ragyo?"
+  },
+  {
+   "id": "STS_S07A_288_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S07A_289_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S07A_290_A",
+   "en": "Life is truly... truly amusing!",
+   "pt": "A vida é realmente... realmente divertida!"
+  },
+  {
+   "id": "STS_S07A_291_A",
+   "en": "Yes. This turn of events should put us ahead of schedule.",
+   "pt": "Sim. Essa reviravolta deve nos deixar adiantadas no cronograma."
+  },
+  {
+   "id": "STS_S07A_291_B",
+   "en": "Yes. This turn of events should put us ahead of schedule.",
+   "pt": "Sim. Essa reviravolta deve nos deixar adiantadas no cronograma."
+  },
+  {
+   "id": "STS_S07A_292_A",
+   "en": "What are you talking about?",
+   "pt": "Do que você está falando?"
+  },
+  {
+   "id": "STS_S07A_293_A",
+   "en": "On second thought, I don't care.",
+   "pt": "Pensando bem, eu não ligo."
+  },
+  {
+   "id": "STS_S07A_293_B",
+   "en": "I will end you once and for all, Ragyo Kiryuin",
+   "pt": "Eu vou acabar com você de uma vez por todas, Ragyo Kiryuin."
+  },
+  {
+   "id": "STS_S07A_293_C",
+   "en": "I will end you once and for all, Ragyo Kiryuin",
+   "pt": "Eu vou acabar com você de uma vez por todas, Ragyo Kiryuin."
+  },
+  {
+   "id": "STS_S07A_294_A",
+   "en": "Nui, dear…\ntransfer the Thread Palace to the basement of Honnouji Academy.",
+   "pt": "Nui, querida...\ntransfira o Palácio dos Fios para o porão da Academia Honnouji."
+  },
+  {
+   "id": "STS_S07A_294_B",
+   "en": "The Thread Palace! Does this mean...!",
+   "pt": "O Palácio dos Fios! Isso significa...!"
+  },
+  {
+   "id": "STS_S07A_295_A",
+   "en": "Yes. We will complete it here.",
+   "pt": "Sim. Nós o concluiremos aqui."
+  },
+  {
+   "id": "STS_S07A_295_B",
+   "en": "Oooo, this is gonna be fun!",
+   "pt": "Oooo, isso vai ser divertido!"
+  },
+  {
+   "id": "STS_S07A_296_A",
+   "en": "See ya later, Satsuki! I'm off to work!",
+   "pt": "Até mais, Satsuki! Vou trabalhar!"
+  },
+  {
+   "id": "STS_S07A_297_A",
+   "en": "I'm sorry, Satsuki. You were saying...?",
+   "pt": "Desculpe, Satsuki. Você dizia...?"
+  },
+  {
+   "id": "STS_S07A_298_A",
+   "en": "Whatever you're scheming…\nI shall destroy it right along with you!",
+   "pt": "Seja lá o que estiver tramando...\nEu vou destruir junto com você!"
+  },
+  {
+   "id": "STS_S07A_299_A",
+   "en": "Oh, Satsuki. You're making a grave mistake.",
+   "pt": "Ah, Satsuki. Você está cometendo um erro grave."
+  },
+  {
+   "id": "STS_S07A_300_A",
+   "en": "Your massive ego is, oh what's the word... unsightly.",
+   "pt": "Seu ego gigantesco é, ah qual é a palavra... repugnante."
+  },
+  {
+   "id": "STS_S07A_300_B",
+   "en": "That said, I think I can put it to good use.",
+   "pt": "Dito isso, acho que posso fazer um bom uso dele."
+  },
+  {
+   "id": "STS_S07A_300_C",
+   "en": "What's your game.",
+   "pt": "Qual é a sua jogada."
+  },
+  {
+   "id": "STS_S07A_301_A",
+   "en": "Oh, it's no game, Satsuki. ",
+   "pt": "Ah, isso não é nenhuma jogada, Satsuki."
+  },
+  {
+   "id": "STS_S07A_301_B",
+   "en": "No…\nI'm afraid the time has come for your mother to discipline you.",
+   "pt": "Não...\nTemo que a hora tenha chegado para sua mãe discipliná-la."
+  },
+  {
+   "id": "STS_S07A_302_A",
+   "en": "That way, you'll never defy me ever again.",
+   "pt": "Desse jeito, você nunca me desafiará de novo."
+  },
+  {
+   "id": "STS_S08A_304_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S08A_305_A",
+   "en": "You said I was making a mistake before.",
+   "pt": "Você disse antes que eu estava cometendo um erro."
+  },
+  {
+   "id": "STS_S08A_306_A",
+   "en": "But so are you, mother.",
+   "pt": "Mas você também está, mãe."
+  },
+  {
+   "id": "STS_S08A_307_A",
+   "en": "Excuse me...?",
+   "pt": "Como é...?"
+  },
+  {
+   "id": "STS_S08A_308_A",
+   "en": "Junketsu and I did not defeat you with our power alone.",
+   "pt": "Junketsu e eu não derrotamos você só com o nosso poder."
+  },
+  {
+   "id": "STS_S08A_309_A",
+   "en": "Gamagoori, Sanageyama, Jakuzure and Inumuta are in Junketsu.",
+   "pt": "Gamagoori, Sanageyama, Jakuzure e Inumuta estão no Junketsu."
+  },
+  {
+   "id": "STS_S08A_310_A",
+   "en": "All of Honnouji Academy is.",
+   "pt": "Toda a Academia Honnouji está."
+  },
+  {
+   "id": "STS_S08A_311_A",
+   "en": "They are the reason I have the strength to beat you now!",
+   "pt": "Eles são o motivo de eu ter força para derrotar você agora!"
+  },
+  {
+   "id": "STS_S08A_311_B",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S08A_312_A",
+   "en": "What nonsense.",
+   "pt": "Que bobagem."
+  },
+  {
+   "id": "STS_S08A_312_B",
+   "en": "However…",
+   "pt": "Contudo..."
+  },
+  {
+   "id": "STS_S08A_313_A",
+   "en": "I see. ",
+   "pt": "Entendo."
+  },
+  {
+   "id": "STS_S08A_313_B",
+   "en": "So, this is your true power now…",
+   "pt": "Então, esse é o seu verdadeiro poder agora..."
+  },
+  {
+   "id": "STS_S08A_314_A",
+   "en": "What--?!",
+   "pt": "O quê--?!"
+  },
+  {
+   "id": "STS_S08A_316_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S08A_317_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S08A_318_A",
+   "en": "Ngh! What's happening?",
+   "pt": "Ngh! O que está acontecendo?"
+  },
+  {
+   "id": "STS_S08A_319_A",
+   "en": "Lady Satsuki!\nSome kind of massive structure has just appeared below Honnouji Academy!",
+   "pt": "Senhora Satsuki!\nAlgum tipo de estrutura gigantesca acabou de aparecer debaixo da Academia Honnouji!"
+  },
+  {
+   "id": "STS_S08A_320_A",
+   "en": " Wait... dear God…",
+   "pt": "Espere... meu Deus..."
+  },
+  {
+   "id": "STS_S08A_320_B",
+   "en": "...the Fiber Palace!",
+   "pt": "...o Palácio de Fibras!"
+  },
+  {
+   "id": "STS_S08A_321_A",
+   "en": "Nui Harime must have done this. But how?",
+   "pt": "Nui Harime deve ter feito isso. Mas como?"
+  },
+  {
+   "id": "STS_S08A_321_B",
+   "en": "Nui Harime must have done this. But how?",
+   "pt": "Nui Harime deve ter feito isso. Mas como?"
+  },
+  {
+   "id": "STS_S08A_322_A",
+   "en": "Actually, the Life Fibers can transcend space.",
+   "pt": "Na verdade, as Fibras de Vida podem transcender o espaço."
+  },
+  {
+   "id": "STS_S08A_323_A",
+   "en": "Nui, fetch Kouketsu for me.",
+   "pt": "Nui, traga o Kouketsu para mim."
+  },
+  {
+   "id": "STS_S08A_323_B",
+   "en": "Okie-dokie!",
+   "pt": "Belezinha!"
+  },
+  {
+   "id": "STS_S08A_324_A",
+   "en": "Here, Lady Ragyo. Although, it's not quite finished.",
+   "pt": "Aqui está, Senhora Ragyo. Embora, não esteja totalmente finalizado."
+  },
+  {
+   "id": "STS_S08A_325_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S08A_326_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S08A_327_A",
+   "en": "Ahhhh!",
+   "pt": "Ahhhh!"
+  },
+  {
+   "id": "STS_S08A_328_A",
+   "en": "This will do nicely for now.",
+   "pt": "Isso servirá bem por enquanto."
+  },
+  {
+   "id": "STS_S08A_328_B",
+   "en": "Shinra-Kouketsu",
+   "pt": "Shinra-Kouketsu"
+  },
+  {
+   "id": "STS_S09A_328_C",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S09A_329_A",
+   "en": "Shinra-Kouketsu...!",
+   "pt": "Shinra-Kouketsu...!"
+  },
+  {
+   "id": "STS_S09A_330_A",
+   "en": "All of this is because of you, Satsuki.",
+   "pt": "Tudo isso é por sua causa, Satsuki."
+  },
+  {
+   "id": "STS_S09A_330_B",
+   "en": "Because of who you are. ",
+   "pt": "Por causa de quem você é."
+  },
+  {
+   "id": "STS_S09A_330_C",
+   "en": "But all is not lost.\nAll I need to do is make sure everything connects with the Primordial Life Fiber at the end.",
+   "pt": "Mas nem tudo está perdido.\nTudo o que preciso fazer é garantir que tudo se conecte com a Fibra de Vida Primordial no final."
+  },
+  {
+   "id": "STS_S09A_330_D",
+   "en": "But all is not lost.\nAll I need to do is make sure everything connects with the Primordial Life Fiber at the end.",
+   "pt": "Mas nem tudo está perdido.\nTudo o que preciso fazer é garantir que tudo se conecte com a Fibra de Vida Primordial no final."
+  },
+  {
+   "id": "STS_S09A_331_A",
+   "en": "What are you talking about?",
+   "pt": "Do que você está falando?"
+  },
+  {
+   "id": "STS_S09A_332_A",
+   "en": "I've quite enjoyed your little rebellion. ",
+   "pt": "Eu até que gostei da sua rebeliãozinha."
+  },
+  {
+   "id": "STS_S09A_332_B",
+   "en": "However, I've grown tired of seeing you wear Kamui Junketsu.\nIt doesn't suit you any more.",
+   "pt": "Contudo, eu me cansei de ver você vestir o Kamui Junketsu.\nEle não combina mais com você."
+  },
+  {
+   "id": "STS_S09A_332_C",
+   "en": "However, I've grown tired of seeing you wear Kamui Junketsu.\nIt doesn't suit you any more.",
+   "pt": "Contudo, eu me cansei de ver você vestir o Kamui Junketsu.\nEle não combina mais com você."
+  },
+  {
+   "id": "STS_S09A_333_A",
+   "en": "Now, I'll show you the power of Shinra-Kouketsu!",
+   "pt": "Agora, mostrarei a você o poder do Shinra-Kouketsu!"
+  },
+  {
+   "id": "STS_S09A_335_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S09A_337_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S09A_338_A",
+   "en": "Despite being unfinished, it is still quite powerful.",
+   "pt": "Apesar de estar inacabado, ainda é bastante poderoso."
+  },
+  {
+   "id": "STS_S09A_339_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S09A_340_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S09A_341_A",
+   "en": "Come to me!",
+   "pt": "Venham a mim!"
+  },
+  {
+   "id": "STS_S09A_342_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S09A_343_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S09A_344_A",
+   "en": "COVERS...!",
+   "pt": "CASULOS...!"
+  },
+  {
+   "id": "STS_S09A_345_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S09A_348_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S09A_349_A",
+   "en": "This is the final act, Nui. ",
+   "pt": "Este é o ato final, Nui."
+  },
+  {
+   "id": "STS_S09A_349_B",
+   "en": "Finish Shinra-Kouketsu here.",
+   "pt": "Termine o Shinra-Kouketsu aqui."
+  },
+  {
+   "id": "STS_S09A_349_C",
+   "en": "You got it!\nOoooh, this is soooo exciting!",
+   "pt": "Pode deixar!\nOoooh, isso é tããão empolgante!"
+  },
+  {
+   "id": "STS_S09A_350_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S09A_351_A",
+   "en": "Ragyo!",
+   "pt": "Ragyo!"
+  },
+  {
+   "id": "STS_S09A_352_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S10A_353_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S10A_354_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S10A_355_A",
+   "en": "Ugh, this is endless!",
+   "pt": "Ugh, isso não tem fim!"
+  },
+  {
+   "id": "STS_S10A_356_A",
+   "en": "Lady Satsuki!\nThe Elite Four have arrived!",
+   "pt": "Senhora Satsuki!\nOs Quatro Elites chegaram!"
+  },
+  {
+   "id": "STS_S10A_356_B",
+   "en": "Sorry to make you wait.",
+   "pt": "Desculpe fazer você esperar."
+  },
+  {
+   "id": "STS_S10A_356_C",
+   "en": "Everyone--!",
+   "pt": "Pessoal--!"
+  },
+  {
+   "id": "STS_S10A_357_A",
+   "en": "Your Goku Uniforms!",
+   "pt": "Seus Uniformes Goku!"
+  },
+  {
+   "id": "STS_S10A_357_B",
+   "en": "Iori patched them up fast, m'Lady. ",
+   "pt": "Iori os consertou rápido, minha Senhora."
+  },
+  {
+   "id": "STS_S10A_357_C",
+   "en": "Nothing compares to his skill with a needle and thread.",
+   "pt": "Nada se compara à habilidade dele com agulha e linha."
+  },
+  {
+   "id": "STS_S10A_358_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S10A_359_A",
+   "en": "I had to rush to finish them,\nbut they should be as powerful as they were before.",
+   "pt": "Eu tive que correr para terminá-los,\nmas eles devem estar tão poderosos quanto antes."
+  },
+  {
+   "id": "STS_S10A_359_B",
+   "en": "Excellent work, Iori.",
+   "pt": "Excelente trabalho, Iori."
+  },
+  {
+   "id": "STS_S10A_360_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S10A_370_A",
+   "en": "There's just one thing that bothers me...",
+   "pt": "Só tem uma coisa que me incomoda..."
+  },
+  {
+   "id": "STS_S10A_370_B",
+   "en": "What?",
+   "pt": "O quê?"
+  },
+  {
+   "id": "STS_S10A_370_C",
+   "en": "It can wait.\nI'll come talk to you after the fight's over.",
+   "pt": "Pode esperar.\nEu falo com você depois que a luta acabar."
+  }
+ ]
+}

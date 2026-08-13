@@ -1,0 +1,112 @@
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  TEXTOS CURTOS PARA DIVULGAR                                                 ║
+║  O guia completo da Steam está em guia-steam.txt                             ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+O guia da Comunidade é o que fica achável para sempre pelo buscador da Steam.
+Estes textos curtos são para os lugares onde as pessoas estão hoje: a aba
+Discussões, seu perfil, Reddit, grupos.
+
+Publique o guia primeiro e cole o link dele nos textos abaixo, onde está
+marcado LINK_DO_GUIA.
+
+Links já prontos:
+  download:     https://github.com/WenderSky/kill-la-kill-if-ptbr/releases/latest
+  repositório:  https://github.com/WenderSky/kill-la-kill-if-ptbr
+
+O link de download usa /releases/latest, então continua valendo quando você
+publicar uma v1.1 — não precisa reeditar os posts a cada atualização.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+ 1 · DISCUSSÕES DO JOGO
+   Steam > KILL la KILL -IF > Discussões > Iniciar uma nova discussão
+═══════════════════════════════════════════════════════════════════════════════
+
+TÍTULO:
+[PT-BR] Tradução completa para português do Brasil
+
+CORPO:
+
+Terminei uma tradução completa de KILL la KILL -IF para português do Brasil e
+está de graça para quem quiser.
+
+Traduzido: o [b]modo história inteiro[/b], as [b]provocações de batalha de todos
+os personagens[/b] (incluindo as falas específicas de cada confronto), os menus,
+os tutoriais, a galeria, os requisitos de desbloqueio e a [b]lista de golpes[/b].
+São 11.524 linhas.
+
+O tom foi mantido: Kill la Kill é escrachado e gritado, e a tradução acompanha —
+nada foi suavizado. Os termos seguem a legendagem brasileira do anime (Fibras de
+Vida, Uniforme Goku, Lâmina-Tesoura, Quatro Elites).
+
+Os rótulos que são imagem — STORY, VERSUS, GALLERY, OPTIONS, FIGHT, KO — ficaram
+em inglês de propósito, que é a convenção de jogo de luta.
+
+Funciona no [b]PC[/b] e no [b]Steam Deck[/b]. No Windows é dois cliques num .bat;
+no Deck é um comando no Konsole. Não precisa mexer em Proton, em opção de
+inicialização nem em nada.
+
+Não mexe nos saves e não atrapalha conquistas. Tem desinstalador que devolve os
+arquivos originais.
+
+[b]Guia completo, com instalação passo a passo e FAQ:[/b]
+[url=LINK_DO_GUIA]LINK_DO_GUIA[/url]
+
+[b]Download direto:[/b]
+[url=https://github.com/WenderSky/kill-la-kill-if-ptbr/releases/latest]github.com/WenderSky/kill-la-kill-if-ptbr/releases[/url]
+
+É uma tradução amadora e pode ter algum erro. Se acharem typo ou texto cortado,
+comentem aqui com um print que eu corrijo nas próximas versões.
+
+Projeto de fã, sem relação com a Arc System Works ou a Studio Trigger.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+ 2 · PERFIL, GRUPO OU COMENTÁRIO RÁPIDO
+═══════════════════════════════════════════════════════════════════════════════
+
+Traduzi KILL la KILL -IF inteiro para português do Brasil — modo história, falas
+de batalha, menus e lista de golpes, 11.524 linhas. Gratuito, funciona no PC e no
+Steam Deck, instalação em dois cliques.
+
+Guia: LINK_DO_GUIA
+Download: https://github.com/WenderSky/kill-la-kill-if-ptbr/releases/latest
+
+
+═══════════════════════════════════════════════════════════════════════════════
+ 3 · REDDIT E FÓRUNS  (em Markdown)
+═══════════════════════════════════════════════════════════════════════════════
+
+TÍTULO:
+[PT-BR] Tradução completa de KILL la KILL -IF para português do Brasil
+
+CORPO:
+
+Terminei uma tradução completa de **KILL la KILL -IF** para português do Brasil.
+Gratuita, para PC e Steam Deck.
+
+**O que está traduzido** (11.524 linhas, 100% do texto):
+
+- Modo história inteiro — o arco da Satsuki e o da Ryuko
+- Provocações de batalha de todos os personagens, incluindo as falas específicas
+  de cada confronto
+- Lista de golpes completa
+- Menus, tutoriais, galeria e requisitos de desbloqueio
+- Falas rápidas do modo online
+
+**O que ficou em inglês:** os rótulos desenhados em textura (STORY, VERSUS,
+GALLERY, OPTIONS, FIGHT, KO). Foi escolha — é a convenção de jogo de luta, e fica
+mais coerente do que meia interface em cada idioma.
+
+O tom do original foi mantido. Kill la Kill é escrachado e gritado; a tradução
+acompanha, sem suavizar nada.
+
+**Instalação:** dois cliques num .bat no Windows, um comando no Konsole no Deck.
+Não precisa mexer em Proton nem em opção de inicialização. Tem desinstalador.
+
+Download e código-fonte:
+https://github.com/WenderSky/kill-la-kill-if-ptbr
+
+Tradução amadora, então pode ter erro. Se acharem algo, é só abrir uma issue com
+um print.

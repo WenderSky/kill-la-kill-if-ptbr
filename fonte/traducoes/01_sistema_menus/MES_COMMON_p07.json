@@ -1,0 +1,1008 @@
+{
+ "origem": "message/MES_COMMON",
+ "conteudo": "Menus, sistema e avisos",
+ "parte": "7/8",
+ "instrucoes": "Traduza o campo 'en' para portugues do Brasil e escreva o resultado em 'pt'. Nao altere 'id'. Mantenha intactos os codigos entre chaves ({CA}, {LA}, {BR}, {JU}, {SP}, {GD}, {LS}, {L1}, {R1}, setas), os marcadores de formato (%d, %l, %ls, %hs) e as quebras de linha \\n. Se uma linha nao precisar de traducao, deixe 'pt' vazio.",
+ "linhas": [
+  {
+   "id": "GALLERY_TEXT_SOUND_NAME_037",
+   "en": "Nui Harime Theme (Intro & Loop)",
+   "pt": "Tema de Nui Harime (Intro e Loop)"
+  },
+  {
+   "id": "GALLERY_TEXT_SOUND_NAME_038",
+   "en": "Nui Harime Theme - Final Battle Remix (Intro & Loop)",
+   "pt": "Tema de Nui Harime - Remix da Batalha Final (Intro e Loop)"
+  },
+  {
+   "id": "GALLERY_TEXT_SOUND_NAME_039",
+   "en": "Nui Harime Theme - Bloody Valor Overpowered Remix  (Intro & Loop)",
+   "pt": "Tema de Nui Harime - Remix Overpowered do Bloody Valor  (Intro e Loop)"
+  },
+  {
+   "id": "GALLERY_TEXT_SOUND_NAME_040",
+   "en": "Nui Harime Victory Theme (Intro & Loop)",
+   "pt": "Tema de Vitória de Nui Harime (Intro e Loop)"
+  },
+  {
+   "id": "GALLERY_TEXT_SOUND_NAME_041",
+   "en": "Ragyo Kiryuin Theme (Intro & Loop)",
+   "pt": "Tema de Ragyo Kiryuin (Intro e Loop)"
+  },
+  {
+   "id": "GALLERY_TEXT_SOUND_NAME_042",
+   "en": "Ragyo Kiryuin Theme - Final Battle Remix (Intro & Loop)",
+   "pt": "Tema de Ragyo Kiryuin - Remix da Batalha Final (Intro e Loop)"
+  },
+  {
+   "id": "GALLERY_TEXT_SOUND_NAME_043",
+   "en": "Ragyo Kiryuin Theme - Bloody Valor Overpowered Remix (Intro & Loop)",
+   "pt": "Tema de Ragyo Kiryuin - Remix Overpowered do Bloody Valor (Intro e Loop)"
+  },
+  {
+   "id": "GALLERY_TEXT_SOUND_NAME_044",
+   "en": "Ragyo Kiryuin Victory Theme (Intro & Loop)",
+   "pt": "Tema de Vitória de Ragyo Kiryuin (Intro e Loop)"
+  },
+  {
+   "id": "GALLERY_TEXT_SOUND_NAME_045",
+   "en": "Mako Mankanshoku Theme (Intro & Loop)",
+   "pt": "Tema de Mako Mankanshoku (Intro e Loop)"
+  },
+  {
+   "id": "GALLERY_TEXT_SOUND_NAME_046",
+   "en": "Mako Mankanshoku Theme - Final Battle Remix (Intro & Loop)",
+   "pt": "Tema de Mako Mankanshoku - Remix da Batalha Final (Intro e Loop)"
+  },
+  {
+   "id": "GALLERY_TEXT_SOUND_NAME_047",
+   "en": "Mako Mankanshoku Theme - Bloody Valor Overpowered Remix (Intro & Loop)",
+   "pt": "Tema de Mako Mankanshoku - Remix Overpowered do Bloody Valor (Intro e Loop)"
+  },
+  {
+   "id": "GALLERY_TEXT_SOUND_NAME_048",
+   "en": "Mako Mankanshoku Victory Theme (Intro & Loop)",
+   "pt": "Tema de Vitória de Mako Mankanshoku (Intro e Loop)"
+  },
+  {
+   "id": "GALLERY_TEXT_SOUND_NAME_049",
+   "en": "Nudist Beach Theme (Intro & Loop)",
+   "pt": "Tema da Nudist Beach (Intro e Loop)"
+  },
+  {
+   "id": "GALLERY_TEXT_SOUND_NAME_050",
+   "en": "Nudist Beach Theme - Final Battle Remix (Intro & Loop)",
+   "pt": "Tema da Nudist Beach - Remix da Batalha Final (Intro e Loop)"
+  },
+  {
+   "id": "GALLERY_TEXT_SOUND_NAME_051",
+   "en": "Nudist Beach Theme - Bloody Valor Overpowered Remix (Intro & Loop)",
+   "pt": "Tema da Nudist Beach - Remix Overpowered do Bloody Valor (Intro e Loop)"
+  },
+  {
+   "id": "GALLERY_TEXT_SOUND_NAME_052",
+   "en": "Nudist Beach Victory Theme (Intro & Loop)",
+   "pt": "Tema de Vitória da Nudist Beach (Intro e Loop)"
+  },
+  {
+   "id": "GALLERY_TEXT_SOUND_NAME_053",
+   "en": "KILL la KILL -IF- Theme",
+   "pt": "Tema de KILL la KILL -IF-"
+  },
+  {
+   "id": "GALLERY_TEXT_SOUND_NAME_054",
+   "en": "Ending Credits Theme",
+   "pt": "Tema dos Créditos Finais"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_LIBRARY_DESC_000",
+   "en": "Voice library screen description",
+   "pt": "Descrição da tela de biblioteca de vozes"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_000",
+   "en": "Intro VS Satsuki Kiryuin",
+   "pt": "Intro VS Satsuki Kiryuin"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_001",
+   "en": "Intro VS Satsuki Kiryuin Ver. A",
+   "pt": "Intro VS Satsuki Kiryuin Ver. A"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_002",
+   "en": "Intro VS Satsuki Kiryuin Ver. B",
+   "pt": "Intro VS Satsuki Kiryuin Ver. B"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_003",
+   "en": "Intro VS Satsuki Kiryuin Ver. C",
+   "pt": "Intro VS Satsuki Kiryuin Ver. C"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_004",
+   "en": "Intro VS Satsuki Kiryuin Ver. D",
+   "pt": "Intro VS Satsuki Kiryuin Ver. D"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_005",
+   "en": "Intro VS Satsuki Kiryuin Ver. E",
+   "pt": "Intro VS Satsuki Kiryuin Ver. E"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_006",
+   "en": "Intro VS Satsuki Kiryuin Ver. F",
+   "pt": "Intro VS Satsuki Kiryuin Ver. F"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_007",
+   "en": "Intro VS Satsuki Kiryuin Ver. G",
+   "pt": "Intro VS Satsuki Kiryuin Ver. G"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_008",
+   "en": "Intro VS Satsuki Kiryuin Ver. H",
+   "pt": "Intro VS Satsuki Kiryuin Ver. H"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_010",
+   "en": "Intro VS Ryuko Matoi",
+   "pt": "Intro VS Ryuko Matoi"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_011",
+   "en": "Intro VS Ryuko Matoi Ver. A",
+   "pt": "Intro VS Ryuko Matoi Ver. A"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_012",
+   "en": "Intro VS Ryuko Matoi Ver. B",
+   "pt": "Intro VS Ryuko Matoi Ver. B"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_013",
+   "en": "Intro VS Ryuko Matoi Ver. C",
+   "pt": "Intro VS Ryuko Matoi Ver. C"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_014",
+   "en": "Intro VS Ryuko Matoi Ver. D",
+   "pt": "Intro VS Ryuko Matoi Ver. D"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_015",
+   "en": "Intro VS Ryuko Matoi Ver. E",
+   "pt": "Intro VS Ryuko Matoi Ver. E"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_016",
+   "en": "Intro VS Ryuko Matoi Ver. F",
+   "pt": "Intro VS Ryuko Matoi Ver. F"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_017",
+   "en": "Intro VS Ryuko Matoi Ver. G",
+   "pt": "Intro VS Ryuko Matoi Ver. G"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_018",
+   "en": "Intro VS Ryuko Matoi Ver. H",
+   "pt": "Intro VS Ryuko Matoi Ver. H"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_020",
+   "en": "Intro VS Ira Gamagoori",
+   "pt": "Intro VS Ira Gamagoori"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_021",
+   "en": "Intro VS Ira Gamagoori Ver. A",
+   "pt": "Intro VS Ira Gamagoori Ver. A"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_022",
+   "en": "Intro VS Ira Gamagoori Ver. B",
+   "pt": "Intro VS Ira Gamagoori Ver. B"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_023",
+   "en": "Intro VS Ira Gamagoori Ver. C",
+   "pt": "Intro VS Ira Gamagoori Ver. C"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_024",
+   "en": "Intro VS Ira Gamagoori Ver. D",
+   "pt": "Intro VS Ira Gamagoori Ver. D"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_030",
+   "en": "Intro VS Uzu Sanageyama",
+   "pt": "Intro VS Uzu Sanageyama"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_031",
+   "en": "Intro VS Uzu Sanageyama Ver. A",
+   "pt": "Intro VS Uzu Sanageyama Ver. A"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_032",
+   "en": "Intro VS Uzu Sanageyama Ver. B",
+   "pt": "Intro VS Uzu Sanageyama Ver. B"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_033",
+   "en": "Intro VS Uzu Sanageyama Ver. C",
+   "pt": "Intro VS Uzu Sanageyama Ver. C"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_034",
+   "en": "Intro VS Uzu Sanageyama Ver. D",
+   "pt": "Intro VS Uzu Sanageyama Ver. D"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_040",
+   "en": "Intro VS Houka Inumuta",
+   "pt": "Intro VS Houka Inumuta"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_041",
+   "en": "Intro VS Houka Inumuta Ver. A",
+   "pt": "Intro VS Houka Inumuta Ver. A"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_042",
+   "en": "Intro VS Houka Inumuta Ver. B",
+   "pt": "Intro VS Houka Inumuta Ver. B"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_043",
+   "en": "Intro VS Houka Inumuta Ver. C",
+   "pt": "Intro VS Houka Inumuta Ver. C"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_044",
+   "en": "Intro VS Houka Inumuta Ver. D",
+   "pt": "Intro VS Houka Inumuta Ver. D"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_050",
+   "en": "Intro VS Nonon Jakuzure",
+   "pt": "Intro VS Nonon Jakuzure"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_051",
+   "en": "Intro VS Nonon Jakuzure Ver. A",
+   "pt": "Intro VS Nonon Jakuzure Ver. A"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_052",
+   "en": "Intro VS Nonon Jakuzure Ver. B",
+   "pt": "Intro VS Nonon Jakuzure Ver. B"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_053",
+   "en": "Intro VS Nonon Jakuzure Ver. C",
+   "pt": "Intro VS Nonon Jakuzure Ver. C"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_054",
+   "en": "Intro VS Nonon Jakuzure Ver. D",
+   "pt": "Intro VS Nonon Jakuzure Ver. D"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_060",
+   "en": "Intro VS Nui Harime",
+   "pt": "Intro VS Nui Harime"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_061",
+   "en": "Intro VS Nui Harime Ver. A",
+   "pt": "Intro VS Nui Harime Ver. A"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_062",
+   "en": "Intro VS Nui Harime Ver. B",
+   "pt": "Intro VS Nui Harime Ver. B"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_063",
+   "en": "Intro VS Nui Harime Ver. C",
+   "pt": "Intro VS Nui Harime Ver. C"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_064",
+   "en": "Intro VS Nui Harime Ver. D",
+   "pt": "Intro VS Nui Harime Ver. D"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_070",
+   "en": "Intro VS Ragyo Kiryuin",
+   "pt": "Intro VS Ragyo Kiryuin"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_071",
+   "en": "Intro VS Ragyo Kiryuin Ver. A",
+   "pt": "Intro VS Ragyo Kiryuin Ver. A"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_072",
+   "en": "Intro VS Ragyo Kiryuin Ver. B",
+   "pt": "Intro VS Ragyo Kiryuin Ver. B"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_073",
+   "en": "Intro VS Ragyo Kiryuin Ver. C",
+   "pt": "Intro VS Ragyo Kiryuin Ver. C"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_074",
+   "en": "Intro VS Ragyo Kiryuin Ver. C",
+   "pt": "Intro VS Ragyo Kiryuin Ver. C"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_080",
+   "en": "Intro VS Mako Mankanshoku",
+   "pt": "Intro VS Mako Mankanshoku"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_081",
+   "en": "Intro VS Mako Mankanshoku Ver. A",
+   "pt": "Intro VS Mako Mankanshoku Ver. A"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_082",
+   "en": "Intro VS Mako Mankanshoku Ver. B",
+   "pt": "Intro VS Mako Mankanshoku Ver. B"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_083",
+   "en": "Intro VS Mako Mankanshoku Ver. C",
+   "pt": "Intro VS Mako Mankanshoku Ver. C"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_084",
+   "en": "Intro VS Mako Mankanshoku Ver. D",
+   "pt": "Intro VS Mako Mankanshoku Ver. D"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_090",
+   "en": "Intro VS Nudist Beach",
+   "pt": "Intro VS Nudist Beach"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_091",
+   "en": "Intro VS Nudist Beach Ver. A",
+   "pt": "Intro VS Nudist Beach Ver. A"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_092",
+   "en": "Intro VS Nudist Beach Ver. B",
+   "pt": "Intro VS Nudist Beach Ver. B"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_093",
+   "en": "Intro VS Nudist Beach Ver. C",
+   "pt": "Intro VS Nudist Beach Ver. C"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_094",
+   "en": "Intro VS Nudist Beach Ver. D",
+   "pt": "Intro VS Nudist Beach Ver. D"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_100",
+   "en": "Bloody Valor Attack - Taunt - Valor Level 0",
+   "pt": "Ataque Bloody Valor - Deboche - Nível de Valor 0"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_101",
+   "en": "Bloody Valor Attack - Taunt - Valor Level 0 Ver. A",
+   "pt": "Ataque Bloody Valor - Deboche - Nível de Valor 0 Ver. A"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_102",
+   "en": "Bloody Valor Attack - Taunt - Valor Level 0 Ver. B",
+   "pt": "Ataque Bloody Valor - Deboche - Nível de Valor 0 Ver. B"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_103",
+   "en": "Bloody Valor Attack - Taunt - Valor Level 1",
+   "pt": "Ataque Bloody Valor - Deboche - Nível de Valor 1"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_104",
+   "en": "Bloody Valor Attack - Taunt - Valor Level 1 Ver. A",
+   "pt": "Ataque Bloody Valor - Deboche - Nível de Valor 1 Ver. A"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_105",
+   "en": "Bloody Valor Attack - Taunt - Valor Level 1 Ver. B",
+   "pt": "Ataque Bloody Valor - Deboche - Nível de Valor 1 Ver. B"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_106",
+   "en": "Bloody Valor Attack - Taunt - Valor Level 2",
+   "pt": "Ataque Bloody Valor - Deboche - Nível de Valor 2"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_107",
+   "en": "Bloody Valor Attack - Taunt - Valor Level 2 Ver. A",
+   "pt": "Ataque Bloody Valor - Deboche - Nível de Valor 2 Ver. A"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_108",
+   "en": "Bloody Valor Attack - Taunt - Valor Level 2 Ver. B",
+   "pt": "Ataque Bloody Valor - Deboche - Nível de Valor 2 Ver. B"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_109",
+   "en": "Bloody Valor Attack - Provoke - Valor Level 0",
+   "pt": "Ataque Bloody Valor - Provocação - Nível de Valor 0"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_110",
+   "en": "Bloody Valor Attack - Provoke - Valor Level 0 Ver. A",
+   "pt": "Ataque Bloody Valor - Provocação - Nível de Valor 0 Ver. A"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_111",
+   "en": "Bloody Valor Attack - Provoke - Valor Level 0 Ver. B",
+   "pt": "Ataque Bloody Valor - Provocação - Nível de Valor 0 Ver. B"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_112",
+   "en": "Bloody Valor Attack - Provoke - Valor Level 1",
+   "pt": "Ataque Bloody Valor - Provocação - Nível de Valor 1"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_113",
+   "en": "Bloody Valor Attack - Provoke - Valor Level 1 Ver. A",
+   "pt": "Ataque Bloody Valor - Provocação - Nível de Valor 1 Ver. A"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_114",
+   "en": "Bloody Valor Attack - Provoke - Valor Level 1 Ver. B",
+   "pt": "Ataque Bloody Valor - Provocação - Nível de Valor 1 Ver. B"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_115",
+   "en": "Bloody Valor Attack - Provoke - Valor Level 2",
+   "pt": "Ataque Bloody Valor - Provocação - Nível de Valor 2"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_116",
+   "en": "Bloody Valor Attack - Provoke - Valor Level 2 Ver. A",
+   "pt": "Ataque Bloody Valor - Provocação - Nível de Valor 2 Ver. A"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_117",
+   "en": "Bloody Valor Attack - Provoke - Valor Level 2 Ver. B",
+   "pt": "Ataque Bloody Valor - Provocação - Nível de Valor 2 Ver. B"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_118",
+   "en": "Bloody Valor Attack - Mock - Valor Level 0",
+   "pt": "Ataque Bloody Valor - Insulto - Nível de Valor 0"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_119",
+   "en": "Bloody Valor Attack - Mock - Valor Level 0 Ver. A",
+   "pt": "Ataque Bloody Valor - Insulto - Nível de Valor 0 Ver. A"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_120",
+   "en": "Bloody Valor Attack - Mock - Valor Level 0 Ver. B",
+   "pt": "Ataque Bloody Valor - Insulto - Nível de Valor 0 Ver. B"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_121",
+   "en": "Bloody Valor Attack - Mock - Valor Level 1",
+   "pt": "Ataque Bloody Valor - Insulto - Nível de Valor 1"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_122",
+   "en": "Bloody Valor Attack - Mock - Valor Level 1 Ver. A",
+   "pt": "Ataque Bloody Valor - Insulto - Nível de Valor 1 Ver. A"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_123",
+   "en": "Bloody Valor Attack - Mock - Valor Level 1 Ver. B",
+   "pt": "Ataque Bloody Valor - Insulto - Nível de Valor 1 Ver. B"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_124",
+   "en": "Bloody Valor Attack - Mock - Valor Level 2",
+   "pt": "Ataque Bloody Valor - Insulto - Nível de Valor 2"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_125",
+   "en": "Bloody Valor Attack - Mock - Valor Level 2 Ver. A",
+   "pt": "Ataque Bloody Valor - Insulto - Nível de Valor 2 Ver. A"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_126",
+   "en": "Bloody Valor Attack - Mock - Valor Level 2 Ver. B",
+   "pt": "Ataque Bloody Valor - Insulto - Nível de Valor 2 Ver. B"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_127",
+   "en": "Story Battle A: Bloody Valor Attack - Taunt - Valor Level 0",
+   "pt": "Batalha da História A: Ataque Bloody Valor - Deboche - Nível de Valor 0"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_128",
+   "en": "Story Battle A: Bloody Valor Attack - Taunt - Valor Level 1",
+   "pt": "Batalha da História A: Ataque Bloody Valor - Deboche - Nível de Valor 1"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_129",
+   "en": "Story Battle A: Bloody Valor Attack - Taunt - Valor Level 2",
+   "pt": "Batalha da História A: Ataque Bloody Valor - Deboche - Nível de Valor 2"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_130",
+   "en": "Story Battle A: Bloody Valor Attack - Provoke - Valor Level 0",
+   "pt": "Batalha da História A: Ataque Bloody Valor - Provocação - Nível de Valor 0"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_131",
+   "en": "Story Battle A: Bloody Valor Attack - Provoke - Valor Level 1",
+   "pt": "Batalha da História A: Ataque Bloody Valor - Provocação - Nível de Valor 1"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_132",
+   "en": "Story Battle A: Bloody Valor Attack - Provoke - Valor Level 2",
+   "pt": "Batalha da História A: Ataque Bloody Valor - Provocação - Nível de Valor 2"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_133",
+   "en": "Story Battle A: Bloody Valor Attack - Mock - Valor Level 0",
+   "pt": "Batalha da História A: Ataque Bloody Valor - Insulto - Nível de Valor 0"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_134",
+   "en": "Story Battle A: Bloody Valor Attack - Mock - Valor Level 1",
+   "pt": "Batalha da História A: Ataque Bloody Valor - Insulto - Nível de Valor 1"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_135",
+   "en": "Story Battle A: Bloody Valor Attack - Mock - Valor Level 2",
+   "pt": "Batalha da História A: Ataque Bloody Valor - Insulto - Nível de Valor 2"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_136",
+   "en": "Story Battle B: Bloody Valor Attack - Taunt - Valor Level 0",
+   "pt": "Batalha da História B: Ataque Bloody Valor - Deboche - Nível de Valor 0"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_137",
+   "en": "Story Battle B: Bloody Valor Attack - Taunt - Valor Level 1",
+   "pt": "Batalha da História B: Ataque Bloody Valor - Deboche - Nível de Valor 1"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_138",
+   "en": "Story Battle B: Bloody Valor Attack - Taunt - Valor Level 2",
+   "pt": "Batalha da História B: Ataque Bloody Valor - Deboche - Nível de Valor 2"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_139",
+   "en": "Story Battle B: Bloody Valor Attack - Provoke - Valor Level 0",
+   "pt": "Batalha da História B: Ataque Bloody Valor - Provocação - Nível de Valor 0"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_140",
+   "en": "Story Battle B: Bloody Valor Attack - Provoke - Valor Level 1",
+   "pt": "Batalha da História B: Ataque Bloody Valor - Provocação - Nível de Valor 1"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_141",
+   "en": "Story Battle B: Bloody Valor Attack - Provoke - Valor Level 2",
+   "pt": "Batalha da História B: Ataque Bloody Valor - Provocação - Nível de Valor 2"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_142",
+   "en": "Story Battle B: Bloody Valor Attack - Mock - Valor Level 0",
+   "pt": "Batalha da História B: Ataque Bloody Valor - Insulto - Nível de Valor 0"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_143",
+   "en": "Story Battle B: Bloody Valor Attack - Mock - Valor Level 1",
+   "pt": "Batalha da História B: Ataque Bloody Valor - Insulto - Nível de Valor 1"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_144",
+   "en": "Story Battle B: Bloody Valor Attack - Mock - Valor Level 2",
+   "pt": "Batalha da História B: Ataque Bloody Valor - Insulto - Nível de Valor 2"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_145",
+   "en": "Story Battle C: Bloody Valor Attack - Taunt - Valor Level 0",
+   "pt": "Batalha da História C: Ataque Bloody Valor - Deboche - Nível de Valor 0"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_146",
+   "en": "Story Battle C: Bloody Valor Attack - Taunt - Valor Level 1",
+   "pt": "Batalha da História C: Ataque Bloody Valor - Deboche - Nível de Valor 1"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_147",
+   "en": "Story Battle C: Bloody Valor Attack - Taunt - Valor Level 2",
+   "pt": "Batalha da História C: Ataque Bloody Valor - Deboche - Nível de Valor 2"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_148",
+   "en": "Story Battle C: Bloody Valor Attack - Provoke - Valor Level 0",
+   "pt": "Batalha da História C: Ataque Bloody Valor - Provocação - Nível de Valor 0"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_149",
+   "en": "Story Battle C: Bloody Valor Attack - Provoke - Valor Level 1",
+   "pt": "Batalha da História C: Ataque Bloody Valor - Provocação - Nível de Valor 1"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_150",
+   "en": "Story Battle C: Bloody Valor Attack - Provoke - Valor Level 2",
+   "pt": "Batalha da História C: Ataque Bloody Valor - Provocação - Nível de Valor 2"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_151",
+   "en": "Story Battle C: Bloody Valor Attack - Mock - Valor Level 0",
+   "pt": "Batalha da História C: Ataque Bloody Valor - Insulto - Nível de Valor 0"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_152",
+   "en": "Story Battle C: Bloody Valor Attack - Mock - Valor Level 1",
+   "pt": "Batalha da História C: Ataque Bloody Valor - Insulto - Nível de Valor 1"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_153",
+   "en": "Story Battle C: Bloody Valor Attack - Mock - Valor Level 2",
+   "pt": "Batalha da História C: Ataque Bloody Valor - Insulto - Nível de Valor 2"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_154",
+   "en": "Story Battle D: Bloody Valor Attack - Taunt - Valor Level 0",
+   "pt": "Batalha da História D: Ataque Bloody Valor - Deboche - Nível de Valor 0"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_155",
+   "en": "Story Battle D: Bloody Valor Attack - Taunt - Valor Level 1",
+   "pt": "Batalha da História D: Ataque Bloody Valor - Deboche - Nível de Valor 1"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_156",
+   "en": "Story Battle D: Bloody Valor Attack - Taunt - Valor Level 2",
+   "pt": "Batalha da História D: Ataque Bloody Valor - Deboche - Nível de Valor 2"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_157",
+   "en": "Story Battle D: Bloody Valor Attack - Provoke - Valor Level 0",
+   "pt": "Batalha da História D: Ataque Bloody Valor - Provocação - Nível de Valor 0"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_158",
+   "en": "Story Battle D: Bloody Valor Attack - Provoke - Valor Level 1",
+   "pt": "Batalha da História D: Ataque Bloody Valor - Provocação - Nível de Valor 1"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_159",
+   "en": "Story Battle D: Bloody Valor Attack - Provoke - Valor Level 2",
+   "pt": "Batalha da História D: Ataque Bloody Valor - Provocação - Nível de Valor 2"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_160",
+   "en": "Story Battle D: Bloody Valor Attack - Mock - Valor Level 0",
+   "pt": "Batalha da História D: Ataque Bloody Valor - Insulto - Nível de Valor 0"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_161",
+   "en": "Story Battle D: Bloody Valor Attack - Mock - Valor Level 1",
+   "pt": "Batalha da História D: Ataque Bloody Valor - Insulto - Nível de Valor 1"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_162",
+   "en": "Story Battle D: Bloody Valor Attack - Mock - Valor Level 2",
+   "pt": "Batalha da História D: Ataque Bloody Valor - Insulto - Nível de Valor 2"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_200",
+   "en": "Bloody Valor - Defend - Taunt",
+   "pt": "Bloody Valor - Defesa - Deboche"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_201",
+   "en": "Bloody Valor - Defend - Taunt VS Satsuki",
+   "pt": "Bloody Valor - Defesa - Deboche VS Satsuki"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_202",
+   "en": "Bloody Valor - Defend - Taunt VS Ryuko",
+   "pt": "Bloody Valor - Defesa - Deboche VS Ryuko"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_203",
+   "en": "Bloody Valor - Defend - Taunt VS Satsuki & Ryuko",
+   "pt": "Bloody Valor - Defesa - Deboche VS Satsuki & Ryuko"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_204",
+   "en": "Bloody Valor - Defend - Taunt VS Elite Four",
+   "pt": "Bloody Valor - Defesa - Deboche VS Quatro Elites"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_205",
+   "en": "Bloody Valor - Defend - Taunt VS Nui",
+   "pt": "Bloody Valor - Defesa - Deboche VS Nui"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_206",
+   "en": "Bloody Valor - Defend - Taunt VS Ragyo",
+   "pt": "Bloody Valor - Defesa - Deboche VS Ragyo"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_207",
+   "en": "Bloody Valor - Defend - Taunt VS Mako",
+   "pt": "Bloody Valor - Defesa - Deboche VS Mako"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_208",
+   "en": "Bloody Valor - Defend - Taunt VS Nudist Beach",
+   "pt": "Bloody Valor - Defesa - Deboche VS Nudist Beach"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_210",
+   "en": "Bloody Valor - Defend - Provoke",
+   "pt": "Bloody Valor - Defesa - Provocação"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_211",
+   "en": "Bloody Valor - Defend - Provoke VS Satsuki",
+   "pt": "Bloody Valor - Defesa - Provocação VS Satsuki"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_212",
+   "en": "Bloody Valor - Defend - Provoke VS Ryuko",
+   "pt": "Bloody Valor - Defesa - Provocação VS Ryuko"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_213",
+   "en": "Bloody Valor - Defend - Provoke VS Satsuki & Ryuko",
+   "pt": "Bloody Valor - Defesa - Provocação VS Satsuki & Ryuko"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_214",
+   "en": "Bloody Valor - Defend - Provoke VS Elite Four",
+   "pt": "Bloody Valor - Defesa - Provocação VS Quatro Elites"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_215",
+   "en": "Bloody Valor - Defend - Provoke VS Nui",
+   "pt": "Bloody Valor - Defesa - Provocação VS Nui"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_216",
+   "en": "Bloody Valor - Defend - Provoke VS Ragyo",
+   "pt": "Bloody Valor - Defesa - Provocação VS Ragyo"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_217",
+   "en": "Bloody Valor - Defend - Provoke VS Mako",
+   "pt": "Bloody Valor - Defesa - Provocação VS Mako"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_218",
+   "en": "Bloody Valor - Defend - Provoke VS Nudist Beach",
+   "pt": "Bloody Valor - Defesa - Provocação VS Nudist Beach"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_220",
+   "en": "Bloody Valor - Defend - Mock",
+   "pt": "Bloody Valor - Defesa - Insulto"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_221",
+   "en": "Bloody Valor - Defend - Mock VS Satsuki",
+   "pt": "Bloody Valor - Defesa - Insulto VS Satsuki"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_222",
+   "en": "Bloody Valor - Defend - Mock VS Ryuko",
+   "pt": "Bloody Valor - Defesa - Insulto VS Ryuko"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_223",
+   "en": "Bloody Valor - Defend - Mock VS Satsuki & Ryuko",
+   "pt": "Bloody Valor - Defesa - Insulto VS Satsuki & Ryuko"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_224",
+   "en": "Bloody Valor - Defend - Mock VS Elite Four",
+   "pt": "Bloody Valor - Defesa - Insulto VS Quatro Elites"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_225",
+   "en": "Bloody Valor - Defend - Mock VS Nui",
+   "pt": "Bloody Valor - Defesa - Insulto VS Nui"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_226",
+   "en": "Bloody Valor - Defend - Mock VS Ragyo",
+   "pt": "Bloody Valor - Defesa - Insulto VS Ragyo"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_227",
+   "en": "Bloody Valor - Defend - Mock VS Mako",
+   "pt": "Bloody Valor - Defesa - Insulto VS Mako"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_228",
+   "en": "Bloody Valor - Defend - Mock VS Nudist Beach",
+   "pt": "Bloody Valor - Defesa - Insulto VS Nudist Beach"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_229",
+   "en": "Story Battle Bloody Valor - Defend - Taunt",
+   "pt": "Batalha da História Bloody Valor - Defesa - Deboche"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_230",
+   "en": "Story Battle Bloody Valor - Defend - Provoke",
+   "pt": "Batalha da História Bloody Valor - Defesa - Provocação"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_231",
+   "en": "Story Battle Bloody Valor - Defend - Mock",
+   "pt": "Batalha da História Bloody Valor - Defesa - Insulto"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_300",
+   "en": "Win Quote VS Satsuki Kiryuin",
+   "pt": "Frase de Vitória VS Satsuki Kiryuin"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_301",
+   "en": "Win Quote VS Satsuki Kiryuin Ver. A",
+   "pt": "Frase de Vitória VS Satsuki Kiryuin Ver. A"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_302",
+   "en": "Win Quote VS Satsuki Kiryuin Ver. B",
+   "pt": "Frase de Vitória VS Satsuki Kiryuin Ver. B"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_303",
+   "en": "Win Quote VS Satsuki Kiryuin Ver. C",
+   "pt": "Frase de Vitória VS Satsuki Kiryuin Ver. C"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_304",
+   "en": "Win Quote VS Satsuki Kiryuin Ver. D",
+   "pt": "Frase de Vitória VS Satsuki Kiryuin Ver. D"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_305",
+   "en": "Win Quote VS Satsuki Kiryuin Ver. E",
+   "pt": "Frase de Vitória VS Satsuki Kiryuin Ver. E"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_306",
+   "en": "Win Quote VS Satsuki Kiryuin Ver. F",
+   "pt": "Frase de Vitória VS Satsuki Kiryuin Ver. F"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_307",
+   "en": "Win Quote VS Satsuki Kiryuin Ver. G",
+   "pt": "Frase de Vitória VS Satsuki Kiryuin Ver. G"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_310",
+   "en": "Win Quote VS Ryuko Matoi",
+   "pt": "Frase de Vitória VS Ryuko Matoi"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_311",
+   "en": "Win Quote VS Ryuko Matoi Ver. A",
+   "pt": "Frase de Vitória VS Ryuko Matoi Ver. A"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_312",
+   "en": "Win Quote VS Ryuko Matoi Ver. B",
+   "pt": "Frase de Vitória VS Ryuko Matoi Ver. B"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_313",
+   "en": "Win Quote VS Ryuko Matoi Ver. C",
+   "pt": "Frase de Vitória VS Ryuko Matoi Ver. C"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_314",
+   "en": "Win Quote VS Ryuko Matoi Ver. D",
+   "pt": "Frase de Vitória VS Ryuko Matoi Ver. D"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_315",
+   "en": "Win Quote VS Ryuko Matoi Ver. E",
+   "pt": "Frase de Vitória VS Ryuko Matoi Ver. E"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_316",
+   "en": "Win Quote VS Ryuko Matoi Ver. F",
+   "pt": "Frase de Vitória VS Ryuko Matoi Ver. F"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_320",
+   "en": "Win Quote VS Ira Gamagoori",
+   "pt": "Frase de Vitória VS Ira Gamagoori"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_321",
+   "en": "Win Quote VS Ira Gamagoori Ver. A",
+   "pt": "Frase de Vitória VS Ira Gamagoori Ver. A"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_322",
+   "en": "Win Quote VS Ira Gamagoori Ver. B",
+   "pt": "Frase de Vitória VS Ira Gamagoori Ver. B"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_323",
+   "en": "Win Quote VS Ira Gamagoori Ver. C",
+   "pt": "Frase de Vitória VS Ira Gamagoori Ver. C"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_324",
+   "en": "Win Quote VS Ira Gamagoori Ver. D",
+   "pt": "Frase de Vitória VS Ira Gamagoori Ver. D"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_325",
+   "en": "Win Quote VS Ira Gamagoori Ver. E",
+   "pt": "Frase de Vitória VS Ira Gamagoori Ver. E"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_326",
+   "en": "Win Quote VS Ira Gamagoori Ver. F",
+   "pt": "Frase de Vitória VS Ira Gamagoori Ver. F"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_330",
+   "en": "Win Quote VS Uzu Sanageyama",
+   "pt": "Frase de Vitória VS Uzu Sanageyama"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_331",
+   "en": "Win Quote VS Uzu Sanageyama Ver. A",
+   "pt": "Frase de Vitória VS Uzu Sanageyama Ver. A"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_332",
+   "en": "Win Quote VS Uzu Sanageyama Ver. B",
+   "pt": "Frase de Vitória VS Uzu Sanageyama Ver. B"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_333",
+   "en": "Win Quote VS Uzu Sanageyama Ver. C",
+   "pt": "Frase de Vitória VS Uzu Sanageyama Ver. C"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_334",
+   "en": "Win Quote VS Uzu Sanageyama Ver. D",
+   "pt": "Frase de Vitória VS Uzu Sanageyama Ver. D"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_335",
+   "en": "Win Quote VS Uzu Sanageyama Ver. E",
+   "pt": "Frase de Vitória VS Uzu Sanageyama Ver. E"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_336",
+   "en": "Win Quote VS Uzu Sanageyama Ver. F",
+   "pt": "Frase de Vitória VS Uzu Sanageyama Ver. F"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_340",
+   "en": "Win Quote VS Houka Inumuta",
+   "pt": "Frase de Vitória VS Houka Inumuta"
+  }
+ ]
+}

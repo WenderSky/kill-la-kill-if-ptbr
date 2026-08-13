@@ -1,0 +1,1008 @@
+{
+ "origem": "KlkResources/S701_MES/MES_012_RYU_ACT",
+ "conteudo": "Falas em batalha - Ryuko",
+ "parte": "1/4",
+ "instrucoes": "Traduza o campo 'en' para portugues do Brasil e escreva o resultado em 'pt'. Nao altere 'id'. Mantenha intactos os codigos entre chaves ({CA}, {LA}, {BR}, {JU}, {SP}, {GD}, {LS}, {L1}, {R1}, setas), os marcadores de formato (%d, %l, %ls, %hs) e as quebras de linha \\n. Se uma linha nao precisar de traducao, deixe 'pt' vazio.",
+ "linhas": [
+  {
+   "id": "C012_VS_C011_ENTRY_1P_01_KEYWORD_01",
+   "en": "Who the hell do you think you are?\nYou got some balls, copyin' me!",
+   "pt": "Quem caralho você pensa que é?\nVocê tem culhões pra me copiar!"
+  },
+  {
+   "id": "C012_VS_C011_ENTRY_1P_01_KEYWORD_02",
+   "en": "Stay cool, Ryuko. We don't know how many of them there are.\nWe have to be cautious.",
+   "pt": "Fica calma, Ryuko. Não sabemos quantos deles existem.\nTemos que ter cuidado."
+  },
+  {
+   "id": "C012_VS_C011_ENTRY_1P_01_KEYWORD_03",
+   "en": "I know, I know.",
+   "pt": "Eu sei, eu sei."
+  },
+  {
+   "id": "C012_VS_C011_ENTRY_1P_02_KEYWORD_01",
+   "en": "What're you copyin' me for?! Is this some kinda joke?!\nWho the hell are you?! ",
+   "pt": "Tá me copiando pra quê?! Isso é alguma piada, caralho?!\nQuem porra é você?! "
+  },
+  {
+   "id": "C012_VS_C011_ENTRY_1P_02_KEYWORD_02",
+   "en": "It's probably a Life Fiber trick.",
+   "pt": "Provavelmente é um truque das Fibras de Vida."
+  },
+  {
+   "id": "C012_VS_C011_ENTRY_1P_02_KEYWORD_03",
+   "en": "Then that means I gotta cut 'er up... real good!",
+   "pt": "Então isso quer dizer que eu tenho que fatiá-la... bem fatiada!"
+  },
+  {
+   "id": "C012_VS_C011_ENTRY_2P_01_KEYWORD_01",
+   "en": "Who the hell do you think you are?\nYou got some balls, copyin' me!",
+   "pt": "Quem caralho você pensa que é?\nVocê tem culhões pra me copiar!"
+  },
+  {
+   "id": "C012_VS_C011_ENTRY_2P_01_KEYWORD_02",
+   "en": "Stay cool, Ryuko. We don't know how many of them there are.\nWe have to be cautious.",
+   "pt": "Fica calma, Ryuko. Não sabemos quantos deles existem.\nTemos que ter cuidado."
+  },
+  {
+   "id": "C012_VS_C011_ENTRY_2P_01_KEYWORD_03",
+   "en": "I know, I know.",
+   "pt": "Eu sei, eu sei."
+  },
+  {
+   "id": "C012_VS_C011_ENTRY_2P_02_KEYWORD_01",
+   "en": "We look the same, and you got a Scissor Blade, too…\nWho the hell are you?",
+   "pt": "Nós somos iguais, e você também tem uma Lâmina-Tesoura...\nQuem porra é você?"
+  },
+  {
+   "id": "C012_VS_C011_ENTRY_2P_02_KEYWORD_02",
+   "en": "Stay cool, Ryuko.\nWhen weird things like this happen, there's usually one reason why.",
+   "pt": "Fica calma, Ryuko.\nQuando coisas esquisitas assim acontecem, geralmente tem um motivo."
+  },
+  {
+   "id": "C012_VS_C011_ENTRY_2P_02_KEYWORD_03",
+   "en": "The Life Fibers!",
+   "pt": "As Fibras de Vida!"
+  },
+  {
+   "id": "C012_VS_C012_ENTRY_1P_01_KEYWORD_01",
+   "en": "Who the hell do you think you are?\nYou got some balls, copyin' me!",
+   "pt": "Quem caralho você pensa que é?\nVocê tem culhões pra me copiar!"
+  },
+  {
+   "id": "C012_VS_C012_ENTRY_1P_01_KEYWORD_02",
+   "en": "Stay cool, Ryuko. We don't know how many of them there are.\nWe have to be cautious.",
+   "pt": "Fica calma, Ryuko. Não sabemos quantos deles existem.\nTemos que ter cuidado."
+  },
+  {
+   "id": "C012_VS_C012_ENTRY_1P_01_KEYWORD_03",
+   "en": "I know, I know.",
+   "pt": "Eu sei, eu sei."
+  },
+  {
+   "id": "C012_VS_C012_ENTRY_1P_02_KEYWORD_01",
+   "en": "What're you copyin' me for?! Is this some kinda joke?!\nWho the hell are you?! ",
+   "pt": "Tá me copiando pra quê?! Isso é alguma piada, caralho?!\nQuem porra é você?! "
+  },
+  {
+   "id": "C012_VS_C012_ENTRY_1P_02_KEYWORD_02",
+   "en": "It's probably a Life Fiber trick.",
+   "pt": "Provavelmente é um truque das Fibras de Vida."
+  },
+  {
+   "id": "C012_VS_C012_ENTRY_1P_02_KEYWORD_03",
+   "en": "Then that means I gotta cut 'er up... real good!",
+   "pt": "Então isso quer dizer que eu tenho que fatiá-la... bem fatiada!"
+  },
+  {
+   "id": "C012_VS_C012_ENTRY_2P_01_KEYWORD_01",
+   "en": "You're the faker!\nAnd I'm gonna peel that fake skin right offa you!",
+   "pt": "Você que é a impostora!\nE eu vou arrancar essa sua pele falsa na porrada!"
+  },
+  {
+   "id": "C012_VS_C012_ENTRY_2P_01_KEYWORD_02",
+   "en": "Are the Life Fibers behind this...?",
+   "pt": "As Fibras de Vida estão por trás disso...?"
+  },
+  {
+   "id": "C012_VS_C012_ENTRY_2P_01_KEYWORD_03",
+   "en": "Fight now, think later Senketsu!",
+   "pt": "Lutar agora, pensar depois, Senketsu!"
+  },
+  {
+   "id": "C012_VS_C012_ENTRY_2P_02_KEYWORD_01",
+   "en": "I don't know who you are, but I'll cut you down if you get in my way!",
+   "pt": "Não sei quem você é, mas vou te cortar no meio se entrar no meu caminho!"
+  },
+  {
+   "id": "C012_VS_C012_ENTRY_2P_02_KEYWORD_02",
+   "en": "Heh! Being direct is among your best qualities!",
+   "pt": "Heh! Ser direta é uma das suas melhores qualidades!"
+  },
+  {
+   "id": "C012_VS_C012_ENTRY_2P_02_KEYWORD_03",
+   "en": "Shut up. C'mon, Senketsu!",
+   "pt": "Cala a boca. Vamos nessa, Senketsu!"
+  },
+  {
+   "id": "C012_VS_C021_ENTRY_1P_01_KEYWORD_01",
+   "en": "Okay, Satsuki Kiryuin!\nWe're gonna settle this right here!",
+   "pt": "Beleza, Satsuki Kiryuin!\nVamos resolver essa merda bem aqui!"
+  },
+  {
+   "id": "C012_VS_C021_ENTRY_1P_01_KEYWORD_02",
+   "en": "She's strong, Ryuko! Stay focused!",
+   "pt": "Ela é forte, Ryuko! Fique focada!"
+  },
+  {
+   "id": "C012_VS_C021_ENTRY_1P_01_KEYWORD_03",
+   "en": "Got it!",
+   "pt": "Pode deixar!"
+  },
+  {
+   "id": "C012_VS_C021_ENTRY_1P_02_KEYWORD_01",
+   "en": "You want it, you got it!\nWe'll see who's stronger after this! Here I come! ",
+   "pt": "Se é isso que você quer, você vai ter!\nVamos ver quem é a mais forte! Aí vou eu! "
+  },
+  {
+   "id": "C012_VS_C021_ENTRY_1P_02_KEYWORD_02",
+   "en": "Stay calm. You're blood's getting too hot. ",
+   "pt": "Fica calma. Seu sangue tá fervendo demais. "
+  },
+  {
+   "id": "C012_VS_C021_ENTRY_1P_02_KEYWORD_03",
+   "en": "I know.",
+   "pt": "Eu sei."
+  },
+  {
+   "id": "C012_VS_C021_ENTRY_2P_01_KEYWORD_01",
+   "en": "Yeah, we'll see about that.",
+   "pt": "É, nós vamos ver."
+  },
+  {
+   "id": "C012_VS_C021_ENTRY_2P_01_KEYWORD_02",
+   "en": "We've become stronger than ever, Ryuko.\nSo much so, we should be able to defeat Satsuki Kiryuin now!",
+   "pt": "Ficamos mais fortes do que nunca, Ryuko.\nTanto que devemos ser capazes de derrotar Satsuki Kiryuin agora!"
+  },
+  {
+   "id": "C012_VS_C021_ENTRY_2P_01_KEYWORD_03",
+   "en": "That's the spirit! Let's go, Senketsu!",
+   "pt": "Esse é o espírito! Vamos lá, Senketsu!"
+  },
+  {
+   "id": "C012_VS_C021_ENTRY_2P_02_KEYWORD_01",
+   "en": "Our weapon ain't the only thing that's different.\nMe and Senketsu are tighter than ever!",
+   "pt": "Nossa arma não é a única coisa que tá diferente.\nEu e o Senketsu estamos mais unidos do que nunca!"
+  },
+  {
+   "id": "C012_VS_C021_ENTRY_2P_02_KEYWORD_02",
+   "en": "I couldn't've said it better myself. Let's win this!",
+   "pt": "Eu não poderia ter dito melhor. Vamos vencer essa!"
+  },
+  {
+   "id": "C012_VS_C021_ENTRY_2P_02_KEYWORD_03",
+   "en": "Get ready, Satsuki Kiryuin!",
+   "pt": "Se prepara, Satsuki Kiryuin!"
+  },
+  {
+   "id": "C012_VS_C022_ENTRY_1P_01_KEYWORD_01",
+   "en": "Okay, Satsuki Kiryuin! We're gonna settle this right here!",
+   "pt": "Beleza, Satsuki Kiryuin! Vamos resolver essa merda bem aqui!"
+  },
+  {
+   "id": "C012_VS_C022_ENTRY_1P_01_KEYWORD_02",
+   "en": "She's strong, Ryuko! Stay focused!",
+   "pt": "Ela é forte, Ryuko! Fique focada!"
+  },
+  {
+   "id": "C012_VS_C022_ENTRY_1P_01_KEYWORD_03",
+   "en": "Got it!",
+   "pt": "Pode deixar!"
+  },
+  {
+   "id": "C012_VS_C022_ENTRY_1P_02_KEYWORD_01",
+   "en": "You want it, you got it!\nWe'll see who's stronger after this! Here I come! ",
+   "pt": "Se é isso que você quer, você vai ter!\nVamos ver quem é a mais forte! Aí vou eu! "
+  },
+  {
+   "id": "C012_VS_C022_ENTRY_1P_02_KEYWORD_02",
+   "en": "Stay calm. You're blood's getting too hot. ",
+   "pt": "Fica calma. Seu sangue tá fervendo demais. "
+  },
+  {
+   "id": "C012_VS_C022_ENTRY_1P_02_KEYWORD_03",
+   "en": "I know.",
+   "pt": "Eu sei."
+  },
+  {
+   "id": "C012_VS_C022_ENTRY_2P_01_KEYWORD_01",
+   "en": "Yeah, we'll see about that.",
+   "pt": "É, nós vamos ver."
+  },
+  {
+   "id": "C012_VS_C022_ENTRY_2P_01_KEYWORD_02",
+   "en": "We've become stronger than ever, Ryuko.\nSo much so, we should be able to defeat Satsuki Kiryuin now!",
+   "pt": "Ficamos mais fortes do que nunca, Ryuko.\nTanto que devemos ser capazes de derrotar Satsuki Kiryuin agora!"
+  },
+  {
+   "id": "C012_VS_C022_ENTRY_2P_01_KEYWORD_03",
+   "en": "That's the spirit! Let's go, Senketsu!",
+   "pt": "Esse é o espírito! Vamos lá, Senketsu!"
+  },
+  {
+   "id": "C012_VS_C022_ENTRY_2P_02_KEYWORD_01",
+   "en": "Oh, I'm ready all right! Are you ready, Satsuki Kiryuin!",
+   "pt": "Ah, eu tô super pronta! E você, Satsuki Kiryuin?!"
+  },
+  {
+   "id": "C012_VS_C022_ENTRY_2P_02_KEYWORD_02",
+   "en": "Ryuko... let's show them what we've got!",
+   "pt": "Ryuko... vamos mostrar do que somos feitos!"
+  },
+  {
+   "id": "C012_VS_C022_ENTRY_2P_02_KEYWORD_03",
+   "en": "Yeah! Let's bust their shit, Senketsu!",
+   "pt": "É isso aí! Vamos foder com ela, Senketsu!"
+  },
+  {
+   "id": "C012_VS_C031_ENTRY_1P_01_KEYWORD_01",
+   "en": "What's up, Gamagoori! I'm back and stronger than ever!",
+   "pt": "E aí, Gamagoori! Eu voltei, caralho, e mais forte do que nunca!"
+  },
+  {
+   "id": "C012_VS_C031_ENTRY_1P_01_KEYWORD_02",
+   "en": "Ryuko! Did you forget?\nThe more damage he takes, the stronger he gets!",
+   "pt": "Ryuko! Você se esqueceu?\nQuanto mais dano ele leva, mais forte ele fica!"
+  },
+  {
+   "id": "C012_VS_C031_ENTRY_1P_01_KEYWORD_03",
+   "en": "I know, I know! Jeez!",
+   "pt": "Eu sei, cacete! Que saco!"
+  },
+  {
+   "id": "C012_VS_C031_ENTRY_1P_02_KEYWORD_01",
+   "en": "These Elite Four dicks ain't got nothing on me now!",
+   "pt": "Esses babacas dos Quatro Elites não são de nada pra mim agora!"
+  },
+  {
+   "id": "C012_VS_C031_ENTRY_1P_02_KEYWORD_02",
+   "en": "Don't get cocky, Ryuko. Let your guard down and it's over.",
+   "pt": "Não fique convencida, Ryuko. Baixe a guarda e já era."
+  },
+  {
+   "id": "C012_VS_C031_ENTRY_1P_02_KEYWORD_03",
+   "en": "Quit worrying! I'm goin' full blast, like always! It's all or nothing!",
+   "pt": "Para de se preocupar! Eu vou com tudo, como sempre! É tudo ou nada!"
+  },
+  {
+   "id": "C012_VS_C031_ENTRY_2P_01_KEYWORD_01",
+   "en": "Sounds good, you kinky freak! Let's get it on!",
+   "pt": "Beleza, seu tarado de merda! Vem pra cima!"
+  },
+  {
+   "id": "C012_VS_C031_ENTRY_2P_01_KEYWORD_02",
+   "en": "Remember, he can absorb damage and convert it to power.\nOur chance comes when he releases that power.",
+   "pt": "Lembre-se, ele pode absorver o dano e convertê-lo em poder.\nNossa chance será quando ele liberar esse poder."
+  },
+  {
+   "id": "C012_VS_C031_ENTRY_2P_01_KEYWORD_03",
+   "en": "Thanks, Senketsu. I can always count on you!",
+   "pt": "Valeu, Senketsu. Eu sempre posso contar com você!"
+  },
+  {
+   "id": "C012_VS_C031_ENTRY_2P_02_KEYWORD_01",
+   "en": "Hah, right on! I'll shred your Goku Uniform to bits!",
+   "pt": "Hah, então cai dentro! Eu vou rasgar o seu Uniforme Goku em pedacinhos!"
+  },
+  {
+   "id": "C012_VS_C031_ENTRY_2P_02_KEYWORD_02",
+   "en": "He's a tough opponent. Don't taunt him too hard!",
+   "pt": "Ele é um oponente durão. Não o provoque demais!"
+  },
+  {
+   "id": "C012_VS_C031_ENTRY_2P_02_KEYWORD_03",
+   "en": "I'll just flip the script on him!",
+   "pt": "Eu só vou virar o jogo contra ele!"
+  },
+  {
+   "id": "C012_VS_C041_ENTRY_1P_01_KEYWORD_01",
+   "en": "Let's go Sanageyama! You wanted a fight, so now... you got one!",
+   "pt": "Vamos lá, Sanageyama! Você queria briga, então... pode vir, caralho!"
+  },
+  {
+   "id": "C012_VS_C041_ENTRY_1P_01_KEYWORD_02",
+   "en": "His senses are enhanced. I hope you have a plan...",
+   "pt": "Os sentidos dele são aguçados. Espero que você tenha um plano..."
+  },
+  {
+   "id": "C012_VS_C041_ENTRY_1P_01_KEYWORD_03",
+   "en": "Would you stop nagging! I'll figure it out while we're fighting!",
+   "pt": "Pode parar de encher o saco! Eu dou um jeito durante a luta!"
+  },
+  {
+   "id": "C012_VS_C041_ENTRY_1P_02_KEYWORD_01",
+   "en": "We're gonna finish this, Sanageyama! One on one!",
+   "pt": "Nós vamos terminar isso, Sanageyama! Mano a mano!"
+  },
+  {
+   "id": "C012_VS_C041_ENTRY_1P_02_KEYWORD_02",
+   "en": "Two on one... if you include me.",
+   "pt": "Dois contra um... se você me incluir."
+  },
+  {
+   "id": "C012_VS_C041_ENTRY_1P_02_KEYWORD_03",
+   "en": "Oh, details sch-metails!",
+   "pt": "Ah, que se fodam os detalhes!"
+  },
+  {
+   "id": "C012_VS_C041_ENTRY_2P_01_KEYWORD_01",
+   "en": "Keep talkin', jackass!\nYou're about to see my style up close and personal!",
+   "pt": "Continua falando, seu cuzão!\nVocê tá prestes a ver o meu estilo bem de perto!"
+  },
+  {
+   "id": "C012_VS_C041_ENTRY_2P_01_KEYWORD_02",
+   "en": "Watch it. He's a far more skilled swordsman than you are.",
+   "pt": "Cuidado. Ele é um espadachim muito mais habilidoso que você."
+  },
+  {
+   "id": "C012_VS_C041_ENTRY_2P_01_KEYWORD_03",
+   "en": "This isn't kendo. I don't intend on fighting with just my swords in the first place!",
+   "pt": "Isso não é kendo. Pra começo de conversa, eu nem pretendo lutar só com minhas espadas!"
+  },
+  {
+   "id": "C012_VS_C041_ENTRY_2P_02_KEYWORD_01",
+   "en": "Yeah, we'll see about that.\nJust don't come crying to me when you lose!",
+   "pt": "É, nós vamos ver isso.\nSó não venha chorando pra mim quando perder!"
+  },
+  {
+   "id": "C012_VS_C041_ENTRY_2P_02_KEYWORD_02",
+   "en": "He knows how to use a sword. So, mind your distance!",
+   "pt": "Ele sabe como usar uma espada. Então, mantenha a distância!"
+  },
+  {
+   "id": "C012_VS_C041_ENTRY_2P_02_KEYWORD_03",
+   "en": "Roger that!",
+   "pt": "Entendido!"
+  },
+  {
+   "id": "C012_VS_C051_ENTRY_1P_01_KEYWORD_01",
+   "en": "Jakuzure, those beats of yours give me a damn headache, so I'm gonna have to take you down nice and quick.",
+   "pt": "Jakuzure, essas tuas batidas me dão uma dor de cabeça da porra, então vou ter que te derrubar bem rapidinho."
+  },
+  {
+   "id": "C012_VS_C051_ENTRY_1P_01_KEYWORD_02",
+   "en": "And the faster, the better. That noise is awful!",
+   "pt": "E quanto mais rápido, melhor. Esse barulho é horrível!"
+  },
+  {
+   "id": "C012_VS_C051_ENTRY_1P_01_KEYWORD_03",
+   "en": "Then let's do it fast, so you can get some peace and quiet!",
+   "pt": "Então vamos fazer isso rápido, pra você ter um pouco de paz e silêncio!"
+  },
+  {
+   "id": "C012_VS_C051_ENTRY_1P_02_KEYWORD_01",
+   "en": "I don't have time to sit through your crap.\nSorry, but I'm gonna be cutting this little performance of yours short!",
+   "pt": "Não tenho tempo pra aturar suas merdas.\nDesculpa, mas eu vou interromper essa sua performancezinha ridícula!"
+  },
+  {
+   "id": "C012_VS_C051_ENTRY_1P_02_KEYWORD_02",
+   "en": "Yes, please. I've had enough of those awful sounds.",
+   "pt": "Sim, por favor. Já me cansei desses sons horríveis."
+  },
+  {
+   "id": "C012_VS_C051_ENTRY_1P_02_KEYWORD_03",
+   "en": "Then let's make this quick and shut her up!",
+   "pt": "Então vamos ser rápidos e calar a boca daquela vadia!"
+  },
+  {
+   "id": "C012_VS_C051_ENTRY_2P_01_KEYWORD_01",
+   "en": "You never stop talking, do you?\nWhy don't you find out for yourself if this thing is a toy or not?!",
+   "pt": "Você nunca cala a boca, né?\nPor que você não descobre por si mesma se essa porra é um brinquedo ou não?!"
+  },
+  {
+   "id": "C012_VS_C051_ENTRY_2P_01_KEYWORD_02",
+   "en": "Beating her will be tough.\nShe specializes in long-range attacks. What's your plan?",
+   "pt": "Vencê-la será difícil.\nEla é especialista em ataques à distância. Qual é o seu plano?"
+  },
+  {
+   "id": "C012_VS_C051_ENTRY_2P_01_KEYWORD_03",
+   "en": "Fight first, think later!",
+   "pt": "Lutar primeiro, pensar depois!"
+  },
+  {
+   "id": "C012_VS_C051_ENTRY_2P_02_KEYWORD_01",
+   "en": "Act tough while you still can!\nI'm gonna cut you in two before you can even blink!",
+   "pt": "Banca a durona enquanto pode!\nEu vou te cortar no meio antes mesmo que consiga piscar!"
+  },
+  {
+   "id": "C012_VS_C051_ENTRY_2P_02_KEYWORD_02",
+   "en": "Well...? Do you have a plan?",
+   "pt": "E então...? Você tem um plano?"
+  },
+  {
+   "id": "C012_VS_C051_ENTRY_2P_02_KEYWORD_03",
+   "en": "Get in close and cut her up!",
+   "pt": "Chegar perto e fatiar ela inteira, porra!"
+  },
+  {
+   "id": "C012_VS_C061_ENTRY_1P_01_KEYWORD_01",
+   "en": "You're always yappin' about data and shit!\nYou're gonna need more than that to beat me you, nerd! ",
+   "pt": "Você sempre tagarelando sobre dados e o caralho a quatro!\nVocê vai precisar de mais que isso pra me vencer, seu nerd de merda!"
+  },
+  {
+   "id": "C012_VS_C061_ENTRY_1P_01_KEYWORD_02",
+   "en": "I hope you have some kind of plan in mind...",
+   "pt": "Espero que você tenha algum tipo de plano em mente..."
+  },
+  {
+   "id": "C012_VS_C061_ENTRY_1P_01_KEYWORD_03",
+   "en": "Same plan as always: go nuts!",
+   "pt": "O mesmo plano de sempre: descer a porrada!"
+  },
+  {
+   "id": "C012_VS_C061_ENTRY_1P_02_KEYWORD_01",
+   "en": "You can't handle our data, geekster!",
+   "pt": "Você não consegue lidar com os nossos dados, seu nerdola de merda!"
+  },
+  {
+   "id": "C012_VS_C061_ENTRY_1P_02_KEYWORD_02",
+   "en": "Indeed. We grow stronger every day!",
+   "pt": "De fato. Nós ficamos mais fortes a cada dia!"
+  },
+  {
+   "id": "C012_VS_C061_ENTRY_1P_02_KEYWORD_03",
+   "en": "Hell yeah!",
+   "pt": "Isso aí, porra!"
+  },
+  {
+   "id": "C012_VS_C061_ENTRY_2P_01_KEYWORD_01",
+   "en": "Okay! And while you're busy doin' that, I'll be chopping you up!",
+   "pt": "Beleza! E enquanto você tá ocupado com isso, eu vou te cortar em pedaços!"
+  },
+  {
+   "id": "C012_VS_C061_ENTRY_2P_01_KEYWORD_02",
+   "en": "Watch it. The same attack isn't going to work twice on him.",
+   "pt": "Cuidado. O mesmo ataque não vai funcionar duas vezes nele."
+  },
+  {
+   "id": "C012_VS_C061_ENTRY_2P_01_KEYWORD_03",
+   "en": "Then I just gotta go even crazier!",
+   "pt": "Então eu só preciso ser mais insana ainda!"
+  },
+  {
+   "id": "C012_VS_C061_ENTRY_2P_02_KEYWORD_01",
+   "en": "Forever, that's how long! I can do this all day, all night!",
+   "pt": "Pra sempre! Eu posso fazer isso o dia e a noite inteiros, caralho!"
+  },
+  {
+   "id": "C012_VS_C061_ENTRY_2P_02_KEYWORD_02",
+   "en": "If this fight does end up going longer, keep nonessential moves to a minimum.",
+   "pt": "Se essa luta acabar se prolongando, mantenha os movimentos não essenciais ao mínimo."
+  },
+  {
+   "id": "C012_VS_C061_ENTRY_2P_02_KEYWORD_03",
+   "en": "Not even! I'll take 'im out before he's done blinking!",
+   "pt": "Que nada! Eu vou acabar com ele antes de ele terminar de piscar!"
+  },
+  {
+   "id": "C012_VS_C071_ENTRY_1P_01_KEYWORD_01",
+   "en": "I don't got business with Satsuki's mom, but if she gets in my way, I'll kick her ass.",
+   "pt": "Eu não tenho treta com a mãe da Satsuki, mas se ela entrar no meu caminho, eu vou meter a porrada nela."
+  },
+  {
+   "id": "C012_VS_C071_ENTRY_1P_01_KEYWORD_02",
+   "en": "Be careful with her, Ryuko! She's on a whole other level.",
+   "pt": "Tome cuidado com ela, Ryuko! Ela está em um nível totalmente diferente."
+  },
+  {
+   "id": "C012_VS_C071_ENTRY_1P_01_KEYWORD_03",
+   "en": "Yeah, I guess. She is Satsuki's mom, after all.",
+   "pt": "É, eu acho. Ela é a mãe da Satsuki, afinal de contas."
+  },
+  {
+   "id": "C012_VS_C071_ENTRY_1P_02_KEYWORD_01",
+   "en": "You got no business in this fight.\nSo why don'chya back the hell off!",
+   "pt": "Você não tem nada a ver com essa luta.\nEntão por que não dá o fora, porra!"
+  },
+  {
+   "id": "C012_VS_C071_ENTRY_1P_02_KEYWORD_02",
+   "en": "We're in trouble Ryuko. She's dangerous...!",
+   "pt": "Estamos com problemas, Ryuko. Ela é perigosa...!"
+  },
+  {
+   "id": "C012_VS_C071_ENTRY_1P_02_KEYWORD_03",
+   "en": "Yeah I know! But I can't back down!",
+   "pt": "É, eu sei, caralho! Mas não posso recuar!"
+  },
+  {
+   "id": "C012_VS_C071_ENTRY_2P_01_KEYWORD_01",
+   "en": "You're Satsuki Kiryuin's mother, aren't you?!\nHow do you know my father?!",
+   "pt": "Você é a mãe da Satsuki Kiryuin, não é?!\nComo você conhece o meu pai?!"
+  },
+  {
+   "id": "C012_VS_C071_ENTRY_2P_01_KEYWORD_02",
+   "en": "Keep calm, Ryuko.\nFocus on figuring out how to make it out of this situation in one piece.",
+   "pt": "Mantenha a calma, Ryuko.\nConcentre-se em descobrir como sair dessa situação inteira."
+  },
+  {
+   "id": "C012_VS_C071_ENTRY_2P_01_KEYWORD_03",
+   "en": "Yeah, yeah, I know!",
+   "pt": "Tá, tá, eu sei!"
+  },
+  {
+   "id": "C012_VS_C071_ENTRY_2P_02_KEYWORD_01",
+   "en": "Just one thing and you'll hate it. I'm gonna your goddam head off!",
+   "pt": "Só uma coisa e você vai odiar. Eu vou arrancar a porra da sua cabeça!"
+  },
+  {
+   "id": "C012_VS_C071_ENTRY_2P_02_KEYWORD_02",
+   "en": "I get that you're worked up... but she's even stronger than her daughter.",
+   "pt": "Eu entendo que você esteja nervosa... mas ela é ainda mais forte que a filha dela."
+  },
+  {
+   "id": "C012_VS_C071_ENTRY_2P_02_KEYWORD_03",
+   "en": "It doesn't matter. I'll cut down whoever gets in my way!",
+   "pt": "Foda-se. Eu corto no meio quem quer que fique no meu caminho!"
+  },
+  {
+   "id": "C012_VS_C081_ENTRY_1P_01_KEYWORD_01",
+   "en": "You killed my dad, Nui! And for that, I'm gonna kill YOU!",
+   "pt": "Você matou o meu pai, Nui! E por causa disso, eu vou te matar, sua desgraçada!"
+  },
+  {
+   "id": "C012_VS_C081_ENTRY_1P_01_KEYWORD_02",
+   "en": "I know how you feel, Ryuko. But try to stay calm.",
+   "pt": "Eu sei como você se sente, Ryuko. Mas tente manter a calma."
+  },
+  {
+   "id": "C012_VS_C081_ENTRY_1P_01_KEYWORD_03",
+   "en": "Don't worry, I won't spazz out anymore.",
+   "pt": "Não se preocupa, eu não vou mais surtar."
+  },
+  {
+   "id": "C012_VS_C081_ENTRY_1P_02_KEYWORD_01",
+   "en": "You lil bitch! I'm gonna give you a good ol' fashioned ass kicking!",
+   "pt": "Sua vadiazinha! Eu vou te dar uma surra daquelas bem dadas, caralho!"
+  },
+  {
+   "id": "C012_VS_C081_ENTRY_1P_02_KEYWORD_02",
+   "en": "Stay calm. Don't let her get to you.",
+   "pt": "Fica calma. Não a deixe te provocar."
+  },
+  {
+   "id": "C012_VS_C081_ENTRY_1P_02_KEYWORD_03",
+   "en": "I'll make sure she goes down and stays down.",
+   "pt": "Eu vou garantir que essa vagabunda caia e não levante mais."
+  },
+  {
+   "id": "C012_VS_C081_ENTRY_2P_01_KEYWORD_01",
+   "en": "You killed my dad, Nui! And for that, I'm gonna kill YOU!",
+   "pt": "Você matou o meu pai, Nui! E por causa disso, eu vou te matar, sua desgraçada!"
+  },
+  {
+   "id": "C012_VS_C081_ENTRY_2P_01_KEYWORD_02",
+   "en": "I know how you feel, Ryuko. But try to stay calm.",
+   "pt": "Eu sei como você se sente, Ryuko. Mas tente manter a calma."
+  },
+  {
+   "id": "C012_VS_C081_ENTRY_2P_01_KEYWORD_03",
+   "en": "Don't worry, I won't spazz out anymore.",
+   "pt": "Não se preocupa, eu não vou mais surtar."
+  },
+  {
+   "id": "C012_VS_C081_ENTRY_2P_02_KEYWORD_01",
+   "en": "I don't need you to tell me that, you lil freak!",
+   "pt": "Não preciso que você me diga isso, sua esquisita de merda!"
+  },
+  {
+   "id": "C012_VS_C081_ENTRY_2P_02_KEYWORD_02",
+   "en": "Stay calm. Don't let her get to you.",
+   "pt": "Fica calma. Não a deixe te provocar."
+  },
+  {
+   "id": "C012_VS_C081_ENTRY_2P_02_KEYWORD_03",
+   "en": "I'll make sure she goes down and stays down.",
+   "pt": "Eu vou garantir que essa vagabunda caia e não levante mais."
+  },
+  {
+   "id": "C012_VS_C141_ENTRY_1P_01_KEYWORD_01",
+   "en": "If we're really gonna do this, let's give it all we got. C'mon, Mako!",
+   "pt": "Se a gente realmente vai fazer isso, vamos dar tudo de nós. Vem, Mako!"
+  },
+  {
+   "id": "C012_VS_C141_ENTRY_1P_01_KEYWORD_02",
+   "en": "I'm confused here. Why exactly are we fighting Mako...?",
+   "pt": "Estou confuso. Por que exatamente estamos lutando contra a Mako...?"
+  },
+  {
+   "id": "C012_VS_C141_ENTRY_1P_01_KEYWORD_03",
+   "en": "That's what I wanna know!",
+   "pt": "É isso que eu também quero saber, porra!"
+  },
+  {
+   "id": "C012_VS_C141_ENTRY_1P_02_KEYWORD_01",
+   "en": "Let's go, Mako. But if you lose, no crying about it later!",
+   "pt": "Vamos lá, Mako. Mas se perder, sem choro depois!"
+  },
+  {
+   "id": "C012_VS_C141_ENTRY_1P_02_KEYWORD_02",
+   "en": "Wait, Ryuko. She's wearing a Goku Uniform.",
+   "pt": "Espere, Ryuko. Ela está vestindo um Uniforme Goku."
+  },
+  {
+   "id": "C012_VS_C141_ENTRY_1P_02_KEYWORD_03",
+   "en": "If I know Mako, she probably found it layin' around!",
+   "pt": "Conhecendo a Mako, ela deve ter achado jogado por aí!"
+  },
+  {
+   "id": "C012_VS_C141_ENTRY_2P_01_KEYWORD_01",
+   "en": "If we're really gonna do this, let's give it all we got. C'mon, Mako!",
+   "pt": "Se a gente realmente vai fazer isso, vamos dar tudo de nós. Vem, Mako!"
+  },
+  {
+   "id": "C012_VS_C141_ENTRY_2P_01_KEYWORD_02",
+   "en": "I'm confused here. Why exactly are we fighting Mako...?",
+   "pt": "Estou confuso. Por que exatamente estamos lutando contra a Mako...?"
+  },
+  {
+   "id": "C012_VS_C141_ENTRY_2P_01_KEYWORD_03",
+   "en": "That's what I wanna know!",
+   "pt": "É isso que eu também quero saber, porra!"
+  },
+  {
+   "id": "C012_VS_C141_ENTRY_2P_02_KEYWORD_01",
+   "en": "Let's go, Mako. But if you lose, no crying about it later!",
+   "pt": "Vamos lá, Mako. Mas se perder, sem choro depois!"
+  },
+  {
+   "id": "C012_VS_C141_ENTRY_2P_02_KEYWORD_02",
+   "en": "Wait, Ryuko. She's wearing a Goku Uniform.",
+   "pt": "Espere, Ryuko. Ela está vestindo um Uniforme Goku."
+  },
+  {
+   "id": "C012_VS_C141_ENTRY_2P_02_KEYWORD_03",
+   "en": "If I know Mako, she probably found it layin' around!",
+   "pt": "Conhecendo a Mako, ela deve ter achado jogado por aí!"
+  },
+  {
+   "id": "C012_VS_C151_ENTRY_1P_01_KEYWORD_01",
+   "en": "If you get in my way, I'll take that goofy thing apart WITH you in it!",
+   "pt": "Se entrar no meu caminho, eu vou desmontar essa coisa ridícula COM você dentro, porra!"
+  },
+  {
+   "id": "C012_VS_C151_ENTRY_1P_01_KEYWORD_02",
+   "en": "Careful. There's no way a weapon exists that just fully exposes its weak point like that... It has to be a trap!",
+   "pt": "Cuidado. Não tem como existir uma arma que deixa o ponto fraco exposto assim... Deve ser uma armadilha!"
+  },
+  {
+   "id": "C012_VS_C151_ENTRY_1P_01_KEYWORD_03",
+   "en": "You might be right. Let's stay focused.",
+   "pt": "Você deve ter razão. Vamos manter o foco."
+  },
+  {
+   "id": "C012_VS_C151_ENTRY_1P_02_KEYWORD_01",
+   "en": "That thing's hilarious! Wait...Are you messin' with me?",
+   "pt": "Essa merda é hilária! Espera... Cê tá tirando uma com a minha cara?"
+  },
+  {
+   "id": "C012_VS_C151_ENTRY_1P_02_KEYWORD_02",
+   "en": "This opponent is crafty. Don't let your guard down!",
+   "pt": "Esse oponente é astuto. Não baixe a guarda!"
+  },
+  {
+   "id": "C012_VS_C151_ENTRY_1P_02_KEYWORD_03",
+   "en": "Got it!",
+   "pt": "Saquei!"
+  },
+  {
+   "id": "C012_VS_C151_ENTRY_2P_01_KEYWORD_01",
+   "en": "If you get in my way, I'll take that goofy thing apart WITH you in it!",
+   "pt": "Se entrar no meu caminho, eu vou desmontar essa coisa ridícula COM você dentro, porra!"
+  },
+  {
+   "id": "C012_VS_C151_ENTRY_2P_01_KEYWORD_02",
+   "en": "Careful. There's no way a weapon exists that just fully exposes its weak point like that... It has to be a trap!",
+   "pt": "Cuidado. Não tem como existir uma arma que deixa o ponto fraco exposto assim... Deve ser uma armadilha!"
+  },
+  {
+   "id": "C012_VS_C151_ENTRY_2P_01_KEYWORD_03",
+   "en": "You might be right. Let's stay focused.",
+   "pt": "Você deve ter razão. Vamos manter o foco."
+  },
+  {
+   "id": "C012_VS_C151_ENTRY_2P_02_KEYWORD_01",
+   "en": "That thing's hilarious! Wait...Are you messin' with me?",
+   "pt": "Essa merda é hilária! Espera... Cê tá tirando uma com a minha cara?"
+  },
+  {
+   "id": "C012_VS_C151_ENTRY_2P_02_KEYWORD_02",
+   "en": "This opponent is crafty. Don't let your guard down!",
+   "pt": "Esse oponente é astuto. Não baixe a guarda!"
+  },
+  {
+   "id": "C012_VS_C151_ENTRY_2P_02_KEYWORD_03",
+   "en": "Got it!",
+   "pt": "Saquei!"
+  },
+  {
+   "id": "C012_SP_NEAR_01_KEYWORD",
+   "en": "Lets go!　Right!",
+   "pt": "Vamos lá!　Certo!"
+  },
+  {
+   "id": "C012_SP_NEAR_02_KEYWORD",
+   "en": "Senketsu!",
+   "pt": "Senketsu!"
+  },
+  {
+   "id": "C012_SP_NEAR_03_KEYWORD",
+   "en": "Right!",
+   "pt": "Certo!"
+  },
+  {
+   "id": "C012_SP_NEAR_04_KEYWORD",
+   "en": "Haaah!",
+   "pt": "Haaah!"
+  },
+  {
+   "id": "C012_SP_NEAR_05_KEYWORD",
+   "en": "Uooooh!",
+   "pt": "Uooooh!"
+  },
+  {
+   "id": "C012_SP_NEAR_06_KEYWORD",
+   "en": "Gonna slice you nice and thin!",
+   "pt": "Vou fatiar você bem fininho, caralho!"
+  },
+  {
+   "id": "C012_SP_NEAR_07_KEYWORD",
+   "en": "Haah!",
+   "pt": "Haah!"
+  },
+  {
+   "id": "C012_SP_NEAR_08_KEYWORD",
+   "en": "I'll cut you to bits!",
+   "pt": "Eu vou te cortar em pedaços!"
+  },
+  {
+   "id": "C012_SP_FAR_01_KEYWORD",
+   "en": "You got this Senketsu?!",
+   "pt": "Você consegue, Senketsu?!"
+  },
+  {
+   "id": "C012_SP_FAR_02_KEYWORD",
+   "en": "I'm counting on you, Senketsu!",
+   "pt": "Tô contando com você, Senketsu!"
+  },
+  {
+   "id": "C012_SP_FAR_03_KEYWORD",
+   "en": "Leave it to me!",
+   "pt": "Deixa comigo!"
+  },
+  {
+   "id": "C012_SP_FAR_04_KEYWORD",
+   "en": "Yeah, leave it to me!",
+   "pt": "Sim, deixa comigo!"
+  },
+  {
+   "id": "C012_SP_FAR_05_KEYWORD",
+   "en": "Dual-Blade Decapitation Mode!",
+   "pt": "Modo Decapitação de Duas Lâminas!"
+  },
+  {
+   "id": "C012_SP_FAR_06_KEYWORD",
+   "en": "Haaah!",
+   "pt": "Haaah!"
+  },
+  {
+   "id": "C012_SP_FAR_07_KEYWORD",
+   "en": "Uragh!",
+   "pt": "Uragh!"
+  },
+  {
+   "id": "C012_SP_FAR_08_KEYWORD",
+   "en": "Yah!",
+   "pt": "Yah!"
+  },
+  {
+   "id": "C012_SP_FAR_09_KEYWORD",
+   "en": "Yaaah!",
+   "pt": "Yaaah!"
+  },
+  {
+   "id": "C012_SP_FAR_10_KEYWORD",
+   "en": "Urya!",
+   "pt": "Urya!"
+  },
+  {
+   "id": "C012_SP_FAR_11_KEYWORD",
+   "en": "Uryaaagh!",
+   "pt": "Uryaaagh!"
+  },
+  {
+   "id": "C012_SP_FAR_12_KEYWORD",
+   "en": "We're setting 'em up!　Roger!",
+   "pt": "Estamos armando pra eles!　Entendido!"
+  },
+  {
+   "id": "C012_SP_FAR_13_KEYWORD",
+   "en": "You ready for this?!　Leave it to me!",
+   "pt": "Pronto pra isso?!　Deixa comigo!"
+  },
+  {
+   "id": "C012_SP_FAR_14_KEYWORD",
+   "en": "Take this!",
+   "pt": "Toma essa, porra!"
+  },
+  {
+   "id": "C012_SP_FAR_15_KEYWORD",
+   "en": "I'm not done yet!",
+   "pt": "Eu ainda não terminei!"
+  },
+  {
+   "id": "C012_SP_BREAK_01_KEYWORD",
+   "en": "I got this!",
+   "pt": "É comigo mesma!"
+  },
+  {
+   "id": "C012_SP_BREAK_02_KEYWORD",
+   "en": "Let's do the thing, Senketsu!",
+   "pt": "Vamos fazer aquela parada, Senketsu!"
+  },
+  {
+   "id": "C012_SP_BREAK_03_KEYWORD",
+   "en": "Alright, let's do it.",
+   "pt": "Beleza, vamos nessa."
+  },
+  {
+   "id": "C012_SP_BREAK_04_KEYWORD",
+   "en": "Careful you don't overheat!",
+   "pt": "Cuidado pra não superaquecer!"
+  },
+  {
+   "id": "C012_SP_BREAK_05_KEYWORD",
+   "en": "Oooooh!",
+   "pt": "Oooooh!"
+  },
+  {
+   "id": "C012_SP_BREAK_06_KEYWORD",
+   "en": "Taaake thiiiis!",
+   "pt": "Toooma eeeessaaaaa!"
+  },
+  {
+   "id": "C012_SP_BREAK_07_KEYWORD",
+   "en": "Yaaaah!",
+   "pt": "Yaaaah!"
+  },
+  {
+   "id": "C012_SP_BREAK_08_KEYWORD",
+   "en": "Thereeeee!!!",
+   "pt": "Aíííí!!!"
+  },
+  {
+   "id": "C012_SP_BREAK_09_KEYWORD",
+   "en": "You got this?!　Leave it to me!",
+   "pt": "Consegue?!　Deixa comigo!"
+  },
+  {
+   "id": "C012_SSP_BREAK_01_KEYWORD",
+   "en": "Here we gooo!",
+   "pt": "Aqui vamos nóoooos!"
+  },
+  {
+   "id": "C012_SSP_BREAK_02_KEYWORD",
+   "en": "Let's gooo!",
+   "pt": "Vamoooos!"
+  },
+  {
+   "id": "C012_SSP_BREAK_03_KEYWORD",
+   "en": "Yaaah!",
+   "pt": "Yaaah!"
+  },
+  {
+   "id": "C012_SSP_BREAK_04_KEYWORD",
+   "en": "Have s'more!",
+   "pt": "Toma mais um pouco!"
+  },
+  {
+   "id": "C012_SSP_BREAK_05_KEYWORD",
+   "en": "Let's do this, Senketsu!",
+   "pt": "Vamos acabar com isso, Senketsu!"
+  },
+  {
+   "id": "C012_SSP_BREAK_06_KEYWORD",
+   "en": "Yeah, let's make it count!",
+   "pt": "Sim, vamos fazer valer a pena!"
+  },
+  {
+   "id": "C012_SSP_BREAK_07_KEYWORD",
+   "en": "Leave it to me!",
+   "pt": "Deixa comigo!"
+  },
+  {
+   "id": "C012_SSP_BREAK_08_KEYWORD",
+   "en": "Ryuko!",
+   "pt": "Ryuko!"
+  },
+  {
+   "id": "C012_SSP_BREAK_09_KEYWORD",
+   "en": "You're finished!",
+   "pt": "Você já era!"
+  },
+  {
+   "id": "C012_SSP_BREAK_10_KEYWORD",
+   "en": "It's ooooveeeer!",
+   "pt": "Acaboooouuuu!"
+  },
+  {
+   "id": "C012_SSP_BREAK_11_KEYWORD",
+   "en": "No point running!",
+   "pt": "Não adianta fugir!"
+  },
+  {
+   "id": "C012_SSP_BREAK_12_KEYWORD",
+   "en": "Can't get away from this one!",
+   "pt": "Não dá pra escapar dessa, porra!"
+  },
+  {
+   "id": "C012_SSP_BREAK_13_KEYWORD",
+   "en": "Let's do the thing!",
+   "pt": "Vamos fazer aquela parada!"
+  },
+  {
+   "id": "C012_SSP_BREAK_14_KEYWORD",
+   "en": "Let's speed things up!",
+   "pt": "Vamos acelerar as coisas!"
+  },
+  {
+   "id": "C012_SSP_BREAK_15_KEYWORD",
+   "en": "Roger that, full throttle!",
+   "pt": "Entendido, força total!"
+  },
+  {
+   "id": "C012_SSP_BREAK_16_KEYWORD",
+   "en": "I'm doin' this!",
+   "pt": "Eu vou acabar com isso!"
+  },
+  {
+   "id": "C012_VS_C011_DECISION0_S_UPPER_KEYWORD",
+   "en": "Screw you!",
+   "pt": "Vai se foder!"
+  },
+  {
+   "id": "C012_VS_C011_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "I'll crush everything!\nYour \"great\" ambitions, your perverted sense of self-worth, or whatever!",
+   "pt": "Eu vou esmagar tudo!\nSuas \"grandes\" ambições, seu senso pervertido de valor próprio, ou o que for, caralho!"
+  },
+  {
+   "id": "C012_VS_C011_DECISION0_S_LOWER_KEYWORD",
+   "en": "I'll destroy all of it!",
+   "pt": "Eu vou destruir tudo isso!"
+  },
+  {
+   "id": "C012_VS_C011_DECISION0_P_UPPER_KEYWORD",
+   "en": "God, you're so annoying!",
+   "pt": "Porra, você é muito chata!"
+  },
+  {
+   "id": "C012_VS_C011_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "All of you keep goin' on and on about nothing!",
+   "pt": "Todos vocês continuam falando, falando e falando sobre porra nenhuma!"
+  },
+  {
+   "id": "C012_VS_C011_DECISION0_P_LOWER_KEYWORD",
+   "en": "Shut up already!",
+   "pt": "Cala a boca de uma vez!"
+  },
+  {
+   "id": "C012_VS_C011_DECISION0_G_UPPER_KEYWORD",
+   "en": "What's wrong? Is that all you got?!",
+   "pt": "Qual o problema? É só isso que você tem?!"
+  },
+  {
+   "id": "C012_VS_C011_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "You're all talk and no action! Put up or shut up!",
+   "pt": "Você é só falação e nenhuma ação! Mostra a que veio ou cala a boca, caralho!"
+  }
+ ]
+}

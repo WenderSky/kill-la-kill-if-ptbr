@@ -1,0 +1,368 @@
+{
+ "origem": "message/MES_COMMON",
+ "conteudo": "Menus, sistema e avisos",
+ "parte": "8/8",
+ "instrucoes": "Traduza o campo 'en' para portugues do Brasil e escreva o resultado em 'pt'. Nao altere 'id'. Mantenha intactos os codigos entre chaves ({CA}, {LA}, {BR}, {JU}, {SP}, {GD}, {LS}, {L1}, {R1}, setas), os marcadores de formato (%d, %l, %ls, %hs) e as quebras de linha \\n. Se uma linha nao precisar de traducao, deixe 'pt' vazio.",
+ "linhas": [
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_341",
+   "en": "Win Quote VS Houka Inumuta Ver. A",
+   "pt": "Frase de Vitória VS Houka Inumuta Ver. A"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_342",
+   "en": "Win Quote VS Houka Inumuta Ver. B",
+   "pt": "Frase de Vitória VS Houka Inumuta Ver. B"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_343",
+   "en": "Win Quote VS Houka Inumuta Ver. C",
+   "pt": "Frase de Vitória VS Houka Inumuta Ver. C"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_344",
+   "en": "Win Quote VS Houka Inumuta Ver. D",
+   "pt": "Frase de Vitória VS Houka Inumuta Ver. D"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_345",
+   "en": "Win Quote VS Houka Inumuta Ver. E",
+   "pt": "Frase de Vitória VS Houka Inumuta Ver. E"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_346",
+   "en": "Win Quote VS Houka Inumuta Ver. F",
+   "pt": "Frase de Vitória VS Houka Inumuta Ver. F"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_350",
+   "en": "Win Quote VS Nonon Jakuzure",
+   "pt": "Frase de Vitória VS Nonon Jakuzure"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_351",
+   "en": "Win Quote VS Nonon Jakuzure Ver. A",
+   "pt": "Frase de Vitória VS Nonon Jakuzure Ver. A"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_352",
+   "en": "Win Quote VS Nonon Jakuzure Ver. B",
+   "pt": "Frase de Vitória VS Nonon Jakuzure Ver. B"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_353",
+   "en": "Win Quote VS Nonon Jakuzure Ver. C",
+   "pt": "Frase de Vitória VS Nonon Jakuzure Ver. C"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_354",
+   "en": "Win Quote VS Nonon Jakuzure Ver. D",
+   "pt": "Frase de Vitória VS Nonon Jakuzure Ver. D"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_355",
+   "en": "Win Quote VS Nonon Jakuzure Ver. E",
+   "pt": "Frase de Vitória VS Nonon Jakuzure Ver. E"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_356",
+   "en": "Win Quote VS Nonon Jakuzure Ver. F",
+   "pt": "Frase de Vitória VS Nonon Jakuzure Ver. F"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_360",
+   "en": "Win Quote VS Nui Harime",
+   "pt": "Frase de Vitória VS Nui Harime"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_361",
+   "en": "Win Quote VS Nui Harime Ver. A",
+   "pt": "Frase de Vitória VS Nui Harime Ver. A"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_362",
+   "en": "Win Quote VS Nui Harime Ver. B",
+   "pt": "Frase de Vitória VS Nui Harime Ver. B"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_363",
+   "en": "Win Quote VS Nui Harime Ver. C",
+   "pt": "Frase de Vitória VS Nui Harime Ver. C"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_364",
+   "en": "Win Quote VS Nui Harime Ver. D",
+   "pt": "Frase de Vitória VS Nui Harime Ver. D"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_365",
+   "en": "Win Quote VS Nui Harime Ver. E",
+   "pt": "Frase de Vitória VS Nui Harime Ver. E"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_366",
+   "en": "Win Quote VS Nui Harime Ver. F",
+   "pt": "Frase de Vitória VS Nui Harime Ver. F"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_370",
+   "en": "Win Quote VS Ragyo Kiryuin",
+   "pt": "Frase de Vitória VS Ragyo Kiryuin"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_371",
+   "en": "Win Quote VS Ragyo Kiryuin Ver. A",
+   "pt": "Frase de Vitória VS Ragyo Kiryuin Ver. A"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_372",
+   "en": "Win Quote VS Ragyo Kiryuin Ver. B",
+   "pt": "Frase de Vitória VS Ragyo Kiryuin Ver. B"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_373",
+   "en": "Win Quote VS Ragyo Kiryuin Ver. C",
+   "pt": "Frase de Vitória VS Ragyo Kiryuin Ver. C"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_374",
+   "en": "Win Quote VS Ragyo Kiryuin Ver. D",
+   "pt": "Frase de Vitória VS Ragyo Kiryuin Ver. D"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_375",
+   "en": "Win Quote VS Ragyo Kiryuin Ver. E",
+   "pt": "Frase de Vitória VS Ragyo Kiryuin Ver. E"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_376",
+   "en": "Win Quote VS Ragyo Kiryuin Ver. F",
+   "pt": "Frase de Vitória VS Ragyo Kiryuin Ver. F"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_380",
+   "en": "Win Quote VS Mako Mankanshoku",
+   "pt": "Frase de Vitória VS Mako Mankanshoku"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_381",
+   "en": "Win Quote VS Mako Mankanshoku Ver. A",
+   "pt": "Frase de Vitória VS Mako Mankanshoku Ver. A"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_382",
+   "en": "Win Quote VS Mako Mankanshoku Ver. B",
+   "pt": "Frase de Vitória VS Mako Mankanshoku Ver. B"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_383",
+   "en": "Win Quote VS Mako Mankanshoku Ver. C",
+   "pt": "Frase de Vitória VS Mako Mankanshoku Ver. C"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_384",
+   "en": "Win Quote VS Mako Mankanshoku Ver. D",
+   "pt": "Frase de Vitória VS Mako Mankanshoku Ver. D"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_385",
+   "en": "Win Quote VS Mako Mankanshoku Ver. E",
+   "pt": "Frase de Vitória VS Mako Mankanshoku Ver. E"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_386",
+   "en": "Win Quote VS Mako Mankanshoku Ver. F",
+   "pt": "Frase de Vitória VS Mako Mankanshoku Ver. F"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_390",
+   "en": "Win Quote VS Nudist Beach",
+   "pt": "Frase de Vitória VS Nudist Beach"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_391",
+   "en": "Win Quote VS Nudist Beach Ver. A",
+   "pt": "Frase de Vitória VS Nudist Beach Ver. A"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_392",
+   "en": "Win Quote VS Nudist Beach Ver. B",
+   "pt": "Frase de Vitória VS Nudist Beach Ver. B"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_393",
+   "en": "Win Quote VS Nudist Beach Ver. C",
+   "pt": "Frase de Vitória VS Nudist Beach Ver. C"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_394",
+   "en": "Win Quote VS Nudist Beach Ver. D",
+   "pt": "Frase de Vitória VS Nudist Beach Ver. D"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_395",
+   "en": "Win Quote VS Nudist Beach Ver. E",
+   "pt": "Frase de Vitória VS Nudist Beach Ver. E"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_396",
+   "en": "Win Quote VS Nudist Beach Ver. F",
+   "pt": "Frase de Vitória VS Nudist Beach Ver. F"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_900",
+   "en": "[Bonus] A message to the player",
+   "pt": "[Bônus] Mensagem para o jogador"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_901",
+   "en": "[Bonus] Reflecting on the recording sessions",
+   "pt": "[Bônus] Reflexões sobre as gravações"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_902",
+   "en": "[Bonus] Kill la Kill in one word",
+   "pt": "[Bônus] Kill la Kill em uma palavra"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_903",
+   "en": "[Bonus] A word of congratulations to you who beat the game",
+   "pt": "[Bônus] Mensagem de parabéns para quem concluiu o jogo"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_904",
+   "en": "[Bonus] A word of encouragement to you who live in this cruel world",
+   "pt": "[Bônus] Mensagem de encorajamento para quem vive neste mundo cruel"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_905",
+   "en": "Title Call",
+   "pt": "Fala de Título"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_906",
+   "en": "[Bonus] A message to the player (Ryuko)",
+   "pt": "[Bônus] Mensagem para o jogador (Ryuko)"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_907",
+   "en": "[Bonus] Reflecting on the recording sessions (Ryuko)",
+   "pt": "[Bônus] Reflexões sobre as gravações (Ryuko)"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_908",
+   "en": "[Bonus] Kill la Kill in one word (Ryuko)",
+   "pt": "[Bônus] Kill la Kill em uma palavra (Ryuko)"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_909",
+   "en": "[Bonus] A word of congratulations to you who beat the game (Ryuko)",
+   "pt": "[Bônus] Mensagem de parabéns para quem concluiu o jogo (Ryuko)"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_910",
+   "en": "[Bonus] A word of encouragement to you who live in this cruel world (Ryuko)",
+   "pt": "[Bônus] Mensagem de encorajamento para quem vive neste mundo cruel (Ryuko)"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_911",
+   "en": "Title Call (Ryuko)",
+   "pt": "Fala de Título (Ryuko)"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_912",
+   "en": "[Bonus] A message to the player (Senketsu)",
+   "pt": "[Bônus] Mensagem para o jogador (Senketsu)"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_913",
+   "en": "[Bonus] Reflecting on the recording sessions (Senketsu)",
+   "pt": "[Bônus] Reflexões sobre as gravações (Senketsu)"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_914",
+   "en": "[Bonus] Kill la Kill in one word (Senketsu)",
+   "pt": "[Bônus] Kill la Kill em uma palavra (Senketsu)"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_915",
+   "en": "[Bonus] A word of congratulations to you who beat the game (Senketsu)",
+   "pt": "[Bônus] Mensagem de parabéns para quem concluiu o jogo (Senketsu)"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_916",
+   "en": "[Bonus] A word of encouragement to you who live in this cruel world (Senketsu)",
+   "pt": "[Bônus] Mensagem de encorajamento para quem vive neste mundo cruel (Senketsu)"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_917",
+   "en": "Title Call (Senketsu)",
+   "pt": "Fala de Título (Senketsu)"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_918",
+   "en": "[Bonus] A message to the player (Mikisugi)",
+   "pt": "[Bônus] Mensagem para o jogador (Mikisugi)"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_919",
+   "en": "[Bonus] Reflecting on the recording sessions (Mikisugi)",
+   "pt": "[Bônus] Reflexões sobre as gravações (Mikisugi)"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_920",
+   "en": "[Bonus] Kill la Kill in one word (Mikisugi)",
+   "pt": "[Bônus] Kill la Kill em uma palavra (Mikisugi)"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_921",
+   "en": "[Bonus] A word of congratulations to you who beat the game (Mikisugi)",
+   "pt": "[Bônus] Mensagem de parabéns para quem concluiu o jogo (Mikisugi)"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_922",
+   "en": "[Bonus] A word of encouragement to you who live in this cruel world (Mikisugi)",
+   "pt": "[Bônus] Mensagem de encorajamento para quem vive neste mundo cruel (Mikisugi)"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_923",
+   "en": "[Bonus] A message to the player (Kinagase)",
+   "pt": "[Bônus] Mensagem para o jogador (Kinagase)"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_924",
+   "en": "[Bonus] Reflecting on the recording sessions (Kinagase)",
+   "pt": "[Bônus] Reflexões sobre as gravações (Kinagase)"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_925",
+   "en": "[Bonus] Kill la Kill in one word (Kinagase)",
+   "pt": "[Bônus] Kill la Kill em uma palavra (Kinagase)"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_926",
+   "en": "[Bonus] A word of congratulations to you who beat the game (Kinagase)",
+   "pt": "[Bônus] Mensagem de parabéns para quem concluiu o jogo (Kinagase)"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_927",
+   "en": "[Bonus] A word of encouragement to you who live in this cruel world (Kinagase)",
+   "pt": "[Bônus] Mensagem de encorajamento para quem vive neste mundo cruel (Kinagase)"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_232",
+   "en": "Bloody Valor - Defend - Taunt VS Jakuzure",
+   "pt": "Bloody Valor - Defesa - Zombar VS Jakuzure"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_233",
+   "en": "Bloody Valor - Defend - Provoke VS Jakuzure",
+   "pt": "Bloody Valor - Defesa - Provocar VS Jakuzure"
+  },
+  {
+   "id": "GALLERY_TEXT_VOICE_NAME_234",
+   "en": "Bloody Valor - Defend - Mock VS Jakuzure",
+   "pt": "Bloody Valor - Defesa - Insultar VS Jakuzure"
+  }
+ ]
+}

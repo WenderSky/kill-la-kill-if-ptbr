@@ -1,0 +1,1008 @@
+{
+ "origem": "message/MES_COMMON",
+ "conteudo": "Menus, sistema e avisos",
+ "parte": "5/8",
+ "instrucoes": "Traduza o campo 'en' para portugues do Brasil e escreva o resultado em 'pt'. Nao altere 'id'. Mantenha intactos os codigos entre chaves ({CA}, {LA}, {BR}, {JU}, {SP}, {GD}, {LS}, {L1}, {R1}, setas), os marcadores de formato (%d, %l, %ls, %hs) e as quebras de linha \\n. Se uma linha nao precisar de traducao, deixe 'pt' vazio.",
+ "linhas": [
+  {
+   "id": "GLOSSARY_COSTUME_011",
+   "en": "Three-Star Goku Uniform: \nSymphony Regalia - Finale",
+   "pt": "Uniforme Goku de Três Estrelas: \nTraje Sinfonia - Finale"
+  },
+  {
+   "id": "GLOSSARY_COSTUME_012",
+   "en": "Three-Star Goku Uniform: \nProbe Regalia",
+   "pt": "Uniforme Goku de Três Estrelas: \nTraje de Sonda"
+  },
+  {
+   "id": "GLOSSARY_COSTUME_013",
+   "en": "Three-Star Goku Uniform: \nProbe Regalia MKII",
+   "pt": "Uniforme Goku de Três Estrelas: \nTraje de Sonda MKII"
+  },
+  {
+   "id": "GLOSSARY_COSTUME_014",
+   "en": "Three-Star Goku Uniform: \nProbe Regalia - Truth Unveiled",
+   "pt": "Uniforme Goku de Três Estrelas: \nTraje de Sonda - Verdade Revelada"
+  },
+  {
+   "id": "GLOSSARY_COSTUME_015",
+   "en": "Three-Star Goku Uniform: \nShackle Regalia",
+   "pt": "Uniforme Goku de Três Estrelas: \nTraje de Grilhões"
+  },
+  {
+   "id": "GLOSSARY_COSTUME_016",
+   "en": "Three-Star Goku Uniform: \nShackle Regalia MKII",
+   "pt": "Uniforme Goku de Três Estrelas: \nTraje de Grilhões MKII"
+  },
+  {
+   "id": "GLOSSARY_COSTUME_017",
+   "en": "Three-Star Goku Uniform: \nShackle Regalia-Persona Unleashed",
+   "pt": "Uniforme Goku de Três Estrelas: \nTraje de Grilhões-Persona Liberta"
+  },
+  {
+   "id": "GLOSSARY_COSTUME_018",
+   "en": "Three-Star Goku Uniform: \nBlade Regalia",
+   "pt": "Uniforme Goku de Três Estrelas: \nTraje das Lâminas"
+  },
+  {
+   "id": "GLOSSARY_COSTUME_019",
+   "en": "Three-Star Goku Uniform: \nBlade Regalia MKII",
+   "pt": "Uniforme Goku de Três Estrelas: \nTraje das Lâminas MKII"
+  },
+  {
+   "id": "GLOSSARY_COSTUME_020",
+   "en": "Three-Star Goku Uniform: \nBlade Regalia - Secret Unsealed",
+   "pt": "Uniforme Goku de Três Estrelas: \nTraje das Lâminas - Segredo Desvendado"
+  },
+  {
+   "id": "GLOSSARY_COSTUME_021",
+   "en": "Three-Star Goku Uniform: \nBlade Regalia MKIII",
+   "pt": "Uniforme Goku de Três Estrelas: \nTraje das Lâminas MKIII"
+  },
+  {
+   "id": "GLOSSARY_COSTUME_READING_001",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_COSTUME_READING_002",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_COSTUME_READING_003",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_COSTUME_READING_004",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_COSTUME_READING_005",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_COSTUME_READING_006",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_COSTUME_READING_007",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_COSTUME_READING_008",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_COSTUME_READING_009",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_COSTUME_READING_010",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_COSTUME_READING_011",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_COSTUME_READING_012",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_COSTUME_READING_013",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_COSTUME_READING_014",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_COSTUME_READING_015",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_COSTUME_READING_016",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_COSTUME_READING_017",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_COSTUME_READING_018",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_COSTUME_READING_019",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_COSTUME_READING_020",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_COSTUME_READING_021",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_COSTUME_INFO_001",
+   "en": "A Goku Uniform that Honnouji Academy's Gardening Club Terrace General Manager, \nKusanosuke Yaguruma uses. It looks like gardening attire. \nThere are planters with plants growing on it installed on the back, and when they're \nwatered they immediately grow into predatory creatures meant to be used as weapons.",
+   "pt": "Um Uniforme Goku usado pelo Gerente do Terraço do Clube de Jardinagem da Academia Honnouji, \nKusanosuke Yaguruma. Parece um traje de jardinagem. \nHá vasos com plantas instalados nas costas, e quando \nsão regados, crescem imediatamente em criaturas predadoras feitas para uso como armas."
+  },
+  {
+   "id": "GLOSSARY_COSTUME_INFO_002",
+   "en": "A Kamui stored in the basement of the Kiryuin family's underground laboratory.\nUnlike Senketsu, it is incapable of communication. It usually maintains its form\nas a white school uniform, but once it sucks Satsuki's blood, \nit turns into its Life Fiber Override form. Junketsu's collar can morph at will; \nit can be as sharp as a spear tip, or it can fire like an anchor to attack.",
+   "pt": "Um Kamui guardado no porão do laboratório subterrâneo da família Kiryuin.\nDiferente do Senketsu, ele não consegue se comunicar. Normalmente mantém a forma\nde um uniforme escolar branco, mas quando suga o sangue da Satsuki, \nele entra na sua forma de Sobreposição de Fibra de Vida. A gola do Junketsu pode se transformar à vontade; \npode ficar afiada como a ponta de uma lança, ou ser disparada como uma âncora para atacar."
+  },
+  {
+   "id": "GLOSSARY_COSTUME_INFO_003",
+   "en": "A Kamui that Isshin Matoi made for his daughter, Ryuko. It has a consciousness, \nbut is only able to communicate with Ryuko. It usually takes the\nform of a black school uniform connected with a pair of suspenders, \nbut once it sucks Ryuko's blood, it turns into its \"Life Fiber Synchronize\" form. \nIn this state, it can take various additional forms, such as the \"Senketsu Senjin,\" \nwhich covers the entire body in sharp blades, or the \"Senketsu Shippu,\" \nwhich morphs the lower body into boosters allowing Ryuko to fly.",
+   "pt": "Um Kamui que Isshin Matoi fez para sua filha, Ryuko. Ele tem consciência, \nmas só consegue se comunicar com a Ryuko. Geralmente assume a\nforma de um uniforme escolar preto preso com um par de suspensórios, \nmas quando suga o sangue da Ryuko, entra em sua forma de \"Sincronização de Fibra de Vida\". \nNesse estado, ele pode assumir várias formas adicionais, como a \"Senketsu Senjin\", \nque cobre todo o corpo com lâminas afiadas, ou a \"Senketsu Shippu\", \nque transforma a parte inferior do corpo em propulsores que permitem a Ryuko voar."
+  },
+  {
+   "id": "GLOSSARY_COSTUME_INFO_004",
+   "en": "A Goku Uniform that Mako Mankanshoku used while she was in the Fight Club \nat Honnouji Academy. She wears a school cap and a school jacket.\nShe is equipped with a metal bat, brass knuckles, chains, and other weapons. \nPerhaps due to her high synchronicity with the Life Fibers, her Two-Star Goku Uniform\nput up a good fight against Ryuko and her Kamui.",
+   "pt": "Um Uniforme Goku que Mako Mankanshoku usou enquanto esteve no Clube de Luta \nna Academia Honnouji. Ela veste um quepe e uma jaqueta escolar.\nEla é equipada com um taco de metal, soco inglês, correntes e outras armas. \nTalvez por causa de sua alta sincronização com as Fibras de Vida, seu Uniforme Goku de Duas Estrelas\ndeu uma boa canseira na Ryuko e em seu Kamui."
+  },
+  {
+   "id": "GLOSSARY_COSTUME_INFO_005",
+   "en": "Junketsu's enhanced form after absorbing a large amount of Life Fibers. \nIts combat capabilities exceed that of Senketsu's, who is also a Kamui.",
+   "pt": "A forma aprimorada do Junketsu após absorver uma grande quantidade de Fibras de Vida. \nSuas capacidades de combate superam as do Senketsu, que também é um Kamui."
+  },
+  {
+   "id": "GLOSSARY_COSTUME_INFO_006",
+   "en": "The ultimate Kamui that the Grand Couturier, Nui Harime, developed for Ragyo Kiryuin \nso that she could see the Cocoon Star Nativity realized. \nCovers the entire body in pure white, and has the Absolute Domination ability, \nwhich renders both Life Fibers and Kamuis powerless. However, using the Absolute Domination\nability requires a constant supply of energy from an outside human source.",
+   "pt": "O Kamui definitivo que a Grande Costureira, Nui Harime, desenvolveu para Ragyo Kiryuin \npara que ela pudesse ver o Nascimento da Estrela Casulo realizado. \nCobre o corpo inteiro de branco puro, e tem a habilidade de Dominação Absoluta, \nque torna tanto Fibras de Vida quanto Kamuis impotentes. No entanto, usar a habilidade de Dominação Absoluta\nexige um suprimento constante de energia de uma fonte humana externa."
+  },
+  {
+   "id": "GLOSSARY_COSTUME_INFO_007",
+   "en": "Kamui Senketsu's ultimate form after absorbing a large amount of Life Fibers.\nIts main color changes from black to red, and Senketsu's right eye, previously\nclosed shut by a tragic wound, opens up. The skirt has also morphed into wing-like shape.",
+   "pt": "A forma definitiva do Kamui Senketsu após absorver uma grande quantidade de Fibras de Vida.\nSua cor principal muda de preto para vermelho, e o olho direito do Senketsu, antes\nfechado por um ferimento trágico, se abre. A saia também se transformou em algo parecido com asas."
+  },
+  {
+   "id": "GLOSSARY_COSTUME_INFO_008",
+   "en": "Shiro Iori's Three-Star Goku Uniform. Unlike the other Goku Uniforms, \nthe third star is hidden under its collar. It usually takes the form of a white coat, \nbut once the Life Fibers awaken, four magic hands from his back emerge. \nHe uses these to construct Goku Uniforms with great speed, single handedly.",
+   "pt": "O Uniforme Goku de Três Estrelas de Shiro Iori. Diferente dos outros Uniformes Goku, \na terceira estrela está escondida sob sua gola. Geralmente toma a forma de um jaleco branco, \nmas quando as Fibras de Vida despertam, quatro mãos mágicas surgem de suas costas. \nEle as usa para construir Uniformes Goku com grande velocidade, sozinho."
+  },
+  {
+   "id": "GLOSSARY_COSTUME_INFO_009",
+   "en": "Nonon Jakuzure's Three-Star Goku Uniform. It usually takes the form of a tall hat\nwith a skull and a female school uniform, but when in battle, it unites with\nNonon's marching band, taking the form of large speakers with tank crawlers attached.\nIt can take three different forms: Grave, which focuses on physical attacks, Presto, \nwhich is a flight form, and Da Capo, which fires sonic wave attacks from Nonon's hat. \nIt can freely change between the above three forms during combat.",
+   "pt": "O Uniforme Goku de Três Estrelas de Nonon Jakuzure. Geralmente assume a forma de um chapéu alto\ncom uma caveira e um uniforme escolar feminino, mas quando em batalha, ele se une com a\nbanda marcial de Nonon, tomando a forma de grandes alto-falantes com esteiras de tanque conectadas.\nEle pode assumir três formas diferentes: Grave, que foca em ataques físicos, Presto, \nque é uma forma de voo, e Da Capo, que dispara ataques de ondas sonoras do chapéu de Nonon. \nEle pode alternar livremente entre essas três formas durante o combate."
+  },
+  {
+   "id": "GLOSSARY_COSTUME_INFO_010",
+   "en": "An upgraded form of Jakuzure's Goku Uniform \"Symphony Regalia.\" \nIts awakened form is drastically reduced in size. Its armor only applies to the four limbs, \ntaking a more human-like form. Large speakers are attached to both shoulders, \neach leg armor has a propulsion unit equipped, and the hips have propellant tanks installed. \nIt is able to fly like Symphony Regalia: Presto. It's also equipped with missiles. \nThe speakers are large enough to allow for up to one person to ride atop on each side.",
+   "pt": "Uma forma aprimorada do Uniforme Goku da Jakuzure \"Traje Sinfonia\". \nSua forma desperta tem o tamanho drasticamente reduzido. A armadura só cobre os quatro membros, \nassumindo uma forma mais humanoide. Grandes alto-falantes estão conectados em ambos os ombros, \ncada armadura das pernas tem uma unidade de propulsão equipada, e os quadris têm tanques de propulsão instalados. \nEle é capaz de voar como o Traje Sinfonia: Presto. Também é equipado com mísseis. \nOs alto-falantes são grandes o suficiente para permitir que até uma pessoa ande em cima de cada lado."
+  },
+  {
+   "id": "GLOSSARY_COSTUME_INFO_011",
+   "en": "The final form of Jakuzure's Goku Uniform. Iori constructed this uniform based on\nall the combat data he was able to collect. Its non-awakened form has gone from\nwhite to black. Once awakened, it turns into a large tall hat with a skull, \nand small speakers on each shoulder, leaving the midsection largely exposed. \nThe speakers fire heart shaped sound waves. this final form is also capable of flight.",
+   "pt": "A forma final do Uniforme Goku da Jakuzure. Iori construiu este uniforme baseando-se em\ntodos os dados de combate que conseguiu coletar. Sua forma não-desperta passou de\nbranca para preta. Uma vez desperta, vira um grande chapéu alto com uma caveira, \ne pequenos alto-falantes em cada ombro, deixando a seção do meio bem exposta. \nOs alto-falantes disparam ondas sonoras em forma de coração. Esta forma final também é capaz de voar."
+  },
+  {
+   "id": "GLOSSARY_COSTUME_INFO_012",
+   "en": "Houka Inumuta's Three-Star Goku Uniform. It usually takes the form of a school uniform \nwith fur on its collar, but in battle, it becomes headgear and a full-bodied suit with \nkeyboards installed in various positions. It specializes in analytical functions, \nstudying opponent's data during battle to produce the most strategic plan possible. \nFor this reason, it often looks as though he is scratching various parts of his body \nduring combat. The reality is that he is inputting data. Besides analytical functions it\nalso has reflective camouflage that allows him to blend in with his surroundings.",
+   "pt": "O Uniforme Goku de Três Estrelas de Houka Inumuta. Geralmente toma a forma de um uniforme escolar \ncom pelo na gola, mas em batalha, vira um equipamento de cabeça e um traje de corpo inteiro com \nteclados instalados em várias posições. Ele é especializado em funções analíticas, \nestudando os dados do oponente durante a batalha para produzir o plano mais estratégico possível. \nPor essa razão, muitas vezes parece que ele está coçando várias partes do corpo \ndurante o combate. A realidade é que ele está inserindo dados. Além das funções analíticas, ele\ntambém tem camuflagem reflexiva que permite que ele se misture com seus arredores."
+  },
+  {
+   "id": "GLOSSARY_COSTUME_INFO_013",
+   "en": "An upgraded form of Inumuta's Three-Star Goku Uniform. In its awakened state, \nit has blue, pointed polygonal corners, similar to that of old 3D fighting game characters. \nIt has reflective camouflage and afterimage generation abilities, \nbut perhaps due to its shape, smaller parts like his fingertips do not move.",
+   "pt": "Uma forma aprimorada do Uniforme Goku de Três Estrelas de Inumuta. Em seu estado desperto, \nele tem cantos poligonais azuis e pontiagudos, similares aos dos personagens de jogos de luta 3D antigos. \nEle tem habilidades de camuflagem reflexiva e geração de imagens residuais, \nmas talvez por causa da sua forma, partes menores como as pontas dos dedos não se movem."
+  },
+  {
+   "id": "GLOSSARY_COSTUME_INFO_014",
+   "en": "The final form of Inumuta's Goku Uniform. Iori constructed it based on all the\ncombat data and feedback collected thus far. Its non-awakened form has turned\nfrom white to black. Once awakened, red goggles and a mask cover his entire face, \nwith green streaks running throughout his body. His midsection is largely\nexposed in this state. Unlike his past forms, his offensive abilities have been upgraded,\nallowing him to use an energy net to attack and capture enemies. ",
+   "pt": "A forma final do Uniforme Goku do Inumuta. Iori a construiu baseando-se em todos os\ndados de combate e feedback coletados até agora. Sua forma não-desperta passou de\nbranca para preta. Uma vez desperta, óculos vermelhos e uma máscara cobrem todo o seu rosto, \ncom faixas verdes percorrendo todo o seu corpo. Sua seção do meio fica bastante\nexposta nesse estado. Diferente de suas formas passadas, suas habilidades ofensivas foram aprimoradas,\npermitindo que ele use uma rede de energia para atacar e capturar os inimigos."
+  },
+  {
+   "id": "GLOSSARY_COSTUME_INFO_015",
+   "en": "Gamagoori's Three-Star Goku Uniform. It usually takes the form of a fairly pointy\nschool uniform, but in battle, it resembles a bondage suit of sorts, complete\nwith ball gag and all. The cloth that covers his body is enhanced with a special\nability allowing him to not only withstand strikes from Ryuko's Scissor Blade, but\nbecome stronger with each attack. When its toughness reaches its max, Gamagoori\nis released from his shackles, unleashing Scourge Regalia. The cloth covering his\nbody during Shackle Regalia turns into numerous whips that attack the enemy.\nAfter a certain time passes, he returns to Shackle Regalia form. He is also able\nto attack himself by using Jijo-Jibaku and voluntarily turn into Scourge Regalia.",
+   "pt": "O Uniforme Goku de Três Estrelas do Gamagoori. Normalmente toma a forma de um uniforme escolar\nbem pontudo, mas em batalha, lembra um tipo de traje de bondage, com direito\na mordaça de bola e tudo. O tecido que cobre o seu corpo é aprimorado com uma habilidade\nespecial permitindo que ele não apenas suporte os golpes da Lâmina-Tesoura da Ryuko, mas também\nfique mais forte a cada ataque. Quando sua resistência chega ao máximo, Gamagoori\né libertado de seus grilhões, ativando o Traje do Açoite. O tecido cobrindo seu\ncorpo durante o Traje de Grilhões vira vários chicotes que atacam o inimigo.\nDepois de um certo tempo, ele retorna à forma de Traje de Grilhões. Ele também consegue\natacar a si mesmo usando o Jijo-Jibaku e voluntariamente virar o Traje do Açoite."
+  },
+  {
+   "id": "GLOSSARY_COSTUME_INFO_016",
+   "en": "An upgraded form of Gamagoori's \"Shackle Regalia.\" In its awakened state, \nhis white armor covers his body. His mask can open and close, and his transformation \nprocess to Scourge Regalia is removed. His defense is much higher in this form \ncompared to Shackle Regalia due to the additional armor on his wrists and other areas \nof his body. His offense is similar to his previous forms, \nattacking with whips that emerge from all over his body.",
+   "pt": "Uma forma aprimorada do \"Traje de Grilhões\" do Gamagoori. Em seu estado desperto, \nsua armadura branca cobre o seu corpo. Sua máscara pode abrir e fechar, e o seu processo \nde transformação para Traje do Açoite é removido. Sua defesa é bem maior nessa forma \ncomparada ao Traje de Grilhões por causa da armadura extra nos pulsos e outras áreas \ndo corpo. Sua ofensiva é parecida com a de suas formas passadas, \natacando com chicotes que surgem de todo o seu corpo."
+  },
+  {
+   "id": "GLOSSARY_COSTUME_INFO_017",
+   "en": "The final form of Gamagoori's Three-Star Goku Uniform. Iori constructed it based on all \nthe combat data and feedback collected thus far. Its non-awakened form is now black. \nIn its awakened form, the right half of his body is covered in cloth, \nwhile the left half of it is covered in metal, his midsection largely exposed. \nFlames cover his right fist, making its strength comparable to that of Bakuzan. \nHe can fire an energy wave from his midsection that resembles his own face. \nIt's called Bakukai-Goteki.",
+   "pt": "A forma final do Uniforme Goku de Três Estrelas do Gamagoori. Iori o construiu baseando-se em todos \nos dados de combate e feedback coletados até agora. Sua forma não-desperta agora é preta. \nEm sua forma desperta, a metade direita de seu corpo é coberta de tecido, \nenquanto a metade esquerda é coberta de metal, com a seção do meio bem exposta. \nChamas cobrem seu punho direito, deixando sua força comparável à da Bakuzan. \nEle consegue atirar uma onda de energia da sua barriga que parece o seu próprio rosto. \nÉ chamado de Bakukai-Goteki."
+  },
+  {
+   "id": "GLOSSARY_COSTUME_INFO_018",
+   "en": "Sanageyama's Three-Star Goku Uniform. It usually takes the form of a school uniform \nwith a sheath on its back for his bamboo sword, but during battle, it turns into a boorish, \nrobotic-looking giant. In various parts of Blade Regalia sits eye-like structures that \nenhance Sanageyama's \"Tengantsu\" ability.\nStorage units on his back can store up to five bamboo sticks each. \nHe can equip bamboo swords in each of his fingers from there, \nas well as fire swords from his arms.",
+   "pt": "O Uniforme Goku de Três Estrelas de Sanageyama. Normalmente toma a forma de um uniforme escolar \ncom uma bainha nas costas para sua espada de bambu, mas em batalha, vira um gigante rude de\naparência robótica. Em várias partes do Traje das Lâminas há estruturas parecidas com olhos que \naprimoram a habilidade \"Tengantsu\" do Sanageyama.\nUnidades de armazenamento nas costas conseguem guardar até cinco varas de bambu cada. \nEle pode equipar espadas de bambu em cada um de seus dedos a partir daí, \nassim como disparar espadas de seus braços."
+  },
+  {
+   "id": "GLOSSARY_COSTUME_INFO_019",
+   "en": "An upgraded form of Sanageyama's Three-Star Goku Uniform, \"Blade Regalia.\" After\nSanageyama purposely blinded himself, his synchronicity with the Goku Uniform\nincreased, making his attire act as his eyes, nose, and ears. It usually takes the\nform of a school uniform with a sheath on its back for his bamboo sword, but\nduring battle, it turns into a boorish, robotic-looking giant. His arms can deploy\nbamboo swords like bullets, allowing him to pummel his opponent with piercing\nstrikes. The equipment compliments Sanageyama's kendo abilities. ",
+   "pt": "Uma forma aprimorada do Uniforme Goku de Três Estrelas do Sanageyama, \"Traje das Lâminas\". Depois que\nSanageyama cegou a si mesmo de propósito, sua sincronização com o Uniforme Goku\naumentou, fazendo o traje agir como seus olhos, nariz e ouvidos. Normalmente toma a\nforma de um uniforme escolar com uma bainha nas costas para sua espada de bambu, mas\nem batalha, vira um gigante rude de aparência robótica. Seus braços podem disparar\nespadas de bambu como balas, permitindo que ele espanque o oponente com golpes\nperfurantes. O equipamento complementa as habilidades de kendo de Sanageyama."
+  },
+  {
+   "id": "GLOSSARY_COSTUME_INFO_020",
+   "en": "The final form of Sanageyama's Three-Star Goku Uniform, Iori constructed it based on all \nthe combat data and feedback collected thus far. Its non-awakened form has turned black.\nUnlike his previous Blade Regalia, he has a rather minimalistic silhouette, \nwith his right shoulder and arm largely exposed, \nand his left shoulder and both legs equipped with tough armor. \nHis bracers are designed to resemble the head part of his Blade Regalia MKIII. \nHe is also equipped with an energy bamboo sword.",
+   "pt": "A forma final do Uniforme Goku de Três Estrelas do Sanageyama, que Iori construiu baseando-se em todos \nos dados de combate e feedback coletados até agora. Sua forma não-desperta passou para preta.\nDiferente do seu Traje das Lâminas anterior, ele tem uma silhueta bem mais minimalista, \ncom o seu ombro e braço direitos bem expostos, \ne o seu ombro esquerdo e ambas as pernas equipadas com uma armadura resistente. \nSuas braçadeiras têm o design parecido com a parte da cabeça do Traje das Lâminas MKIII. \nEle também está equipado com uma espada de bambu de energia."
+  },
+  {
+   "id": "GLOSSARY_COSTUME_INFO_021",
+   "en": "An upgraded form of Sanageyama's Three-Star Goku Uniform, \"Blade Regalia MKII.\" \nIts size is drastically reduced compared to the previous form. Its awakened form covers \nhis body in armor. Unlike the robotic appearance of his previous forms, \nit is more like a powered suit. The equipped bamboo sword has a device that\ncan enhance his pierce strikes, and when used, it ejects cartridges from the handle.",
+   "pt": "Uma forma aprimorada do Uniforme Goku de Três Estrelas de Sanageyama, \"Traje das Lâminas MKII\". \nO seu tamanho é reduzido drasticamente comparado com a forma anterior. A sua forma desperta cobre \no seu corpo com uma armadura. Diferente da aparência robótica de suas formas anteriores, \né mais como um traje energizado. A espada de bambu equipada tem um dispositivo que\npode aprimorar seus golpes perfurantes, e quando usado, ejeta cartuchos do cabo."
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_001",
+   "en": "Bunny Boy",
+   "pt": "Garoto Coelho"
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_002",
+   "en": "Scissor Blade",
+   "pt": "Lâmina-Tesoura"
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_003",
+   "en": "COVERS",
+   "pt": "Casulos"
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_004",
+   "en": "Kami-Kobe High School",
+   "pt": "Escola Kami-Kobe"
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_005",
+   "en": "Kamui",
+   "pt": "Kamui"
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_006",
+   "en": "Kyoto Abegamo Academy",
+   "pt": "Academia Abegamo de Kyoto"
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_007",
+   "en": "Kiryuin Conglomerate",
+   "pt": "Conglomerado Kiryuin"
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_008",
+   "en": "Fight Club",
+   "pt": "Clube de Luta"
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_009",
+   "en": "Original Life Fiber",
+   "pt": "Fibra de Vida Original"
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_010",
+   "en": "Goku Uniform",
+   "pt": "Uniforme Goku"
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_011",
+   "en": "Sewing Club",
+   "pt": "Clube de Costura"
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_012",
+   "en": "Sanageyama Konnyaku Head Shop",
+   "pt": "Loja Matriz de Konnyaku Sanageyama"
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_013",
+   "en": "Automotive Airsoft Club",
+   "pt": "Clube Automotivo de Airsoft"
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_014",
+   "en": "Tri-City Schools Raid Trip",
+   "pt": "Excursão de Invasão às Escolas das Três Cidades"
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_015",
+   "en": "Shingantsu",
+   "pt": "Shingantsu"
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_016",
+   "en": "The Battle of Susukigahara",
+   "pt": "A Batalha de Susukigahara"
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_017",
+   "en": "Mind Stitch",
+   "pt": "Costura Mental"
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_018",
+   "en": "Student Council Elite Four",
+   "pt": "Quatro Elites do Conselho Estudantil"
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_019",
+   "en": "Life Fiber",
+   "pt": "Fibra de Vida"
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_020",
+   "en": "Seki Tekko",
+   "pt": "Seki Tekko"
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_021",
+   "en": "Combat Enhanced COVERS",
+   "pt": "Casulos de Combate Aprimorados"
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_022",
+   "en": "Anti-HonnoujiAcademy Mechanized\nWeapon: Dotonbori Robo",
+   "pt": "Arma Mecanizada Anti-Academia Honnouji:\nRobô Dotonbori"
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_023",
+   "en": "First Annual Honnouji Academy \nNaturals Election",
+   "pt": "Primeira Eleição Natural Anual \nda Academia Honnouji"
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_024",
+   "en": "Snippity-Snips",
+   "pt": "Snippity-Snips"
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_025",
+   "en": "Tailor's Dagger",
+   "pt": "Adaga do Alfaiate"
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_026",
+   "en": "Tengantsu",
+   "pt": "Tengantsu"
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_027",
+   "en": "King of the Hill Final Battle",
+   "pt": "Batalha Final Rei do Pedaço"
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_028",
+   "en": "Naniwakinman High School",
+   "pt": "Escola Naniwakinman"
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_029",
+   "en": "Mystery Croquettes",
+   "pt": "Croquetes Misteriosos"
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_030",
+   "en": "Cloth-type COVERS",
+   "pt": "Casulos Tipo Tecido"
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_031",
+   "en": "Nudist Beach",
+   "pt": "Nudist Beach"
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_032",
+   "en": "No-Late Day",
+   "pt": "Dia Sem Atrasos"
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_033",
+   "en": "Bakuzan",
+   "pt": "Bakuzan"
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_034",
+   "en": "Banshi",
+   "pt": "Banshi"
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_035",
+   "en": "Humanoid COVERS",
+   "pt": "Casulos Humanoides"
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_036",
+   "en": "Star",
+   "pt": "Estrela"
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_037",
+   "en": "Honnouji Academy",
+   "pt": "Academia Honnouji"
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_038",
+   "en": "Honnouji Academy Cultural & \nSports Grand Festival",
+   "pt": "Grande Festival Cultural e \nEsportivo da Academia Honnouji"
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_039",
+   "en": "Honnou City",
+   "pt": "Cidade Honnou"
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_040",
+   "en": "Cocoon Star Nativity",
+   "pt": "Nascimento da Estrela Casulo"
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_041",
+   "en": "Sewing Gun",
+   "pt": "Arma de Costura"
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_042",
+   "en": "No-Star",
+   "pt": "Sem Estrela"
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_043",
+   "en": "Ragyo Stadium",
+   "pt": "Estádio Ragyo"
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_044",
+   "en": "REVOCS, Inc.",
+   "pt": "REVOCS, Inc."
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_045",
+   "en": "Mass Production-spec \nDotonbori Robo",
+   "pt": "Robô Dotonbori \nEspecificação de Produção em Massa"
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_READING_001",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_READING_002",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_READING_003",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_READING_004",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_READING_005",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_READING_006",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_READING_007",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_READING_008",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_READING_009",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_READING_010",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_READING_011",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_READING_012",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_READING_013",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_READING_014",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_READING_015",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_READING_016",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_READING_017",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_READING_018",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_READING_019",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_READING_020",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_READING_021",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_READING_022",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_READING_023",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_READING_024",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_READING_025",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_READING_026",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_READING_027",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_READING_028",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_READING_029",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_READING_030",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_READING_031",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_READING_032",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_READING_033",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_READING_034",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_READING_035",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_READING_036",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_READING_037",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_READING_038",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_READING_039",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_READING_040",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_READING_041",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_READING_042",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_READING_043",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_READING_044",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_READING_045",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_INFO_001",
+   "en": "A bunny that appears around Mako out of nowhere. Apparently Mako takes care of\nthis bunny inside of her body.",
+   "pt": "Um coelho que aparece perto da Mako do nada. Aparentemente a Mako cuida \ndesse coelho dentro do corpo dela."
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_INFO_002",
+   "en": "One half of a large pair of scissors that Ryuko wields. This blade has the ability\nto sever an awakened Life Fiber. She initially carried it around in a guitar case, \nbut after using for a while, she is now able to shrink it down to a comfy pocket size. \nWhile Life Fiber Synchronized with Senketsu, she is capable of blowing it up into Decapitation Mode.",
+   "pt": "Uma metade de uma grande tesoura que Ryuko empunha. Esta lâmina tem a habilidade\nde cortar uma Fibra de Vida desperta. Ela inicialmente a carregava numa caixa de guitarra, \nmas depois de usar por um tempo, agora ela consegue encolhê-la para um tamanho de bolso confortável. \nEnquanto está com a Fibra de Vida Sincronizada com o Senketsu, ela consegue expandi-la para o Modo Decapitação."
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_INFO_003",
+   "en": "Militant Life Fibers born out of the Original Life Fiber. \nThey despise human beings and attempt to devour them.\nThey receive energy from the Original Life Fiber. \nThere are Cloth-type COVERS that can fight autonomously, \nHumanoid COVERS that draw energy by devouring humans, and Combat Enhanced COVERS,\nwhich are an enhanced version of the humanoid COVERS.",
+   "pt": "Fibras de Vida militantes nascidas da Fibra de Vida Original. \nEles desprezam seres humanos e tentam devorá-los.\nEles recebem energia da Fibra de Vida Original. \nExistem os Casulos Tipo Tecido que conseguem lutar sozinhos, \nCasulos Humanoides que extraem energia devorando humanos, e os Casulos de Combate Aprimorados,\nque são uma versão aprimorada dos Casulos humanoides."
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_INFO_004",
+   "en": "A high school located in Kobe. One of the few schools in the Kinki region that\nrebels against the rule of Honnouji Academy. This school was a target of\nGamagoori's Kobe School Raid Brigade during the Honnouji Academy's Tri-City Schools Raid Trip. \nThe school supposedly has ties to the Russian mob, \nas it obtained tanks from the mafia to fight Honnouji Academy.",
+   "pt": "Uma escola localizada em Kobe. Uma das poucas escolas na região de Kinki que\nse rebelam contra o domínio da Academia Honnouji. Esta escola foi alvo da\nBrigada de Invasão de Escolas de Kobe do Gamagoori durante a Excursão de Invasão às Escolas das Três Cidades da Academia Honnouji. \nA escola supostamente tem laços com a máfia russa, \njá que obteve tanques da máfia para lutar contra a Academia Honnouji."
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_INFO_005",
+   "en": "A generic term referring to clothes made with 100% Life Fibers. \nIt awakens by sucking the blood of the wearer. It usually takes the form of a regular piece of clothing, \nbut once transformed, it assumes an extremely revealing form. \nAn awakened Kamui not only becomes tough as steel, but it also extracts the wearer's\npotential to their maximum. However, an ordinary human wouldn't be able to\nwithstand the pressure it puts on its wearer.",
+   "pt": "Um termo genérico que se refere a roupas feitas com 100% Fibras de Vida. \nEle desperta sugando o sangue do usuário. Normalmente toma a forma de uma peça de roupa comum, \nmas uma vez transformado, ele assume uma forma extremamente reveladora. \nUm Kamui desperto não apenas fica resistente como aço, mas também extrai o potencial\ndo usuário ao máximo. No entanto, um humano comum não seria capaz de\nsuportar a pressão que ele coloca em quem o veste."
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_INFO_006",
+   "en": "A high school located in Kyoto. One of the few schools in the Kinki region to\nrebel against the rule of Honnouji Academy. This school was a target of\nJazkuzure's Kyoto School Raid Brigade during the Honnouji Academy's Tri-City Schools Raid Trip. \nThey used Onmyou-do to fight against Honnouji Academy.",
+   "pt": "Uma escola localizada em Kyoto. Uma das poucas escolas na região de Kinki a\nse rebelar contra o domínio da Academia Honnouji. Esta escola foi alvo da\nBrigada de Invasão de Escolas de Kyoto da Jakuzure durante a Excursão de Invasão às Escolas das Três Cidades da Academia Honnouji. \nEles usaram Onmyou-do para lutar contra a Academia Honnouji."
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_INFO_007",
+   "en": "The descendants of the family that made contact with the Original Life Fiber.\nThe Kiryuin Family thereafter became the family to protect and raise the Life Fibers. \nEver since the Meiji era in Japan, they had great political influence; \nthings like having the ability to choose prime ministers. \nRagyo utilized this power to establish REVOCS, Inc. to sell clothes made with\nLife Fibers throughout the world and turn humans into slaves of the Life Fibers.",
+   "pt": "Os descendentes da família que fez contato com a Fibra de Vida Original.\nA Família Kiryuin desde então se tornou a família a proteger e cultivar as Fibras de Vida. \nDesde a era Meiji no Japão, eles tiveram grande influência política; \ncoisas como ter a habilidade de escolher primeiros-ministros. \nRagyo utilizou esse poder para estabelecer a REVOCS, Inc. para vender roupas feitas com\nFibras de Vida por todo o mundo e transformar humanos em escravos das Fibras de Vida."
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_INFO_008",
+   "en": "Ryuko set up this club to take advantage of the system that links a family's prosperity \nto the club's productivity, The club manager is Mako Mankanshoku. \nThe club activity consists of fighting with other clubs under Satsuki's influence to\nhunt down their Goku Uniforms. With Ryuko's fighting and Mako's efforts, \nthe Mankanshoku family rose up to a Two-Star status, gaining them a luxurious lifestyle. \nBut later, Mako made the call to end things, and the Mankanshoku family returned to normal.",
+   "pt": "Ryuko fundou este clube para se aproveitar do sistema que liga a prosperidade de uma família \nà produtividade do clube. A gerente do clube é Mako Mankanshoku. \nA atividade do clube consiste em lutar contra outros clubes sob a influência da Satsuki para\ncaçar seus Uniformes Goku. Com a luta da Ryuko e os esforços da Mako, \na família Mankanshoku subiu ao status de Duas Estrelas, o que lhes garantiu um estilo de vida luxuoso. \nMas mais tarde, Mako tomou a decisão de acabar com tudo, e a família Mankanshoku voltou ao normal."
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_INFO_009",
+   "en": "A ball of Life Fiber thread located in the Thread Palace under the Kiryuin household. \nIt is the origin of all Life Fibers existing on Earth. \nThey wandered the universe and landed on Earth long ago. After promoting the evolution of humanity, \nit entered a dormant state. The COVERS are born out of this Original Life Fiber.",
+   "pt": "Um novelo de Fibras de Vida localizado no Palácio dos Fios, debaixo da casa dos Kiryuin. \nÉ a origem de todas as Fibras de Vida que existem na Terra. \nElas vagaram pelo universo e aterrissaram na Terra há muito tempo. Após promover a evolução da humanidade, \nelas entraram em um estado dormente. Os Casulos nascem dessa Fibra de Vida Original."
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_INFO_010",
+   "en": "School uniforms that incorporate Life Fibers. There are One, Two, and Three-Star uniforms. \n10% of a One-Star uniform is made of Life Fibers, 20% of a Two-Star is made of Life Fibers, \nand 30% of a Three-Star uniform is made of Life Fibers.\nSatsuki distributes them according to each student's abilities. \nEach club manager is given a Two-Star uniform, and each Elite Four member and Iori has a\nThree-Star uniform. All Goku Uniforms are made at the Sewing Club led by Shiro Iori. ",
+   "pt": "Uniformes escolares que incorporam Fibras de Vida. Há os uniformes de Uma, Duas e Três Estrelas. \n10% de um uniforme de Uma Estrela é feito de Fibras de Vida, 20% do de Duas Estrelas é feito de Fibras de Vida, \ne 30% do uniforme de Três Estrelas é feito de Fibras de Vida.\nSatsuki os distribui de acordo com as habilidades de cada aluno. \nCada gerente de clube ganha um uniforme de Duas Estrelas, e cada membro dos Quatro Elites e o Iori têm um\nuniforme de Três Estrelas. Todos os Uniformes Goku são feitos no Clube de Costura liderado por Shiro Iori."
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_INFO_011",
+   "en": "A club led by Shiro Iori at Honnouji Academy. The club room is located on the top floor of the school. \nIn this dim room, numerous sewing machine are lined up next to one another \nas the club members diligently work, resembling something of a sewing factory. \nThe members all wear masks to prevent themselves from inhaling Life Fiber particles, \nwhich can have a negative affect on them. ",
+   "pt": "Um clube liderado por Shiro Iori na Academia Honnouji. A sala do clube fica no último andar da escola. \nNeste lugar escuro, várias máquinas de costura ficam alinhadas umas ao lado das outras \nenquanto os membros do clube trabalham diligentemente, parecendo algo como uma fábrica de costura. \nTodos os membros usam máscaras para evitar inalar partículas de Fibra de Vida, \no que pode ter um efeito negativo sobre eles."
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_INFO_012",
+   "en": "Sanageyama's home and nationally acclaimed konnyaku manufacturer. \nHaving grown up in this type of environment, Sanageyama himself is a skilled konnyaku maker, \nand has some passion toward konnyaku. However, he rarely mentions this fact in the main story.",
+   "pt": "A casa do Sanageyama e fabricante de konnyaku nacionalmente aclamada. \nTendo crescido nesse tipo de ambiente, o próprio Sanageyama é um produtor de konnyaku habilidoso, \ne tem uma certa paixão pelo konnyaku. Contudo, ele raramente menciona esse fato na história principal."
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_INFO_013",
+   "en": "A club run by Ryosuke Todoroki. He assaulted Gamagoori and Ryuko during the Naturals Election. \nIt was originally two separate clubs: the Airsoft Club and the Automobile Club,\nbut they were merged in order to survive through the end of the Naturals Election. \nTheir main method of attack is firing air guns from the top of the vehicle, \nand explosives via the dynamite-loaded bottle rocket launcher.",
+   "pt": "Um clube administrado por Ryosuke Todoroki. Ele atacou Gamagoori e Ryuko durante a Eleição Natural. \nEram originalmente dois clubes separados: o Clube de Airsoft e o Clube Automotivo,\nmas eles se fundiram a fim de sobreviver até o fim da Eleição Natural. \nSeu principal método de ataque é atirar com armas de ar do topo do veículo, \ne jogar explosivos pelo lançador de foguetes de garrafa cheio de dinamite."
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_INFO_014",
+   "en": "Honnouji Academy's plan to attack all of the schools that rebel against their rule in Osaka, \nKobe, and Kyoto. Each of the brigades that conducts an assault on a school is led by a member \nof the Elite Four; Gamagoori to Kobe; Sanageyama to Osaka; Jakuzure to Kyoto; \nand Inumuta supports each of them via remote access. ",
+   "pt": "O plano da Academia Honnouji para atacar todas as escolas que se rebelam contra seu domínio em Osaka, \nKobe e Kyoto. Cada uma das brigadas que conduz um ataque contra uma escola é liderada por um membro \ndos Quatro Elites; Gamagoori para Kobe; Sanageyama para Osaka; Jakuzure para Kyoto; \ne Inumuta dá apoio remoto a todos eles."
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_INFO_015",
+   "en": "A new height of Tengantsu which Sanageyama attained after his initial defeat to Ryuko prompted \nhim to sew his own eyes shut. By blinding himself, all of his senses are heightened so much that \nhe can \"see the world.\" The downside is that he is incapable of recognizing spaces depicted \nby other sources such as computer screens.",
+   "pt": "Um novo patamar do Tengantsu que Sanageyama alcançou depois que sua derrota inicial para Ryuko o fez \ncosturar seus próprios olhos. Cegando a si mesmo, todos os seus sentidos foram tão ampliados que \nele consegue \"ver o mundo\". A desvantagem é que ele não consegue reconhecer espaços representados \npor outras fontes como telas de computador."
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_INFO_016",
+   "en": "A battle between Sanageyama and Satsuki that took place at Susukigahara by Asamayama. \nIt was a battle between 500 Northern Kanto Gang Leader Alliance members led by Sanageyama, \nversus Satsuki alone. Although at a severe disadvantage, Satsuki won the battle with ease. \nAfter swatting away 499 of Sanageyama's comrade with a single blow of chi, \nshe struck down Sanageyama with one strike.  ",
+   "pt": "Uma batalha entre Sanageyama e Satsuki que aconteceu em Susukigahara perto de Asamayama. \nFoi uma batalha de 500 membros da Aliança de Líderes de Gangues do Norte de Kanto liderados pelo Sanageyama, \ncontra a Satsuki sozinha. Apesar de estar em severa desvantagem, Satsuki venceu a batalha com facilidade. \nDepois de afastar 499 dos camaradas de Sanageyama com um único golpe de chi, \nela derrubou Sanageyama com um único golpe."
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_INFO_017",
+   "en": "A skill that both Ragyo Kiryuin and Nui Harime use on their opponents. \nThey tie up the subjects' brain nerves with Life Fiber threads, \nallowing them to control the subjects at will. \nThey are able to control dozens of subjects at once, \nwith the maximum number of people that can be controlled simultaneously unknown.",
+   "pt": "Uma habilidade que tanto Ragyo Kiryuin quanto Nui Harime usam nos oponentes. \nElas amarram os nervos cerebrais das vítimas com fios de Fibra de Vida, \npermitindo que elas as controlem à vontade. \nElas são capazes de controlar dezenas de sujeitos ao mesmo tempo, \ncom o número máximo de pessoas que podem ser controladas simultaneamente desconhecido."
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_INFO_018",
+   "en": "A term referring to the individuals who swore loyalty to Satsuki: \nIra Gamagoori, Uzu Sanageyama, Houka Inumuta, and Nonon Jakuzure.\nThey are responsible for overlooking Honnouji Academy's clubs, rules, and information network. \nThey exercise complete dominance over the students. Furthermore, \nthe four have Three-Star Goku Uniforms from Satsuki, giving them overwhelming combat abilities.",
+   "pt": "Um termo que se refere aos indivíduos que juraram lealdade à Satsuki: \nIra Gamagoori, Uzu Sanageyama, Houka Inumuta e Nonon Jakuzure.\nEles são responsáveis por supervisionar os clubes, as regras e a rede de informações da Academia Honnouji. \nEles exercem dominação completa sobre os alunos. Além disso, \nos quatro possuem Uniformes Goku de Três Estrelas dados pela Satsuki, dando a eles habilidades de combate esmagadoras."
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_INFO_019",
+   "en": "A fiber life form that came to Earth long ago. Lives off the life forms on the planet they arrive on, \nfeeding on their hosts' neurological energy, and reproduce. Originally tried to live directly inside \nEarth's organisms, but because they were not able to withstand the Life Fibers' load, they started to \nobtain miniscule amounts of neurological energy by covering their bodies. Since Homo Sapiens had \nthe most developed brain of all organisms, they chose them as their main hosts. \nThey also promoted their evolution to further increase their neurological energy intake. \nThough thread-shaped, nothing can sever them except for the Scissor Blade.",
+   "pt": "Uma forma de vida fibrosa que veio à Terra há muito tempo. Vive das formas de vida do planeta em que chegam, \nalimentando-se da energia neurológica de seus hospedeiros e se reproduzindo. Originalmente tentaram viver diretamente dentro \ndos organismos da Terra, mas como eles não conseguiam suportar a carga das Fibras de Vida, elas começaram a \nobter quantidades minúsculas de energia neurológica cobrindo seus corpos. Já que os Homo Sapiens tinham \no cérebro mais desenvolvido de todos os organismos, eles foram escolhidos como os hospedeiros principais. \nElas também promoveram a evolução humana para aumentar ainda mais o consumo de energia neurológica. \nEmbora tenham formato de fio, nada pode cortá-las exceto a Lâmina-Tesoura."
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_INFO_020",
+   "en": "A tool Ryuko uses to supply Senketsu with her blood to awaken him. \nIt looks like a red glove that fits over her left hand. By twisting and pulling the pin attached at the wrist, \na hidden needle pierces Ryuko, thereby supplying Senketsu with her blood. \nIn order for a Kamui to fully awaken, it must be supplied with powerful life energy \nthroughout its entire body. Thus, Senketsu is unable to fully awaken without the Seki Tekko.",
+   "pt": "Um acessório que Ryuko usa para fornecer o próprio sangue para despertar o Senketsu. \nEle parece uma luva vermelha que se encaixa sobre sua mão esquerda. Ao girar e puxar o pino anexado ao pulso, \numa agulha escondida espeta a Ryuko, assim abastecendo Senketsu com o sangue dela. \nPara que um Kamui desperte completamente, ele precisa ser abastecido com poderosa energia vital \npor todo o seu corpo. Portanto, Senketsu não consegue despertar completamente sem a Seki Tekko."
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_INFO_021",
+   "en": "COVERS that specialize in combat. They swallow up humans and use them as a source of energy. \nBecause of this, they do not require a direct energy supply from the Original Life Fiber and \ncan move autonomously. Once the human inside is removed, \ntheir movement ceases, and eventually breakdown into threads of Life Fiber.",
+   "pt": "Casulos especializados em combate. Eles engolem humanos e os usam como fonte de energia. \nPor causa disso, eles não exigem um suprimento de energia direto da Fibra de Vida Original e \nconseguem se mover sozinhos. Assim que o humano dentro é removido, \no movimento deles para, e eventualmente eles se desmancham em fios de Fibra de Vida."
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_INFO_022",
+   "en": "A mobile weapon that Kaneo Takarada deployed while under attack by the\nOsaka Brigade during the Tri-City Schools Raid Trip.\nIts body is golden and shaped like a crab, and its head resembles that of Kuidaore Taro. \nTakarada is stuck horizontally on its torso. \nIts arsenal includes bottle gourd missiles and flame throwers.",
+   "pt": "Uma arma móvel que Kaneo Takarada enviou enquanto estava sob ataque pela\nBrigada de Osaka durante a Excursão de Invasão às Escolas das Três Cidades.\nO seu corpo é dourado e tem formato de caranguejo, e sua cabeça se parece com a do Kuidaore Taro. \nTakarada fica preso horizontalmente em seu torso. \nSeu arsenal inclui mísseis no formato de cabaça e lança-chamas."
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_INFO_023",
+   "en": "Satsuki's academy-wide reorganization initiative for Honnouji Academy. \nThis free-for-all initiative resets the academy's organizations and grants all students\nthe right to attack freely while they race to reach the campus within 7 days.\nA final runoff election will then take place among those who successfully reach the campus, \nand whoever wins this election will be granted a new status and a Goku Uniform. ",
+   "pt": "A iniciativa de reorganização da Academia Honnouji, conduzida por toda a escola pela Satsuki. \nEsta iniciativa sem limites zera as organizações da academia e garante a todos os alunos\no direito de atacar livremente enquanto correm para chegar no campus em um período de 7 dias.\nUma eleição final ocorrerá então entre aqueles que alcançarem o campus com sucesso, \ne seja quem for que vencer essa eleição ganhará um novo status e um Uniforme Goku."
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_INFO_024",
+   "en": "A pair of scissors that Isshin Matoi created in order to sever Life Fibers directly. \nIt has the power to cut through Life Fibers and prevent them from regenerating. \nIt is later separated into two Scissor Blades, with Ryuko and Nui each having one currently.",
+   "pt": "Uma tesoura que Isshin Matoi criou para cortar as Fibras de Vida diretamente. \nEla tem o poder de cortar as Fibras de Vida e impedir que elas se regenerem. \nMais tarde ela foi separada em duas Lâminas-Tesoura, com Ryuko e Nui possuindo uma cada uma atualmente."
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_INFO_025",
+   "en": "Anti-Life Fiber equipment invented by Nudist Beach that Kinagase mainly uses.\nIt is shaped like a giant knife with 3 blades stacked together. It is used in\nconjunction with the glove-type anti-Life Fiber equipment, Tailor's Glove. \nIts purpose is to sever the Banshi--the heart of the Goku Uniforms--and like Bakuzan\nand the Scissor Blade, it is one of the few weapons in existence that is strong enough\nto sever Life Fibers.",
+   "pt": "Equipamento anti-Fibra de Vida inventado pela Nudist Beach que Kinagase usa principalmente.\nTem o formato de uma faca gigante com 3 lâminas empilhadas. É usado em\nconjunto com o equipamento anti-Fibra de Vida do tipo luva, Luva do Alfaiate. \nO seu propósito é cortar o Banshi -- o coração dos Uniformes Goku -- e como a Bakuzan\ne a Lâmina-Tesoura, é uma das poucas armas existentes que é forte o bastante\npara cortar Fibras de Vida."
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_INFO_026",
+   "en": "Sanageyama's power to read through his opponent's moves. \nBy reading the subtle signals that all humans give the moment before taking action, \nhe is able to stay a step ahead of his opponents.",
+   "pt": "O poder do Sanageyama de prever os movimentos do seu oponente. \nAo ler os sinais sutis que todos os humanos dão no momento antes de agir, \nele é capaz de ficar um passo à frente dos seus adversários."
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_INFO_027",
+   "en": "One-on-one battles that takes place among the 5 individuals that made it through the Naturals Election. \nThe height of the towers are dependent on the number students defeated within \nthe 7-day period of the Naturals Election. \nThe fight progressed from the shortest to tallest, and it was televised live in Honnou City.",
+   "pt": "Batalhas de um contra um que acontecem entre os 5 indivíduos que passaram na Eleição Natural. \nA altura das torres é dependente da quantidade de alunos derrotados dentro\ndo período de 7 dias da Eleição Natural. \nA luta progrediu do mais baixo para o mais alto, e foi transmitida ao vivo na Cidade Honnou."
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_INFO_028",
+   "en": "A high school located in Osaka. \nOne of the few schools in the Kinki region to rebel against Honnouji Academy's rule. \nThe student council is led by the heir of the Takarada Conglomerate, Kaneo Takarada. \nWhile under attack from Sanageyama's Osaka Raid Brigade during the Tri-City Schools Raid Trip, \nhe utilized his company's financial influence to deploy numerous weapons and\nmobilize a massive army, fighting tooth and nail with the Honnouji Academy students \nand their Goku Uniforms.",
+   "pt": "Uma escola localizada em Osaka. \nUma das poucas escolas na região de Kinki a se rebelar contra o domínio da Academia Honnouji. \nO conselho estudantil é liderado pelo herdeiro do Conglomerado Takarada, Kaneo Takarada. \nEnquanto estava sob ataque da Brigada de Invasão de Osaka do Sanageyama durante a Excursão de Invasão às Escolas das Três Cidades, \nele utilizou a influência financeira da sua companhia para mobilizar inúmeras armas e\num exército gigante, lutando com unhas e dentes contra os alunos da Academia Honnouji \ne os seus Uniformes Goku."
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_INFO_029",
+   "en": "A staple food menu at the Mankanshoku Household.\n\"There's nothing poisonous in it,\" says Sukuyo, but no one knows exactly what's inside it. \nHowever, even Ryuko, who is not a Mankanshoku family member, says it tastes good, \nso at least it receives credit there. The contents will make the \nconsumer so happy that they might melt like butter. \nThe key is to \"just chop anything up and mix it with potato.\"",
+   "pt": "Um item básico do cardápio alimentar na Casa dos Mankanshoku.\n\"Não tem nada venenoso nele\", diz Sukuyo, mas ninguém sabe ao certo o que tem dentro. \nPorém, até a Ryuko, que não é membro da família Mankanshoku, diz que é gostoso, \nentão no mínimo recebe algum crédito por isso. Os ingredientes vão deixar o \nconsumidor tão feliz que podem fazê-lo derreter igual manteiga. \nO segredo é \"só picar qualquer coisa e misturar com batata.\""
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_INFO_030",
+   "en": "A Life Fiber that takes the shape of a flat, gentlemanly suit. Born from the Original Life Fiber. \nIt can move and fight autonomously, but once its energy supply chain is cut off, \nits movements cease and break down. \nBy swallowing human beings, it can turn into a humanoid COVERS.",
+   "pt": "Uma Fibra de Vida que tem a forma de um terno liso de cavalheiro. Nasceu da Fibra de Vida Original. \nEle consegue se mover e lutar sozinho, mas quando a sua corrente de energia é cortada, \nseus movimentos param e ele se desmancha. \nAo engolir seres humanos, ele pode virar um Casulo humanoide."
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_INFO_031",
+   "en": "An anti-uniform guerilla faction organized to fight against the Life Fibers.\nIts headquarters are located in a man-made underground beach located in Osaka.\nUsing licenses and patents, they garnered much funding from industries around the\nglobe. Hence they are well-equipped with numerous anti-Life Fiber weapons and\nmobile weapons like the DTR.\n\"We are naked troops that fight against the Life Fibers,\" says Mikisugi, as most\nof the members are nude, only wearing tactical jackets and sunglasses.",
+   "pt": "Uma facção guerrilheira anti-uniforme organizada para lutar contra as Fibras de Vida.\nSua base principal fica em uma praia artificial subterrânea em Osaka.\nUsando licenças e patentes, eles juntaram muitos fundos das indústrias ao redor do\nglobo. Então eles são bem equipados com inúmeras armas anti-Fibra de Vida e\narmas móveis como o DTR.\n\"Nós somos tropas nuas que lutam contra as Fibras de Vida\", diz Mikisugi, já que a maior parte\ndos membros está nua, só vestindo jaquetas táticas e óculos de sol."
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_INFO_032",
+   "en": "A school activity at Honnouji Academy. Once every semester, \nthe Disciplinary Committee will randomly impose it upon the No-Star students. \nIt begins with a siren that goes off at 4AM in the No-Star slums. \nThe students must avoid the various traps set up on the path to the academy by the\nDisciplinary Committee, and reach the campus before the morning bell rings at 8:30AM. \nThe students who do not make it are expelled. Mako says this is\nthe \"No-Star's event of their adolescence.\" \nThe whole thing resembles some kind of large scale tribal migration.",
+   "pt": "Uma atividade escolar na Academia Honnouji. Uma vez a cada semestre, \no Comitê Disciplinar impõe isso de maneira aleatória sobre os alunos Sem Estrela. \nComeça com uma sirene que toca às 4h da manhã nas favelas dos Sem Estrela. \nOs alunos devem evitar as várias armadilhas armadas no caminho da academia pelo\nComitê Disciplinar, e alcançar o campus antes do sino da manhã tocar às 8h30. \nOs alunos que não conseguem são expulsos. Mako diz que esse é o\n\"evento da adolescência dos Sem Estrela\". \nA coisa toda se parece com algum tipo de grande migração tribal."
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_INFO_033",
+   "en": "Satsuki's sword. She uses it both when she's in normal clothing and while wearing Junketsu. \nThis sword is capable of cutting through not only Life Fibers but even Kamui, \nand it is said that it is sharper than Ryuko's Scissor Blade.",
+   "pt": "A espada da Satsuki. Ela a usa tanto quando está com roupas normais quanto vestindo o Junketsu. \nEsta espada é capaz de cortar não apenas Fibras de Vida, mas até Kamui, \ne dizem que ela é mais afiada que a Lâmina-Tesoura da Ryuko."
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_INFO_034",
+   "en": "Life Fibers that have gained self awareness and try to become clothing.\nThis is essential to the making of Goku Uniforms, and once severed, \nthe Goku Uniforms shatter to pieces and return to Life Fiber threads no matter how\ntough they were originally built. \nThus, they are hidden and protected so that they don't sustain any damage. \nHowever, clothing masters like Nui can instantly reveal the Banshi.",
+   "pt": "Fibras de Vida que ganharam autoconsciência e tentam virar roupas.\nIsso é essencial para a fabricação dos Uniformes Goku, e quando é cortado, \nos Uniformes Goku se despedaçam e voltam a ser fios de Fibra de Vida não importa quão\nresistentes eles tivessem sido feitos originalmente. \nPortanto, eles ficam escondidos e protegidos para que não tomem nenhum dano. \nNo entanto, mestres das roupas como a Nui podem revelar os Banshi num instante."
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_INFO_035",
+   "en": "Cloth-type COVERS that are capable of absorbing energy directly from humans, \nallowing them to act independently of the Original Life Fiber.\nThey assume the appearance of a two piece suit, \nand their subject humans turn into mummies with their face forming the neck tie.",
+   "pt": "Casulos Tipo Tecido que são capazes de absorver energia diretamente dos humanos, \npermitindo que eles ajam independentemente da Fibra de Vida Original.\nEles tomam a forma de um terno de duas peças, \ne os humanos afetados viram múmias com o rosto deles formando a gravata."
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_INFO_036",
+   "en": "Goku Uniform rankings. \nSince a student's status is defined by the number of stars on their Goku Uniforms,\nit is often used as a shorthand to refer to a student's rank within the academy. \nThe number of stars not only define student privileges within the academy, \nbut also where the students and their families get to live within Honnou-cho: \na residential district within the precincts of Honnouji Academy. ",
+   "pt": "Ranks do Uniforme Goku. \nComo o status de um aluno é definido pela quantidade de estrelas de seus Uniformes Goku,\nisso muitas vezes é usado como abreviação para se referir à classificação de um aluno na academia. \nA quantidade de estrelas não define somente os privilégios dos alunos dentro da academia, \nmas também onde os alunos e as suas famílias vivem na cidade de Honnou: \num distrito residencial dentro das dependências da Academia Honnouji."
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_INFO_037",
+   "en": "The Academy run by the Chairwoman Ragyo Kiryuin. \nNot only are the students under strict supervision by the Disciplinary Committee, \nthey must earn their status and privileges in the academy via the number of stars on \ntheir Goku Uniforms, which are earned through club activity achievements. \nIt encourages competition and rivalries among the students. \nThe number of stars on their Goku Uniforms create large inequalities between the different ranks, \nresulting in an extremely socially polarizing environment.",
+   "pt": "A Academia liderada pela Presidente Ragyo Kiryuin. \nOs alunos não só ficam sob a estrita supervisão do Comitê Disciplinar, \nele devem ganhar seus status e privilégios na academia pela quantidade de estrelas de \nseus Uniformes Goku, que são ganhos através de conquistas em atividades de clubes. \nIsso estimula a competição e as rivalidades entre os estudantes. \nO número de estrelas nos Uniformes Goku cria grandes desigualdades entre os diferentes ranks, \nresultando em um ambiente de polarização social extremo."
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_INFO_038",
+   "en": "A celebration held to commemorate the success of the Tri-City Schools Raid Trip.\nIt was a large-scale ceremony in which Ragyo Stadium was built in Ragyo Kiryuin's name.",
+   "pt": "Uma celebração mantida para comemorar o sucesso da Excursão de Invasão às Escolas das Três Cidades.\nFoi uma cerimônia em grande escala em que o Estádio Ragyo foi construído no nome de Ragyo Kiryuin."
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_INFO_039",
+   "en": "The residential district for students and families of Honnouji Academy.\nTalented Two-Star students live in the upper-class residencies, \nwhile the No-Star underachievers live in the slums. \nStudents' living environments are directly reflected by their number of stars.",
+   "pt": "O distrito residencial para alunos e as famílias da Academia Honnouji.\nEstudantes talentosos de Duas Estrelas moram em residências de classe alta, \nenquanto os de Sem Estrela que não rendem muito moram nas favelas. \nO ambiente de vida dos estudantes é diretamente refletido pela quantidade de estrelas que têm."
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_INFO_040",
+   "en": "The ultimate objective of Ragyo and the Kiryuin family. It is a plan to turn all\nhumans into Life Fiber cloths and engulf the planet, making Earth a Cocoon Star for the Life Fibers. \nThe Cocoon Star will then explode as a source of energy, whereby new Life Fibers \nwill be sent to float about the universe like dandelion seeds in search for a new host planet.",
+   "pt": "O objetivo definitivo da Ragyo e da família Kiryuin. É um plano para transformar todos os\nhumanos em roupas de Fibra de Vida e engolfar o planeta, tornando a Terra uma Estrela Casulo para as Fibras de Vida. \nA Estrela Casulo então explodirá como uma fonte de energia, pelo qual novas Fibras de Vida \nserão enviadas para flutuar pelo universo como dentes-de-leão à procura de um novo planeta hospedeiro."
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_INFO_041",
+   "en": "One of Nudist Beach's anti-Life Fiber weapons that Kinagase uses. \nIt is a needle gun that resembles a sewing machine. \nIt comes loaded with special needle-shaped jammer bullets \nthat are designed to incapacitate Life Fibers.",
+   "pt": "Uma das armas anti-Fibra de Vida da Nudist Beach que Kinagase usa. \nÉ uma arma de agulhas que parece uma máquina de costura. \nEla vem carregada com balas interferentes especiais em forma de agulha \nque são projetadas para incapacitar as Fibras de Vida."
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_INFO_042",
+   "en": "A term referring to the lowest class of students at Honnouji Academy who have not been given \na Goku Uniform. The No-Star students and their families are forced to live in the slums of Honnou-cho. \nFurthermore, these students are required to participate in the once-a-semester \"No-Late Day\" event \nthat can result in their immediate expulsion.",
+   "pt": "Um termo que se refere à classe mais baixa de alunos da Academia Honnouji que não ganharam \num Uniforme Goku. Os alunos Sem Estrela e suas famílias são forçados a viver nas favelas da Cidade Honnou. \nAlém disso, esses alunos precisam participar do evento \"Dia Sem Atrasos\" que acontece uma vez por semestre \nque pode resultar na expulsão imediata deles."
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_INFO_043",
+   "en": "A large stadium built at Honnouji Academy. It was created to hold the\nHonnouji Academy Cultural & Sports Grand Festival.\nThe Student Council Elite Four directed the building of this stadium.",
+   "pt": "Um grande estádio construído na Academia Honnouji. Ele foi criado para abrigar o\nGrande Festival Cultural e Esportivo da Academia Honnouji.\nOs Quatro Elites do Conselho Estudantil dirigiram a construção deste estádio."
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_INFO_044",
+   "en": "An apparel manufacturer of the Kiryuin Conglomerate. They have established a presence \nin 90% of the countries in the world, and hold stock in 70% of the global apparel industry. \nThe CEO is the head of the Kiryuin Conglomerate, Ragyo. The company has \ntheir own surveillance satellite, and they keep a team of armed agents under contract.\nREVOCS' ultimate goal is to make all of humanity wear Life Fibers. \nAll of the products that they sell have Life Fibers sewn into them. REVOCS is an anagram for COVERS.",
+   "pt": "Uma fabricante de vestuário do Conglomerado Kiryuin. Eles estabeleceram presença \nem 90% dos países do mundo, e possuem ações em 70% da indústria global de roupas. \nA Diretora Executiva é a líder do Conglomerado Kiryuin, Ragyo. A companhia tem \no seu próprio satélite de vigilância, e eles mantêm um time de agentes armados sob contrato.\nO objetivo principal da REVOCS é fazer toda a humanidade vestir as Fibras de Vida. \nTodos os produtos que eles vendem têm Fibras de Vida costuradas dentro. REVOCS é um anagrama de COVERS."
+  },
+  {
+   "id": "GLOSSARY_TERMINOLOGICAL_INFO_045",
+   "en": "The Nudist Beach's trademark bipedal mecha. \nThe pilot is practically naked when affixed to the unit's torso, \ncontrolling the machine while stretching parallel to the ground. \nThus, the pilot's crotch is largely exposed from behind, leaving the lower half of them exposed. \nThe main pilot, Mikisugi, despises its name, preferring to call it the DTR. \nIts name came from one of Nudist Beach's sponsors, Kane Takarada.",
+   "pt": "O mecha bípede de marca registrada da Nudist Beach. \nO piloto fica praticamente nu quando preso no torso da unidade, \ncontrolando a máquina enquanto fica esticado paralelo ao chão. \nAssim, a virilha do piloto fica bastante exposta pela parte de trás, deixando a metade inferior à mostra. \nO piloto principal, Mikisugi, odeia esse nome, preferindo chamá-lo de DTR. \nO nome veio de um dos patrocinadores da Nudist Beach, Kane Takarada."
+  },
+  {
+   "id": "GLOSSARY_NULL",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GALLERY_TEXT_DESC_000",
+   "en": "Admire and pose character models.",
+   "pt": "Admire e coloque modelos de personagens em posições."
+  },
+  {
+   "id": "GALLERY_TEXT_DESC_001",
+   "en": "Manage and view saved replay data.",
+   "pt": "Gerencie e veja os dados de replay salvos."
+  },
+  {
+   "id": "GALLERY_TEXT_DESC_002",
+   "en": "Watch the anime cutscenes from Story Mode.",
+   "pt": "Assista às cutscenes de anime do Modo História."
+  },
+  {
+   "id": "GALLERY_TEXT_DESC_003",
+   "en": "Listen to the game's soundtrack.",
+   "pt": "Escute a trilha sonora do jogo."
+  },
+  {
+   "id": "GALLERY_TEXT_DESC_004",
+   "en": "Listen to voice clips for each character.",
+   "pt": "Escute as falas de cada personagem."
+  },
+  {
+   "id": "GALLERY_TEXT_DESC_005",
+   "en": "Take a look at the Kill la Kill glossary.",
+   "pt": "Dê uma olhada no glossário de Kill la Kill."
+  },
+  {
+   "id": "GALLERY_TEXT_COMMON_00",
+   "en": "Spend %d GP to unlock %ls?\n%ls: Unlock %ls: Cancel",
+   "pt": "Gastar %d GP para desbloquear %ls?\n%ls: Desbloquear %ls: Cancelar"
+  },
+  {
+   "id": "GALLERY_TEXT_COMMON_01",
+   "en": "You don't have enough Gallery Points. \n%ls: Close",
+   "pt": "Você não tem Gallery Points suficientes. \n%ls: Fechar"
+  },
+  {
+   "id": "GALLERY_TEXT_COMMON_02",
+   "en": "?????",
+   "pt": "?????"
+  },
+  {
+   "id": "GALLERY_TEXT_COMMON_03",
+   "en": "%d GP",
+   "pt": "%d GP"
+  },
+  {
+   "id": "GALLERY_TEXT_COMMON_04",
+   "en": "Spend %d GP to unlock %ls?\n%ls: Unlock %ls: Cancel",
+   "pt": "Gastar %d GP para desbloquear %ls?\n%ls: Desbloquear %ls: Cancelar"
+  }
+ ]
+}

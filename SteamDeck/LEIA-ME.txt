@@ -1,0 +1,66 @@
+================================================================
+  KILL la KILL -IF  —  Tradução PT-BR  —  Steam Deck
+================================================================
+
+COMO INSTALAR
+
+  1. Feche o jogo e vá para o Modo Área de Trabalho.
+  2. Abra o Konsole e rode:
+
+       cd ~/Downloads/SteamDeck
+       bash instalar.sh
+
+  3. Volte ao Modo Jogo e abra o jogo.
+
+  Rode com "bash instalar.sh" mesmo, e não "./instalar.sh":
+  o bit de execução se perde quando o arquivo passa pelo
+  Windows.
+
+  O instalador acha a pasta do jogo sozinho, inclusive no
+  cartão SD. Se não encontrar, ele pergunta o caminho.
+
+
+O IDIOMA DO JOGO PRECISA ESTAR EM INGLÊS
+
+  A tradução ocupa o slot do inglês, que é o padrão do jogo.
+  Se você nunca mexeu nisso, não precisa fazer nada.
+
+  Se já tinha trocado:
+  Propriedades do jogo > Idioma > Inglês
+
+
+COMO REMOVER
+
+  No Konsole, no mesmo lugar:
+
+       bash desinstalar.sh
+
+  O instalador guarda os arquivos originais em
+  ResourceWin/_backup_ptbr, dentro da pasta do jogo, e o
+  desinstalador devolve todos eles.
+
+
+O QUE ESTÁ TRADUZIDO
+
+  Modo história, falas de batalha de todos os personagens,
+  menus, tutoriais, galeria, requisitos de desbloqueio e a
+  lista de golpes. São 11.524 linhas.
+
+  Ficaram em inglês os rótulos que são IMAGEM e não texto:
+  STORY, VERSUS, GALLERY, OPTIONS, FIGHT, KO, EPISODE.
+  É a convenção de jogo de luta, e foi de propósito.
+
+
+AVISOS
+
+  - Verificar a integridade dos arquivos pelo Steam remove a
+    tradução. É só rodar o instalador de novo.
+  - A tradução não encosta nos saves nem nas conquistas.
+  - Não precisa mexer em Proton, em opção de inicialização
+    nem em variável de ambiente.
+  - Tradução amadora, feita por fã. Achou um erro? Abra uma
+    issue no repositório com um print.
+
+
+  github.com/WenderSky/kill-la-kill-if-ptbr
+  Tradução: Wender_sky (Steam)

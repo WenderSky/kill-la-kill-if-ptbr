@@ -1,0 +1,1008 @@
+{
+ "origem": "message/MES_CMD_LIST",
+ "conteudo": "Lista de comandos e golpes",
+ "parte": "1/4",
+ "instrucoes": "Traduza o campo 'en' para portugues do Brasil e escreva o resultado em 'pt'. Nao altere 'id'. Mantenha intactos os codigos entre chaves ({CA}, {LA}, {BR}, {JU}, {SP}, {GD}, {LS}, {L1}, {R1}, setas), os marcadores de formato (%d, %l, %ls, %hs) e as quebras de linha \\n. Se uma linha nao precisar de traducao, deixe 'pt' vazio.",
+ "linhas": [
+  {
+   "id": "CMN_BASE_CONTROL",
+   "en": "Basic Controls",
+   "pt": "Controles Básicos"
+  },
+  {
+   "id": "CMN_IN_LANDING",
+   "en": "Ground",
+   "pt": "Chão"
+  },
+  {
+   "id": "CMN_IN_JUMPING",
+   "en": "Aerial",
+   "pt": "Aéreo"
+  },
+  {
+   "id": "CMN_IN_LAND_JUMP",
+   "en": "Ground/Aerial",
+   "pt": "Chão/Aéreo"
+  },
+  {
+   "id": "CMN_IN_DASH",
+   "en": "Dash/Vertical Step",
+   "pt": "Avanço/Avanço Vertical"
+  },
+  {
+   "id": "CMN_IN_DAMAGING",
+   "en": "When taking damage",
+   "pt": "Ao sofrer dano"
+  },
+  {
+   "id": "CMN_IN_KETSUI_DEMO",
+   "en": "During Bloody Valor",
+   "pt": "Durante o Bloody Valor"
+  },
+  {
+   "id": "CMN_DESC_00",
+   "en": "Move",
+   "pt": "Mover"
+  },
+  {
+   "id": "CMN_DESC_01",
+   "en": "Jump",
+   "pt": "Pular"
+  },
+  {
+   "id": "CMN_DESC_02",
+   "en": "Guard",
+   "pt": "Defesa"
+  },
+  {
+   "id": "CMN_DESC_03",
+   "en": "Front Step",
+   "pt": "Avanço Frontal"
+  },
+  {
+   "id": "CMN_DESC_04",
+   "en": "Side Step",
+   "pt": "Avanço Lateral"
+  },
+  {
+   "id": "CMN_DESC_05",
+   "en": "Back Step",
+   "pt": "Avanço Traseiro"
+  },
+  {
+   "id": "CMN_DESC_06",
+   "en": "Homing Dash",
+   "pt": "Avanço Teleguiado"
+  },
+  {
+   "id": "CMN_DESC_07",
+   "en": "Valor Burst (Requires 50% SP Gauge)",
+   "pt": "Explosão de Valor (Requer 50% da Barra de SP)"
+  },
+  {
+   "id": "CMN_DESC_08",
+   "en": "Homing Dash",
+   "pt": "Avanço Teleguiado"
+  },
+  {
+   "id": "CMN_DESC_09",
+   "en": "Aerial Step",
+   "pt": "Avanço Aéreo"
+  },
+  {
+   "id": "CMN_DESC_10",
+   "en": "Counter Burst (Requires 50% SP Gauge)",
+   "pt": "Explosão de Contra-ataque (Requer 50% da Barra de SP)"
+  },
+  {
+   "id": "CMN_DESC_11",
+   "en": "Mock Attack/Defend\n(Attacker recovers HP when successful)",
+   "pt": "Ataque/Defesa de Zombaria\n(Atacante recupera Vida em caso de sucesso)"
+  },
+  {
+   "id": "CMN_DESC_12",
+   "en": "Provoke Attack/Defend\n(Attacker gains SP Gauge when successful)",
+   "pt": "Ataque/Defesa de Provocação\n(Atacante ganha Barra de SP em caso de sucesso)"
+  },
+  {
+   "id": "CMN_DESC_13",
+   "en": "Taunt Attack/Defend\n(Attacker deals more damage when successful)",
+   "pt": "Ataque/Defesa de Insulto\n(Atacante causa mais dano em caso de sucesso)"
+  },
+  {
+   "id": "CMN_KEY_00",
+   "en": "{LS}",
+   "pt": ""
+  },
+  {
+   "id": "CMN_KEY_01",
+   "en": "{JU}",
+   "pt": ""
+  },
+  {
+   "id": "CMN_KEY_02",
+   "en": "Hold {GD}",
+   "pt": "Segure {GD}"
+  },
+  {
+   "id": "CMN_KEY_03",
+   "en": "{GD} + Toward opponent",
+   "pt": "{GD} + Na direção do oponente"
+  },
+  {
+   "id": "CMN_KEY_04",
+   "en": "{GD} + {←} or {→}",
+   "pt": "{GD} + {←} ou {→}"
+  },
+  {
+   "id": "CMN_KEY_05",
+   "en": "{GD} + Away from opponent",
+   "pt": "{GD} + Longe do oponente"
+  },
+  {
+   "id": "CMN_KEY_06",
+   "en": "{GD} + {JU}",
+   "pt": ""
+  },
+  {
+   "id": "CMN_KEY_07",
+   "en": "{L1} + {R1}",
+   "pt": ""
+  },
+  {
+   "id": "CMN_KEY_08",
+   "en": "{JU}",
+   "pt": ""
+  },
+  {
+   "id": "CMN_KEY_09",
+   "en": "{GD} + {LS}",
+   "pt": ""
+  },
+  {
+   "id": "CMN_KEY_10",
+   "en": "{SP} + {GD}",
+   "pt": ""
+  },
+  {
+   "id": "CMN_KEY_11",
+   "en": "{□}",
+   "pt": ""
+  },
+  {
+   "id": "CMN_KEY_12",
+   "en": "{△}",
+   "pt": ""
+  },
+  {
+   "id": "CMN_KEY_13",
+   "en": "{○}",
+   "pt": ""
+  },
+  {
+   "id": "HEADLINE_FEAT",
+   "en": "Character Traits",
+   "pt": "Características da Personagem"
+  },
+  {
+   "id": "HEADLINE_KETSUI",
+   "en": "Valor Enhancement",
+   "pt": "Aprimoramento de Valor"
+  },
+  {
+   "id": "HEADLINE_UNIQUE_SPEC",
+   "en": "Unique Abilities",
+   "pt": "Habilidades Únicas"
+  },
+  {
+   "id": "HEADLINE_COMBO_CA",
+   "en": "●Close Range Combo Route Example",
+   "pt": "● Exemplo de Rota de Combo de Curto Alcance"
+  },
+  {
+   "id": "HEADLINE_COMBO_LA",
+   "en": "●Long Range Combo Route Example",
+   "pt": "● Exemplo de Rota de Combo de Longo Alcance"
+  },
+  {
+   "id": "HEADLINE_COMBO_BR",
+   "en": "●Break Combo Route Example",
+   "pt": "● Exemplo de Rota de Combo de Quebra"
+  },
+  {
+   "id": "HEADLINE_SPECIAL",
+   "en": "●Special Attack (Requires 50% SP Gauge)",
+   "pt": "● Ataque Especial (Requer 50% da Barra de SP)"
+  },
+  {
+   "id": "HEADLINE_SPECIAL2",
+   "en": "●Super Attack (Requires 50% SP Gauge and Valor Level 2 or higher)",
+   "pt": "● Ataque Supremo (Requer 50% da Barra de SP e Nível de Valor 2 ou maior)"
+  },
+  {
+   "id": "HEADLINE_FINISH_ARTS",
+   "en": "●SEN-I-SOSHITSU Secret Art (Requires 100 % SP Gauge and Valor Level 3)",
+   "pt": "● Arte Secreta SEN-I-SOSHITSU (Requer 100% da Barra de SP e Nível de Valor 3)"
+  },
+  {
+   "id": "HEADLINE_UNIQUE_ACTION",
+   "en": "●Unique Action",
+   "pt": "● Ação Única"
+  },
+  {
+   "id": "CMN_KEY_SP_CA",
+   "en": "{SP} + {CA}",
+   "pt": ""
+  },
+  {
+   "id": "CMN_KEY_SP_LA",
+   "en": "{SP} + {LA}",
+   "pt": ""
+  },
+  {
+   "id": "CMN_KEY_SP_BR",
+   "en": "{SP} + {BR}",
+   "pt": ""
+  },
+  {
+   "id": "CMN_KEY_SP_BURST",
+   "en": "{L1} + {R1}",
+   "pt": ""
+  },
+  {
+   "id": "CHARACTER_01-1",
+   "en": "Ryuko Matoi (Scissor Blade)",
+   "pt": "Ryuko Matoi (Lâmina-Tesoura)"
+  },
+  {
+   "id": "POINT_01-1",
+   "en": "Her range is short, but she makes up for it in speed. Once her Valor Level is increased, her speed is truly top-class!",
+   "pt": "Seu alcance é curto, mas ela compensa na velocidade. Assim que seu Nível de Valor aumentar, sua velocidade é de primeira!"
+  },
+  {
+   "id": "BUILDUP_01-1_1",
+   "en": "Valor Level 1\nIncreased speed.\nCombo route from grounded close range horizontal/vertical attack 1 changes.\nIncreased damage for Decapitation Mode attacks.",
+   "pt": "Nível de Valor 1\nVelocidade aumentada.\nA rota de combo a partir do ataque horizontal/vertical 1 de curto alcance no chão muda.\nDano aumentado para os ataques do Modo Decapitação."
+  },
+  {
+   "id": "BUILDUP_01-1_2",
+   "en": "Valor Level 2\nSpecial break attacks powered up to super attacks.",
+   "pt": "Nível de Valor 2\nAtaques de quebra especiais aprimorados para ataques supremos."
+  },
+  {
+   "id": "BUILDUP_01-1_3",
+   "en": "Valor Level 3\nEnter Bloody Valor Overpowered state and gain a boost to your SP gauge.\nSEN-I-SOSHITSU Secret Art unsealed.",
+   "pt": "Nível de Valor 3\nEntra no estado Sobrepujante do Bloody Valor e ganha um bônus na Barra de SP.\nArte Secreta SEN-I-SOSHITSU desbloqueada."
+  },
+  {
+   "id": "ATK_COMBO_01-1_1_SKILL",
+   "en": "Scissor Blade: Snippit\n⇒Scissor Blade: Frenzy\n⇒Scissor Blade: Cleaver",
+   "pt": "Lâmina-Tesoura: Picotar\n⇒Lâmina-Tesoura: Frenesi\n⇒Lâmina-Tesoura: Cutelo"
+  },
+  {
+   "id": "ATK_COMBO_01-1_1_INPUT",
+   "en": "{CA}　⇒　{CA}{CA}　⇒　{CA}",
+   "pt": ""
+  },
+  {
+   "id": "ATK_COMBO_01-1_2_SKILL",
+   "en": "Scissor Blade: Shear\n⇒Scissor Blade: Frenzy\n⇒Scissor Blade: Homerun",
+   "pt": "Lâmina-Tesoura: Tosar\n⇒Lâmina-Tesoura: Frenesi\n⇒Lâmina-Tesoura: Homerun"
+  },
+  {
+   "id": "ATK_COMBO_01-1_2_INPUT",
+   "en": "{←} or {→} + {CA}　\n⇒　{CA}{CA}　⇒　{←} or {→} + {CA}",
+   "pt": "{←} ou {→} + {CA}　\n⇒　{CA}{CA}　⇒　{←} ou {→} + {CA}"
+  },
+  {
+   "id": "ATK_COMBO_01-1_3_SKILL",
+   "en": "Scissor Blade: Rising Strike\n⇒Scissor Blade: Frenzy\n⇒Scissor Blade: Uppercut",
+   "pt": "Lâmina-Tesoura: Golpe Ascendente\n⇒Lâmina-Tesoura: Frenesi\n⇒Lâmina-Tesoura: Gancho"
+  },
+  {
+   "id": "ATK_COMBO_01-1_3_INPUT",
+   "en": "{↑} or {↓} + {CA}　\n⇒　{CA}{CA}　⇒　{↑} or {↓} + {CA}",
+   "pt": "{↑} ou {↓} + {CA}　\n⇒　{CA}{CA}　⇒　{↑} ou {↓} + {CA}"
+  },
+  {
+   "id": "ATK_COMBO_01-1_4_SKILL",
+   "en": "Scissor Blade: Snippit\n⇒Scissor Blade: Frenzy\n⇒Scissor Blade: Rampant Blade",
+   "pt": "Lâmina-Tesoura: Picotar\n⇒Lâmina-Tesoura: Frenesi\n⇒Lâmina-Tesoura: Lâmina Desenfreada"
+  },
+  {
+   "id": "ATK_COMBO_01-1_4_INPUT",
+   "en": "{CA}　⇒　{CA}{CA}　⇒　{LA}",
+   "pt": ""
+  },
+  {
+   "id": "ATK_COMBO_01-1_5_SKILL",
+   "en": "Scissor Blade: Snippit\n⇒Scissor Blade: Frenzy\n⇒Scissor Blade: Left Straight",
+   "pt": "Lâmina-Tesoura: Picotar\n⇒Lâmina-Tesoura: Frenesi\n⇒Lâmina-Tesoura: Direto de Esquerda"
+  },
+  {
+   "id": "ATK_COMBO_01-1_5_INPUT",
+   "en": "{CA}　⇒　{CA}{CA}　⇒　{BR}",
+   "pt": ""
+  },
+  {
+   "id": "ATK_COMBO_01-1_6_SKILL",
+   "en": "Scissor Blade: Kamaitachi",
+   "pt": "Lâmina-Tesoura: Kamaitachi"
+  },
+  {
+   "id": "ATK_COMBO_01-1_6_INPUT",
+   "en": "{CA}{CA}",
+   "pt": ""
+  },
+  {
+   "id": "ATK_COMBO_01-1_7_SKILL",
+   "en": "Scissor Blade: Kamaitachi\n⇒Dragon Kick",
+   "pt": "Lâmina-Tesoura: Kamaitachi\n⇒Chute do Dragão"
+  },
+  {
+   "id": "ATK_COMBO_01-1_7_INPUT",
+   "en": "{CA}　⇒　{BR}",
+   "pt": ""
+  },
+  {
+   "id": "ATK_COMBO_01-1_8_SKILL",
+   "en": "Shoulder Tackle",
+   "pt": "Encontrão de Ombro"
+  },
+  {
+   "id": "ATK_COMBO_01-1_8_INPUT",
+   "en": "{CA}{CA}",
+   "pt": ""
+  },
+  {
+   "id": "SHT_COMBO_01-1_1_SKILL",
+   "en": "Scissor Blade: Shock Wave",
+   "pt": "Lâmina-Tesoura: Onda de Choque"
+  },
+  {
+   "id": "SHT_COMBO_01-1_1_INPUT",
+   "en": "{LA} Hold",
+   "pt": "Segure {LA}"
+  },
+  {
+   "id": "SHT_COMBO_01-1_2_SKILL",
+   "en": "Scissor Blade: Slash Wave\n⇒Scissor Blade: Split Demon",
+   "pt": "Lâmina-Tesoura: Onda de Corte\n⇒Lâmina-Tesoura: Demônio Fendido"
+  },
+  {
+   "id": "SHT_COMBO_01-1_2_INPUT",
+   "en": "{LA}{LA}　⇒　{CA}",
+   "pt": ""
+  },
+  {
+   "id": "SHT_COMBO_01-1_3_SKILL",
+   "en": "Scissor Blade: Slash Wave\n⇒Payback",
+   "pt": "Lâmina-Tesoura: Onda de Corte\n⇒Troco"
+  },
+  {
+   "id": "SHT_COMBO_01-1_3_INPUT",
+   "en": "{LA}　⇒　{BR}\nor　{LA}{LA}　⇒　{BR}",
+   "pt": "{LA}　⇒　{BR}\nou　{LA}{LA}　⇒　{BR}"
+  },
+  {
+   "id": "SHT_COMBO_01-1_4_SKILL",
+   "en": "Scissor Blade: Shock Wave\n⇒Scissor Blade: Raid",
+   "pt": "Lâmina-Tesoura: Onda de Choque\n⇒Lâmina-Tesoura: Incursão"
+  },
+  {
+   "id": "SHT_COMBO_01-1_4_INPUT",
+   "en": "{LA}　⇒　{CA}",
+   "pt": ""
+  },
+  {
+   "id": "SHT_COMBO_01-1_5_SKILL",
+   "en": "Scissor Blade: Ambushing Slice",
+   "pt": "Lâmina-Tesoura: Corte de Emboscada"
+  },
+  {
+   "id": "SHT_COMBO_01-1_5_INPUT",
+   "en": "{LA}",
+   "pt": ""
+  },
+  {
+   "id": "BRK_COMBO_01-1_1_SKILL",
+   "en": "Payback\n⇒Homing Dash",
+   "pt": "Troco\n⇒Avanço Teleguiado"
+  },
+  {
+   "id": "BRK_COMBO_01-1_1_INPUT",
+   "en": "{BR}\n⇒{CA} or {LA} or {BR} or {JU}",
+   "pt": "{BR}\n⇒{CA} ou {LA} ou {BR} ou {JU}"
+  },
+  {
+   "id": "BRK_COMBO_01-1_2_SKILL",
+   "en": "Dragon Kick\n⇒Homing Dash",
+   "pt": "Chute do Dragão\n⇒Avanço Teleguiado"
+  },
+  {
+   "id": "BRK_COMBO_01-1_2_INPUT",
+   "en": "{BR}\n⇒{CA} or {LA} or {BR} or {JU}",
+   "pt": "{BR}\n⇒{CA} ou {LA} ou {BR} ou {JU}"
+  },
+  {
+   "id": "BRK_COMBO_01-1_3_SKILL",
+   "en": "Left Straight\n⇒Homing Dash",
+   "pt": "Direto de Esquerda\n⇒Avanço Teleguiado"
+  },
+  {
+   "id": "BRK_COMBO_01-1_3_INPUT",
+   "en": "{BR}\n⇒{CA} or {LA} or {BR} or {JU}",
+   "pt": "{BR}\n⇒{CA} ou {LA} ou {BR} ou {JU}"
+  },
+  {
+   "id": "KILLERMOVE_01-1_1_SKILL",
+   "en": "Decapitation Mode: Blood Ripper",
+   "pt": "Modo Decapitação: Estripador de Sangue"
+  },
+  {
+   "id": "KILLERMOVE_01-1_2_SKILL",
+   "en": "Decapitation Mode: Kamaitachi",
+   "pt": "Modo Decapitação: Kamaitachi"
+  },
+  {
+   "id": "KILLERMOVE_01-1_3_SKILL",
+   "en": "Scissor Blade: Fanning Blade",
+   "pt": "Lâmina-Tesoura: Lâmina em Leque"
+  },
+  {
+   "id": "KILLERMOVE_01-1_3_INPUT",
+   "en": "{SP} + {BR}　⇒　Move with {LS}",
+   "pt": "{SP} + {BR}　⇒　Mova com {LS}"
+  },
+  {
+   "id": "SUPERKILLERMOVE_01-1_1_SKILL",
+   "en": "Scissor Blade: Fanning Blade Wave",
+   "pt": "Lâmina-Tesoura: Onda de Lâmina em Leque"
+  },
+  {
+   "id": "SUPERKILLERMOVE_01-1_1_INPUT",
+   "en": "{SP} + {BR}　⇒　Move with {LS}",
+   "pt": "{SP} + {BR}　⇒　Mova com {LS}"
+  },
+  {
+   "id": "ARCANUM_01-1_1_SKILL",
+   "en": "SEN-I-SOSHITSU",
+   "pt": "SEN-I-SOSHITSU"
+  },
+  {
+   "id": "CHARACTER_01-2",
+   "en": "Ryuko Matoi (DUAL WIELD)",
+   "pt": "Ryuko Matoi (DUPLA EMPUNHADURA)"
+  },
+  {
+   "id": "POINT_01-2",
+   "en": "A capable attacker at both close and long range. \nYou can mix different attacks in combos, \nsuch as {CA}⇒{LA} to execute Double-Edged Decapitation Mode combos!",
+   "pt": "Uma atacante capaz tanto a curto quanto a longo alcance. \nVocê pode misturar ataques diferentes em combos, \ncomo {CA}⇒{LA} para executar combos do Modo Decapitação de Duplo Gume!"
+  },
+  {
+   "id": "BUILDUP_01-2_1",
+   "en": "Valor Level 1\nIncreased damage for Double-Edged Decapitation Mode attacks.\nIncreased speed.\nCombo route from grounded close range horizontal/vertical attack 1 changes.",
+   "pt": "Nível de Valor 1\nDano aumentado para ataques do Modo Decapitação de Duplo Gume.\nVelocidade aumentada.\nA rota de combo a partir do ataque horizontal/vertical 1 de curto alcance no chão muda."
+  },
+  {
+   "id": "BUILDUP_01-2_2",
+   "en": "Valor Level 2\nSpecial break attacks powered up to super attacks.",
+   "pt": "Nível de Valor 2\nAtaques de quebra especiais aprimorados para ataques supremos."
+  },
+  {
+   "id": "BUILDUP_01-2_3",
+   "en": "Valor Level 3\nEnter Bloody Valor Overpowered state and gain a boost to your SP gauge.\nSEN-I-SOSHITSU Secret Art unsealed.",
+   "pt": "Nível de Valor 3\nEntra no estado Sobrepujante do Bloody Valor e ganha um bônus na Barra de SP.\nArte Secreta SEN-I-SOSHITSU desbloqueada."
+  },
+  {
+   "id": "ATK_COMBO_01-2_1_SKILL",
+   "en": "Snippity-Snips: Twin Blades\n⇒Snippity-Snips: Guillotine\n⇒Decapitation Mode: Cleave",
+   "pt": "Pique-Pique: Lâminas Gêmeas\n⇒Pique-Pique: Guilhotina\n⇒Modo Decapitação: Fenda"
+  },
+  {
+   "id": "ATK_COMBO_01-2_1_INPUT",
+   "en": "{CA}　⇒　{CA}{CA}　⇒　{CA}",
+   "pt": ""
+  },
+  {
+   "id": "ATK_COMBO_01-2_2_SKILL",
+   "en": "Snippity-Snips: Rend \n⇒Snippity-Snips: Guillotine\n⇒Decapitation Mode: Whirlblade",
+   "pt": "Pique-Pique: Rasgar \n⇒Pique-Pique: Guilhotina\n⇒Modo Decapitação: Lâmina Giratória"
+  },
+  {
+   "id": "ATK_COMBO_01-2_2_INPUT",
+   "en": "{←} or {→} + {CA}　\n⇒　{CA}{CA}　⇒　{←} or {→} + {CA}",
+   "pt": "{←} ou {→} + {CA}　\n⇒　{CA}{CA}　⇒　{←} ou {→} + {CA}"
+  },
+  {
+   "id": "ATK_COMBO_01-2_3_SKILL",
+   "en": "Snippity-Snips: One-to-One\n⇒Snippity-Snips: Guillotine\n⇒Snippity-Snips: Aerial Assortment\n",
+   "pt": "Pique-Pique: Mano a Mano\n⇒Pique-Pique: Guilhotina\n⇒Pique-Pique: Sortimento Aéreo\n"
+  },
+  {
+   "id": "ATK_COMBO_01-2_3_INPUT",
+   "en": "{↑} or {↓} + {CA}　\n⇒　{CA}{CA}　⇒　{↑} or {↓} + {CA}",
+   "pt": "{↑} ou {↓} + {CA}　\n⇒　{CA}{CA}　⇒　{↑} ou {↓} + {CA}"
+  },
+  {
+   "id": "ATK_COMBO_01-2_4_SKILL",
+   "en": "Snippity-Snips: Twin Blades\n⇒Snippity-Snips: Guillotine\n⇒Snippity-Snips: Domination",
+   "pt": "Pique-Pique: Lâminas Gêmeas\n⇒Pique-Pique: Guilhotina\n⇒Pique-Pique: Dominação"
+  },
+  {
+   "id": "ATK_COMBO_01-2_4_INPUT",
+   "en": "{CA}　⇒　{CA}{CA}　⇒　{LA}",
+   "pt": ""
+  },
+  {
+   "id": "ATK_COMBO_01-2_5_SKILL",
+   "en": "Snippity-Snips: Twin Blades\n⇒Snippity-Snips: Guillotine\n⇒Snippity-Snips: Drop Kick",
+   "pt": "Pique-Pique: Lâminas Gêmeas\n⇒Pique-Pique: Guilhotina\n⇒Pique-Pique: Voadora"
+  },
+  {
+   "id": "ATK_COMBO_01-2_5_INPUT",
+   "en": "{CA}　⇒　{CA}{CA}　⇒　{BR}",
+   "pt": ""
+  },
+  {
+   "id": "ATK_COMBO_01-2_6_SKILL",
+   "en": "Snippity-Snips: Screw Blade",
+   "pt": "Pique-Pique: Lâmina Parafuso"
+  },
+  {
+   "id": "ATK_COMBO_01-2_6_INPUT",
+   "en": "{CA}{CA}{CA}",
+   "pt": ""
+  },
+  {
+   "id": "ATK_COMBO_01-2_7_SKILL",
+   "en": "Snippity-Snips: Screw Blade\n⇒Snippity-Snips: Raid",
+   "pt": "Pique-Pique: Lâmina Parafuso\n⇒Pique-Pique: Incursão"
+  },
+  {
+   "id": "ATK_COMBO_01-2_7_INPUT",
+   "en": "{CA}　⇒　{LA}",
+   "pt": ""
+  },
+  {
+   "id": "ATK_COMBO_01-2_8_SKILL",
+   "en": "Snippity-Snips: First Blood",
+   "pt": "Pique-Pique: Primeiro Sangue"
+  },
+  {
+   "id": "ATK_COMBO_01-2_8_INPUT",
+   "en": "{CA}{CA}",
+   "pt": ""
+  },
+  {
+   "id": "SHT_COMBO_01-2_1_SKILL",
+   "en": "Snippity-Snips: Domination",
+   "pt": "Pique-Pique: Dominação"
+  },
+  {
+   "id": "SHT_COMBO_01-2_1_INPUT",
+   "en": "{LA} Hold　⇒　{LA}",
+   "pt": "Segure {LA}　⇒　{LA}"
+  },
+  {
+   "id": "SHT_COMBO_01-2_2_SKILL",
+   "en": "Snippity-Snips: Maul\n⇒Decapitation Mode: Guillotine\n⇒Decapitation Mode: Cleave",
+   "pt": "Pique-Pique: Espancar\n⇒Modo Decapitação: Guilhotina\n⇒Modo Decapitação: Fenda"
+  },
+  {
+   "id": "SHT_COMBO_01-2_2_INPUT",
+   "en": "{LA}{LA}　⇒　{CA}{CA}　⇒　{CA}",
+   "pt": ""
+  },
+  {
+   "id": "SHT_COMBO_01-2_3_SKILL",
+   "en": "Snippity-Snips: Banishment",
+   "pt": "Pique-Pique: Banimento"
+  },
+  {
+   "id": "SHT_COMBO_01-2_3_INPUT",
+   "en": "{LA} Hold　⇒　{LA}",
+   "pt": "Segure {LA}　⇒　{LA}"
+  },
+  {
+   "id": "SHT_COMBO_01-2_4_SKILL",
+   "en": "Snippity-Snips: Slash Wave\n⇒Snippity-Snips: Beatdown",
+   "pt": "Pique-Pique: Onda de Corte\n⇒Pique-Pique: Surra"
+  },
+  {
+   "id": "SHT_COMBO_01-2_4_INPUT",
+   "en": "{LA}　⇒　{LA}",
+   "pt": ""
+  },
+  {
+   "id": "SHT_COMBO_01-2_5_SKILL",
+   "en": "Snippity-Snips: Beatdown",
+   "pt": "Pique-Pique: Surra"
+  },
+  {
+   "id": "SHT_COMBO_01-2_5_INPUT",
+   "en": "{LA}",
+   "pt": ""
+  },
+  {
+   "id": "BRK_COMBO_01-2_1_SKILL",
+   "en": "Triple Threat\n⇒Homing Dash",
+   "pt": "Tripla Ameaça\n⇒Avanço Teleguiado"
+  },
+  {
+   "id": "BRK_COMBO_01-2_1_INPUT",
+   "en": "{BR}\n⇒{CA} or {LA} or {BR} or {JU}",
+   "pt": "{BR}\n⇒{CA} ou {LA} ou {BR} ou {JU}"
+  },
+  {
+   "id": "BRK_COMBO_01-2_2_SKILL",
+   "en": "Snippity-Snips: Lawbreaker\n⇒Homing Dash",
+   "pt": "Pique-Pique: Infrator\n⇒Avanço Teleguiado"
+  },
+  {
+   "id": "BRK_COMBO_01-2_2_INPUT",
+   "en": "{BR}\n⇒{CA} or {LA} or {BR} or {JU}",
+   "pt": "{BR}\n⇒{CA} ou {LA} ou {BR} ou {JU}"
+  },
+  {
+   "id": "BRK_COMBO_01-2_3_SKILL",
+   "en": "Snippity-Snips: Drop Kick\n⇒Homing Dash",
+   "pt": "Pique-Pique: Voadora\n⇒Avanço Teleguiado"
+  },
+  {
+   "id": "BRK_COMBO_01-2_3_INPUT",
+   "en": "{BR}\n⇒{CA} or {LA} or {BR} or {JU}",
+   "pt": "{BR}\n⇒{CA} ou {LA} ou {BR} ou {JU}"
+  },
+  {
+   "id": "KILLERMOVE_01-2_1_SKILL",
+   "en": "Snippity Snips: Mince",
+   "pt": "Pique-Pique: Picar"
+  },
+  {
+   "id": "KILLERMOVE_01-2_1_INPUT",
+   "en": "{SP} + {CA}",
+   "pt": ""
+  },
+  {
+   "id": "KILLERMOVE_01-2_2_SKILL",
+   "en": "Double-Edged Decapitation Mode: \nUnchained Carnage",
+   "pt": "Modo Decapitação de Duplo Gume: \nCarnificina Desencadeada"
+  },
+  {
+   "id": "KILLERMOVE_01-2_2_INPUT",
+   "en": "{SP} + {LA}　⇒　{LA}　⇒　{LA}",
+   "pt": ""
+  },
+  {
+   "id": "KILLERMOVE_01-2_3_SKILL",
+   "en": "Snippity-Snips: Twister",
+   "pt": "Pique-Pique: Tornado"
+  },
+  {
+   "id": "KILLERMOVE_01-2_3_INPUT",
+   "en": "{SP} + {BR}　⇒　Move with {LS}",
+   "pt": "{SP} + {BR}　⇒　Mova com {LS}"
+  },
+  {
+   "id": "SUPERKILLERMOVE_01-2_1_SKILL",
+   "en": "Snippity-Snips: Devil's Roundup",
+   "pt": "Pique-Pique: Rodeio do Diabo"
+  },
+  {
+   "id": "SUPERKILLERMOVE_01-2_1_INPUT",
+   "en": "{SP} + {BR}　⇒　Move with {LS}",
+   "pt": "{SP} + {BR}　⇒　Mova com {LS}"
+  },
+  {
+   "id": "ARCANUM_01-2_1_SKILL",
+   "en": "Double-Edged Decapitation Mode: Doom",
+   "pt": "Modo Decapitação de Duplo Gume: Ruína"
+  },
+  {
+   "id": "CHARACTER_01-3",
+   "en": "Ryuko Matoi (Senketsu Kisaragi)",
+   "pt": "Ryuko Matoi (Senketsu Kisaragi)"
+  },
+  {
+   "id": "POINT_01-3",
+   "en": "After absorbing countless numbers of life Fibers, Senketsu has reached his final form! \nJunketsu Shinzui will constantly recover from damage, so settle the score with a SEN-I-SOSHITSU Secret Art!",
+   "pt": "Após absorver incontáveis Fibras de Vida, Senketsu alcançou sua forma final! \nJunketsu Shinzui irá se recuperar constantemente de dano, então acerte as contas com a Arte Secreta SEN-I-SOSHITSU!"
+  },
+  {
+   "id": "BUILDUP_01-3_1",
+   "en": "Valor Level 1\nGreatly recover HP.",
+   "pt": "Nível de Valor 1\nRecupera Vida imensamente."
+  },
+  {
+   "id": "BUILDUP_01-3_2",
+   "en": "Valor Level 2\nGreatly recover HP.",
+   "pt": "Nível de Valor 2\nRecupera Vida imensamente."
+  },
+  {
+   "id": "BUILDUP_01-3_3",
+   "en": "Valor Level 3\nGreatly recover HP.\nEnter Bloody Valor Overpowered state and gain a boost to your SP gauge.\nSEN-I-SOSHITSU Secret Art unsealed.\nSuccessfully hit your opponent with your special attack when your SP gauge is 100% to combo into your SEN-I-SOSHITSU Secret Art.",
+   "pt": "Nível de Valor 3\nRecupera Vida imensamente.\nEntra no estado Sobrepujante do Bloody Valor e ganha um bônus na Barra de SP.\nArte Secreta SEN-I-SOSHITSU desbloqueada.\nAcerte o oponente com o seu ataque especial com 100% da Barra de SP para emendar a Arte Secreta SEN-I-SOSHITSU."
+  },
+  {
+   "id": "ATKCOMBO_01-3_1_SKILL",
+   "en": "Snippity-Snips: Two-handed Cut",
+   "pt": "Pique-Pique: Corte com Duas Mãos"
+  },
+  {
+   "id": "ATKCOMBO_01-3_1_INPUT",
+   "en": "{CA}{CA}{CA}",
+   "pt": ""
+  },
+  {
+   "id": "ATKCOMBO_01-3_2_SKILL",
+   "en": "Tackle Kick",
+   "pt": "Chute de Encontrão"
+  },
+  {
+   "id": "ATKCOMBO_01-3_2_INPUT",
+   "en": "{CA}{CA}",
+   "pt": ""
+  },
+  {
+   "id": "SHTCOMBO_01-3_1_SKILL",
+   "en": "Snippity-Snips: Windslash",
+   "pt": "Pique-Pique: Corte de Vento"
+  },
+  {
+   "id": "SHTCOMBO_01-3_1_INPUT",
+   "en": "{LA} Hold",
+   "pt": "Segure {LA}"
+  },
+  {
+   "id": "SHTCOMBO_01-3_2_SKILL",
+   "en": "Snippity-Snips: Clean Sweep",
+   "pt": "Pique-Pique: Varredura Limpa"
+  },
+  {
+   "id": "SHTCOMBO_01-3_2_INPUT",
+   "en": "{LA}{LA}",
+   "pt": ""
+  },
+  {
+   "id": "SHTCOMBO_01-3_3_SKILL",
+   "en": "Snippity-Snips: Severance",
+   "pt": "Pique-Pique: Rompimento"
+  },
+  {
+   "id": "SHTCOMBO_01-3_3_INPUT",
+   "en": "{LA}",
+   "pt": ""
+  },
+  {
+   "id": "BRKCOMBO_01-3_1_SKILL",
+   "en": "Zekken Strike\n⇒Homing Dash",
+   "pt": "Golpe Zekken\n⇒Avanço Teleguiado"
+  },
+  {
+   "id": "BRKCOMBO_01-3_1_INPUT",
+   "en": "{BR}\n⇒{CA} or {LA} or {BR} or {JU}",
+   "pt": "{BR}\n⇒{CA} ou {LA} ou {BR} ou {JU}"
+  },
+  {
+   "id": "KILLERMOVE_01-3_1_SKILL",
+   "en": "Snippity-Snips: The Unparalleled\n⇒Valor Burst",
+   "pt": "Pique-Pique: A Inigualável\n⇒Explosão de Valor"
+  },
+  {
+   "id": "KILLERMOVE_01-3_2_SKILL",
+   "en": "Snippity-Snips: Multi-Ground Reel\n⇒Valor Burst",
+   "pt": "Pique-Pique: Bobina Multi-Terreno\n⇒Explosão de Valor"
+  },
+  {
+   "id": "KILLERMOVE_01-3_3_SKILL",
+   "en": "Snippity-Snips: Rumbling Earth\n⇒Valor Burst",
+   "pt": "Pique-Pique: Terra Estrondosa\n⇒Explosão de Valor"
+  },
+  {
+   "id": "ARCANUM_01-3_1_SKILL",
+   "en": "Double-Edged Decapitation Mode: Doomsday",
+   "pt": "Modo Decapitação de Duplo Gume: Dia do Juízo"
+  },
+  {
+   "id": "BRKCOMBO_01-3_1_IN",
+   "en": "Ground/Aerial\nDash/Vertical Step",
+   "pt": "Chão/Aéreo\nAvanço/Avanço Vertical"
+  },
+  {
+   "id": "CHARACTER_02-1",
+   "en": "Satsuki Kiryuin (Bakuzan)",
+   "pt": "Satsuki Kiryuin (Bakuzan)"
+  },
+  {
+   "id": "POINT_02-1",
+   "en": "A balanced fighter with an assortment of useful skills. \nBe careful though--because she wears Junketsu, her life is relatively low!",
+   "pt": "Uma lutadora balanceada com um sortimento de habilidades úteis. \nMas tome cuidado--por ela vestir o Junketsu, sua vida é relativamente baixa!"
+  },
+  {
+   "id": "BUILDUP_02-1_1",
+   "en": "Valor Level 1\nIncreased damage for all normal close range attacks.",
+   "pt": "Nível de Valor 1\nDano aumentado para todos os ataques normais de curto alcance."
+  },
+  {
+   "id": "BUILDUP_02-1_2",
+   "en": "Valor Level 2\nSpecial close range attacks powered up to super attacks.",
+   "pt": "Nível de Valor 2\nAtaques especiais de curto alcance aprimorados para ataques supremos."
+  },
+  {
+   "id": "BUILDUP_02-1_3",
+   "en": "Valor Level 3\nEnter Bloody Valor Overpowered state and gain a boost to your SP gauge.\nSEN-I-SOSHITSU Secret Art unsealed.",
+   "pt": "Nível de Valor 3\nEntra no estado Sobrepujante do Bloody Valor e ganha um bônus na Barra de SP.\nArte Secreta SEN-I-SOSHITSU desbloqueada."
+  },
+  {
+   "id": "ATKCOMBO_02-1_1_SKILL",
+   "en": "Bakuzan: Splice\n⇒Bakuzan: Mad Dance\n⇒Unbreakable Slash",
+   "pt": "Bakuzan: Emenda\n⇒Bakuzan: Dança Louca\n⇒Corte Inquebrável"
+  },
+  {
+   "id": "ATKCOMBO_02-1_1_INPUT",
+   "en": "{CA}　⇒　{CA}{CA}{CA}　⇒　{CA}",
+   "pt": ""
+  },
+  {
+   "id": "ATKCOMBO_02-1_2_SKILL",
+   "en": "Bakuzan: Flash\n⇒Bakuzan: Mad Dance\n⇒Cutting Resolve",
+   "pt": "Bakuzan: Clarão\n⇒Bakuzan: Dança Louca\n⇒Resolução Cortante"
+  },
+  {
+   "id": "ATKCOMBO_02-1_2_INPUT",
+   "en": "{←} or {→} + {CA}　\n⇒　{CA}{CA}　⇒　{←} or {→} + {CA}",
+   "pt": "{←} ou {→} + {CA}　\n⇒　{CA}{CA}　⇒　{←} ou {→} + {CA}"
+  },
+  {
+   "id": "ATKCOMBO_02-1_3_SKILL",
+   "en": "Bakuzan: Rising Blade\n⇒Bakuzan: Mad Dance\n⇒Rising Double Blade",
+   "pt": "Bakuzan: Lâmina Ascendente\n⇒Bakuzan: Dança Louca\n⇒Lâmina Dupla Ascendente"
+  },
+  {
+   "id": "ATKCOMBO_02-1_3_INPUT",
+   "en": "{↑} or {↓} + {CA}　\n⇒　{CA}{CA}{CA}　⇒　{↑} or {↓} + {CA}",
+   "pt": "{↑} ou {↓} + {CA}　\n⇒　{CA}{CA}{CA}　⇒　{↑} ou {↓} + {CA}"
+  },
+  {
+   "id": "ATKCOMBO_02-1_4_SKILL",
+   "en": "Bakuzan: Splice\n⇒Bakuzan: Mad Dance\n⇒Soaring Flash: Bombardment",
+   "pt": "Bakuzan: Emenda\n⇒Bakuzan: Dança Louca\n⇒Clarão Planador: Bombardeio"
+  },
+  {
+   "id": "ATKCOMBO_02-1_4_INPUT",
+   "en": "{CA}　⇒　{CA}{CA}{CA}　⇒　{LA}",
+   "pt": ""
+  },
+  {
+   "id": "ATKCOMBO_02-1_5_SKILL",
+   "en": "Bakuzan: Splice\n⇒Bakuzan: Mad Dance\n⇒Conquering Blade: Blasting Slash",
+   "pt": "Bakuzan: Emenda\n⇒Bakuzan: Dança Louca\n⇒Lâmina Conquistadora: Corte Explosivo"
+  },
+  {
+   "id": "ATKCOMBO_02-1_5_INPUT",
+   "en": "{CA}　⇒　{CA}{CA}{CA}　⇒　{BR}",
+   "pt": ""
+  },
+  {
+   "id": "ATKCOMBO_02-1_6_SKILL",
+   "en": "Bakuzan: Chase Strike",
+   "pt": "Bakuzan: Golpe de Perseguição"
+  },
+  {
+   "id": "ATKCOMBO_02-1_6_INPUT",
+   "en": "{CA}{CA}{CA}",
+   "pt": ""
+  },
+  {
+   "id": "ATKCOMBO_02-1_7_SKILL",
+   "en": "Bakuzan: Chase Strike\n⇒Soaring Flash: Bombardment",
+   "pt": "Bakuzan: Golpe de Perseguição\n⇒Clarão Planador: Bombardeio"
+  },
+  {
+   "id": "ATKCOMBO_02-1_7_INPUT",
+   "en": "{CA}{CA}　⇒　{LA}",
+   "pt": ""
+  },
+  {
+   "id": "ATKCOMBO_02-1_8_SKILL",
+   "en": "Bakuzan: Chase Strike\n⇒Conquering Blade: Blasting Slash",
+   "pt": "Bakuzan: Golpe de Perseguição\n⇒Lâmina Conquistadora: Corte Explosivo"
+  },
+  {
+   "id": "ATKCOMBO_02-1_8_INPUT",
+   "en": "{CA}{CA}　⇒　{BR}",
+   "pt": ""
+  },
+  {
+   "id": "ATKCOMBO_02-1_9_SKILL",
+   "en": "Bakuzan: Cutting Edge",
+   "pt": "Bakuzan: Gume Cortante"
+  },
+  {
+   "id": "ATKCOMBO_02-1_9_INPUT",
+   "en": "{CA}",
+   "pt": ""
+  },
+  {
+   "id": "SHTCOMBO_02-1_1_SKILL",
+   "en": "Soaring Flash: Bombardment",
+   "pt": "Clarão Planador: Bombardeio"
+  },
+  {
+   "id": "SHTCOMBO_02-1_1_INPUT",
+   "en": "{LA} Charge",
+   "pt": "Carregue {LA}"
+  },
+  {
+   "id": "SHTCOMBO_02-1_2_SKILL",
+   "en": "Bakuzan: Soaring Flash\n⇒Soaring Flash: Void Veil",
+   "pt": "Bakuzan: Clarão Planador\n⇒Clarão Planador: Véu do Vazio"
+  },
+  {
+   "id": "SHTCOMBO_02-1_2_INPUT",
+   "en": "{LA}　⇒　{LA}{LA}{LA}",
+   "pt": ""
+  },
+  {
+   "id": "SHTCOMBO_02-1_3_SKILL",
+   "en": "Bakuzan: Soaring Flash\n⇒Soaring Flash: Void Veil\n⇒Bakuzan: Second Slash",
+   "pt": "Bakuzan: Clarão Planador\n⇒Clarão Planador: Véu do Vazio\n⇒Bakuzan: Segundo Corte"
+  },
+  {
+   "id": "SHTCOMBO_02-1_3_INPUT",
+   "en": "{LA}　⇒　{LA}{LA}　⇒　{CA}",
+   "pt": ""
+  },
+  {
+   "id": "SHTCOMBO_02-1_4_SKILL",
+   "en": "Bakuzan: Soaring Flash\n⇒Soaring Flash: Void Veil\n⇒Conquering Blade: Blasting Slash",
+   "pt": "Bakuzan: Clarão Planador\n⇒Clarão Planador: Véu do Vazio\n⇒Lâmina Conquistadora: Corte Explosivo"
+  },
+  {
+   "id": "SHTCOMBO_02-1_4_INPUT",
+   "en": "{LA}　⇒　{LA}{LA}　⇒　{BR}",
+   "pt": ""
+  },
+  {
+   "id": "SHTCOMBO_02-1_5_SKILL",
+   "en": "Soaring Flash: Hidden Blade",
+   "pt": "Clarão Planador: Lâmina Oculta"
+  },
+  {
+   "id": "SHTCOMBO_02-1_5_INPUT",
+   "en": "{LA} Hold",
+   "pt": "Segure {LA}"
+  },
+  {
+   "id": "SHTCOMBO_02-1_6_SKILL",
+   "en": "Soaring Flash: Tri-step",
+   "pt": "Clarão Planador: Passo Triplo"
+  },
+  {
+   "id": "SHTCOMBO_02-1_6_INPUT",
+   "en": "{LA}{LA}{LA}",
+   "pt": ""
+  },
+  {
+   "id": "SHTCOMBO_02-1_7_SKILL",
+   "en": "Soaring Flash: Tri-step\n⇒Bakuzan: Solar Flash",
+   "pt": "Clarão Planador: Passo Triplo\n⇒Bakuzan: Clarão Solar"
+  },
+  {
+   "id": "SHTCOMBO_02-1_7_INPUT",
+   "en": "{LA}{LA}　⇒　{CA}",
+   "pt": ""
+  },
+  {
+   "id": "SHTCOMBO_02-1_8_SKILL",
+   "en": "Soaring Flash: Crushing Slash",
+   "pt": "Clarão Planador: Corte Esmagador"
+  },
+  {
+   "id": "SHTCOMBO_02-1_8_INPUT",
+   "en": "{LA}",
+   "pt": ""
+  }
+ ]
+}

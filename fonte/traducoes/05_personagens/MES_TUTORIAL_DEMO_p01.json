@@ -1,0 +1,308 @@
+{
+ "origem": "KlkResources/S701_MES/MES_TUTORIAL_DEMO",
+ "conteudo": "Falas em batalha - MES_TUTORIAL_DEMO",
+ "parte": "1/1",
+ "instrucoes": "Traduza o campo 'en' para portugues do Brasil e escreva o resultado em 'pt'. Nao altere 'id'. Mantenha intactos os codigos entre chaves ({CA}, {LA}, {BR}, {JU}, {SP}, {GD}, {LS}, {L1}, {R1}, setas), os marcadores de formato (%d, %l, %ls, %hs) e as quebras de linha \\n. Se uma linha nao precisar de traducao, deixe 'pt' vazio.",
+ "linhas": [
+  {
+   "id": "C081_VS_C011_ENTRY_1P_01_KEYWORD",
+   "en": "Sample",
+   "pt": "Amostra"
+  },
+  {
+   "id": "MES_TUTORIAL_00_00",
+   "en": "Lady Satsuki... I've finished the alterations to Junketsu.\nIt should fit perfect now.",
+   "pt": "Senhorita Satsuki... Eu terminei as alterações no Junketsu.\nDeve caber perfeitamente agora."
+  },
+  {
+   "id": "MES_TUTORIAL_00_01",
+   "en": "I'm sorry it's getting to you so last minute, \nbut I wanted to make sure all the tweaks you asked for \nwere addressed. I hope you understand...",
+   "pt": "Peço desculpas por entregar tão em cima da hora, \nmas eu queria garantir que todos os ajustes que você pediu \nfossem feitos. Espero que entenda..."
+  },
+  {
+   "id": "MES_TUTORIAL_00_02",
+   "en": "Of course. I wouldn't have it any other way.",
+   "pt": "É claro. Eu não aceitaria de outra forma."
+  },
+  {
+   "id": "MES_TUTORIAL_00_03",
+   "en": "It fits perfectly. And there's not a single open seam.\nWell done, Iori.",
+   "pt": "Serve perfeitamente. E não há uma única costura aberta.\nMuito bem, Iori."
+  },
+  {
+   "id": "MES_TUTORIAL_00_04",
+   "en": "You're too kind, m'Lady.\nThank you for your patience.",
+   "pt": "Você é muito gentil, Senhorita.\nObrigado pela sua paciência."
+  },
+  {
+   "id": "MES_TUTORIAL_00_05",
+   "en": "I'll check the compatibility of yourself and Junketsu,\nbased on the data you generate while fighting Ryuko Matoi.",
+   "pt": "Eu vou checar a sua compatibilidade com o Junketsu\ncom base nos dados que você gerar enquanto luta contra Ryuko Matoi."
+  },
+  {
+   "id": "MES_TUTORIAL_00_06",
+   "en": "Along the way, I'll explain the control system and \nhow it pertains to combat and special moves. \nLet me know when you're ready to start, m'Lady.",
+   "pt": "Ao longo do caminho, vou explicar o sistema de controles e \ncomo ele se aplica a combate e golpes especiais. \nAvise-me quando estiver pronta para começar, Senhorita."
+  },
+  {
+   "id": "MES_TUTORIAL_00_07",
+   "en": "I'm ready to begin immediately, Iori.\nI'm anxious to try it out.",
+   "pt": "Estou pronta para começar imediatamente, Iori.\nEstou ansiosa para testá-lo."
+  },
+  {
+   "id": "MES_TUTORIAL_00_08",
+   "en": "I'm sure you are.\nVery well, let's begin the compatibility check.",
+   "pt": "Tenho certeza que está.\nMuito bem, vamos começar o teste de compatibilidade."
+  },
+  {
+   "id": "MES_TUTORIAL_01_00",
+   "en": "But first, I should explain\nhow wins are achieved during combat.",
+   "pt": "Mas primeiro, eu devo explicar\ncomo as vitórias são alcançadas no combate."
+  },
+  {
+   "id": "MES_TUTORIAL_01_01",
+   "en": "Whenever you land a hit on your enemy, \ntheir \"life gauge\" at the top of the screen will decrease.\nAs soon as the gauge is completely empty, you win.",
+   "pt": "Sempre que você acertar um golpe na inimiga, \na \"barra de vida\" dela no topo da tela vai diminuir.\nAssim que a barra esvaziar completamente, você vence."
+  },
+  {
+   "id": "MES_TUTORIAL_01_02",
+   "en": "That said, if your Life Gauge empties, you lose. \nI know that's a stretch, but please keep that in mind.",
+   "pt": "Dito isso, se a sua barra de vida esvaziar, você perde. \nEu sei que é improvável, mas por favor tenha isso em mente."
+  },
+  {
+   "id": "MES_TUTORIAL_01_03",
+   "en": "Now, I'll go over your basic actions with you.",
+   "pt": "Agora, eu vou repassar as ações básicas com você."
+  },
+  {
+   "id": "MES_TUTORIAL_01_04",
+   "en": "There are five basic actions you should master... \nmoving, jumping, guarding, stepping, and the homing dash.",
+   "pt": "Há cinco ações básicas que você deve dominar... \nmover, pular, defender, dar passos e o avanço."
+  },
+  {
+   "id": "MES_TUTORIAL_01_05",
+   "en": "I've placed the controls for each of these actions on the screen.\nSo, please feel free to confirm them.",
+   "pt": "Eu coloquei os controles para cada uma dessas ações na tela.\nEntão, sinta-se à vontade para confirmá-los."
+  },
+  {
+   "id": "MES_TUTORIAL_01_06",
+   "en": "When you're ready, try them out.\nI'll collect your data while you do that.",
+   "pt": "Quando estiver pronta, teste-os.\nEu vou coletar os seus dados enquanto você faz isso."
+  },
+  {
+   "id": "MES_TUTORIAL_01_07",
+   "en": "Moving, jumping, and stepping\nlet you get closer to your opponent.\nThey can also be used to dodge their attacks.",
+   "pt": "Mover, pular e dar passos\npermitem que você se aproxime da sua oponente.\nEles também podem ser usados para desviar dos ataques dela."
+  },
+  {
+   "id": "MES_TUTORIAL_01_08",
+   "en": "Homing dash lets you close in on your enemy instantly.\nThat said, if you get too close and you find you can't dodge\ntheir attack in time, use the guard action to block it.",
+   "pt": "O avanço permite que você se aproxime da sua inimiga instantaneamente.\nDito isso, se você chegar muito perto e perceber que não consegue\ndesviar do ataque a tempo, use a ação de defesa para bloqueá-lo."
+  },
+  {
+   "id": "MES_TUTORIAL_01_09",
+   "en": "Thank you, Lady Satsuki.\nI finished checking your basic actions and \nyou seem to have the hang of them.",
+   "pt": "Obrigado, Senhorita Satsuki.\nEu terminei de checar as suas ações básicas e \nvocê parece ter pego o jeito."
+  },
+  {
+   "id": "MES_TUTORIAL_02_00",
+   "en": "Next, allow me to explain how to perform close-range attacks.",
+   "pt": "Em seguida, permita-me explicar como executar ataques de curto alcance."
+  },
+  {
+   "id": "MES_TUTORIAL_02_01",
+   "en": "Close-range attacks, as you can imagine,\nare used on your enemy when they are close by.",
+   "pt": "Ataques de curto alcance, como pode imaginar,\nsão usados na sua inimiga quando ela estiver perto."
+  },
+  {
+   "id": "MES_TUTORIAL_02_02",
+   "en": "If you use the close-range attack while simultaneously \nmoving up or down, it becomes an anti-air attack. \nThis is especially effective against enemies that are airborne.",
+   "pt": "Se você usar o ataque de curto alcance enquanto se move \npara cima ou para baixo, ele vira um ataque antiaéreo. \nIsto é especialmente eficaz contra inimigas que estiverem no ar."
+  },
+  {
+   "id": "MES_TUTORIAL_02_03",
+   "en": "If you activate a close-range attack while moving left or right,\nit becomes what's called a horizontal attack. \nIf your enemies are moving sideways,\nthis type of attack can be most effective. ",
+   "pt": "Se você ativar um ataque de curto alcance se movendo para os lados,\nele vira o que chamamos de ataque horizontal. \nSe as suas inimigas estiverem se movendo lateralmente,\neste tipo de ataque pode ser muito eficaz."
+  },
+  {
+   "id": "MES_TUTORIAL_02_04",
+   "en": "When you have a moment, please take a look on \nthe screen at the other types of actions that are possible.",
+   "pt": "Quando tiver um momento, por favor dê uma olhada na \ntela para ver os outros tipos de ações possíveis."
+  },
+  {
+   "id": "MES_TUTORIAL_02_05",
+   "en": "Fantastic, Lady Satsuki. \nI had no trouble capturing your data on close-range attacks.",
+   "pt": "Fantástico, Senhorita Satsuki. \nNão tive problemas para capturar seus dados de ataques de curto alcance."
+  },
+  {
+   "id": "MES_TUTORIAL_03_00",
+   "en": "Next, I'd like to explain long-range attacks \nand how to activate them.",
+   "pt": "Em seguida, eu gostaria de explicar os ataques à distância \ne como ativá-los."
+  },
+  {
+   "id": "MES_TUTORIAL_03_01",
+   "en": "If you prefer to keep your distance from the enemy, \nlong-range attacks are your best bet.",
+   "pt": "Se você prefere manter distância da inimiga, \nataques à distância são a sua melhor aposta."
+  },
+  {
+   "id": "MES_TUTORIAL_03_02",
+   "en": "Long-range attacks change, \ndepending on whether you tap the button repeatedly, \nor hold it down. Go on... give it a try.",
+   "pt": "Os ataques à distância mudam, \ndependendo se você apertar o botão repetidamente \nou segurá-lo. Vá em frente... dê uma tentada."
+  },
+  {
+   "id": "MES_TUTORIAL_03_03",
+   "en": "Thank you again, Lady Satsuki. \nI had no issues capturing your data on long-range attacks.",
+   "pt": "Obrigado mais uma vez, Senhorita Satsuki. \nNão tive problemas em capturar seus dados de ataques à distância."
+  },
+  {
+   "id": "MES_TUTORIAL_04_00",
+   "en": "If you're ready, \nI'll explain \"Break Attacks\" and how to activate them next.",
+   "pt": "Se estiver pronta, \nexplicarei os \"Ataques de Quebra\" e como ativá-los em seguida."
+  },
+  {
+   "id": "MES_TUTORIAL_04_01",
+   "en": "A Break Attack is a strong offensive move that \ncan literally break through your enemy's guard. \nEven better, it can send them flying like a rag doll, \ngiving you more opportunities to attack.",
+   "pt": "Um Ataque de Quebra é um forte golpe ofensivo que \npode literalmente romper a defesa da inimiga. \nMelhor ainda, pode jogá-la para longe como uma boneca de pano, \ndando a você mais oportunidades para atacar."
+  },
+  {
+   "id": "MES_TUTORIAL_04_02",
+   "en": "Once you've got your enemy airborne, \nyou can jump after them and attack, \nor unleash a barrage of attacks while they're helpless.",
+   "pt": "Uma vez que a sua inimiga estiver no ar, \nvocê pode pular atrás dela e atacá-la, \nou disparar uma chuva de ataques enquanto ela está indefesa."
+  },
+  {
+   "id": "MES_TUTORIAL_04_03",
+   "en": "Good job, Lady Satsuki. \nI've collected a great deal of data on your Break Attacks.",
+   "pt": "Bom trabalho, Senhorita Satsuki. \nColetei uma grande quantidade de dados dos seus Ataques de Quebra."
+  },
+  {
+   "id": "MES_TUTORIAL_05_00",
+   "en": "Let's apply what you've learned so far.",
+   "pt": "Vamos aplicar o que você aprendeu até agora."
+  },
+  {
+   "id": "MES_TUTORIAL_05_01",
+   "en": "If you perform any type of attack during a jump or \na homing dash, it will turn into a different attack.",
+   "pt": "Se você realizar qualquer tipo de ataque durante um pulo ou \num avanço, ele se transformará em um ataque diferente."
+  },
+  {
+   "id": "MES_TUTORIAL_05_02",
+   "en": "Please take a look at the options for attacks \nyou can use when jumping or in a homing dash.",
+   "pt": "Por favor, dê uma olhada nas opções de ataques \nque você pode usar ao pular ou em um avanço."
+  },
+  {
+   "id": "MES_TUTORIAL_05_03",
+   "en": "Very nice, Lady Satsuki. \nI've gathered fantastic data on each of your actions.",
+   "pt": "Muito bem, Senhorita Satsuki. \nReuni dados fantásticos sobre cada uma das suas ações."
+  },
+  {
+   "id": "MES_TUTORIAL_06_00",
+   "en": "We're just about finished, m'Lady.",
+   "pt": "Estamos quase terminando, Senhorita."
+  },
+  {
+   "id": "MES_TUTORIAL_06_01",
+   "en": "If you look below the Life Gauge, you'll see a yellow bar.\nThat's the \"SP Gauge\" and it's required to\nperform powerful moves.",
+   "pt": "Se você olhar abaixo da barra de vida, verá uma barra amarela.\nEssa é a \"Barra de SP\" e é necessária para\nexecutar golpes poderosos."
+  },
+  {
+   "id": "MES_TUTORIAL_06_02",
+   "en": "The SP Gauge starts to fill up whenever you attack, \nyou get attacked, or you guard an attack.",
+   "pt": "A barra de SP começa a encher sempre que você ataca, \né atacada, ou defende um ataque."
+  },
+  {
+   "id": "MES_TUTORIAL_06_03",
+   "en": "As soon as the meter fills up to \nmore than fifty percent capacity, \nyou can activate a powerful \"Special Attack\".",
+   "pt": "Assim que o medidor encher em \nmais de cinquenta por cento da capacidade, \nvocê poderá ativar um poderoso \"Ataque Especial\"."
+  },
+  {
+   "id": "MES_TUTORIAL_06_04",
+   "en": "Or, you can activate a special feature called Bloody Valor, if you wish.",
+   "pt": "Ou, você pode ativar um recurso especial chamado Bloody Valor, se desejar."
+  },
+  {
+   "id": "MES_TUTORIAL_06_05",
+   "en": "Excellent work, Lady Satsuki.\nI've collected a great deal of data on each of your actions.",
+   "pt": "Excelente trabalho, Senhorita Satsuki.\nColetei muitos dados sobre cada uma das suas ações."
+  },
+  {
+   "id": "MES_TUTORIAL_07_00",
+   "en": "We're just about finished, m'Lady.",
+   "pt": "Estamos quase terminando, Senhorita."
+  },
+  {
+   "id": "MES_TUTORIAL_07_01",
+   "en": "Allow me to take a moment to explain Bloody Valor.",
+   "pt": "Permita-me um momento para explicar o Bloody Valor."
+  },
+  {
+   "id": "MES_TUTORIAL_07_02",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "MES_TUTORIAL_07_03",
+   "en": "The first one to initiate Bloody Valor is on the \"attack\".\nConversely, whoever's on the receiving end is on \"defense\".",
+   "pt": "Quem iniciar o Bloody Valor primeiro ficará no \"ataque\".\nPor outro lado, quem recebê-lo ficará na \"defesa\"."
+  },
+  {
+   "id": "MES_TUTORIAL_07_04",
+   "en": "Once Bloody Valor has been initiated, \nboth sides will engage in a rock-paper-scissors-like showdown.\nOr, more specifically, \"Taunt-Mock-Provoke.\"",
+   "pt": "Uma vez que o Bloody Valor for iniciado, \nambos os lados entrarão num confronto estilo pedra-papel-tesoura.\nOu, mais especificamente, \"Insultar-Zombar-Provocar.\""
+  },
+  {
+   "id": "MES_TUTORIAL_07_05",
+   "en": "If the attacker \"wins\", their Valor Level will increase\nand their attacks will be granted additional properties.",
+   "pt": "Se quem ataca \"vencer\", seu Nível de Valor aumentará\ne seus ataques ganharão propriedades adicionais."
+  },
+  {
+   "id": "MES_TUTORIAL_07_06",
+   "en": "For example, m'Lady... if you reach \"Valor Level 1\", \nyour close-range attack power will increase. \nIf you reach Level 2, your Special Attack power will increase.",
+   "pt": "Por exemplo, Senhorita... se você alcançar o \"Nível de Valor 1\", \no seu poder de ataque de curto alcance aumentará. \nSe você alcançar o Nível 2, seu poder de Ataque Especial aumentará."
+  },
+  {
+   "id": "MES_TUTORIAL_07_07",
+   "en": "And finally, if you reach \"Valor Level 3,\" \nyou can use 100% of your SP gauge to perform \na \"SEN-I-SOSHITSU Secret Art.\"",
+   "pt": "E finalmente, se você alcançar o \"Nível de Valor 3\", \npoderá usar 100% da sua barra de SP para realizar \numa \"Arte Secreta SEN-I-SOSHITSU\"."
+  },
+  {
+   "id": "MES_TUTORIAL_07_08",
+   "en": "The \"SEN-I-SOSHITSU Secret Art\" is an instant kill attack.",
+   "pt": "A \"Arte Secreta SEN-I-SOSHITSU\" é um ataque de morte instantânea."
+  },
+  {
+   "id": "MES_TUTORIAL_07_09",
+   "en": "Also, when you hit your enemy with the activation burst, \nyou'll initiate an action called \"Blazing Valor\". \nWhatever you do, please make sure it connects.",
+   "pt": "Além disso, ao atingir a inimiga com a explosão de ativação, \nvocê iniciará uma ação chamada \"Blazing Valor\". \nFaça o que fizer, por favor certifique-se de que acerte."
+  },
+  {
+   "id": "MES_TUTORIAL_07_10",
+   "en": "And that's it, Lady Satsuki.\nThank you for your cooperation.",
+   "pt": "E isso é tudo, Senhorita Satsuki.\nObrigado por sua cooperação."
+  },
+  {
+   "id": "MES_TUTORIAL_08_00",
+   "en": "I know you're still fighting, Lady Satsuki. \nBut I've finished collecting your data.",
+   "pt": "Eu sei que ainda está lutando, Senhorita Satsuki. \nMas já terminei de coletar os seus dados."
+  },
+  {
+   "id": "MES_TUTORIAL_08_01",
+   "en": "I still need time to analyze it, \nso please focus on your fight with Matoi until I'm done.",
+   "pt": "Eu ainda preciso de tempo para analisá-los, \nentão, por favor, foque na sua luta com Matoi até eu terminar."
+  },
+  {
+   "id": "MES_TUTORIAL_09_00",
+   "en": "I finished my analysis, Lady Satsuki. \nI'm happy to report that all values are normal and no issues \nwere detected. This concludes the compatibility check. ",
+   "pt": "Terminei minha análise, Senhorita Satsuki. \nFico feliz em relatar que todos os valores estão normais e nenhum problema \nfoi detectado. Isso conclui o teste de compatibilidade."
+  },
+  {
+   "id": "MES_TUTORIAL_09_01",
+   "en": "Don't forget, Lady Satsuki... all the members of \nthe Sewing Club, along with myself of course, \nare here to help with whatever you need. \nYour grand ambitions are our grand ambitions!",
+   "pt": "Não se esqueça, Senhorita Satsuki... todos os membros do \nClube de Costura, junto comigo é claro, \nestão aqui para ajudar com o que você precisar. \nAs suas grandes ambições são as nossas grandes ambições!"
+  },
+  {
+   "id": "MES_TUTORIAL_10_00",
+   "en": "Lady Satsuki! Are you all right?!\nI should've taken more time with the alterations... \nI'll go fix it right away, m'Lady!",
+   "pt": "Senhorita Satsuki! Você está bem?!\nEu deveria ter levado mais tempo com as alterações... \nVou consertar isso agora mesmo, Senhorita!"
+  }
+ ]
+}

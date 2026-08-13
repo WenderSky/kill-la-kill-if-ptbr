@@ -1,0 +1,1008 @@
+{
+ "origem": "message/MES_COMMON",
+ "conteudo": "Menus, sistema e avisos",
+ "parte": "6/8",
+ "instrucoes": "Traduza o campo 'en' para portugues do Brasil e escreva o resultado em 'pt'. Nao altere 'id'. Mantenha intactos os codigos entre chaves ({CA}, {LA}, {BR}, {JU}, {SP}, {GD}, {LS}, {L1}, {R1}, setas), os marcadores de formato (%d, %l, %ls, %hs) e as quebras de linha \\n. Se uma linha nao precisar de traducao, deixe 'pt' vazio.",
+ "linhas": [
+  {
+   "id": "GALLERY_DL_RANKER_REPLAY",
+   "en": "Download this player's replay data?",
+   "pt": "Baixar os dados de replay deste jogador?"
+  },
+  {
+   "id": "GALLERY_TEXT_REPLAY_POP_OFF_00_00",
+   "en": "Replay",
+   "pt": "Replay"
+  },
+  {
+   "id": "GALLERY_TEXT_REPLAY_POP_OFF_01_00",
+   "en": "Protect",
+   "pt": "Proteger"
+  },
+  {
+   "id": "GALLERY_TEXT_REPLAY_POP_OFF_01_01",
+   "en": "Unprotect",
+   "pt": "Desproteger"
+  },
+  {
+   "id": "GALLERY_TEXT_REPLAY_POP_OFF_02_00",
+   "en": "Upload to Online Storage",
+   "pt": "Enviar para o Armazenamento Online"
+  },
+  {
+   "id": "GALLERY_TEXT_REPLAY_POP_OFF_02_01",
+   "en": "Delete from Online Storage",
+   "pt": "Excluir do Armazenamento Online"
+  },
+  {
+   "id": "GALLERY_TEXT_REPLAY_POP_OFF_03_00",
+   "en": "Delete",
+   "pt": "Excluir"
+  },
+  {
+   "id": "GALLERY_TEXT_REPLAY_POP_ON_00_00",
+   "en": "Copy to Console Storage",
+   "pt": "Copiar para o Armazenamento do Console"
+  },
+  {
+   "id": "GALLERY_TEXT_REPLAY_POP_ON_01_00",
+   "en": "View this Player's Other Replays",
+   "pt": "Ver Outros Replays deste Jogador"
+  },
+  {
+   "id": "GALLERY_TEXT_REPLAY_POP_TUS_00_00",
+   "en": "NO DATA",
+   "pt": "SEM DADOS"
+  },
+  {
+   "id": "GALLERY_TEXT_REPLAY_POP_TUS_00_01",
+   "en": "VS.",
+   "pt": "VS."
+  },
+  {
+   "id": "GALLERY_TEXT_REPLAY_POP_FIL_00_00",
+   "en": "Character 1",
+   "pt": "Personagem 1"
+  },
+  {
+   "id": "GALLERY_TEXT_REPLAY_POP_FIL_00_01",
+   "en": "Character",
+   "pt": "Personagem"
+  },
+  {
+   "id": "GALLERY_TEXT_REPLAY_POP_FIL_01_00",
+   "en": "Character 2",
+   "pt": "Personagem 2"
+  },
+  {
+   "id": "GALLERY_TEXT_REPLAY_POP_FIL_02_00",
+   "en": "Battle Mode",
+   "pt": "Modo de Batalha"
+  },
+  {
+   "id": "GALLERY_TEXT_REPLAY_POP_FIL_03_00",
+   "en": "Apply Filter",
+   "pt": "Aplicar Filtro"
+  },
+  {
+   "id": "GALLERY_TEXT_REPLAY_POP_FIL_ALL",
+   "en": "All",
+   "pt": "Todos"
+  },
+  {
+   "id": "GALLERY_TEXT_REPLAY_POP_HEL_00_00",
+   "en": "Uploaded Replays",
+   "pt": "Replays Enviados"
+  },
+  {
+   "id": "GALLERY_TEXT_REPLAY_POP_HEL_01_00",
+   "en": "Protected Replays",
+   "pt": "Replays Protegidos"
+  },
+  {
+   "id": "GALLERY_TEXT_REPLAY_POP_HEL_02_00",
+   "en": "Downloaded Replays",
+   "pt": "Replays Baixados"
+  },
+  {
+   "id": "GALLERY_TEXT_REPLAY_POP_INIT_ERR_00",
+   "en": "You cannot upload replays onto the server or switch to the leaderboards while offline. \nAttempt to reconnect to the internet?",
+   "pt": "Você não pode enviar replays para o servidor ou acessar os placares de líderes offline. \nTentar reconectar à internet?"
+  },
+  {
+   "id": "GALLERY_TEXT_REPLAY_POP_INIT_ERR_01",
+   "en": "You cannot switch to the leaderboards while offline. \nAttempt to reconnect to the internet?",
+   "pt": "Você não pode acessar os placares de líderes offline. \nTentar reconectar à internet?"
+  },
+  {
+   "id": "GALLERY_TEXT_REPLAY_POP_INIT_ERR_02",
+   "en": "The ranking list can't be changed due to age restrictions.",
+   "pt": "A lista de ranqueados não pode ser alterada devido a restrições de idade."
+  },
+  {
+   "id": "GALLERY_TEXT_REPLAY_POP_INIT_ERR_SEL_00",
+   "en": "Try Again",
+   "pt": "Tentar Novamente"
+  },
+  {
+   "id": "GALLERY_TEXT_REPLAY_POP_INIT_ERR_SEL_01",
+   "en": "Exit",
+   "pt": "Sair"
+  },
+  {
+   "id": "REPLAY_INIT_NETWORK",
+   "en": "Preparing network functions.",
+   "pt": "Preparando as funções de rede."
+  },
+  {
+   "id": "REPLAY_SYNC_STORAGE",
+   "en": "Synchronizing...",
+   "pt": "Sincronizando..."
+  },
+  {
+   "id": "REPLAY_EMPTY",
+   "en": "The replay data does not exist.",
+   "pt": "Os dados do replay não existem."
+  },
+  {
+   "id": "REPLAY_LIST_LOADING",
+   "en": "Reading replay list.",
+   "pt": "Lendo a lista de replays."
+  },
+  {
+   "id": "RANKING_BOARDLOADING",
+   "en": "Downloading leaderboard data.",
+   "pt": "Baixando dados do placar de líderes."
+  },
+  {
+   "id": "RANKING_RANKER_LOADING",
+   "en": "Retrieving information.",
+   "pt": "Recuperando informações."
+  },
+  {
+   "id": "RANKING_EMPTY",
+   "en": "Leaderboard information does not exist.",
+   "pt": "Não existem informações do placar de líderes."
+  },
+  {
+   "id": "REPLYA_PLAY_READY",
+   "en": "Loading replay data.",
+   "pt": "Carregando dados do replay."
+  },
+  {
+   "id": "REPLAY_UPLAODING",
+   "en": "Uploading replay to storage.",
+   "pt": "Enviando replay para o armazenamento."
+  },
+  {
+   "id": "REPLAY_DELEATING_STORAGE",
+   "en": "Deleting replay from storage.",
+   "pt": "Excluindo replay do armazenamento."
+  },
+  {
+   "id": "REPLAY_DELEATING",
+   "en": "Deleting replay.",
+   "pt": "Excluindo replay."
+  },
+  {
+   "id": "REPLYA_GET_STORAGE_LIST",
+   "en": "Downloading replay list.",
+   "pt": "Baixando a lista de replays."
+  },
+  {
+   "id": "REPLYA_DOWNLOAD_REPLAY",
+   "en": "Downloading replay data.",
+   "pt": "Baixando os dados do replay."
+  },
+  {
+   "id": "GALLERY_TEXT_RANKING_DESC_NONE",
+   "en": "Your score is not registered in the rankings.",
+   "pt": "Sua pontuação não está registrada nos placares."
+  },
+  {
+   "id": "GALLERY_TEXT_RANKING_DESC_00",
+   "en": "Your overall win count: %d win(s).",
+   "pt": "Sua contagem total de vitórias: %d vitória(s)."
+  },
+  {
+   "id": "GALLERY_TEXT_RANKING_DESC_01",
+   "en": "Your win streak: %d win(s).",
+   "pt": "Sua sequência de vitórias: %d vitória(s)."
+  },
+  {
+   "id": "GALLERY_TEXT_RANKING_DESC_02",
+   "en": "Your monthly win count: %d win(s).",
+   "pt": "Sua contagem mensal de vitórias: %d vitória(s)."
+  },
+  {
+   "id": "GALLERY_TEXT_RANKING_DESC_03",
+   "en": "Your monthly win rate: %.2f％ (Win rate is not calculated for 10 battles.)",
+   "pt": "Sua taxa de vitórias mensal: %.2f％ (A taxa não é calculada para 10 batalhas.)"
+  },
+  {
+   "id": "GALLERY_TEXT_FIGURE_000",
+   "en": "Delete Diorama %d?\nThe figures and backgrounds you've obtained will not be deleted.\n%ls: Delete data %ls: Cancel",
+   "pt": "Excluir Diorama %d?\nAs figuras e fundos que você obteve não serão excluídos.\n%ls: Excluir dados %ls: Cancelar"
+  },
+  {
+   "id": "GALLERY_TEXT_FIGURE_001",
+   "en": "Spend %d GP to unlock set frame %d?\n%ls: Unlock %ls: Cancel",
+   "pt": "Gastar %d GP para desbloquear o quadro %d?\n%ls: Desbloquear %ls: Cancelar"
+  },
+  {
+   "id": "GALLERY_TEXT_FIGURE_PRE_00",
+   "en": "Reading",
+   "pt": "Lendo"
+  },
+  {
+   "id": "GALLERY_TEXT_FIGURE_PRE_01",
+   "en": "Unselected",
+   "pt": "Não selecionado"
+  },
+  {
+   "id": "GALLERY_TEXT_FIGURE_PRE_02",
+   "en": "Locked",
+   "pt": "Bloqueado"
+  },
+  {
+   "id": "GALLERY_TEXT_FIGURE_SET_NAME_000",
+   "en": "Diorama 1",
+   "pt": "Diorama 1"
+  },
+  {
+   "id": "GALLERY_TEXT_FIGURE_SET_NAME_001",
+   "en": "Diorama 2",
+   "pt": "Diorama 2"
+  },
+  {
+   "id": "GALLERY_TEXT_FIGURE_SET_NAME_002",
+   "en": "Diorama 3",
+   "pt": "Diorama 3"
+  },
+  {
+   "id": "GALLERY_TEXT_FIGURE_SET_NAME_003",
+   "en": "Diorama 4",
+   "pt": "Diorama 4"
+  },
+  {
+   "id": "GALLERY_TEXT_FIGURE_SET_NAME_004",
+   "en": "Diorama 5",
+   "pt": "Diorama 5"
+  },
+  {
+   "id": "GALLERY_TEXT_FIGURE_TAB_000",
+   "en": "Character",
+   "pt": "Personagem"
+  },
+  {
+   "id": "GALLERY_TEXT_FIGURE_TAB_001",
+   "en": "Pose",
+   "pt": "Pose"
+  },
+  {
+   "id": "GALLERY_TEXT_FIGURE_TAB_002",
+   "en": "Expression",
+   "pt": "Expressão"
+  },
+  {
+   "id": "GALLERY_TEXT_FIGURE_TAB_003",
+   "en": "Move / Turn",
+   "pt": "Mover / Girar"
+  },
+  {
+   "id": "GALLERY_TEXT_BG_TAB_000",
+   "en": "Background",
+   "pt": "Fundo"
+  },
+  {
+   "id": "GALLERY_TEXT_BG_TAB_001",
+   "en": "Turn",
+   "pt": "Girar"
+  },
+  {
+   "id": "GALLERY_TEXT_FIGURE_NAME_001",
+   "en": "Satsuki (Life Fiber Override)",
+   "pt": "Satsuki (Subjugação da Fibra de Vida)"
+  },
+  {
+   "id": "GALLERY_TEXT_FIGURE_NAME_002",
+   "en": "Satsuki (Life Fiber Override, Dual Wield)",
+   "pt": "Satsuki (Subjugação da Fibra de Vida, Empunhadura Dupla)"
+  },
+  {
+   "id": "GALLERY_TEXT_FIGURE_NAME_003",
+   "en": "Satsuki (Junketsu Shinzui)",
+   "pt": "Satsuki (Junketsu Shinzui)"
+  },
+  {
+   "id": "GALLERY_TEXT_FIGURE_NAME_004",
+   "en": "Ryuko (Life Fiber Synchronize)",
+   "pt": "Ryuko (Sincronização com Fibra de Vida)"
+  },
+  {
+   "id": "GALLERY_TEXT_FIGURE_NAME_005",
+   "en": "Ryuko (Life Fiber Synchronize, Dual Wield)",
+   "pt": "Ryuko (Sincronização com Fibra de Vida, Empunhadura Dupla)"
+  },
+  {
+   "id": "GALLERY_TEXT_FIGURE_NAME_006",
+   "en": "Ryuko (Senketsu Kisaragi)",
+   "pt": "Ryuko (Senketsu Kisaragi)"
+  },
+  {
+   "id": "GALLERY_TEXT_FIGURE_NAME_007",
+   "en": "Gamagoori (Shackle & Scourge Regalia)",
+   "pt": "Gamagoori (Uniforme Goku de Algemas e Açoites)"
+  },
+  {
+   "id": "GALLERY_TEXT_FIGURE_NAME_008",
+   "en": "Sanageyama (Blade Regalia MKII)",
+   "pt": "Sanageyama (Uniforme Goku de Espadas MKII)"
+  },
+  {
+   "id": "GALLERY_TEXT_FIGURE_NAME_009",
+   "en": "Inumuta (Probe Regalia)",
+   "pt": "Inumuta (Uniforme Goku de Sonda)"
+  },
+  {
+   "id": "GALLERY_TEXT_FIGURE_NAME_010",
+   "en": "Jakuzure (Symphony Regalia Da Capo)",
+   "pt": "Jakuzure (Uniforme Goku Sinfônico Da Capo)"
+  },
+  {
+   "id": "GALLERY_TEXT_FIGURE_NAME_011",
+   "en": "Nui (Scissor Blade)",
+   "pt": "Nui (Lâmina-Tesoura)"
+  },
+  {
+   "id": "GALLERY_TEXT_FIGURE_NAME_012",
+   "en": "Nui (Clone)",
+   "pt": "Nui (Clone)"
+  },
+  {
+   "id": "GALLERY_TEXT_FIGURE_NAME_013",
+   "en": "Nui (Life Fiber Arm)",
+   "pt": "Nui (Braço de Fibra de Vida)"
+  },
+  {
+   "id": "GALLERY_TEXT_FIGURE_NAME_014",
+   "en": "Ragyo (Dress)",
+   "pt": "Ragyo (Vestido)"
+  },
+  {
+   "id": "GALLERY_TEXT_FIGURE_NAME_015",
+   "en": "Ragyo (Shinra-Kouketsu)",
+   "pt": "Ragyo (Shinra-Kouketsu)"
+  },
+  {
+   "id": "GALLERY_TEXT_FIGURE_NAME_016",
+   "en": "One-Star Student",
+   "pt": "Estudante de Uma Estrela"
+  },
+  {
+   "id": "GALLERY_TEXT_FIGURE_NAME_017",
+   "en": "COVERS",
+   "pt": "Casulos"
+  },
+  {
+   "id": "GALLERY_TEXT_FIGURE_NAME_018",
+   "en": "Enhanced COVERS",
+   "pt": "Casulos Aprimorados"
+  },
+  {
+   "id": "GALLERY_TEXT_FIGURE_NAME_019",
+   "en": "Mako (Fight Club Goku Uniform)",
+   "pt": "Mako (Uniforme Goku do Clube de Luta)"
+  },
+  {
+   "id": "GALLERY_TEXT_FIGURE_NAME_020",
+   "en": "Nudist Beach",
+   "pt": "Nudist Beach"
+  },
+  {
+   "id": "GALLERY_TEXT_POSTURE_NAME_001",
+   "en": "Pose 1",
+   "pt": "Pose 1"
+  },
+  {
+   "id": "GALLERY_TEXT_POSTURE_NAME_002",
+   "en": "Pose 2",
+   "pt": "Pose 2"
+  },
+  {
+   "id": "GALLERY_TEXT_POSTURE_NAME_003",
+   "en": "Pose 3",
+   "pt": "Pose 3"
+  },
+  {
+   "id": "GALLERY_TEXT_POSTURE_NAME_004",
+   "en": "Pose 4",
+   "pt": "Pose 4"
+  },
+  {
+   "id": "GALLERY_TEXT_POSTURE_NAME_005",
+   "en": "Pose 5",
+   "pt": "Pose 5"
+  },
+  {
+   "id": "GALLERY_TEXT_POSTURE_NAME_006",
+   "en": "Pose 6",
+   "pt": "Pose 6"
+  },
+  {
+   "id": "GALLERY_TEXT_POSTURE_NAME_007",
+   "en": "Pose 7",
+   "pt": "Pose 7"
+  },
+  {
+   "id": "GALLERY_TEXT_POSTURE_NAME_008",
+   "en": "Pose 8",
+   "pt": "Pose 8"
+  },
+  {
+   "id": "GALLERY_TEXT_POSTURE_NAME_009",
+   "en": "Pose 9",
+   "pt": "Pose 9"
+  },
+  {
+   "id": "GALLERY_TEXT_POSTURE_NAME_010",
+   "en": "Pose 10",
+   "pt": "Pose 10"
+  },
+  {
+   "id": "GALLERY_TEXT_POSTURE_NAME_011",
+   "en": "Pose 11",
+   "pt": "Pose 11"
+  },
+  {
+   "id": "GALLERY_TEXT_POSTURE_NAME_012",
+   "en": "Pose 12",
+   "pt": "Pose 12"
+  },
+  {
+   "id": "GALLERY_TEXT_POSTURE_NAME_013",
+   "en": "Pose 13",
+   "pt": "Pose 13"
+  },
+  {
+   "id": "GALLERY_TEXT_POSTURE_NAME_014",
+   "en": "Pose 14",
+   "pt": "Pose 14"
+  },
+  {
+   "id": "GALLERY_TEXT_POSTURE_NAME_015",
+   "en": "Pose 15",
+   "pt": "Pose 15"
+  },
+  {
+   "id": "GALLERY_TEXT_POSTURE_NAME_016",
+   "en": "Pose 16",
+   "pt": "Pose 16"
+  },
+  {
+   "id": "GALLERY_TEXT_POSTURE_NAME_017",
+   "en": "Pose 17",
+   "pt": "Pose 17"
+  },
+  {
+   "id": "GALLERY_TEXT_POSTURE_NAME_018",
+   "en": "Pose 18",
+   "pt": "Pose 18"
+  },
+  {
+   "id": "GALLERY_TEXT_POSTURE_NAME_019",
+   "en": "Pose 19",
+   "pt": "Pose 19"
+  },
+  {
+   "id": "GALLERY_TEXT_FACE_NAME_001",
+   "en": "Expression 1",
+   "pt": "Expressão 1"
+  },
+  {
+   "id": "GALLERY_TEXT_FACE_NAME_002",
+   "en": "Expression 2",
+   "pt": "Expressão 2"
+  },
+  {
+   "id": "GALLERY_TEXT_FACE_NAME_003",
+   "en": "Expression 3",
+   "pt": "Expressão 3"
+  },
+  {
+   "id": "GALLERY_TEXT_FIGURE_STAGE_NAME_000",
+   "en": "Background Honnouji Academy",
+   "pt": "Fundo da Academia Honnouji"
+  },
+  {
+   "id": "GALLERY_TEXT_FIGURE_TITLE_00",
+   "en": "Changing figure \"%d.\"",
+   "pt": "Alterando figura \"%d.\""
+  },
+  {
+   "id": "GALLERY_TEXT_FIGURE_TITLE_01",
+   "en": "Changing background.",
+   "pt": "Alterando fundo."
+  },
+  {
+   "id": "GALLERY_TEXT_FIGURE_TITLE_02",
+   "en": "Change the camera.",
+   "pt": "Alterar a câmera."
+  },
+  {
+   "id": "GALLERY_TEXT_FIGURE_EDIT_DESC_00",
+   "en": "Digital Figure Mode\nEdit Menu - Top",
+   "pt": "Modo de Figura Digital\nMenu de Edição - Início"
+  },
+  {
+   "id": "GALLERY_TEXT_FIGURE_EDIT_DESC_01",
+   "en": "Digital Figure Mode\nEdit Menu - Figure Select",
+   "pt": "Modo de Figura Digital\nMenu de Edição - Seleção de Figura"
+  },
+  {
+   "id": "GALLERY_TEXT_FIGURE_EDIT_DESC_02",
+   "en": "Digital Figure Mode\nEdit Menu - Pose Select",
+   "pt": "Modo de Figura Digital\nMenu de Edição - Seleção de Pose"
+  },
+  {
+   "id": "GALLERY_TEXT_FIGURE_EDIT_DESC_03",
+   "en": "Digital Figure Mode\nEdit Menu - Expression Select",
+   "pt": "Modo de Figura Digital\nMenu de Edição - Seleção de Expressão"
+  },
+  {
+   "id": "GALLERY_TEXT_FIGURE_EDIT_DESC_04",
+   "en": "Digital Figure Mode\nEdit Menu - Move Figure",
+   "pt": "Modo de Figura Digital\nMenu de Edição - Mover Figura"
+  },
+  {
+   "id": "GALLERY_TEXT_FIGURE_EDIT_DESC_05",
+   "en": "Digital Figure Mode\nEdit Menu - Background Select",
+   "pt": "Modo de Figura Digital\nMenu de Edição - Seleção de Fundo"
+  },
+  {
+   "id": "GALLERY_TEXT_FIGURE_EDIT_DESC_06",
+   "en": "Digital Figure screen\nEdit Menu - Move Background",
+   "pt": "Modo de Figura Digital\nMenu de Edição - Mover Fundo"
+  },
+  {
+   "id": "GALLERY_TEXT_FIGURE_EDIT_DESC_07",
+   "en": "Digital Figure Mode\nEdit Menu - Camera Control",
+   "pt": "Modo de Figura Digital\nMenu de Edição - Controle de Câmera"
+  },
+  {
+   "id": "GALLERY_FIGURE_OPEN_CONDITION_01",
+   "en": "Unlock Criteria: Clear Satsuki Chapter, Episode 1.",
+   "pt": "Requisito de Desbloqueio: Conclua o Capítulo da Satsuki, Episódio 1."
+  },
+  {
+   "id": "GALLERY_FIGURE_OPEN_CONDITION_02",
+   "en": "Unlock Criteria: Clear Satsuki Chapter, Episode 5.",
+   "pt": "Requisito de Desbloqueio: Conclua o Capítulo da Satsuki, Episódio 5."
+  },
+  {
+   "id": "GALLERY_FIGURE_OPEN_CONDITION_03",
+   "en": "Unlock Criteria: Clear Satsuki Chapter, Episode 10.",
+   "pt": "Requisito de Desbloqueio: Conclua o Capítulo da Satsuki, Episódio 10."
+  },
+  {
+   "id": "GALLERY_FIGURE_OPEN_CONDITION_04",
+   "en": "Unlock Criteria: clear Ryuko Chapter, Episode 1.",
+   "pt": "Requisito de Desbloqueio: Conclua o Capítulo da Ryuko, Episódio 1."
+  },
+  {
+   "id": "GALLERY_FIGURE_OPEN_CONDITION_05",
+   "en": "Unlock Criteria: clear Ryuko Chapter, Episode 5.",
+   "pt": "Requisito de Desbloqueio: Conclua o Capítulo da Ryuko, Episódio 5."
+  },
+  {
+   "id": "GALLERY_FIGURE_OPEN_CONDITION_06",
+   "en": "Unlock Criteria: clear Ryuko Chapter, Episode 10.",
+   "pt": "Requisito de Desbloqueio: Conclua o Capítulo da Ryuko, Episódio 10."
+  },
+  {
+   "id": "GALLERY_FIGURE_OPEN_CONDITION_07",
+   "en": "Unlock Criteria: Use Gamagoori in Free Battle.",
+   "pt": "Requisito de Desbloqueio: Use o Gamagoori em uma Partida Livre."
+  },
+  {
+   "id": "GALLERY_FIGURE_OPEN_CONDITION_08",
+   "en": "Unlock Criteria: Use Sanageyama in Free Battle.",
+   "pt": "Requisito de Desbloqueio: Use o Sanageyama em uma Partida Livre."
+  },
+  {
+   "id": "GALLERY_FIGURE_OPEN_CONDITION_09",
+   "en": "Unlock Criteria: Use Inumuta in Free Battle.",
+   "pt": "Requisito de Desbloqueio: Use o Inumuta em uma Partida Livre."
+  },
+  {
+   "id": "GALLERY_FIGURE_OPEN_CONDITION_10",
+   "en": "Unlock Criteria: Use Jakuzure in Free Battle.",
+   "pt": "Requisito de Desbloqueio: Use a Jakuzure em uma Partida Livre."
+  },
+  {
+   "id": "GALLERY_FIGURE_OPEN_CONDITION_11",
+   "en": "Unlock Criteria: Use Nui in Free Battle.",
+   "pt": "Requisito de Desbloqueio: Use a Nui em uma Partida Livre."
+  },
+  {
+   "id": "GALLERY_FIGURE_OPEN_CONDITION_12",
+   "en": "Unlock Criteria: Use Nui in Survival Challenge.",
+   "pt": "Requisito de Desbloqueio: Use a Nui no Desafio de Sobrevivência."
+  },
+  {
+   "id": "GALLERY_FIGURE_OPEN_CONDITION_13",
+   "en": "Unlock Criteria: Use Nui in COVERS Challenge.",
+   "pt": "Requisito de Desbloqueio: Use a Nui no Desafio de Casulos."
+  },
+  {
+   "id": "GALLERY_FIGURE_OPEN_CONDITION_14",
+   "en": "Unlock Criteria: Use Ragyo in Free Battle.",
+   "pt": "Requisito de Desbloqueio: Use a Ragyo em uma Partida Livre."
+  },
+  {
+   "id": "GALLERY_FIGURE_OPEN_CONDITION_15",
+   "en": "Unlock Criteria: Use Ragyo in Survival Challenge.",
+   "pt": "Requisito de Desbloqueio: Use a Ragyo no Desafio de Sobrevivência."
+  },
+  {
+   "id": "GALLERY_FIGURE_OPEN_CONDITION_16",
+   "en": "Unlock Criteria: Clear Ryuko Chapter, Episode 2",
+   "pt": "Requisito de Desbloqueio: Conclua o Capítulo da Ryuko, Episódio 2"
+  },
+  {
+   "id": "GALLERY_FIGURE_OPEN_CONDITION_17",
+   "en": "Unlock Criteria: Clear Ryuko Chapter, Episode 4",
+   "pt": "Requisito de Desbloqueio: Conclua o Capítulo da Ryuko, Episódio 4"
+  },
+  {
+   "id": "GALLERY_FIGURE_OPEN_CONDITION_18",
+   "en": "Unlock Criteria: Clear Ryuko Chapter, Episode 6",
+   "pt": "Requisito de Desbloqueio: Conclua o Capítulo da Ryuko, Episódio 6"
+  },
+  {
+   "id": "GALLERY_FIGURE_OPEN_CONDITION_19",
+   "en": "Unlock Criteria: Use Mako in Free Battle.",
+   "pt": "Requisito de Desbloqueio: Use a Mako em uma Partida Livre."
+  },
+  {
+   "id": "GALLERY_FIGURE_OPEN_CONDITION_20",
+   "en": "Unlock Criteria: Use Nudist Beach in Free Battle.",
+   "pt": "Requisito de Desbloqueio: Use a Nudist Beach em uma Partida Livre."
+  },
+  {
+   "id": "GALLERY_FIGURE_STAGE_OPEN_CONDITION_00",
+   "en": "Unlock Criteria: Clear Satsuki Chapter, Episode 1",
+   "pt": "Requisito de Desbloqueio: Conclua o Capítulo da Satsuki, Episódio 1"
+  },
+  {
+   "id": "GALLERY_FIGURE_STAGE_OPEN_CONDITION_01",
+   "en": "Unlock Criteria: Clear Satsuki Chapter, Episode 4",
+   "pt": "Requisito de Desbloqueio: Conclua o Capítulo da Satsuki, Episódio 4"
+  },
+  {
+   "id": "GALLERY_FIGURE_STAGE_OPEN_CONDITION_02",
+   "en": "Unlock Criteria: Clear Satsuki Chapter, Episode 6",
+   "pt": "Requisito de Desbloqueio: Conclua o Capítulo da Satsuki, Episódio 6"
+  },
+  {
+   "id": "GALLERY_TEXT_ANIME_COMMON_00",
+   "en": "This anime is locked. \nYou can unlock it by progressing in Story Mode. \n%ls: Close",
+   "pt": "Este anime está bloqueado. \nVocê pode desbloqueá-lo progredindo no Modo História. \n%ls: Fechar"
+  },
+  {
+   "id": "GALLERY_TEXT_ANIME_GALLERY_DESC_000",
+   "en": "Watch anime scenes you've unlocked.",
+   "pt": "Assista a cenas de anime que você desbloqueou."
+  },
+  {
+   "id": "GALLERY_TEXT_ANIME_NAME_000",
+   "en": "Opening",
+   "pt": "Abertura"
+  },
+  {
+   "id": "GALLERY_TEXT_ANIME_NAME_001",
+   "en": "Satsuki Chapter - Episode 1",
+   "pt": "Capítulo da Satsuki - Episódio 1"
+  },
+  {
+   "id": "GALLERY_TEXT_ANIME_NAME_002",
+   "en": "Satsuki Chapter - Episode 2",
+   "pt": "Capítulo da Satsuki - Episódio 2"
+  },
+  {
+   "id": "GALLERY_TEXT_ANIME_NAME_003",
+   "en": "Satsuki Chapter - Episode 3",
+   "pt": "Capítulo da Satsuki - Episódio 3"
+  },
+  {
+   "id": "GALLERY_TEXT_ANIME_NAME_004",
+   "en": "Satsuki Chapter - Episode 4",
+   "pt": "Capítulo da Satsuki - Episódio 4"
+  },
+  {
+   "id": "GALLERY_TEXT_ANIME_NAME_005",
+   "en": "Satsuki Chapter - Episode 5",
+   "pt": "Capítulo da Satsuki - Episódio 5"
+  },
+  {
+   "id": "GALLERY_TEXT_ANIME_NAME_006",
+   "en": "Satsuki Chapter - Episode 6",
+   "pt": "Capítulo da Satsuki - Episódio 6"
+  },
+  {
+   "id": "GALLERY_TEXT_ANIME_NAME_007",
+   "en": "Satsuki Chapter - Episode 7",
+   "pt": "Capítulo da Satsuki - Episódio 7"
+  },
+  {
+   "id": "GALLERY_TEXT_ANIME_NAME_008",
+   "en": "Satsuki Chapter - Episode 8",
+   "pt": "Capítulo da Satsuki - Episódio 8"
+  },
+  {
+   "id": "GALLERY_TEXT_ANIME_NAME_009",
+   "en": "Satsuki Chapter - Episode 9",
+   "pt": "Capítulo da Satsuki - Episódio 9"
+  },
+  {
+   "id": "GALLERY_TEXT_ANIME_NAME_010",
+   "en": "Satsuki Chapter - Episode 10",
+   "pt": "Capítulo da Satsuki - Episódio 10"
+  },
+  {
+   "id": "GALLERY_TEXT_ANIME_NAME_011",
+   "en": "Next Episode Preview - Satsuki",
+   "pt": "Prévia do Próximo Episódio - Satsuki"
+  },
+  {
+   "id": "GALLERY_TEXT_ANIME_NAME_012",
+   "en": "Ryuko Chapter - Episode 1",
+   "pt": "Capítulo da Ryuko - Episódio 1"
+  },
+  {
+   "id": "GALLERY_TEXT_ANIME_NAME_013",
+   "en": "Ryuko Chapter - Episode 2",
+   "pt": "Capítulo da Ryuko - Episódio 2"
+  },
+  {
+   "id": "GALLERY_TEXT_ANIME_NAME_014",
+   "en": "Ryuko Chapter - Episode 3",
+   "pt": "Capítulo da Ryuko - Episódio 3"
+  },
+  {
+   "id": "GALLERY_TEXT_ANIME_NAME_015",
+   "en": "Ryuko Chapter - Episode 4",
+   "pt": "Capítulo da Ryuko - Episódio 4"
+  },
+  {
+   "id": "GALLERY_TEXT_ANIME_NAME_016",
+   "en": "Ryuko Chapter - Episode 5",
+   "pt": "Capítulo da Ryuko - Episódio 5"
+  },
+  {
+   "id": "GALLERY_TEXT_ANIME_NAME_017",
+   "en": "Ryuko Chapter - Episode 6",
+   "pt": "Capítulo da Ryuko - Episódio 6"
+  },
+  {
+   "id": "GALLERY_TEXT_ANIME_NAME_018",
+   "en": "Ryuko Chapter - Episode 7",
+   "pt": "Capítulo da Ryuko - Episódio 7"
+  },
+  {
+   "id": "GALLERY_TEXT_ANIME_NAME_019",
+   "en": "Ryuko Chapter - Episode 8",
+   "pt": "Capítulo da Ryuko - Episódio 8"
+  },
+  {
+   "id": "GALLERY_TEXT_ANIME_NAME_020",
+   "en": "Ryuko Chapter - Episode 9",
+   "pt": "Capítulo da Ryuko - Episódio 9"
+  },
+  {
+   "id": "GALLERY_TEXT_ANIME_NAME_021",
+   "en": "Ryuko Chapter - Episode 10",
+   "pt": "Capítulo da Ryuko - Episódio 10"
+  },
+  {
+   "id": "GALLERY_TEXT_ANIME_NAME_022",
+   "en": "Ending Credits",
+   "pt": "Créditos Finais"
+  },
+  {
+   "id": "GALLERY_TEXT_ANIME_NAME_023 ",
+   "en": "Next Episode Preview - Ryuko",
+   "pt": "Prévia do Próximo Episódio - Ryuko"
+  },
+  {
+   "id": "GALLERY_TEXT_PLAYING_SOUND_NAME_00",
+   "en": "[%ls]",
+   "pt": "[%ls]"
+  },
+  {
+   "id": "GALLERY_TEXT_SOUND_NAME_000",
+   "en": "Sirius",
+   "pt": "Sirius"
+  },
+  {
+   "id": "GALLERY_TEXT_SOUND_NAME_001",
+   "en": "Before my body is dry",
+   "pt": "Before my body is dry"
+  },
+  {
+   "id": "GALLERY_TEXT_SOUND_NAME_002",
+   "en": "goriLLAJAL",
+   "pt": "goriLLAJAL"
+  },
+  {
+   "id": "GALLERY_TEXT_SOUND_NAME_003",
+   "en": "INUKA3L",
+   "pt": "INUKA3L"
+  },
+  {
+   "id": "GALLERY_TEXT_SOUND_NAME_004",
+   "en": "Blumenkranz",
+   "pt": "Blumenkranz"
+  },
+  {
+   "id": "GALLERY_TEXT_SOUND_NAME_005",
+   "en": "KIRYUG@KILL",
+   "pt": "KIRYUG@KILL"
+  },
+  {
+   "id": "GALLERY_TEXT_SOUND_NAME_006",
+   "en": "KILL7laKILL",
+   "pt": "KILL7laKILL"
+  },
+  {
+   "id": "GALLERY_TEXT_SOUND_NAME_007",
+   "en": "KiRYU ha KiLL",
+   "pt": "KiRYU ha KiLL"
+  },
+  {
+   "id": "GALLERY_TEXT_SOUND_NAME_008",
+   "en": "KiLL LA KiLL",
+   "pt": "KiLL LA KiLL"
+  },
+  {
+   "id": "GALLERY_TEXT_SOUND_NAME_009",
+   "en": "Daily Theater Type Three-Star Goku Uniform",
+   "pt": "Uniforme Goku de Três Estrelas Tipo Teatro Diário"
+  },
+  {
+   "id": "GALLERY_TEXT_SOUND_NAME_010",
+   "en": "Probable Last Boss Type Nine-Star Goku Uniform",
+   "pt": "Uniforme Goku de Nove Estrelas Tipo Provável Último Chefe"
+  },
+  {
+   "id": "GALLERY_TEXT_SOUND_NAME_011",
+   "en": "Battle Room Theme",
+   "pt": "Tema da Sala de Batalha"
+  },
+  {
+   "id": "GALLERY_TEXT_SOUND_NAME_012",
+   "en": "Matching Lobby Theme",
+   "pt": "Tema do Lobby de Partidas"
+  },
+  {
+   "id": "GALLERY_TEXT_SOUND_NAME_013",
+   "en": "Satsuki Kiryuin Theme (Intro & Loop)",
+   "pt": "Tema da Satsuki Kiryuin (Intro e Loop)"
+  },
+  {
+   "id": "GALLERY_TEXT_SOUND_NAME_014",
+   "en": "Satsuki Kiryuin Theme - Final Battle Remix (Intro & Loop)",
+   "pt": "Tema da Satsuki Kiryuin - Remix de Batalha Final (Intro e Loop)"
+  },
+  {
+   "id": "GALLERY_TEXT_SOUND_NAME_015",
+   "en": "Satsuki Kiryuin Theme - Bloody Valor Overpowered Remix (Intro & Loop)",
+   "pt": "Tema da Satsuki Kiryuin - Remix Overpowered do Bloody Valor (Intro e Loop)"
+  },
+  {
+   "id": "GALLERY_TEXT_SOUND_NAME_016",
+   "en": "Satsuki Kiryuin Victory Theme (Theme & Loop)",
+   "pt": "Tema de Vitória da Satsuki Kiryuin (Tema e Loop)"
+  },
+  {
+   "id": "GALLERY_TEXT_SOUND_NAME_017",
+   "en": "Ryuko Matoi Theme (Intro & Loop)",
+   "pt": "Tema da Ryuko Matoi (Intro e Loop)"
+  },
+  {
+   "id": "GALLERY_TEXT_SOUND_NAME_018",
+   "en": "Ryuko Matoi Theme - Final Battle Remix (Intro & Loop)",
+   "pt": "Tema da Ryuko Matoi - Remix de Batalha Final (Intro e Loop)"
+  },
+  {
+   "id": "GALLERY_TEXT_SOUND_NAME_019",
+   "en": "Ryuko Matoi Theme - Bloody Valor Overpowered Remix (Intro & Loop)",
+   "pt": "Tema da Ryuko Matoi - Remix Overpowered do Bloody Valor (Intro e Loop)"
+  },
+  {
+   "id": "GALLERY_TEXT_SOUND_NAME_020",
+   "en": "Ryuko Matoi Victory Theme (Intro & Loop)",
+   "pt": "Tema de Vitória da Ryuko Matoi (Intro e Loop)"
+  },
+  {
+   "id": "GALLERY_TEXT_SOUND_NAME_021",
+   "en": "Ira Gamagoori Theme (Intro & Loop)",
+   "pt": "Tema do Ira Gamagoori (Intro e Loop)"
+  },
+  {
+   "id": "GALLERY_TEXT_SOUND_NAME_022",
+   "en": "Ira Gamagoori Theme - Final Battle Remix (Intro & Loop)",
+   "pt": "Tema do Ira Gamagoori - Remix de Batalha Final (Intro e Loop)"
+  },
+  {
+   "id": "GALLERY_TEXT_SOUND_NAME_023",
+   "en": "Ira Gamagoori Theme - Bloody Valor Overpowered Remix (Intro & Loop)",
+   "pt": "Tema do Ira Gamagoori - Remix Overpowered do Bloody Valor (Intro e Loop)"
+  },
+  {
+   "id": "GALLERY_TEXT_SOUND_NAME_024",
+   "en": "Ira Gamagoori Victory Theme (Intro & Loop)",
+   "pt": "Tema de Vitória do Ira Gamagoori (Intro e Loop)"
+  },
+  {
+   "id": "GALLERY_TEXT_SOUND_NAME_025",
+   "en": "Uzu Sanageyama Theme - Final Battle Remix (Intro & Loop)",
+   "pt": "Tema do Uzu Sanageyama - Remix de Batalha Final (Intro e Loop)"
+  },
+  {
+   "id": "GALLERY_TEXT_SOUND_NAME_026",
+   "en": "Uzu Sanageyama Theme - Final Battle Remix (Intro & Loop)",
+   "pt": "Tema do Uzu Sanageyama - Remix de Batalha Final (Intro e Loop)"
+  },
+  {
+   "id": "GALLERY_TEXT_SOUND_NAME_027",
+   "en": "Uzu Sanageyama Theme - Bloody Valor Overpowered Remix (Intro & Loop)",
+   "pt": "Tema do Uzu Sanageyama - Remix Overpowered do Bloody Valor (Intro e Loop)"
+  },
+  {
+   "id": "GALLERY_TEXT_SOUND_NAME_028",
+   "en": "Uzu Sanageyama Victory Theme (Intro & Loop)",
+   "pt": "Tema de Vitória do Uzu Sanageyama (Intro e Loop)"
+  },
+  {
+   "id": "GALLERY_TEXT_SOUND_NAME_029",
+   "en": "Houka Inumuta Theme (Intro & Loop)",
+   "pt": "Tema do Houka Inumuta (Intro e Loop)"
+  },
+  {
+   "id": "GALLERY_TEXT_SOUND_NAME_030",
+   "en": "Houka Inumuta Theme - Final Battle Remix (Intro & Loop)",
+   "pt": "Tema do Houka Inumuta - Remix de Batalha Final (Intro e Loop)"
+  },
+  {
+   "id": "GALLERY_TEXT_SOUND_NAME_031",
+   "en": "Houka Inumuta Theme - Bloody Valor Overpowered Remix (Intro & Loop)",
+   "pt": "Tema do Houka Inumuta - Remix Overpowered do Bloody Valor (Intro e Loop)"
+  },
+  {
+   "id": "GALLERY_TEXT_SOUND_NAME_032",
+   "en": "Houka Inumuta Victory Theme (Intro & Loop)",
+   "pt": "Tema de Vitória do Houka Inumuta (Intro e Loop)"
+  },
+  {
+   "id": "GALLERY_TEXT_SOUND_NAME_033",
+   "en": "Nonon Jakuzure Theme (Intro & Loop)",
+   "pt": "Tema da Nonon Jakuzure (Intro e Loop)"
+  },
+  {
+   "id": "GALLERY_TEXT_SOUND_NAME_034",
+   "en": "Nonon Jakuzure Theme - Final Battle Remix (Intro & Loop)",
+   "pt": "Tema da Nonon Jakuzure - Remix de Batalha Final (Intro e Loop)"
+  },
+  {
+   "id": "GALLERY_TEXT_SOUND_NAME_035",
+   "en": "Nonon Jakuzure Theme - Bloody Valor Overpowered Remix (Intro & Loop)",
+   "pt": "Tema da Nonon Jakuzure - Remix Overpowered do Bloody Valor (Intro e Loop)"
+  },
+  {
+   "id": "GALLERY_TEXT_SOUND_NAME_036",
+   "en": "Nonon Jakuzure Victory Theme (Intro & Loop)",
+   "pt": "Tema de Vitória da Nonon Jakuzure (Intro e Loop)"
+  }
+ ]
+}

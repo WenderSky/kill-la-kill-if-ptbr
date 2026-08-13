@@ -1,0 +1,78 @@
+{
+ "origem": "KlkResources/S701_MES/MES_011_RYU_ACT",
+ "conteudo": "Falas em batalha - Ryuko",
+ "parte": "4/4",
+ "instrucoes": "Traduza o campo 'en' para portugues do Brasil e escreva o resultado em 'pt'. Nao altere 'id'. Mantenha intactos os codigos entre chaves ({CA}, {LA}, {BR}, {JU}, {SP}, {GD}, {LS}, {L1}, {R1}, setas), os marcadores de formato (%d, %l, %ls, %hs) e as quebras de linha \\n. Se uma linha nao precisar de traducao, deixe 'pt' vazio.",
+ "linhas": [
+  {
+   "id": "C011_COVERS_FINISH_EXCELLENT_01_KEYWORD",
+   "en": "What's the matter? I'm just getting started!",
+   "pt": "Qual é o problema? Eu tô só começando, porra!"
+  },
+  {
+   "id": "C011_COVERS_FINISH_EXCELLENT_02_KEYWORD",
+   "en": "I ain't gonna lose to a lame-ass suit like you!",
+   "pt": "Eu não vou perder pra uma roupa de merda que nem você!"
+  },
+  {
+   "id": "C011_COVERS_FINISH_GREAT_01_KEYWORD",
+   "en": "Welp! That'll do it!",
+   "pt": "Bom! Já deu pro gasto!"
+  },
+  {
+   "id": "C011_COVERS_FINISH_GREAT_02_KEYWORD",
+   "en": "This ain't nothing compared to those student council jackasses!",
+   "pt": "Isso não é porra nenhuma comparado com aqueles babacas do Conselho Estudantil!"
+  },
+  {
+   "id": "C011_COVERS_FINISH_GREAT_03_KEYWORD",
+   "en": "That's cool! I'm doin' pretty good!",
+   "pt": "Foda! Eu tô mandando muito bem!"
+  },
+  {
+   "id": "C011_COVERS_FINISH_GOOD_01_KEYWORD",
+   "en": "I'll let you off the hook for today!",
+   "pt": "Vou dar um desconto pra vocês hoje!"
+  },
+  {
+   "id": "C011_COVERS_FINISH_GOOD_02_KEYWORD",
+   "en": "I'm not satisfied, but this'll do for today.",
+   "pt": "Não tô satisfeita, mas isso já serve por hoje."
+  },
+  {
+   "id": "C011_COVERS_FINISH_GOOD_03_KEYWORD",
+   "en": "Alright! We cleared up quite a bit, didn't we?",
+   "pt": "Beleza! A gente fez uma limpa e tanto, né?"
+  },
+  {
+   "id": "C011_COVERS_FINISH_PASS_01_KEYWORD",
+   "en": "Tch, I'm not done rampaging yet!",
+   "pt": "Tsc, eu ainda não terminei de quebrar tudo, caralho!"
+  },
+  {
+   "id": "C011_COVERS_FINISH_PASS_02_KEYWORD",
+   "en": "Damn, I'm not finding my groove.",
+   "pt": "Merda, não tô conseguindo pegar o ritmo."
+  },
+  {
+   "id": "C011_COVERS_FINISH_PASS_03_KEYWORD",
+   "en": "That's odd... I thought I could defeat a few more.",
+   "pt": "Que estranho... Achei que conseguiria acabar com mais alguns."
+  },
+  {
+   "id": "C011_COVERS_FINISH_BAD_01_KEYWORD",
+   "en": "How could these jackasses get one up on me...?",
+   "pt": "Como é que esses bostas conseguiram levar a melhor...?"
+  },
+  {
+   "id": "C011_COVERS_FINISH_BAD_02_KEYWORD",
+   "en": "Kgh, I underestimated them.",
+   "pt": "Kgh, eu subestimei eles."
+  },
+  {
+   "id": "C011_COVERS_FINISH_BAD_03_KEYWORD",
+   "en": "Dammit, this is endless... Just how many of them are there?",
+   "pt": "Porra, não tem fim... Quantos desses malditos tem aqui?"
+  }
+ ]
+}

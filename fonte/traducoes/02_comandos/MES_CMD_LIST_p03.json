@@ -1,0 +1,1008 @@
+{
+ "origem": "message/MES_CMD_LIST",
+ "conteudo": "Lista de comandos e golpes",
+ "parte": "3/4",
+ "instrucoes": "Traduza o campo 'en' para portugues do Brasil e escreva o resultado em 'pt'. Nao altere 'id'. Mantenha intactos os codigos entre chaves ({CA}, {LA}, {BR}, {JU}, {SP}, {GD}, {LS}, {L1}, {R1}, setas), os marcadores de formato (%d, %l, %ls, %hs) e as quebras de linha \\n. Se uma linha nao precisar de traducao, deixe 'pt' vazio.",
+ "linhas": [
+  {
+   "id": "ATKCOMBO_05_4_SKILL",
+   "en": "Sound Shot: Anti-Air Fire",
+   "pt": "Disparo Sônico: Fogo Antiaéreo"
+  },
+  {
+   "id": "ATKCOMBO_05_4_INPUT",
+   "en": "{CA}{CA}",
+   "pt": "{CA}{CA}"
+  },
+  {
+   "id": "ATKCOMBO_05_5_SKILL",
+   "en": "Sound Shot: High-Angle Fire",
+   "pt": "Disparo Sônico: Fogo em Ângulo Alto"
+  },
+  {
+   "id": "ATKCOMBO_05_5_INPUT",
+   "en": "{CA}{CA}",
+   "pt": "{CA}{CA}"
+  },
+  {
+   "id": "SHTCOMBO_05_1_SKILL",
+   "en": "Sound Shot: Waltz",
+   "pt": "Disparo Sônico: Valsa"
+  },
+  {
+   "id": "SHTCOMBO_05_1_INPUT",
+   "en": "{LA}{LA}{LA}{LA}",
+   "pt": "{LA}{LA}{LA}{LA}"
+  },
+  {
+   "id": "SHTCOMBO_05_2_SKILL",
+   "en": "Sound Shot: Waltz\n⇒Sound Shot",
+   "pt": "Disparo Sônico: Valsa\n⇒Disparo Sônico"
+  },
+  {
+   "id": "SHTCOMBO_05_2_INPUT",
+   "en": "{LA}{LA}{LA}　⇒　{CA}{CA}",
+   "pt": "{LA}{LA}{LA}　⇒　{CA}{CA}"
+  },
+  {
+   "id": "SHTCOMBO_05_3_SKILL",
+   "en": "Sound Shot: Round",
+   "pt": "Disparo Sônico: Rodada"
+  },
+  {
+   "id": "SHTCOMBO_05_3_INPUT",
+   "en": "{LA}{LA}{LA}",
+   "pt": "{LA}{LA}{LA}"
+  },
+  {
+   "id": "SHTCOMBO_05_4_SKILL",
+   "en": "Sound Shot: Suite",
+   "pt": "Disparo Sônico: Suíte"
+  },
+  {
+   "id": "SHTCOMBO_05_4_INPUT",
+   "en": "{LA}{LA}",
+   "pt": "{LA}{LA}"
+  },
+  {
+   "id": "BRKCOMBO_05_1_SKILL",
+   "en": "Sound Wave",
+   "pt": "Onda Sônica"
+  },
+  {
+   "id": "BRKCOMBO_05_1_INPUT",
+   "en": "{BR}",
+   "pt": "{BR}"
+  },
+  {
+   "id": "BRKCOMBO_05_2_SKILL",
+   "en": "Sound Wave: Anti-Air Machine Gun",
+   "pt": "Onda Sônica: Metralhadora Antiaérea"
+  },
+  {
+   "id": "BRKCOMBO_05_2_INPUT",
+   "en": "{BR}",
+   "pt": "{BR}"
+  },
+  {
+   "id": "BRKCOMBO_05_3_SKILL",
+   "en": "Sound Wave: Bombardment",
+   "pt": "Onda Sônica: Bombardeio"
+  },
+  {
+   "id": "BRKCOMBO_05_3_INPUT",
+   "en": "{BR}",
+   "pt": "{BR}"
+  },
+  {
+   "id": "KILLERMOVE_05_1_SKILL",
+   "en": "Symphony Regalia: Symphony",
+   "pt": "Traje da Sinfonia: Sinfonia"
+  },
+  {
+   "id": "KILLERMOVE_05_2_SKILL",
+   "en": "Symphony Regalia: Concerto",
+   "pt": "Traje da Sinfonia: Concerto"
+  },
+  {
+   "id": "KILLERMOVE_05_3_SKILL",
+   "en": "Symphony Regalia: Solo",
+   "pt": "Traje da Sinfonia: Solo"
+  },
+  {
+   "id": "SUPERKILLERMOVE_05_1_SKILL",
+   "en": "Symphony Regalia: Canon",
+   "pt": "Traje da Sinfonia: Cânone"
+  },
+  {
+   "id": "ARCANUM_05_1_SKILL",
+   "en": "Symphony Regalia: Requiem",
+   "pt": "Traje da Sinfonia: Réquiem"
+  },
+  {
+   "id": "CHARACTER_06-1",
+   "en": "Houka Inumuta (Probe Regalia)",
+   "pt": "Houka Inumuta (Traje Sonda)"
+  },
+  {
+   "id": "POINT_06_1",
+   "en": "A technical character with high mobility who uses holograms to trick his foes. \nHe can analyze his opponents to power up his attacks!",
+   "pt": "Um personagem técnico com alta mobilidade que usa hologramas para enganar os inimigos. \nEle pode analisar seus oponentes para fortalecer seus ataques!"
+  },
+  {
+   "id": "ABILITY_06_1",
+   "en": "Analysis Gauge (AG).\nThis unique gauge is charged by attacking the opponent with a long range cube attack. \nConsume AG to increase your break attack damage or perform special cancels during combos.",
+   "pt": "Barra de Análise (BA).\nEssa barra única enche ao atacar o oponente com um ataque de cubo à distância. \nConsuma BA para aumentar o dano do ataque de quebra de defesa ou executar cancelamentos especiais nos combos."
+  },
+  {
+   "id": "ABILITY_06_2",
+   "en": "Thermo Optical Camouflage\nBy hitting the opponent with certain attacks, such as special close range attacks, \nyou activate Thermo Optical Camouflage, allowing you to use powerful actions that consume AG. \nThermo Optical Camouflage is disabled by performing a step or taking damage.",
+   "pt": "Camuflagem Termo-Óptica\nAo acertar o oponente com certos ataques, como ataques especiais de perto, \nvocê ativa a Camuflagem Termo-Óptica, permitindo usar ações poderosas que consomem BA. \nA Camuflagem Termo-Óptica é desativada ao realizar uma esquiva ou receber dano."
+  },
+  {
+   "id": "BUILDUP_06_1",
+   "en": "Valor Level 1\nUp to 5 units of AG can be used after a break attack connects. \nThermo Optical Camouflage attacks can be used from break attack startups or during a homing dash .\nIncreased break attack damage.",
+   "pt": "Nível 1 de Valor\nAté 5 unidades de BA podem ser usadas após acertar um ataque de quebra de defesa. \nAtaques de Camuflagem Termo-Óptica podem ser usados na ativação de ataques de quebra de defesa ou durante um avanço guiado.\nAumenta o dano de ataque de quebra de defesa."
+  },
+  {
+   "id": "BUILDUP_06_2",
+   "en": "Valor Level 2\nSpecial break attacks powered up to super attacks.",
+   "pt": "Nível 2 de Valor\nAtaques especiais de quebra de defesa fortalecidos para ataques supremos."
+  },
+  {
+   "id": "BUILDUP_06_3",
+   "en": "Valor Level 3\nEnter Bloody Valor Overpowered state and gain a boost to your SP gauge.\nSEN-I-SOSHITSU Secret Art unsealed.",
+   "pt": "Nível 3 de Valor\nEntra no estado Overpowered de Bloody Valor e ganha um impulso na sua barra de SP.\nArte Secreta SEN-I-SOSHITSU liberada."
+  },
+  {
+   "id": "ABILITYACTION_06_1_SKILL",
+   "en": "D&D",
+   "pt": "D&D"
+  },
+  {
+   "id": "ABILITYACTION_06_1_POSITION",
+   "en": "During Thermo Optical \nCamouflage attack",
+   "pt": "Durante ataque de\nCamuflagem Termo-Óptica"
+  },
+  {
+   "id": "ABILITYACTION_06_1_INPUT",
+   "en": "{JU}",
+   "pt": "{JU}"
+  },
+  {
+   "id": "ATKCOMBO_06_1_SKILL",
+   "en": "Setup Capture\n⇒PH Scramble\n⇒Shutdown",
+   "pt": "Captura de Configuração\n⇒PH Scramble\n⇒Encerramento"
+  },
+  {
+   "id": "ATKCOMBO_06_1_INPUT",
+   "en": "{CA}　⇒　{CA}{CA}　⇒　{CA}",
+   "pt": "{CA}　⇒　{CA}{CA}　⇒　{CA}"
+  },
+  {
+   "id": "ATKCOMBO_06_2_SKILL",
+   "en": "WA Search\n⇒PH Scramble\n⇒PH Dialogue",
+   "pt": "Busca WA\n⇒PH Scramble\n⇒Diálogo PH"
+  },
+  {
+   "id": "ATKCOMBO_06_2_INPUT",
+   "en": "{←} or {→} + {CA}{CA}{CA}\n⇒　{CA}　⇒　{←} or {→} + {CA}",
+   "pt": "{←} ou {→} + {CA}{CA}{CA}\n⇒　{CA}　⇒　{←} ou {→} + {CA}"
+  },
+  {
+   "id": "ATKCOMBO_06_3_SKILL",
+   "en": "FW Somersault\n⇒PH Scramble\n⇒Force Scroll",
+   "pt": "Mortal FW\n⇒PH Scramble\n⇒Rolagem Forçada"
+  },
+  {
+   "id": "ATKCOMBO_06_3_INPUT",
+   "en": "{↑} or {↓} + {CA}　\n⇒　{CA}{CA}　⇒　{↑} or {↓} + {CA}",
+   "pt": "{↑} ou {↓} + {CA}　\n⇒　{CA}{CA}　⇒　{↑} ou {↓} + {CA}"
+  },
+  {
+   "id": "ATKCOMBO_06_4_SKILL",
+   "en": "Pop-Up Kick",
+   "pt": "Chute Pop-Up"
+  },
+  {
+   "id": "ATKCOMBO_06_4_INPUT",
+   "en": "{CA}{CA}{CA}",
+   "pt": "{CA}{CA}{CA}"
+  },
+  {
+   "id": "ATKCOMBO_06_5_SKILL",
+   "en": "PH Slider",
+   "pt": "Deslizador PH"
+  },
+  {
+   "id": "ATKCOMBO_06_5_INPUT",
+   "en": "{CA}{CA}",
+   "pt": "{CA}{CA}"
+  },
+  {
+   "id": "ATKCOMBO_06_6_SKILL",
+   "en": "PH Dialogue\n⇒Shutdown if\n⇒VB Somersault",
+   "pt": "Diálogo PH\n⇒Encerramento se\n⇒Mortal VB"
+  },
+  {
+   "id": "ATKCOMBO_06_6_POSITION",
+   "en": "During Thermo Optical\nCamouflage on the ground",
+   "pt": "Durante Camuflagem\nTermo-Óptica no chão"
+  },
+  {
+   "id": "ATKCOMBO_06_6_INPUT",
+   "en": "{CA}　⇒　{CA}　⇒　{CA}",
+   "pt": "{CA}　⇒　{CA}　⇒　{CA}"
+  },
+  {
+   "id": "ATKCOMBO_06_7_SKILL",
+   "en": "PH Slider if\n⇒VB Somersault",
+   "pt": "Deslizador PH se\n⇒Mortal VB"
+  },
+  {
+   "id": "ATKCOMBO_06_7_POSITION",
+   "en": "During Thermo Optical\nCamouflage in the air",
+   "pt": "Durante Camuflagem\nTermo-Óptica no ar"
+  },
+  {
+   "id": "ATKCOMBO_06_7_INPUT",
+   "en": "{CA}　⇒　{CA}",
+   "pt": "{CA}　⇒　{CA}"
+  },
+  {
+   "id": "SHTCOMBO_06_1_SKILL",
+   "en": "C＆P",
+   "pt": "C&P"
+  },
+  {
+   "id": "SHTCOMBO_06_1_INPUT",
+   "en": "{LA} Hold",
+   "pt": "Segurar {LA}"
+  },
+  {
+   "id": "SHTCOMBO_06_2_SKILL",
+   "en": "Access Pointer\n⇒Back Door",
+   "pt": "Ponteiro de Acesso\n⇒Back Door"
+  },
+  {
+   "id": "SHTCOMBO_06_2_INPUT",
+   "en": "{LA}{LA}　⇒　{LA}",
+   "pt": "{LA}{LA}　⇒　{LA}"
+  },
+  {
+   "id": "SHTCOMBO_06_3_SKILL",
+   "en": "Access Port",
+   "pt": "Porta de Acesso"
+  },
+  {
+   "id": "SHTCOMBO_06_3_INPUT",
+   "en": "{LA} Hold",
+   "pt": "Segurar {LA}"
+  },
+  {
+   "id": "SHTCOMBO_06_4_SKILL",
+   "en": "Access Port: Partial",
+   "pt": "Porta de Acesso: Parcial"
+  },
+  {
+   "id": "SHTCOMBO_06_4_INPUT",
+   "en": "{LA}　⇒　{LA}",
+   "pt": "{LA}　⇒　{LA}"
+  },
+  {
+   "id": "SHTCOMBO_06_5_SKILL",
+   "en": "Troy",
+   "pt": "Troia"
+  },
+  {
+   "id": "SHTCOMBO_06_5_INPUT",
+   "en": "{LA}",
+   "pt": "{LA}"
+  },
+  {
+   "id": "SHTCOMBO_06_6_SKILL",
+   "en": "Rollback \n⇒Backdoor if\n⇒Hack 'n Clash",
+   "pt": "Rollback \n⇒Backdoor se\n⇒Hack 'n Clash"
+  },
+  {
+   "id": "SHTCOMBO_06_6_POSITION",
+   "en": "During Thermo Optical\nCamouflage on the ground",
+   "pt": "Durante Camuflagem\nTermo-Óptica no chão"
+  },
+  {
+   "id": "SHTCOMBO_06_6_INPUT",
+   "en": "{LA}　⇒　{LA}　⇒　{LA}",
+   "pt": "{LA}　⇒　{LA}　⇒　{LA}"
+  },
+  {
+   "id": "SHTCOMBO_06_7_SKILL",
+   "en": "Troy if\n⇒Hack 'n Clash",
+   "pt": "Troia se\n⇒Hack 'n Clash"
+  },
+  {
+   "id": "SHTCOMBO_06_7_POSITION",
+   "en": "During Thermo Optical\nCamouflage in the air",
+   "pt": "Durante Camuflagem\nTermo-Óptica no ar"
+  },
+  {
+   "id": "SHTCOMBO_06_7_INPUT",
+   "en": "{LA}　⇒　{LA}",
+   "pt": "{LA}　⇒　{LA}"
+  },
+  {
+   "id": "BRKCOMBO_06_1_SKILL",
+   "en": "Tracking",
+   "pt": "Rastreamento"
+  },
+  {
+   "id": "BRKCOMBO_06_1_INPUT",
+   "en": "{BR}\n⇒Mash {CA} or {LA} or {BR}",
+   "pt": "{BR}\n⇒Aperte {CA} ou {LA} ou {BR} repetidamente"
+  },
+  {
+   "id": "BRKCOMBO_06_2_SKILL",
+   "en": "TT Separator",
+   "pt": "Separador TT"
+  },
+  {
+   "id": "BRKCOMBO_06_2_INPUT",
+   "en": "{BR}\n⇒Mash {CA} or {LA} or {BR}",
+   "pt": "{BR}\n⇒Aperte {CA} ou {LA} ou {BR} repetidamente"
+  },
+  {
+   "id": "BRKCOMBO_06_3_SKILL",
+   "en": "PH Crush",
+   "pt": "Esmagamento PH"
+  },
+  {
+   "id": "BRKCOMBO_06_3_INPUT",
+   "en": "{BR}\n⇒Mash {CA} or {LA} or {BR}",
+   "pt": "{BR}\n⇒Aperte {CA} ou {LA} ou {BR} repetidamente"
+  },
+  {
+   "id": "BRKCOMBO_06_4_SKILL",
+   "en": "TT Separator if\n⇒Homing Dash",
+   "pt": "Separador TT se\n⇒Avanço Guiado"
+  },
+  {
+   "id": "BRKCOMBO_06_4_POSITION",
+   "en": "During Thermo Optical\nCamouflage on the ground",
+   "pt": "Durante Camuflagem\nTermo-Óptica no chão"
+  },
+  {
+   "id": "BRKCOMBO_06_4_INPUT",
+   "en": "{BR}\n⇒{CA} or {LA} or {BR} or {JU}",
+   "pt": "{BR}\n⇒{CA} ou {LA} ou {BR} ou {JU}"
+  },
+  {
+   "id": "BRKCOMBO_06_5_SKILL",
+   "en": "PH Crush if\n⇒Homing Dash",
+   "pt": "Esmagamento PH se\n⇒Avanço Guiado"
+  },
+  {
+   "id": "BRKCOMBO_06_5_POSITION",
+   "en": "During Thermo Optical\nCamouflage in the air",
+   "pt": "Durante Camuflagem\nTermo-Óptica no ar"
+  },
+  {
+   "id": "BRKCOMBO_06_5_INPUT",
+   "en": "{BR}\n⇒{CA} or {LA} or {BR} or {JU}",
+   "pt": "{BR}\n⇒{CA} ou {LA} ou {BR} ou {JU}"
+  },
+  {
+   "id": "KILLERMOVE_06_1_SKILL",
+   "en": "Probe Regalia: Live Experiment",
+   "pt": "Traje Sonda: Experimento ao Vivo"
+  },
+  {
+   "id": "KILLERMOVE_06_2_SKILL",
+   "en": "Probe Regalia: Trespass",
+   "pt": "Traje Sonda: Invasão"
+  },
+  {
+   "id": "KILLERMOVE_06_3_SKILL",
+   "en": "Probe Regalia: Demonstration",
+   "pt": "Traje Sonda: Demonstração"
+  },
+  {
+   "id": "KILLERMOVE_06_3_INPUT",
+   "en": "{SP} + {BR}　\n⇒Counter attack when receiving an attack",
+   "pt": "{SP} + {BR}　\n⇒Contra-ataque ao receber um ataque"
+  },
+  {
+   "id": "SUPERKILLERMOVE_06_1_SKILL",
+   "en": "Pursuit of Truth",
+   "pt": "Busca da Verdade"
+  },
+  {
+   "id": "SUPERKILLERMOVE_06_1_INPUT",
+   "en": "{SP} + {BR}　\n⇒Counter attack when receiving an attack",
+   "pt": "{SP} + {BR}　\n⇒Contra-ataque ao receber um ataque"
+  },
+  {
+   "id": "ARCANUM_06_1_SKILL",
+   "en": "QED",
+   "pt": "CQD"
+  },
+  {
+   "id": "CHARACTER_07-1",
+   "en": "Ragyo Kiryuin (Dress)",
+   "pt": "Ragyo Kiryuin (Vestido)"
+  },
+  {
+   "id": "POINT_07_1",
+   "en": "Her Life Fiber attacks excel in both close and long range combat! \nHer walks and jumps are slow, but her step and homing dash are extremely fast.",
+   "pt": "Seus ataques de Fibra de Vida se destacam tanto em combates corpo a corpo quanto à distância! \nSeus passos e pulos são lentos, mas sua esquiva e avanço guiado são extremamente rápidos."
+  },
+  {
+   "id": "BUILDUP_07_1",
+   "en": "Valor Level 1\nIncrease damage dealt when winning Bloody Valor as a defender.\nYou can follow up with a Life Fiber wire attack if your counter burst successfully counter hits.",
+   "pt": "Nível 1 de Valor\nAumenta o dano causado ao vencer o Bloody Valor como defensora.\nVocê pode seguir com um ataque de fio de Fibra de Vida se o seu burst de contra-ataque acertar como contra-ataque."
+  },
+  {
+   "id": "BUILDUP_07_2",
+   "en": "Valor Level 2\nSpecial break attacks powered up to super attacks.",
+   "pt": "Nível 2 de Valor\nAtaques especiais de quebra de defesa fortalecidos para ataques supremos."
+  },
+  {
+   "id": "BUILDUP_07_3",
+   "en": "Valor Level 3\nEnter Bloody Valor Overpowered state and gain a boost to your SP gauge.\nSEN-I-SOSHITSU Secret Art unsealed.",
+   "pt": "Nível 3 de Valor\nEntra no estado Overpowered de Bloody Valor e ganha um impulso na sua barra de SP.\nArte Secreta SEN-I-SOSHITSU liberada."
+  },
+  {
+   "id": "ATKCOMBO_07_1_SKILL",
+   "en": "Fiber: Baste\n⇒Disciplinary Strike\n⇒Purge the Rebels\n",
+   "pt": "Fibra: Alinhavar\n⇒Golpe Disciplinar\n⇒Expurgar os Rebeldes\n"
+  },
+  {
+   "id": "ATKCOMBO_07_1_INPUT",
+   "en": "{CA}　⇒　{CA}{CA}{CA}{CA}　⇒　{CA}",
+   "pt": "{CA}　⇒　{CA}{CA}{CA}{CA}　⇒　{CA}"
+  },
+  {
+   "id": "ATKCOMBO_07_2_SKILL",
+   "en": "Fiber: Transect\n⇒Disciplinary Strike\n⇒Fiber: Whiplash",
+   "pt": "Fibra: Secção Transversal\n⇒Golpe Disciplinar\n⇒Fibra: Chicote"
+  },
+  {
+   "id": "ATKCOMBO_07_2_INPUT",
+   "en": "{←} or {→} + {CA}　\n⇒　{CA}{CA}　⇒　{←} or {→} + {CA}",
+   "pt": "{←} ou {→} + {CA}　\n⇒　{CA}{CA}　⇒　{←} ou {→} + {CA}"
+  },
+  {
+   "id": "ATKCOMBO_07_3_SKILL",
+   "en": "Fiber: Vertical Section\n⇒Disciplinary Strike\n⇒Fiber: Shear",
+   "pt": "Fibra: Secção Vertical\n⇒Golpe Disciplinar\n⇒Fibra: Tesourada"
+  },
+  {
+   "id": "ATKCOMBO_07_3_INPUT",
+   "en": "{↑} or {↓} + {CA}　\n⇒　{CA}{CA}　⇒　{↑} or {↓} + {CA}",
+   "pt": "{↑} ou {↓} + {CA}　\n⇒　{CA}{CA}　⇒　{↑} ou {↓} + {CA}"
+  },
+  {
+   "id": "ATKCOMBO_07_4_SKILL",
+   "en": "Fiber: Baste\n⇒Disciplinary Strike\n⇒Authority: Crucifixion\n",
+   "pt": "Fibra: Alinhavar\n⇒Golpe Disciplinar\n⇒Autoridade: Crucificação\n"
+  },
+  {
+   "id": "ATKCOMBO_07_4_INPUT",
+   "en": "{CA}　⇒　{CA}{CA}{CA}{CA}　⇒　{BR}",
+   "pt": "{CA}　⇒　{CA}{CA}{CA}{CA}　⇒　{BR}"
+  },
+  {
+   "id": "ATKCOMBO_07_5_SKILL",
+   "en": "Fiber: Tangling Yarn\n⇒Crush the Resistance\n",
+   "pt": "Fibra: Fio Emaranhado\n⇒Esmagar a Resistência\n"
+  },
+  {
+   "id": "ATKCOMBO_07_5_INPUT",
+   "en": "{CA} ⇒　{CA}{CA}",
+   "pt": "{CA} ⇒　{CA}{CA}"
+  },
+  {
+   "id": "ATKCOMBO_07_6_SKILL",
+   "en": "Crooked Beatdown",
+   "pt": "Surra Retorcida"
+  },
+  {
+   "id": "ATKCOMBO_07_6_INPUT",
+   "en": "{CA}",
+   "pt": "{CA}"
+  },
+  {
+   "id": "ATKCOMBO_07_6_POSITION",
+   "en": "Dash/Step",
+   "pt": "Avanço/Esquiva"
+  },
+  {
+   "id": "SHTCOMBO_07_1_SKILL",
+   "en": "Fiber Bullet: Homing",
+   "pt": "Bala de Fibra: Teleguiada"
+  },
+  {
+   "id": "SHTCOMBO_07_1_INPUT",
+   "en": "{LA} Hold",
+   "pt": "Segurar {LA}"
+  },
+  {
+   "id": "SHTCOMBO_07_2_SKILL",
+   "en": "Fiber Bullet\n⇒Fiber Bullet: Chasedown",
+   "pt": "Bala de Fibra\n⇒Bala de Fibra: Perseguição"
+  },
+  {
+   "id": "SHTCOMBO_07_2_INPUT",
+   "en": "{LA}　⇒　{LA}{LA}",
+   "pt": "{LA}　⇒　{LA}{LA}"
+  },
+  {
+   "id": "SHTCOMBO_07_3_SKILL",
+   "en": "Fiber Bullet\n⇒Fiber Bullet: Chasedown\n⇒Fiber Bullet: Tacking\n⇒Authority: Crucifixion",
+   "pt": "Bala de Fibra\n⇒Bala de Fibra: Perseguição\n⇒Bala de Fibra: Pesponto\n⇒Autoridade: Crucificação"
+  },
+  {
+   "id": "SHTCOMBO_07_3_INPUT",
+   "en": "{LA}　⇒　{LA}　⇒　{CA}　⇒　{BR}",
+   "pt": "{LA}　⇒　{LA}　⇒　{CA}　⇒　{BR}"
+  },
+  {
+   "id": "SHTCOMBO_07_4_SKILL",
+   "en": "Fiber Bullet: Pour",
+   "pt": "Bala de Fibra: Jorro"
+  },
+  {
+   "id": "SHTCOMBO_07_4_INPUT",
+   "en": "{LA} Hold",
+   "pt": "Segurar {LA}"
+  },
+  {
+   "id": "SHTCOMBO_07_5_SKILL",
+   "en": "Fiber Bullet: Obscurity\n⇒Fiber Bullet: Constrict",
+   "pt": "Bala de Fibra: Obscuridade\n⇒Bala de Fibra: Constrição"
+  },
+  {
+   "id": "SHTCOMBO_07_5_INPUT",
+   "en": "{LA}　⇒　{LA}",
+   "pt": "{LA}　⇒　{LA}"
+  },
+  {
+   "id": "SHTCOMBO_07_6_SKILL",
+   "en": "Fiber Bullet: Obscurity\n⇒Fiber Bullet: Tacking\n⇒Authority: Crucifixion",
+   "pt": "Bala de Fibra: Obscuridade\n⇒Bala de Fibra: Pesponto\n⇒Autoridade: Crucificação"
+  },
+  {
+   "id": "SHTCOMBO_07_6_INPUT",
+   "en": "{LA}　⇒　{CA}　⇒　{BR}",
+   "pt": "{LA}　⇒　{CA}　⇒　{BR}"
+  },
+  {
+   "id": "SHTCOMBO_07_7_SKILL",
+   "en": "Fiber Bullet: Moth to Flame",
+   "pt": "Bala de Fibra: Mariposa na Chama"
+  },
+  {
+   "id": "SHTCOMBO_07_7_INPUT",
+   "en": "{LA}",
+   "pt": "{LA}"
+  },
+  {
+   "id": "BRKCOMBO_07_1_SKILL",
+   "en": "Authority",
+   "pt": "Autoridade"
+  },
+  {
+   "id": "BRKCOMBO_07_1_INPUT",
+   "en": "{BR}",
+   "pt": "{BR}"
+  },
+  {
+   "id": "BRKCOMBO_07_2_SKILL",
+   "en": "Authority: Enclose",
+   "pt": "Autoridade: Confinamento"
+  },
+  {
+   "id": "BRKCOMBO_07_2_INPUT",
+   "en": "{BR}",
+   "pt": "{BR}"
+  },
+  {
+   "id": "BRKCOMBO_07_3_SKILL",
+   "en": "Authority: Jetstream",
+   "pt": "Autoridade: Corrente de Ar"
+  },
+  {
+   "id": "BRKCOMBO_07_3_INPUT",
+   "en": "{BR}",
+   "pt": "{BR}"
+  },
+  {
+   "id": "KILLERMOVE_07_1_SKILL",
+   "en": "Annihilate the Rebellion",
+   "pt": "Aniquilar a Rebelião"
+  },
+  {
+   "id": "KILLERMOVE_07_2_SKILL",
+   "en": "Fiber Bullet: Bind",
+   "pt": "Bala de Fibra: Amarrar"
+  },
+  {
+   "id": "KILLERMOVE_07_3_SKILL",
+   "en": "Authoritarian Burst",
+   "pt": "Explosão Autoritária"
+  },
+  {
+   "id": "KILLERMOVE_07_3_INPUT",
+   "en": "{SP} + {BR}　⇒　Move with {LS}",
+   "pt": "{SP} + {BR}　⇒　Mova com {LS}"
+  },
+  {
+   "id": "SUPERKILLERMOVE_07_1_SKILL",
+   "en": "Authoritarian Overflow",
+   "pt": "Transbordamento Autoritário"
+  },
+  {
+   "id": "SUPERKILLERMOVE_07_1_INPUT",
+   "en": "{SP} + {BR}　⇒　Move with {LS}",
+   "pt": "{SP} + {BR}　⇒　Mova com {LS}"
+  },
+  {
+   "id": "ARCANUM_07_1_SKILL",
+   "en": "Multicolored Cruelty",
+   "pt": "Crueldade Multicolorida"
+  },
+  {
+   "id": "CHARACTER_08-1",
+   "en": "Nui Harime (Scissor Blade)",
+   "pt": "Nui Harime (Lâmina-Tesoura)"
+  },
+  {
+   "id": "POINT_08_INDEX",
+   "en": "Nui is a technical character that excels at aerial combat. \nShe can control the pace of combat by using her clones to catch her opponent off-guard!",
+   "pt": "Nui é uma personagem técnica que se destaca no combate aéreo. \nEla pode controlar o ritmo da batalha usando seus clones para pegar o oponente desprevenido!"
+  },
+  {
+   "id": "BUILDUP_08_1",
+   "en": "Valor Level 1\nClone attacks stronger.\nCool-down time after using the SP gauge is reduced.",
+   "pt": "Nível 1 de Valor\nAtaques de clones ficam mais fortes.\nO tempo de recarga após usar a barra de SP é reduzido."
+  },
+  {
+   "id": "BUILDUP_08_2",
+   "en": "Valor Level 2\nSpecial long range attacks powered up to super attacks.",
+   "pt": "Nível 2 de Valor\nAtaques especiais à distância fortalecidos para ataques supremos."
+  },
+  {
+   "id": "BUILDUP_08_3",
+   "en": "Valor Level 3\nEnter Bloody Valor Overpowered state and gain a boost to your SP gauge.\nSEN-I-SOSHITSU Secret Art unsealed.",
+   "pt": "Nível 3 de Valor\nEntra no estado Overpowered de Bloody Valor e ganha um impulso na sua barra de SP.\nArte Secreta SEN-I-SOSHITSU liberada."
+  },
+  {
+   "id": "ATKCOMBO_08_1_SKILL",
+   "en": "Déchiqueter (Shred)\n⇒Très amusant! (How Fun!)\n⇒C'est ta défaite！(This Is the End!)",
+   "pt": "Déchiqueter (Despedaçar)\n⇒Très amusant! (Que divertido!)\n⇒C'est ta défaite！(É o seu fim!)"
+  },
+  {
+   "id": "ATKCOMBO_08_1_INPUT",
+   "en": "{CA}　⇒　{CA}　⇒　{CA}",
+   "pt": "{CA}　⇒　{CA}　⇒　{CA}"
+  },
+  {
+   "id": "ATKCOMBO_08_2_SKILL",
+   "en": "Coupe (Snip)\n⇒Très amusant! (How Fun!)\n⇒Va quelque part! (Get Lost!)",
+   "pt": "Coupe (Cortar)\n⇒Très amusant! (Que divertido!)\n⇒Va quelque part! (Caia fora!)"
+  },
+  {
+   "id": "ATKCOMBO_08_2_INPUT",
+   "en": "{←} or {→} + {CA}　\n⇒　{CA}　⇒　{←} or {→} + {CA}",
+   "pt": "{←} or {→} + {CA}　\n⇒　{CA}　⇒　{←} or {→} + {CA}"
+  },
+  {
+   "id": "ATKCOMBO_08_3_SKILL",
+   "en": "S'effondrer (Collapse)\n⇒Très amusant! (How Fun!)\n⇒Tu es faible! (You're Weak!)",
+   "pt": "S'effondrer (Desmoronar)\n⇒Très amusant! (Que divertido!)\n⇒Tu es faible! (Você é fraco!)"
+  },
+  {
+   "id": "ATKCOMBO_08_3_INPUT",
+   "en": "{↑} or {↓} + {CA}　\n⇒　{CA}　⇒　{↑} or {↓} + {CA}",
+   "pt": "{↑} or {↓} + {CA}　\n⇒　{CA}　⇒　{↑} or {↓} + {CA}"
+  },
+  {
+   "id": "ATKCOMBO_08_4_SKILL",
+   "en": "Extempérant (How Maddening)",
+   "pt": "Extempérant (Que irritante)"
+  },
+  {
+   "id": "ATKCOMBO_08_4_POSITION",
+   "en": "Ground(Requires 25% SP Gauge)",
+   "pt": "Chão (Requer 25% da Barra de SP)"
+  },
+  {
+   "id": "ATKCOMBO_08_4_INPUT",
+   "en": "{CA} + {LA}",
+   "pt": "{CA} + {LA}"
+  },
+  {
+   "id": "ATKCOMBO_08_5_SKILL",
+   "en": "Dansons ensemble！(Let's Dance!)",
+   "pt": "Dansons ensemble！(Vamos dançar!)"
+  },
+  {
+   "id": "ATKCOMBO_08_5_INPUT",
+   "en": "{CA}{CA}{CA}",
+   "pt": "{CA}{CA}{CA}"
+  },
+  {
+   "id": "ATKCOMBO_08_6_SKILL",
+   "en": "Voler gracieusement (Graceful Glide)",
+   "pt": "Voler gracieusement (Deslize Gracioso)"
+  },
+  {
+   "id": "ATKCOMBO_08_6_POSITION",
+   "en": "Aerial (Requires 25% SP Gauge)",
+   "pt": "Aéreo (Requer 25% da Barra de SP)"
+  },
+  {
+   "id": "ATKCOMBO_08_6_INPUT",
+   "en": "{CA} + {LA}",
+   "pt": "{CA} + {LA}"
+  },
+  {
+   "id": "ATKCOMBO_08_7_SKILL",
+   "en": "Je t'ai attrapé (Gotcha)",
+   "pt": "Je t'ai attrapé (Te peguei)"
+  },
+  {
+   "id": "ATKCOMBO_08_7_INPUT",
+   "en": "{CA}",
+   "pt": "{CA}"
+  },
+  {
+   "id": "SHTCOMBO_08_1_SKILL",
+   "en": "Jeux de marionnettes (Let's Play with Dolls!)",
+   "pt": "Jeux de marionnettes (Vamos brincar de bonecas!)"
+  },
+  {
+   "id": "SHTCOMBO_08_1_INPUT",
+   "en": "{LA} Hold　⇒　{CA}",
+   "pt": "Segurar {LA}　⇒　{CA}"
+  },
+  {
+   "id": "SHTCOMBO_08_2_SKILL",
+   "en": "Beaucoup de marionnettes (A Bunch of Dolls)",
+   "pt": "Beaucoup de marionnettes (Um Bando de Bonecas)"
+  },
+  {
+   "id": "SHTCOMBO_08_2_INPUT",
+   "en": "{LA}　⇒　{CA}　⇒　{LA}　⇒　{CA}",
+   "pt": "{LA}　⇒　{CA}　⇒　{LA}　⇒　{CA}"
+  },
+  {
+   "id": "SHTCOMBO_08_3_SKILL",
+   "en": "Le meilleur cadeau (A Big Surprise)",
+   "pt": "Le meilleur cadeau (Uma Grande Surpresa)"
+  },
+  {
+   "id": "SHTCOMBO_08_3_INPUT",
+   "en": "{LA} Hold　⇒　{CA}",
+   "pt": "Segurar {LA}　⇒　{CA}"
+  },
+  {
+   "id": "SHTCOMBO_08_4_SKILL",
+   "en": "Pont de marionnettes (Bridge of Dolls)\n⇒Dansons ensemble (Let's Dance!)",
+   "pt": "Pont de marionnettes (Ponte de Bonecas)\n⇒Dansons ensemble (Vamos dançar!)"
+  },
+  {
+   "id": "SHTCOMBO_08_4_INPUT",
+   "en": "{LA}{LA}　⇒　{CA}",
+   "pt": "{LA}{LA}　⇒　{CA}"
+  },
+  {
+   "id": "SHTCOMBO_08_5_SKILL",
+   "en": "Mes jolies marionettes (My Cute Little Dolls)",
+   "pt": "Mes jolies marionettes (Minhas Bonequinhas Lindas)"
+  },
+  {
+   "id": "SHTCOMBO_08_5_INPUT",
+   "en": "{LA}",
+   "pt": "{LA}"
+  },
+  {
+   "id": "BRKCOMBO_08_1_SKILL",
+   "en": "Tour des tempêtes (Tower of Storms)\n⇒Homing Dash",
+   "pt": "Tour des tempêtes (Torre de Tempestades)\n⇒Avanço Guiado"
+  },
+  {
+   "id": "BRKCOMBO_08_1_INPUT",
+   "en": "{BR}\n⇒{CA} or {LA} or {BR} or {JU}",
+   "pt": "{BR}\n⇒{CA} ou {LA} ou {BR} ou {JU}"
+  },
+  {
+   "id": "BRKCOMBO_08_2_SKILL",
+   "en": "Ronde ronde (Spin Spin)",
+   "pt": "Ronde ronde (Gira Gira)"
+  },
+  {
+   "id": "BRKCOMBO_08_2_POSITION",
+   "en": "Ground (Requires 25% SP Gauge)",
+   "pt": "Chão (Requer 25% da Barra de SP)"
+  },
+  {
+   "id": "BRKCOMBO_08_2_INPUT",
+   "en": "{BR} + {LA}",
+   "pt": "{BR} + {LA}"
+  },
+  {
+   "id": "BRKCOMBO_08_3_SKILL",
+   "en": "Je te bats! (I'll Strike You!)\n⇒Homing Dash",
+   "pt": "Je te bats! (Eu vou te bater!)\n⇒Avanço Guiado"
+  },
+  {
+   "id": "BRKCOMBO_08_3_INPUT",
+   "en": "{BR}\n⇒{CA} or {LA} or {BR} or {JU}",
+   "pt": "{BR}\n⇒{CA} ou {LA} ou {BR} ou {JU}"
+  },
+  {
+   "id": "BRKCOMBO_08_4_SKILL",
+   "en": "Couture (Sew)",
+   "pt": "Couture (Costurar)"
+  },
+  {
+   "id": "BRKCOMBO_08_4_POSITION",
+   "en": "Aerial (Requires 25% SP Gauge)",
+   "pt": "Aéreo (Requer 25% da Barra de SP)"
+  },
+  {
+   "id": "BRKCOMBO_08_4_INPUT",
+   "en": "{BR} + {LA}",
+   "pt": "{BR} + {LA}"
+  },
+  {
+   "id": "BRKCOMBO_08_5_SKILL",
+   "en": "Chasse à la chasse (Chase 'Em Down!)\n⇒Homing Dash",
+   "pt": "Chasse à la chasse (Pegue-os!)\n⇒Avanço Guiado"
+  },
+  {
+   "id": "BRKCOMBO_08_5_INPUT",
+   "en": "{BR}\n⇒{CA} or {LA} or {BR} or {JU}",
+   "pt": "{BR}\n⇒{CA} ou {LA} ou {BR} ou {JU}"
+  },
+  {
+   "id": "KILLERMOVE_08_1_SKILL",
+   "en": "Je suis là ! (Over Here!)",
+   "pt": "Je suis là ! (Tô aqui!)"
+  },
+  {
+   "id": "KILLERMOVE_08_2_SKILL",
+   "en": "Rassembler pour jouer (Gathering the Toys)",
+   "pt": "Rassembler pour jouer (Reunindo os Brinquedos)"
+  },
+  {
+   "id": "KILLERMOVE_08_3_SKILL",
+   "en": "Articles de livraison (Items on Delivery)",
+   "pt": "Articles de livraison (Itens de Entrega)"
+  },
+  {
+   "id": "SUPERKILLERMOVE_08_1_SKILL",
+   "en": "Mon mignon prêt-à-porter \n(My Cute Ready-made Clothes)",
+   "pt": "Mon mignon prêt-à-porter \n(Minhas Lindas Roupas Prontas)"
+  },
+  {
+   "id": "ARCANUM_08_1_SKILL",
+   "en": "Absolument, vous êtes impardonnable \n(I'll Never Forgive You)",
+   "pt": "Absolument, vous êtes impardonnable \n(Eu Nunca Vou Te Perdoar)"
+  },
+  {
+   "id": "ABILITY_08",
+   "en": "EX Clone Attack\nConduct clone attacks by using 25% of your SP gauge.\nCombos can be done using clone attacks, and some clone attacks can cause guard breaks.",
+   "pt": "Ataque de Clone EX\nRealize ataques de clones usando 25% da sua barra de SP.\nCombos podem ser feitos usando ataques de clones, e alguns ataques de clones podem causar quebra de defesa."
+  },
+  {
+   "id": "ABILITYACTION_08_INDEX",
+   "en": "●EX Clone Attack (Requires 25% SP Gauge)",
+   "pt": "●Ataque de Clone EX (Requer 25% da Barra de SP)"
+  },
+  {
+   "id": "CHARACTER_14-1",
+   "en": "Mako Mankanshoku (Fight Club Goku Uniform)",
+   "pt": "Mako Mankanshoku (Uniforme Goku do Clube de Luta)"
+  },
+  {
+   "id": "POINT_14_1",
+   "en": "A close-in fighter with unusual moves!\nDon't just rush in, build tension for greater power!",
+   "pt": "Uma lutadora de perto com golpes incomuns!\nNão vá com tudo logo de cara, aumente a tensão para ter mais força!"
+  },
+  {
+   "id": "ABILITY_14_1",
+   "en": "Raise your tension and power up!\nThe higher the tension level under Mako's life meter is, the better her movement, attacks, and abilities.\nIt goes up faster if you hit enemies with knockback attacks,\nand it decreases if you get knocked back or brought down.",
+   "pt": "Aumente sua tensão e fique mais forte!\nQuanto maior o nível de tensão sob a barra de vida da Mako, melhores serão seus movimentos, ataques e habilidades.\nEla aumenta mais rápido se você acertar inimigos com ataques de repulsão,\ne diminui se você for repelida ou derrubada."
+  },
+  {
+   "id": "ABILITY_14_2",
+   "en": "Rolling Actions\nIf you sidestep while staggered after a sidestep, or use special attacks, you'll start rolling.\nMovement, jumps and attacks change while rolling.",
+   "pt": "Ações de Rolamento\nSe você esquivar de lado enquanto cambaleia após uma esquiva de lado, ou usar ataques especiais, começará a rolar.\nMovimentos, pulos e ataques mudam enquanto rola."
+  },
+  {
+   "id": "BUILDUP_14_1",
+   "en": "Valor Level 1\nTension level improves actions and adds all sorts of baffling effects.\nTension level rises more easily and falls less.\nTension level 1 or 2 is boosted to 3.",
+   "pt": "Nível 1 de Valor\nO nível de tensão melhora as ações e adiciona todo tipo de efeitos desconcertantes.\nO nível de tensão sobe mais facilmente e cai menos.\nO nível de tensão 1 ou 2 sobe para 3."
+  },
+  {
+   "id": "BUILDUP_14_2",
+   "en": "Valor Level 2\nSpecial break attacks powered up to super attacks.\nTension level 1 or 2 is boosted to 3.",
+   "pt": "Nível 2 de Valor\nAtaques especiais de quebra de defesa fortalecidos para ataques supremos.\nO nível de tensão 1 ou 2 sobe para 3."
+  },
+  {
+   "id": "BUILDUP_14_3",
+   "en": "Valor Level 3\nEnter Bloody Valor Overpowered state and gain a boost to your SP gauge.\nTension level is maxed.\nSen-I-Soshitsu Secret Art unsealed.",
+   "pt": "Nível 3 de Valor\nEntra no estado Overpowered de Bloody Valor e ganha um impulso na sua barra de SP.\nO nível de tensão fica no máximo.\nArte Secreta SEN-I-SOSHITSU liberada."
+  },
+  {
+   "id": "ABILITYACTION_14_1_SKILL",
+   "en": "Rolling Movement",
+   "pt": "Movimento de Rolamento"
+  },
+  {
+   "id": "ABILITYACTION_14_1_POSITION",
+   "en": "While staggered\nafter sidestep",
+   "pt": "Enquanto cambaleia\napós esquiva de lado"
+  },
+  {
+   "id": "ABILITYACTION_14_1_INPUT",
+   "en": "{GD} + {LS}",
+   "pt": "{GD} + {LS}"
+  },
+  {
+   "id": "ABILITYACTION_14_2_SKILL",
+   "en": "Fast Rolling Movement",
+   "pt": "Movimento de Rolamento Rápido"
+  },
+  {
+   "id": "ABILITYACTION_14_2_POSITION",
+   "en": "While rolling",
+   "pt": "Enquanto rola"
+  },
+  {
+   "id": "ABILITYACTION_14_2_INPUT",
+   "en": "{GD} + {LS}",
+   "pt": "{GD} + {LS}"
+  },
+  {
+   "id": "ABILITYACTION_14_3_SKILL",
+   "en": "Rolling Tackle",
+   "pt": "Investida Rolando"
+  },
+  {
+   "id": "ABILITYACTION_14_3_POSITION",
+   "en": "During\nfast rolling movement",
+   "pt": "Durante\nmovimento de rolamento rápido"
+  },
+  {
+   "id": "ABILITYACTION_14_3_INPUT",
+   "en": "{GD} + {LS}",
+   "pt": "{GD} + {LS}"
+  },
+  {
+   "id": "ABILITYACTION_14_4_SKILL",
+   "en": "Rolling Hip Drop",
+   "pt": "Queda de Quadril Rolando"
+  },
+  {
+   "id": "ABILITYACTION_14_4_POSITION",
+   "en": "While rolling",
+   "pt": "Enquanto rola"
+  },
+  {
+   "id": "ABILITYACTION_14_4_INPUT",
+   "en": "{JU}",
+   "pt": "{JU}"
+  },
+  {
+   "id": "ATKCOMBO_14_1_SKILL",
+   "en": "This is for Dad!\n⇒This is for Guts!\n⇒And last is for me!",
+   "pt": "Essa é pelo papai!\n⇒Essa é pelo Guts!\n⇒E por último, por mim!"
+  },
+  {
+   "id": "ATKCOMBO_14_1_INPUT",
+   "en": "{CA}　⇒　{CA}　⇒　{CA}",
+   "pt": "{CA}　⇒　{CA}　⇒　{CA}"
+  }
+ ]
+}

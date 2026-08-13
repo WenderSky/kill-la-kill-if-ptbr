@@ -1,0 +1,1008 @@
+{
+ "origem": "message/MES_CMD_LIST",
+ "conteudo": "Lista de comandos e golpes",
+ "parte": "2/4",
+ "instrucoes": "Traduza o campo 'en' para portugues do Brasil e escreva o resultado em 'pt'. Nao altere 'id'. Mantenha intactos os codigos entre chaves ({CA}, {LA}, {BR}, {JU}, {SP}, {GD}, {LS}, {L1}, {R1}, setas), os marcadores de formato (%d, %l, %ls, %hs) e as quebras de linha \\n. Se uma linha nao precisar de traducao, deixe 'pt' vazio.",
+ "linhas": [
+  {
+   "id": "BRKCOMBO_02-1_1_SKILL",
+   "en": "Bakuzan: Conquering Blade\n⇒Homing Dash",
+   "pt": "Bakuzan: Lâmina Conquistadora\n⇒Avanço Teleguiado"
+  },
+  {
+   "id": "BRKCOMBO_02-1_1_INPUT",
+   "en": "{BR}\n⇒{CA} or {LA} or {BR} or {JU}",
+   "pt": "{BR}\n⇒{CA} ou {LA} ou {BR} ou {JU}"
+  },
+  {
+   "id": "BRKCOMBO_02-1_2_SKILL",
+   "en": "Conquering Blade: Blasting Slash\n⇒Homing Dash",
+   "pt": "Lâmina Conquistadora: Corte Explosivo\n⇒Avanço Teleguiado"
+  },
+  {
+   "id": "BRKCOMBO_02-1_2_INPUT",
+   "en": "{BR}\n⇒{CA} or {LA} or {BR} or {JU}",
+   "pt": "{BR}\n⇒{CA} ou {LA} ou {BR} ou {JU}"
+  },
+  {
+   "id": "BRKCOMBO_02-1_3_SKILL",
+   "en": "Conquering Blade: Second Slash\n⇒Homing dash",
+   "pt": "Lâmina Conquistadora: Segundo Corte\n⇒Avanço Teleguiado"
+  },
+  {
+   "id": "BRKCOMBO_02-1_3_INPUT",
+   "en": "{BR}\n⇒{CA} or {LA} or {BR} or {JU}",
+   "pt": "{BR}\n⇒{CA} ou {LA} ou {BR} ou {JU}"
+  },
+  {
+   "id": "KILLERMOVE_02-1_1_SKILL",
+   "en": "Fear",
+   "pt": "Medo"
+  },
+  {
+   "id": "KILLERMOVE_02-1_2_SKILL",
+   "en": "Contradiction",
+   "pt": "Contradição"
+  },
+  {
+   "id": "KILLERMOVE_02-1_3_SKILL",
+   "en": "Subjugation",
+   "pt": "Subjugação"
+  },
+  {
+   "id": "SUPERKILLERMOVE_02-1_1_SKILL",
+   "en": "Surrender",
+   "pt": "Rendição"
+  },
+  {
+   "id": "ARCANUM_02-1_1_SKILL",
+   "en": "Imperial Path",
+   "pt": "Caminho Imperial"
+  },
+  {
+   "id": "CHARACTER_02-2",
+   "en": "Satsuki Kiryuin (DUAL WIELD)",
+   "pt": "Satsuki Kiryuin (EMPUNHADURA DUPLA)"
+  },
+  {
+   "id": "POINT_02-2",
+   "en": "A speedy rushdown character with phenomenal ground-to-air combo damage!",
+   "pt": "Uma personagem de investida rápida com um fenomenal dano de combo terra-ar!"
+  },
+  {
+   "id": "BUILDUP_02-2_1",
+   "en": "Valor Level 1\nIncreased damage for all normal close range attacks.",
+   "pt": "Nível de Valor 1\nDano aumentado para todos os ataques normais de curto alcance."
+  },
+  {
+   "id": "BUILDUP_02-2_2",
+   "en": "Valor Level 2\nSpecial close range attacks powered up to super attacks.",
+   "pt": "Nível de Valor 2\nAtaques especiais de curto alcance aprimorados para ataques supremos."
+  },
+  {
+   "id": "BUILDUP_02-2_3",
+   "en": "Valor Level 3\nEnter Bloody Valor Overpowered state and gain a boost to your SP gauge.\nSEN-I-SOSHITSU Secret Art unsealed.",
+   "pt": "Nível de Valor 3\nEntra no estado Bloody Valor Fortalecido e ganha um bônus na sua barra de SP.\nArte Secreta SEN-I-SOSHITSU desbloqueada."
+  },
+  {
+   "id": "ATKCOMBO_02-2_1_SKILL",
+   "en": "Tiger & Dragon: Twin Slash\n⇒Tiger & Dragon: Carve",
+   "pt": "Tigre & Dragão: Corte Duplo\n⇒Tigre & Dragão: Entalhe"
+  },
+  {
+   "id": "ATKCOMBO_02-2_1_INPUT",
+   "en": "{CA}　⇒　{CA}{CA}{CA}",
+   "pt": ""
+  },
+  {
+   "id": "ATKCOMBO_02-2_2_SKILL",
+   "en": "Tiger & Dragon: Guillotine\n⇒Tiger & Dragon: Carve",
+   "pt": "Tigre & Dragão: Guilhotina\n⇒Tigre & Dragão: Entalhe"
+  },
+  {
+   "id": "ATKCOMBO_02-2_2_INPUT",
+   "en": "{←} or {→} + {CA}　⇒　{CA}{CA}{CA}",
+   "pt": "{←} ou {→} + {CA}　⇒　{CA}{CA}{CA}"
+  },
+  {
+   "id": "ATKCOMBO_02-2_3_SKILL",
+   "en": "Tiger & Dragon: Rising Slash\n⇒Tiger & Dragon: Carve",
+   "pt": "Tigre & Dragão: Corte Ascendente\n⇒Tigre & Dragão: Entalhe"
+  },
+  {
+   "id": "ATKCOMBO_02-2_3_INPUT",
+   "en": "{↑} or {↓} + {CA}　⇒　{CA}{CA}{CA}",
+   "pt": "{↑} ou {↓} + {CA}　⇒　{CA}{CA}{CA}"
+  },
+  {
+   "id": "ATKCOMBO_02-2_4_SKILL",
+   "en": "Tiger & Dragon: Twin Slash\n⇒Tiger & Dragon: Rampage",
+   "pt": "Tigre & Dragão: Corte Duplo\n⇒Tigre & Dragão: Tumulto"
+  },
+  {
+   "id": "ATKCOMBO_02-2_4_INPUT",
+   "en": "{CA}　⇒　{CA}{CA}　⇒　{LA}",
+   "pt": ""
+  },
+  {
+   "id": "ATKCOMBO_02-2_5_SKILL",
+   "en": "Tiger & Dragon: Twin Slash\n⇒Tiger & Dragon: Rampage\n⇒Tiger & Dragon: Dual Strike",
+   "pt": "Tigre & Dragão: Corte Duplo\n⇒Tigre & Dragão: Tumulto\n⇒Tigre & Dragão: Golpe Duplo"
+  },
+  {
+   "id": "ATKCOMBO_02-2_5_INPUT",
+   "en": "{CA}　⇒　{CA}{CA}　⇒　{BR}",
+   "pt": ""
+  },
+  {
+   "id": "ATKCOMBO_02-2_6_SKILL",
+   "en": "Dragon: Rising Blade\n⇒Tiger & Dragon: Beatdown\n⇒Sibling Swords",
+   "pt": "Dragão: Lâmina Ascendente\n⇒Tigre & Dragão: Surra\n⇒Espadas Irmãs"
+  },
+  {
+   "id": "ATKCOMBO_02-2_6_INPUT",
+   "en": "{CA}　⇒　{CA}{CA}　⇒　{CA}",
+   "pt": ""
+  },
+  {
+   "id": "ATKCOMBO_02-2_7_SKILL",
+   "en": "Dragon: Rising Blade\n⇒Tiger & Dragon: Beatdown\n⇒Swords of Rebellion",
+   "pt": "Dragão: Lâmina Ascendente\n⇒Tigre & Dragão: Surra\n⇒Espadas da Rebelião"
+  },
+  {
+   "id": "ATKCOMBO_02-2_7_INPUT",
+   "en": "{CA}　⇒　{CA}{CA}　\n⇒　{←} or {→} + {CA}",
+   "pt": "{CA}　⇒　{CA}{CA}　\n⇒　{←} ou {→} + {CA}"
+  },
+  {
+   "id": "ATKCOMBO_02-2_8_SKILL",
+   "en": "Dragon: Rising Blade\n⇒Tiger & Dragon: Beatdown\n⇒Swords of Subjugation",
+   "pt": "Dragão: Lâmina Ascendente\n⇒Tigre & Dragão: Surra\n⇒Espadas da Subjugação"
+  },
+  {
+   "id": "ATKCOMBO_02-2_8_INPUT",
+   "en": "{CA}　⇒　{CA}{CA}　\n⇒　{↑} or {↓} + {CA}",
+   "pt": "{CA}　⇒　{CA}{CA}　\n⇒　{↑} ou {↓} + {CA}"
+  },
+  {
+   "id": "ATKCOMBO_02-2_9_SKILL",
+   "en": "Dragon: Rising Blade\n⇒Tiger & Dragon: Beatdown\n⇒Soaring Flash: Dual Destruction",
+   "pt": "Dragão: Lâmina Ascendente\n⇒Tigre & Dragão: Surra\n⇒Clarão Ascendente: Destruição Dupla"
+  },
+  {
+   "id": "ATKCOMBO_02-2_9_INPUT",
+   "en": "{CA}　⇒　{CA}{CA}　⇒　{LA}",
+   "pt": ""
+  },
+  {
+   "id": "ATKCOMBO_02-2_10_SKILL",
+   "en": "Tiger & Dragon: Cutting Edge",
+   "pt": "Tigre & Dragão: Fio da Navalha"
+  },
+  {
+   "id": "ATKCOMBO_02-2_10_INPUT",
+   "en": "{CA}",
+   "pt": ""
+  },
+  {
+   "id": "SHTCOMBO_02-2_INDEX",
+   "en": "●Long Range Combo Route Example",
+   "pt": "●Exemplo de Rota de Combo à Distância"
+  },
+  {
+   "id": "SHTCOMBO_02-2_1_SKILL",
+   "en": "Soaring Flash: Dual Destruction",
+   "pt": "Clarão Ascendente: Destruição Dupla"
+  },
+  {
+   "id": "SHTCOMBO_02-2_1_INPUT",
+   "en": "{LA} Hold",
+   "pt": "Segurar {LA}"
+  },
+  {
+   "id": "SHTCOMBO_02-2_2_SKILL",
+   "en": "Soaring Flash: Punishment",
+   "pt": "Clarão Ascendente: Punição"
+  },
+  {
+   "id": "SHTCOMBO_02-2_2_INPUT",
+   "en": "{LA}{LA}{LA}{LA}",
+   "pt": ""
+  },
+  {
+   "id": "SHTCOMBO_02-2_3_SKILL",
+   "en": "Soaring Flash: Punishment\n⇒Tiger & Dragon: Instant Flash",
+   "pt": "Clarão Ascendente: Punição\n⇒Tigre & Dragão: Clarão Instantâneo"
+  },
+  {
+   "id": "SHTCOMBO_02-2_3_INPUT",
+   "en": "{LA}{LA}{LA}　⇒　{CA}",
+   "pt": ""
+  },
+  {
+   "id": "SHTCOMBO_02-2_4_SKILL",
+   "en": "Soaring Flash: Chase Blade",
+   "pt": "Clarão Ascendente: Lâmina de Perseguição"
+  },
+  {
+   "id": "SHTCOMBO_02-2_4_INPUT",
+   "en": "{LA} Hold",
+   "pt": "Segurar {LA}"
+  },
+  {
+   "id": "SHTCOMBO_02-2_5_SKILL",
+   "en": "Tiger & Dragon: Claw Blade",
+   "pt": "Tigre & Dragão: Lâmina Garra"
+  },
+  {
+   "id": "SHTCOMBO_02-2_5_INPUT",
+   "en": "{LA}{LA}{LA}{LA}",
+   "pt": ""
+  },
+  {
+   "id": "SHTCOMBO_02-2_6_SKILL",
+   "en": "Tiger & Dragon: Claw Blade\n⇒Tiger & Dragon: Instant Flash",
+   "pt": "Tigre & Dragão: Lâmina Garra\n⇒Tigre & Dragão: Clarão Instantâneo"
+  },
+  {
+   "id": "SHTCOMBO_02-2_6_INPUT",
+   "en": "{LA}{LA}{LA}　⇒　{CA}",
+   "pt": ""
+  },
+  {
+   "id": "SHTCOMBO_02-2_7_SKILL",
+   "en": "Tiger & Dragon: Rampage",
+   "pt": "Tigre & Dragão: Tumulto"
+  },
+  {
+   "id": "SHTCOMBO_02-2_7_INPUT",
+   "en": "{LA}",
+   "pt": ""
+  },
+  {
+   "id": "BRKCOMBO_02-2_1_SKILL",
+   "en": "Tiger & Dragon: Dual Impact\n⇒Homing Dash",
+   "pt": "Tigre & Dragão: Impacto Duplo\n⇒Avanço Teleguiado"
+  },
+  {
+   "id": "BRKCOMBO_02-2_1_INPUT",
+   "en": "{BR}\n⇒{CA} or {LA} or {BR} or {JU}",
+   "pt": "{BR}\n⇒{CA} ou {LA} ou {BR} ou {JU}"
+  },
+  {
+   "id": "BRKCOMBO_02-2_2_SKILL",
+   "en": "Dragon: Ground Reel\n⇒Homing Dash",
+   "pt": "Dragão: Cambaleio Terrestre\n⇒Avanço Teleguiado"
+  },
+  {
+   "id": "BRKCOMBO_02-2_2_INPUT",
+   "en": "{BR}\n⇒{CA} or {LA} or {BR} or {JU}",
+   "pt": "{BR}\n⇒{CA} ou {LA} ou {BR} ou {JU}"
+  },
+  {
+   "id": "BRKCOMBO_02-2_3_SKILL",
+   "en": "Tiger & Dragon: Dual Strike\n⇒Homing Dash",
+   "pt": "Tigre & Dragão: Golpe Duplo\n⇒Avanço Teleguiado"
+  },
+  {
+   "id": "BRKCOMBO_02-2_3_INPUT",
+   "en": "{BR}\n⇒{CA} or {LA} or {BR} or {JU}",
+   "pt": "{BR}\n⇒{CA} ou {LA} ou {BR} ou {JU}"
+  },
+  {
+   "id": "KILLERMOVE_02-2_1_SKILL",
+   "en": "Unwavering Resolve",
+   "pt": "Resolução Inabalável"
+  },
+  {
+   "id": "KILLERMOVE_02-2_2_SKILL",
+   "en": "Direct Confrontation\n⇒Homing Dash",
+   "pt": "Confronto Direto\n⇒Avanço Teleguiado"
+  },
+  {
+   "id": "KILLERMOVE_02-2_3_SKILL",
+   "en": "Glint of Steel",
+   "pt": "Brilho do Aço"
+  },
+  {
+   "id": "SUPERKILLERMOVE_02-2_1_SKILL",
+   "en": "Tenjo-Tenge: One for All",
+   "pt": "Tenjo-Tenge: Um por Todos"
+  },
+  {
+   "id": "ARCANUM_02-2_1_SKILL",
+   "en": "Martial Law",
+   "pt": "Lei Marcial"
+  },
+  {
+   "id": "KILLERMOVE_02-2_2_INPUT",
+   "en": "{SP} + {LA}\n⇒{JU}",
+   "pt": "{SP} + {LA}\n⇒{JU}"
+  },
+  {
+   "id": "CHARACTER_02-3",
+   "en": "Satsuki Kiryuin (Junketsu Shinzui)",
+   "pt": "Satsuki Kiryuin (Junketsu Shinzui)"
+  },
+  {
+   "id": "POINT_02-3",
+   "en": "Junketsu's final form after absorbing all of the Elite Four's Goku Uniforms. \nRaise your Valor Level by hitting your opponent with special attacks, then finish them off with a SEN-I-SOSHITSU Secret Art!",
+   "pt": "A forma final do Junketsu após absorver todos os Uniformes Goku dos Quatro Elites. \nAumente seu Nível de Valor acertando o oponente com ataques especiais, depois acabe com eles com uma Arte Secreta SEN-I-SOSHITSU!"
+  },
+  {
+   "id": "BUILDUP_02-3_1",
+   "en": "Valor Level 1\nGreatly recover HP.",
+   "pt": "Nível de Valor 1\nRecupera bastante HP."
+  },
+  {
+   "id": "BUILDUP_02-3_2",
+   "en": "Valor Level 2\nGreatly recover HP.",
+   "pt": "Nível de Valor 2\nRecupera bastante HP."
+  },
+  {
+   "id": "BUILDUP_02-3_3",
+   "en": "Valor Level 3\nEnter Bloody Valor Overpowered state and automatically gains SP gauge.\nSEN-I-SOSHITSU Secret Art unsealed.",
+   "pt": "Nível de Valor 3\nEntra no estado Bloody Valor Fortalecido e ganha barra de SP automaticamente.\nArte Secreta SEN-I-SOSHITSU desbloqueada."
+  },
+  {
+   "id": "ATKCOMBO_02-3_1_SKILL",
+   "en": "One for All",
+   "pt": "Um por Todos"
+  },
+  {
+   "id": "ATKCOMBO_02-3_1_INPUT",
+   "en": "{CA}{CA}{CA}",
+   "pt": ""
+  },
+  {
+   "id": "ATKCOMBO_02-3_2_SKILL",
+   "en": "Cutting Edge: Perfection",
+   "pt": "Fio da Navalha: Perfeição"
+  },
+  {
+   "id": "ATKCOMBO_02-3_2_INPUT",
+   "en": "{CA}{CA}",
+   "pt": ""
+  },
+  {
+   "id": "SHTCOMBO_02-3_1_SKILL",
+   "en": "Heavenly Shroud",
+   "pt": "Mortalha Celestial"
+  },
+  {
+   "id": "SHTCOMBO_02-3_1_INPUT",
+   "en": "{LA} Hold",
+   "pt": "Segurar {LA}"
+  },
+  {
+   "id": "SHTCOMBO_02-3_2_SKILL",
+   "en": "Endless Slash Wave",
+   "pt": "Onda de Cortes Interminável"
+  },
+  {
+   "id": "SHTCOMBO_02-3_2_INPUT",
+   "en": "{LA}{LA}{LA}",
+   "pt": ""
+  },
+  {
+   "id": "SHTCOMBO_02-3_3_SKILL",
+   "en": "Gale Slash Wave",
+   "pt": "Onda de Cortes Vendaval"
+  },
+  {
+   "id": "SHTCOMBO_02-3_3_INPUT",
+   "en": "{LA}{LA}",
+   "pt": ""
+  },
+  {
+   "id": "BRKCOMBO_02-3_1_SKILL",
+   "en": "Dual Impact: Calamity",
+   "pt": "Impacto Duplo: Calamidade"
+  },
+  {
+   "id": "BRKCOMBO_02-3_1_INPUT",
+   "en": "{BR}",
+   "pt": ""
+  },
+  {
+   "id": "BRKCOMBO_02-3_2_SKILL",
+   "en": "Dual Impact: Gale",
+   "pt": "Impacto Duplo: Vendaval"
+  },
+  {
+   "id": "BRKCOMBO_02-3_2_INPUT",
+   "en": "{BR}",
+   "pt": ""
+  },
+  {
+   "id": "KILLERMOVE_02-3_1_SKILL",
+   "en": "Execution",
+   "pt": "Execução"
+  },
+  {
+   "id": "KILLERMOVE_02-3_2_SKILL",
+   "en": "Judgment",
+   "pt": "Julgamento"
+  },
+  {
+   "id": "KILLERMOVE_02-3_3_SKILL",
+   "en": "Conquest",
+   "pt": "Conquista"
+  },
+  {
+   "id": "ARCANUM_02-3_1_SKILL",
+   "en": "Karmic Judgment",
+   "pt": "Julgamento Cármico"
+  },
+  {
+   "id": "KILLERMOVE_02-3_2_INPUT",
+   "en": "{SP} + {LA} ⇒ Move with {←} or {→}",
+   "pt": "{SP} + {LA} ⇒ Mova com {←} ou {→}"
+  },
+  {
+   "id": "CHARACTER_03-1",
+   "en": "Ira Gamagoori (Scourge Regalia)",
+   "pt": "Ira Gamagoori (Traje de Açoite)"
+  },
+  {
+   "id": "POINT_03_1",
+   "en": "This power type character uses Shackle Regalia to charge absorb damage and Scourge Regalia to turn it back on the enemy. \nHis mobility is slow, but his endurance is top-class!",
+   "pt": "Este personagem do tipo força usa o Traje de Grilhões para carregar e absorver dano e o Traje de Açoite para devolvê-lo ao inimigo. \nSua mobilidade é lenta, mas sua resistência é de primeira!"
+  },
+  {
+   "id": "ABILITY_03",
+   "en": "Damage Charge\nYou can charge the Damage Gauge (DC) by taking non-break attack damage while wearing the Shackle Regalia.\nCertain attacks can use this gauge for additional power.",
+   "pt": "Carga de Dano\nVocê pode carregar a Barra de Dano (DC) ao receber dano de ataques de não-quebra enquanto estiver usando o Traje de Grilhões.\nCertos ataques podem usar essa barra para ganhar mais poder."
+  },
+  {
+   "id": "BUILDUP_03_1",
+   "en": "Valor Level 1\nMaximum DC increased to 300% (100% at Level 0).\nBreak attacks that use DC are enhanced.\nCharge DC after Valor Action.",
+   "pt": "Nível de Valor 1\nDC máximo aumentado para 300% (100% no Nível 0).\nAtaques de quebra que usam o DC são aprimorados.\nCarrega o DC após Ação de Valor."
+  },
+  {
+   "id": "BUILDUP_03_2",
+   "en": "Valor Level 2\nSpecial long range attacks powered up to super attacks.",
+   "pt": "Nível de Valor 2\nAtaques especiais à distância aprimorados para ataques supremos."
+  },
+  {
+   "id": "BUILDUP_03_3",
+   "en": "Valor Level 3\nEnter Bloody Valor Overpowered state and gain a boost to your SP gauge.\nSEN-I-SOSHITSU Secret Art unsealed.",
+   "pt": "Nível de Valor 3\nEntra no estado Bloody Valor Fortalecido e ganha um bônus na sua barra de SP.\nArte Secreta SEN-I-SOSHITSU desbloqueada."
+  },
+  {
+   "id": "ABILITYACTION_03_1_SKILL",
+   "en": "Shackle Regalia: Transform",
+   "pt": "Traje de Grilhões: Transformar"
+  },
+  {
+   "id": "ABILITYACTION_03_1_INPUT",
+   "en": "{LA}\nor　{GD} Hold\nor　{GD} + {LA}",
+   "pt": "{LA}\nou Segurar {GD}\nou {GD} + {LA}"
+  },
+  {
+   "id": "ABILITYACTION_03_2_SKILL",
+   "en": "Shackle Regalia: Leap",
+   "pt": "Traje de Grilhões: Salto"
+  },
+  {
+   "id": "ABILITYACTION_03_2_POSITION",
+   "en": "During Shackle Regalia",
+   "pt": "Durante o Traje de Grilhões"
+  },
+  {
+   "id": "ABILITYACTION_03_2_INPUT",
+   "en": "{GD} + {LS}",
+   "pt": ""
+  },
+  {
+   "id": "ATKCOMBO_03_1_SKILL",
+   "en": "Right Straight of Destruction",
+   "pt": "Direto da Destruição"
+  },
+  {
+   "id": "ATKCOMBO_03_1_POSITION",
+   "en": "Ground (at 0% DC)",
+   "pt": "Chão (a 0% de DC)"
+  },
+  {
+   "id": "ATKCOMBO_03_1_INPUT",
+   "en": "{CA}",
+   "pt": ""
+  },
+  {
+   "id": "ATKCOMBO_03_2_SKILL",
+   "en": "Discipline: Double\n⇒Discipline: Slam\n⇒Discipline: Cruel Restraint",
+   "pt": "Disciplina: Duplo\n⇒Disciplina: Pancada\n⇒Disciplina: Restrição Cruel"
+  },
+  {
+   "id": "ATKCOMBO_03_2_INPUT",
+   "en": "{CA}　⇒　{CA}　⇒　{CA}",
+   "pt": ""
+  },
+  {
+   "id": "ATKCOMBO_03_3_SKILL",
+   "en": "Discipline: Wipeout\n⇒Discipline: Slam\n⇒Discipline: Scourge Spin",
+   "pt": "Disciplina: Erradicação\n⇒Disciplina: Pancada\n⇒Disciplina: Giro de Açoite"
+  },
+  {
+   "id": "ATKCOMBO_03_3_INPUT",
+   "en": "{←} or {→} + {CA}　\n⇒　{CA}　⇒　{←} or {→} + {CA}",
+   "pt": "{←} ou {→} + {CA}　\n⇒　{CA}　⇒　{←} ou {→} + {CA}"
+  },
+  {
+   "id": "ATKCOMBO_03_4_SKILL",
+   "en": "Discipline: Swing-Up\n⇒Discipline: Slam\n⇒Discipline: Upper Strike",
+   "pt": "Disciplina: Golpe Ascendente\n⇒Disciplina: Pancada\n⇒Disciplina: Golpe Superior"
+  },
+  {
+   "id": "ATKCOMBO_03_4_INPUT",
+   "en": "{↑} or {↓} + {CA}　\n⇒　{CA}　⇒　{↑} or {↓} + {CA}",
+   "pt": "{↑} ou {↓} + {CA}　\n⇒　{CA}　⇒　{↑} ou {↓} + {CA}"
+  },
+  {
+   "id": "ATKCOMBO_03_5_SKILL",
+   "en": "Discipline: Double\n⇒Discipline: Slam\n⇒Shackle Regalia: Restriction",
+   "pt": "Disciplina: Duplo\n⇒Disciplina: Pancada\n⇒Traje de Grilhões: Restrição"
+  },
+  {
+   "id": "ATKCOMBO_03_5_INPUT",
+   "en": "{CA}　⇒　{CA}　⇒　{LA}",
+   "pt": ""
+  },
+  {
+   "id": "ATKCOMBO_03_6_SKILL",
+   "en": "Discipline: Double\n⇒Discipline: Slam\n⇒Goliath Fist",
+   "pt": "Disciplina: Duplo\n⇒Disciplina: Pancada\n⇒Punho Golias"
+  },
+  {
+   "id": "ATKCOMBO_03_6_INPUT",
+   "en": "{CA}　⇒　{CA}　⇒　{BR}",
+   "pt": ""
+  },
+  {
+   "id": "ATKCOMBO_03_7_SKILL",
+   "en": "Goliath Raid\n⇒Goliath Waves",
+   "pt": "Investida Golias\n⇒Ondas Golias"
+  },
+  {
+   "id": "ATKCOMBO_03_7_INPUT",
+   "en": "{CA}　⇒　{BR}",
+   "pt": ""
+  },
+  {
+   "id": "ATKCOMBO_03_8_SKILL",
+   "en": "Discipline: Assault",
+   "pt": "Disciplina: Ataque"
+  },
+  {
+   "id": "ATKCOMBO_03_8_INPUT",
+   "en": "{CA}",
+   "pt": ""
+  },
+  {
+   "id": "ATKCOMBO_03_9_SKILL",
+   "en": "Discipline: Draw",
+   "pt": "Disciplina: Puxão"
+  },
+  {
+   "id": "ATKCOMBO_03_9_POSITION",
+   "en": "During Shackle Regalia",
+   "pt": "Durante o Traje de Grilhões"
+  },
+  {
+   "id": "ATKCOMBO_03_9_INPUT",
+   "en": "{CA}",
+   "pt": ""
+  },
+  {
+   "id": "SHTCOMBO_03_1_SKILL",
+   "en": "Discipline: Castigate",
+   "pt": "Disciplina: Castigar"
+  },
+  {
+   "id": "SHTCOMBO_03_1_POSITION",
+   "en": "Ground/Aerial\n/During Shackle Regalia",
+   "pt": "Chão/Aéreo\n/Durante o Traje de Grilhões"
+  },
+  {
+   "id": "SHTCOMBO_03_1_INPUT",
+   "en": "{LA} Hold",
+   "pt": "Segurar {LA}"
+  },
+  {
+   "id": "SHTCOMBO_03_2_SKILL",
+   "en": "Shackle Regalia: Self-Inflict",
+   "pt": "Traje de Grilhões: Autoflagelação"
+  },
+  {
+   "id": "SHTCOMBO_03_2_POSITION",
+   "en": "Ground\n/During Shackle Regalia",
+   "pt": "Chão\n/Durante o Traje de Grilhões"
+  },
+  {
+   "id": "SHTCOMBO_03_2_INPUT",
+   "en": "{LA} Mash",
+   "pt": "Esmagar {LA}"
+  },
+  {
+   "id": "SHTCOMBO_03_3_SKILL",
+   "en": "Shackle Regalia: Dead Weight",
+   "pt": "Traje de Grilhões: Peso Morto"
+  },
+  {
+   "id": "SHTCOMBO_03_3_INPUT",
+   "en": "{LA}",
+   "pt": ""
+  },
+  {
+   "id": "SHTCOMBO_03_4_SKILL",
+   "en": "Shackle Regalia: Restriction",
+   "pt": "Traje de Grilhões: Restrição"
+  },
+  {
+   "id": "SHTCOMBO_03_4_INPUT",
+   "en": "{LA}",
+   "pt": ""
+  },
+  {
+   "id": "BRKCOMBO_03_1_SKILL",
+   "en": "Goliath Dash\n⇒Homing Dash",
+   "pt": "Avanço Golias\n⇒Avanço Teleguiado"
+  },
+  {
+   "id": "BRKCOMBO_03_1_INPUT",
+   "en": "{BR}\n⇒{CA} or {LA} or {BR} or {JU}",
+   "pt": "{BR}\n⇒{CA} ou {LA} ou {BR} ou {JU}"
+  },
+  {
+   "id": "BRKCOMBO_03_2_SKILL",
+   "en": "Goliath Iron Hammer\n⇒Homing Dash",
+   "pt": "Martelo de Ferro Golias\n⇒Avanço Teleguiado"
+  },
+  {
+   "id": "BRKCOMBO_03_2_POSITION",
+   "en": "Aerial\n/During Shackle Regalia",
+   "pt": "Aéreo\n/Durante o Traje de Grilhões"
+  },
+  {
+   "id": "BRKCOMBO_03_2_INPUT",
+   "en": "{BR}\n⇒{CA} or {LA} or {BR} or {JU}",
+   "pt": "{BR}\n⇒{CA} ou {LA} ou {BR} ou {JU}"
+  },
+  {
+   "id": "BRKCOMBO_03_3_SKILL",
+   "en": "Goliath Waves\n⇒Homing Dash",
+   "pt": "Ondas Golias\n⇒Avanço Teleguiado"
+  },
+  {
+   "id": "BRKCOMBO_03_3_INPUT",
+   "en": "{BR}\n⇒{CA} or {LA} or {BR} or {JU}",
+   "pt": "{BR}\n⇒{CA} ou {LA} ou {BR} ou {JU}"
+  },
+  {
+   "id": "BRKCOMBO_03_4_SKILL",
+   "en": "Goliath Leap",
+   "pt": "Salto Golias"
+  },
+  {
+   "id": "BRKCOMBO_03_4_POSITION",
+   "en": "During Shackle Regalia",
+   "pt": "Durante o Traje de Grilhões"
+  },
+  {
+   "id": "BRKCOMBO_03_4_INPUT",
+   "en": "{BR}",
+   "pt": ""
+  },
+  {
+   "id": "KILLERMOVE_03_1_SKILL",
+   "en": "Purge",
+   "pt": "Expurgo"
+  },
+  {
+   "id": "KILLERMOVE_03_2_SKILL",
+   "en": "Jijo-Jibaku",
+   "pt": "Jijo-Jibaku"
+  },
+  {
+   "id": "KILLERMOVE_03_3_SKILL",
+   "en": "Goliath Traverse",
+   "pt": "Travessia Golias"
+  },
+  {
+   "id": "SUPERKILLERMOVE_03_1_SKILL",
+   "en": "Jijo-Jibaku: Pain and Suffering",
+   "pt": "Jijo-Jibaku: Dor e Sofrimento"
+  },
+  {
+   "id": "ARCANUM_03_1_SKILL",
+   "en": "Disciplinary Measures",
+   "pt": "Medidas Disciplinares"
+  },
+  {
+   "id": "CHARACTER_04-1",
+   "en": "Uzu Sanageyama (Blade Regalia MKII)",
+   "pt": "Uzu Sanageyama (Traje de Espadas MKII)"
+  },
+  {
+   "id": "POINT_04_1",
+   "en": "A rushdown character that utilizes both short and long ranged heavy-hitting combos. \nHis special close range attacks greatly increase in damage after a successful Men→Dou→Kote chain!",
+   "pt": "Um personagem de investida que usa combos pesados tanto de perto quanto à distância. \nSeus ataques especiais de curto alcance têm o dano muito aumentado após uma sequência bem-sucedida de Men→Dou→Kote!"
+  },
+  {
+   "id": "BUILDUP_04_1",
+   "en": "Valor Level 1\nUnique action \"Shingan Step\" unsealed.\nIncreased dash attack damage.",
+   "pt": "Nível de Valor 1\nAção única \"Passo Shingan\" desbloqueada.\nDano de ataque de avanço aumentado."
+  },
+  {
+   "id": "BUILDUP_04_2",
+   "en": "Valor Level 2\nSpecial close range attacks powered up to super attacks.",
+   "pt": "Nível de Valor 2\nAtaques especiais de curto alcance aprimorados para ataques supremos."
+  },
+  {
+   "id": "BUILDUP_04_3",
+   "en": "Valor Level 3\nEnter Bloody Valor Overpowered state and gain a boost to your SP gauge.\nSEN-I-SOSHITSU Secret Art unsealed.",
+   "pt": "Nível de Valor 3\nEntra no estado Bloody Valor Fortalecido e ganha um bônus na sua barra de SP.\nArte Secreta SEN-I-SOSHITSU desbloqueada."
+  },
+  {
+   "id": "ABILITYACTION_04_INDEX",
+   "en": "●Unique Actions (requires Valor Level 1 or more)",
+   "pt": "●Ações Únicas (requer Nível de Valor 1 ou mais)"
+  },
+  {
+   "id": "ABILITYACTION_04_1_SKILL",
+   "en": "Shingan Step",
+   "pt": "Passo Shingan"
+  },
+  {
+   "id": "ABILITYACTION_04_1_POSITION",
+   "en": "On the ground, \non successful guard.",
+   "pt": "No chão, \nao defender com sucesso."
+  },
+  {
+   "id": "ABILITYACTION_04_1_INPUT",
+   "en": "{GD} + {LS}",
+   "pt": ""
+  },
+  {
+   "id": "ATKCOMBO_04_1_SKILL",
+   "en": "Men ⇒Dou, Kote: Frenzy\n⇒Men: Brave Blade\n⇒Dou, Kote: Brave Blade ⇒Men: Goku Blade",
+   "pt": "Men ⇒Dou, Kote: Frenesi\n⇒Men: Lâmina Brava\n⇒Dou, Kote: Lâmina Brava ⇒Men: Lâmina Goku"
+  },
+  {
+   "id": "ATKCOMBO_04_1_INPUT",
+   "en": "{CA}　⇒　{CA}{CA}　⇒　{CA}\n⇒　{CA}{CA}　⇒　{CA}",
+   "pt": ""
+  },
+  {
+   "id": "ATKCOMBO_04_2_SKILL",
+   "en": "Men: Hop ⇒Dou, Kote: Frenzy\n⇒Dou: Flash\n⇒Brave Blade: Pummel\n⇒Dou: Goku Flash",
+   "pt": "Men: Pulo ⇒Dou, Kote: Frenesi\n⇒Dou: Clarão\n⇒Lâmina Brava: Surra\n⇒Dou: Clarão Goku"
+  },
+  {
+   "id": "ATKCOMBO_04_2_INPUT",
+   "en": "{←} or {→} + {CA}　⇒　{CA}{CA}　\n⇒　{←} or {→} + {CA}\n⇒　{CA}{CA}\n⇒　{←} or {→} + {CA}",
+   "pt": "{←} ou {→} + {CA}　⇒　{CA}{CA}　\n⇒　{←} ou {→} + {CA}\n⇒　{CA}{CA}\n⇒　{←} ou {→} + {CA}"
+  },
+  {
+   "id": "ATKCOMBO_04_3_SKILL",
+   "en": "Men: Torrent ⇒Dou, Kote: Frenzy\n⇒Brave Blade: Blade Uppercut \n⇒Men: Fierce Rising　\n⇒Dou, Kote: Brave Blade \n⇒Brave Blade: Goku Blade Uppercut",
+   "pt": "Men: Torrente ⇒Dou, Kote: Frenesi\n⇒Lâmina Brava: Gancho de Lâmina \n⇒Men: Ascensão Feroz　\n⇒Dou, Kote: Lâmina Brava \n⇒Lâmina Brava: Gancho de Lâmina Goku"
+  },
+  {
+   "id": "ATKCOMBO_04_3_INPUT",
+   "en": "{↑} or {↓} + {CA}　⇒　{CA}{CA}　\n⇒　{↑} or {↓} + {CA}⇒　{CA}　\n⇒　{CA}{CA}\n⇒　{↑} or {↓} + {CA}",
+   "pt": "{↑} ou {↓} + {CA}　⇒　{CA}{CA}　\n⇒　{↑} ou {↓} + {CA}⇒　{CA}　\n⇒　{CA}{CA}\n⇒　{↑} ou {↓} + {CA}"
+  },
+  {
+   "id": "ATKCOMBO_04_4_SKILL",
+   "en": "Men ⇒Dou: Fierce Strike\n⇒Kote: Fierce Strike",
+   "pt": "Men ⇒Dou: Golpe Feroz\n⇒Kote: Golpe Feroz"
+  },
+  {
+   "id": "ATKCOMBO_04_4_POSITION",
+   "en": "Ground, on counter hit",
+   "pt": "Chão, no contra-ataque"
+  },
+  {
+   "id": "ATKCOMBO_04_4_INPUT",
+   "en": "{CA}　⇒　{CA}　⇒　{CA}",
+   "pt": ""
+  },
+  {
+   "id": "ATKCOMBO_04_5_SKILL",
+   "en": "Men ⇒Dou, Kote: Frenzy\n⇒Men: Brave Blade ⇒Brave Blade: Pierce\n⇒Brave Blade: Frenzy \n⇒Brave Blade: Blink Lunge",
+   "pt": "Men ⇒Dou, Kote: Frenesi\n⇒Men: Lâmina Brava ⇒Lâmina Brava: Perfuração\n⇒Lâmina Brava: Frenesi \n⇒Lâmina Brava: Avanço Lampejo"
+  },
+  {
+   "id": "ATKCOMBO_04_5_INPUT",
+   "en": "{CA}　⇒　{CA}{CA}　⇒　{CA}\n⇒　{LA}　⇒　{CA}{CA}　⇒　{BR}",
+   "pt": ""
+  },
+  {
+   "id": "ATKCOMBO_04_6_SKILL",
+   "en": "Men: Rising Strike",
+   "pt": "Men: Golpe Ascendente"
+  },
+  {
+   "id": "ATKCOMBO_04_6_INPUT",
+   "en": "{CA}",
+   "pt": ""
+  },
+  {
+   "id": "ATKCOMBO_04_7_SKILL",
+   "en": "Brave Blade: Pummel\n⇒Thrust: Full Body",
+   "pt": "Lâmina Brava: Surra\n⇒Estocada: Corpo Inteiro"
+  },
+  {
+   "id": "ATKCOMBO_04_7_INPUT",
+   "en": "{CA}{CA}{CA}　⇒　{LA}",
+   "pt": ""
+  },
+  {
+   "id": "SHTCOMBO_04_1_SKILL",
+   "en": "Thrust: Gallop",
+   "pt": "Estocada: Galope"
+  },
+  {
+   "id": "SHTCOMBO_04_1_INPUT",
+   "en": "{LA} Hold",
+   "pt": "Segurar {LA}"
+  },
+  {
+   "id": "SHTCOMBO_04_2_SKILL",
+   "en": "Thrust: Multi-Hit",
+   "pt": "Estocada: Acerto Múltiplo"
+  },
+  {
+   "id": "SHTCOMBO_04_2_INPUT",
+   "en": "{LA} Hold",
+   "pt": "Segurar {LA}"
+  },
+  {
+   "id": "SHTCOMBO_04_3_SKILL",
+   "en": "Brave Blade: Thrust\n⇒Brave Blade: Multi-Thrust ⇒Thrust: Full Body",
+   "pt": "Lâmina Brava: Estocada\n⇒Lâmina Brava: Estocada Múltipla ⇒Estocada: Corpo Inteiro"
+  },
+  {
+   "id": "SHTCOMBO_04_3_INPUT",
+   "en": "{LA}　⇒　{LA}　⇒　{LA}",
+   "pt": ""
+  },
+  {
+   "id": "SHTCOMBO_04_4_SKILL",
+   "en": "Thrust: Full Body",
+   "pt": "Estocada: Corpo Inteiro"
+  },
+  {
+   "id": "SHTCOMBO_04_4_INPUT",
+   "en": "{LA}",
+   "pt": ""
+  },
+  {
+   "id": "BRKCOMBO_04_1_SKILL",
+   "en": "Brave Blade: Lunge\n⇒Homing Dash",
+   "pt": "Lâmina Brava: Avanço\n⇒Avanço Teleguiado"
+  },
+  {
+   "id": "BRKCOMBO_04_1_INPUT",
+   "en": "{BR}\n⇒{CA} or {LA} or {BR} or {JU}",
+   "pt": "{BR}\n⇒{CA} ou {LA} ou {BR} ou {JU}"
+  },
+  {
+   "id": "BRKCOMBO_04_2_SKILL",
+   "en": "Lunge: Encircling Strike\n⇒Homing Dash",
+   "pt": "Avanço: Golpe Cerceador\n⇒Avanço Teleguiado"
+  },
+  {
+   "id": "BRKCOMBO_04_2_INPUT",
+   "en": "{BR}\n⇒{CA} or {LA} or {BR} or {JU}",
+   "pt": "{BR}\n⇒{CA} ou {LA} ou {BR} ou {JU}"
+  },
+  {
+   "id": "KILLERMOVE_04_1_SKILL",
+   "en": "Hasso Ranbu",
+   "pt": "Hasso Ranbu"
+  },
+  {
+   "id": "KILLERMOVE_04_1_INPUT",
+   "en": "{SP} + {CA}\n⇒Follow up with {CA} or {LA} or {BR}",
+   "pt": "{SP} + {CA}\n⇒Continue com {CA} ou {LA} ou {BR}"
+  },
+  {
+   "id": "KILLERMOVE_04_2_SKILL",
+   "en": "Godspeed Thrust",
+   "pt": "Estocada Veloz"
+  },
+  {
+   "id": "KILLERMOVE_04_3_SKILL",
+   "en": "Shingan Thousand Strikes",
+   "pt": "Mil Golpes Shingan"
+  },
+  {
+   "id": "SUPERKILLERMOVE_04_1_SKILL",
+   "en": "Hasso Ranbu: Brave Blade",
+   "pt": "Hasso Ranbu: Lâmina Brava"
+  },
+  {
+   "id": "SUPERKILLERMOVE_04_1_INPUT",
+   "en": "{SP} + {CA}\n⇒Follow up with {CA} or {LA} or {BR}",
+   "pt": "{SP} + {CA}\n⇒Continue com {CA} ou {LA} ou {BR}"
+  },
+  {
+   "id": "ARCANUM_04_1_SKILL",
+   "en": "Shingan Issen",
+   "pt": "Shingan Issen"
+  },
+  {
+   "id": "KILLERMOVE_04_3_INPUT",
+   "en": "{SP} + {BR}\n⇒Mash {CA} or {LA} or {BR} or {JU}",
+   "pt": "{SP} + {BR}\n⇒Esmagar {CA} ou {LA} ou {BR} ou {JU}"
+  },
+  {
+   "id": "CHARACTER_05-1",
+   "en": "Nonon Jakuzure (Symphony Regalia: Da Capo)",
+   "pt": "Nonon Jakuzure (Traje de Sinfonia: Da Capo)"
+  },
+  {
+   "id": "POINT_05_1",
+   "en": "This character specializes in long ranged combat using her sonic bullets and lasers. \nShe uses her charged long range attacks and Reverb Bullet to entrap her opponent!",
+   "pt": "Essa personagem é especialista em combate à distância usando suas balas sônicas e lasers. \nEla usa seus ataques carregados à distância e as Balas de Reverberação para prender o oponente!"
+  },
+  {
+   "id": "ABILITY_05_1",
+   "en": "Reverb Bullet\nReverb Bullets are left behind when performing charged and special long range attacks.\nIf Nonon gets close to them, she can pick them up to add special effects to her close range and break attacks.",
+   "pt": "Bala de Reverberação\nAs Balas de Reverberação são deixadas para trás ao realizar ataques à distância carregados e especiais.\nSe a Nonon chegar perto delas, ela pode pegá-las para adicionar efeitos especiais aos seus ataques de curto alcance e de quebra."
+  },
+  {
+   "id": "ABILITY_05_2",
+   "en": "Multi-Level Charge\nYou can hold the button down to charge and enhance all non-special long range attacks. \nDepending on how long you hold the button, \nthe attacks can be released with 3 different levels of charge: uncharged, charged, and fully charged.",
+   "pt": "Carga de Múltiplos Níveis\nVocê pode segurar o botão para carregar e aprimorar todos os ataques à distância não especiais. \nDependendo do tempo que você segurar o botão, \nos ataques podem ser lançados com 3 níveis de carga diferentes: sem carga, carregado e totalmente carregado."
+  },
+  {
+   "id": "BUILDUP_05_1",
+   "en": "Valor Level 1\nIncreased damage for actions that harmonize with Reverb Bullets.\nMaximum amount of on-stage Reverb Bullets increased to 6 (3 at Valor Level 0).",
+   "pt": "Nível de Valor 1\nDano aumentado para ações que se harmonizam com Balas de Reverberação.\nQuantidade máxima de Balas de Reverberação no estágio aumentada para 6 (3 no Nível de Valor 0)."
+  },
+  {
+   "id": "BUILDUP_05_2",
+   "en": "Valor Level 2\nSpecial long range attacks powered up to super attacks.",
+   "pt": "Nível de Valor 2\nAtaques especiais à distância aprimorados para ataques supremos."
+  },
+  {
+   "id": "BUILDUP_05_3",
+   "en": "Valor Level 3\nEnter Bloody Valor Overpowered state and gain a boost to your SP gauge.\nSEN-I-SOSHITSU Secret Art unsealed.",
+   "pt": "Nível de Valor 3\nEntra no estado Bloody Valor Fortalecido e ganha um bônus na sua barra de SP.\nArte Secreta SEN-I-SOSHITSU desbloqueada."
+  },
+  {
+   "id": "ATKCOMBO_05_1_SKILL",
+   "en": "Sound Shot",
+   "pt": "Tiro Sonoro"
+  },
+  {
+   "id": "ATKCOMBO_05_1_INPUT",
+   "en": "{CA}{CA}",
+   "pt": ""
+  },
+  {
+   "id": "ATKCOMBO_05_2_SKILL",
+   "en": "Sound Shot: Machine Gun",
+   "pt": "Tiro Sonoro: Metralhadora"
+  },
+  {
+   "id": "ATKCOMBO_05_2_INPUT",
+   "en": "{←} or {→} + {CA}　\n⇒　{←} or {→} + {CA}",
+   "pt": "{←} ou {→} + {CA}　\n⇒　{←} ou {→} + {CA}"
+  },
+  {
+   "id": "ATKCOMBO_05_3_SKILL",
+   "en": "Sound Shot: Volley",
+   "pt": "Tiro Sonoro: Salva"
+  },
+  {
+   "id": "ATKCOMBO_05_3_INPUT",
+   "en": "{↑} or {↓} + {CA}　\n⇒　{↑} or {↓} + {CA}",
+   "pt": "{↑} ou {↓} + {CA}　\n⇒　{↑} ou {↓} + {CA}"
+  }
+ ]
+}

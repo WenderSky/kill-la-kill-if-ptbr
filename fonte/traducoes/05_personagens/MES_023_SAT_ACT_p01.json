@@ -1,0 +1,143 @@
+{
+ "origem": "KlkResources/S701_MES/MES_023_SAT_ACT",
+ "conteudo": "Falas em batalha - Satsuki",
+ "parte": "1/1",
+ "instrucoes": "Traduza o campo 'en' para portugues do Brasil e escreva o resultado em 'pt'. Nao altere 'id'. Mantenha intactos os codigos entre chaves ({CA}, {LA}, {BR}, {JU}, {SP}, {GD}, {LS}, {L1}, {R1}, setas), os marcadores de formato (%d, %l, %ls, %hs) e as quebras de linha \\n. Se uma linha nao precisar de traducao, deixe 'pt' vazio.",
+ "linhas": [
+  {
+   "id": "C023_VS_R100_ARREST_S_KEYWORD",
+   "en": "Take thiiiissss!",
+   "pt": "Tome iiissssoooo!"
+  },
+  {
+   "id": "C023_VS_R100_ARREST_P_KEYWORD",
+   "en": "Fall!",
+   "pt": "Caia!"
+  },
+  {
+   "id": "C023_VS_R100_ARREST_G_KEYWORD",
+   "en": "I have you now!",
+   "pt": "Peguei você!"
+  },
+  {
+   "id": "C023_SP_NEAR_01_KEYWORD",
+   "en": "I hope you're ready!",
+   "pt": "Espero que esteja pronto!"
+  },
+  {
+   "id": "C023_SP_NEAR_02_KEYWORD",
+   "en": "I'll carve it into you.",
+   "pt": "Vou gravar isso em você."
+  },
+  {
+   "id": "C023_SP_NEAR_03_KEYWORD",
+   "en": "No need for mercy!",
+   "pt": "Não há necessidade de misericórdia!"
+  },
+  {
+   "id": "C023_SP_NEAR_04_KEYWORD",
+   "en": "Yaaah!",
+   "pt": "Yaaah!"
+  },
+  {
+   "id": "C023_SP_NEAR_05_KEYWORD",
+   "en": "Zeeeei!",
+   "pt": "Zeeeei!"
+  },
+  {
+   "id": "C023_SP_NEAR_06_KEYWORD",
+   "en": "You're done!",
+   "pt": "Acabou para você!"
+  },
+  {
+   "id": "C023_SP_BREAK_01_KEYWORD",
+   "en": "Right there!",
+   "pt": "Bem aí!"
+  },
+  {
+   "id": "C023_SP_BREAK_02_KEYWORD",
+   "en": "Zeeei!",
+   "pt": "Zeeei!"
+  },
+  {
+   "id": "C023_SP_BREAK_03_KEYWORD",
+   "en": "Have at you!",
+   "pt": "Em guarda!"
+  },
+  {
+   "id": "C023_SP_BREAK_04_KEYWORD",
+   "en": "Fall!",
+   "pt": "Caia!"
+  },
+  {
+   "id": "C023_SP_BREAK_05_KEYWORD",
+   "en": "If you won't attack, I shall!",
+   "pt": "Se você não atacar, eu atacarei!"
+  },
+  {
+   "id": "C023_SP_FAR_01_KEYWORD",
+   "en": "There's plenty more where that came from!",
+   "pt": "Tem muito mais de onde isso veio!"
+  },
+  {
+   "id": "C023_SP_FAR_02_KEYWORD",
+   "en": "I strike in cascades!",
+   "pt": "Eu ataco em cascata!"
+  },
+  {
+   "id": "C023_SP_FAR_03_KEYWORD",
+   "en": "Eat thiiis!",
+   "pt": "Engula iiisso!"
+  },
+  {
+   "id": "C023_SP_FAR_04_KEYWORD",
+   "en": "Guard this!",
+   "pt": "Defenda isso!"
+  },
+  {
+   "id": "C023_FINISHARTS_01_KEYWORD",
+   "en": "Here's your requiem!",
+   "pt": "Este é o seu réquiem!"
+  },
+  {
+   "id": "C023_FINISHARTS_02_KEYWORD",
+   "en": "The time has come to realize my ambitions!",
+   "pt": "Chegou a hora de realizar minhas ambições!"
+  },
+  {
+   "id": "C023_FINISHARTS_03_KEYWORD",
+   "en": "The ties between humans and Life Fibers...",
+   "pt": "Os laços entre os humanos e as Fibras de Vida..."
+  },
+  {
+   "id": "C023_FINISHARTS_04_KEYWORD",
+   "en": "...Shall be severed!",
+   "pt": "...Serão cortados!"
+  },
+  {
+   "id": "C023_FINISHARTS_05_KEYWORD",
+   "en": "I'm not letting this chance slide!",
+   "pt": "Não vou deixar essa chance passar!"
+  },
+  {
+   "id": "C023_FINISHARTS_06_KEYWORD",
+   "en": "Stay right there. I'll put you to rest!",
+   "pt": "Fique bem aí. Eu colocarei você para descansar!"
+  },
+  {
+   "id": "C023_FINISHARTS_07_KEYWORD",
+   "en": "You're finished, now!",
+   "pt": "Agora é o seu fim!"
+  },
+  {
+   "id": "C023_DEFEAT_01_KEYWORD",
+   "en": "Ridiculous! It's still not enough?!",
+   "pt": "Ridículo! Ainda não é o suficiente?!"
+  },
+  {
+   "id": "C023_DEFEAT_02_KEYWORD",
+   "en": "It cannot end like this...!",
+   "pt": "Não pode acabar assim...!"
+  }
+ ]
+}

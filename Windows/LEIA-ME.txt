@@ -1,0 +1,55 @@
+================================================================
+  KILL la KILL -IF  —  Tradução PT-BR  —  Windows
+================================================================
+
+COMO INSTALAR
+
+  1. Feche o jogo.
+  2. Dê dois cliques em INSTALAR.bat
+  3. Pronto. Abra o jogo.
+
+  O instalador acha a pasta do jogo sozinho, em qualquer
+  biblioteca do Steam, inclusive em outro disco. Se não
+  encontrar, ele pergunta o caminho.
+
+
+O IDIOMA DO JOGO PRECISA ESTAR EM INGLÊS
+
+  A tradução ocupa o slot do inglês, que é o padrão do jogo.
+  Se você nunca mexeu nisso, não precisa fazer nada.
+
+  Se já tinha trocado:
+  Steam > botão direito no jogo > Propriedades > Idioma > Inglês
+
+
+COMO REMOVER
+
+  Dê dois cliques em DESINSTALAR.bat
+
+  O instalador guarda os arquivos originais em
+  ResourceWin\_backup_ptbr, dentro da pasta do jogo, e o
+  desinstalador devolve todos eles.
+
+
+O QUE ESTÁ TRADUZIDO
+
+  Modo história, falas de batalha de todos os personagens,
+  menus, tutoriais, galeria, requisitos de desbloqueio e a
+  lista de golpes. São 11.524 linhas.
+
+  Ficaram em inglês os rótulos que são IMAGEM e não texto:
+  STORY, VERSUS, GALLERY, OPTIONS, FIGHT, KO, EPISODE.
+  É a convenção de jogo de luta, e foi de propósito.
+
+
+AVISOS
+
+  - Verificar a integridade dos arquivos pelo Steam remove a
+    tradução. É só rodar o instalador de novo.
+  - A tradução não encosta nos saves nem nas conquistas.
+  - Tradução amadora, feita por fã. Achou um erro? Abra uma
+    issue no repositório com um print.
+
+
+  github.com/WenderSky/kill-la-kill-if-ptbr
+  Tradução: Wender_sky (Steam)

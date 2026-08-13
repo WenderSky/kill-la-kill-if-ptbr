@@ -1,0 +1,1008 @@
+{
+ "origem": "KlkResources/S701_MES/MES_031_GAM_ACT",
+ "conteudo": "Falas em batalha - Gamagoori",
+ "parte": "1/4",
+ "instrucoes": "Traduza o campo 'en' para portugues do Brasil e escreva o resultado em 'pt'. Nao altere 'id'. Mantenha intactos os codigos entre chaves ({CA}, {LA}, {BR}, {JU}, {SP}, {GD}, {LS}, {L1}, {R1}, setas), os marcadores de formato (%d, %l, %ls, %hs) e as quebras de linha \\n. Se uma linha nao precisar de traducao, deixe 'pt' vazio.",
+ "linhas": [
+  {
+   "id": "C031_VS_C011_ENTRY_1P_01_KEYWORD",
+   "en": "Ryuko Matoi! I, Ira Gamagoori, shall crush you!",
+   "pt": "Ryuko Matoi! Eu, Ira Gamagoori, irei esmagar você!"
+  },
+  {
+   "id": "C031_VS_C011_ENTRY_1P_02_KEYWORD",
+   "en": "Your luck's just run out! You have to face me next!",
+   "pt": "Sua sorte acabou! Você tem que me enfrentar agora!"
+  },
+  {
+   "id": "C031_VS_C011_ENTRY_2P_01_KEYWORD",
+   "en": "Very well. Let's see if you have what it takes to back your threats up!",
+   "pt": "Muito bem. Vamos ver se você tem o que é preciso para sustentar suas ameaças!"
+  },
+  {
+   "id": "C031_VS_C011_ENTRY_2P_02_KEYWORD",
+   "en": "If you want to fight Lady Satsuki, then you must go through me first!",
+   "pt": "Se quer lutar contra a Senhorita Satsuki, então você deve passar por mim primeiro!"
+  },
+  {
+   "id": "C031_VS_C012_ENTRY_1P_01_KEYWORD",
+   "en": "No matter how many weapons you have,\nI'll take all your punishment and release it back onto you, two-fold!",
+   "pt": "Não importa quantas armas você tenha,\neu receberei todo o seu castigo e o devolverei a você, em dobro!"
+  },
+  {
+   "id": "C031_VS_C012_ENTRY_1P_02_KEYWORD",
+   "en": "It doesn't matter what tricks you have up your sleeves.\nI will smash right through them!",
+   "pt": "Não importa quais truques você tenha na manga.\nEu vou esmagar todos eles!"
+  },
+  {
+   "id": "C031_VS_C012_ENTRY_2P_01_KEYWORD",
+   "en": "Just because you have those scissors, doesn't mean you're guaranteed to win.\nIt's time I took you down a peg!",
+   "pt": "Só porque você tem essa tesoura, não significa que a vitória está garantida.\nÉ hora de eu te colocar no seu devido lugar!"
+  },
+  {
+   "id": "C031_VS_C012_ENTRY_2P_02_KEYWORD",
+   "en": "You're not the only one that's gotten stronger.\nDon't think for a second you can beat me as easily as you did before!",
+   "pt": "Você não é a única que ficou mais forte.\nNão pense nem por um segundo que pode me vencer tão facilmente quanto antes!"
+  },
+  {
+   "id": "C031_VS_C021_ENTRY_1P_01_KEYWORD",
+   "en": "Here I am, Lady Satsuki! I shall give this fight my all!",
+   "pt": "Aqui estou, Senhorita Satsuki! Darei tudo de mim nesta luta!"
+  },
+  {
+   "id": "C031_VS_C021_ENTRY_1P_02_KEYWORD",
+   "en": "I am your living shield, m'Lady. However, I will become a wall if need be!",
+   "pt": "Eu sou seu escudo vivo, minha Senhorita. No entanto, me tornarei uma parede se for preciso!"
+  },
+  {
+   "id": "C031_VS_C021_ENTRY_2P_01_KEYWORD",
+   "en": "I accept your challenge, Lady Satsuki! And I thank you for this opportunity!",
+   "pt": "Eu aceito o seu desafio, Senhorita Satsuki! E agradeço por esta oportunidade!"
+  },
+  {
+   "id": "C031_VS_C021_ENTRY_2P_02_KEYWORD",
+   "en": "I am Ira Gamagoori, your living shield! And if need be, I will become a wall!",
+   "pt": "Eu sou Ira Gamagoori, o seu escudo vivo! E se for preciso, me tornarei uma parede!"
+  },
+  {
+   "id": "C031_VS_C022_ENTRY_1P_01_KEYWORD",
+   "en": "Here I am, Lady Satsuki! I shall give this fight my all!",
+   "pt": "Aqui estou, Senhorita Satsuki! Darei tudo de mim nesta luta!"
+  },
+  {
+   "id": "C031_VS_C022_ENTRY_1P_02_KEYWORD",
+   "en": "I am your living shield, m'Lady. However, I will become a wall if need be!",
+   "pt": "Eu sou seu escudo vivo, minha Senhorita. No entanto, me tornarei uma parede se for preciso!"
+  },
+  {
+   "id": "C031_VS_C022_ENTRY_2P_01_KEYWORD",
+   "en": "Yes, m'lady. I, Ira Gamagoori, shall fight you with my body and soul!",
+   "pt": "Sim, minha Senhorita. Eu, Ira Gamagoori, lutarei contra você com corpo e alma!"
+  },
+  {
+   "id": "C031_VS_C022_ENTRY_2P_02_KEYWORD",
+   "en": "If Lady Satsuki commands it... I, Ira Gamagoori, will gladly put my life on the line! ",
+   "pt": "Se a Senhorita Satsuki ordenar... Eu, Ira Gamagoori, de bom grado colocarei minha vida em risco!"
+  },
+  {
+   "id": "C031_VS_C031_ENTRY_1P_01_KEYWORD",
+   "en": "I am Ira Gamagoori! If you defy me, you better be prepared.",
+   "pt": "Eu sou Ira Gamagoori! Se você me desafiar, é melhor estar preparado."
+  },
+  {
+   "id": "C031_VS_C031_ENTRY_1P_02_KEYWORD",
+   "en": "Why do you look like me?! Who are you?! Answer me!",
+   "pt": "Por que você se parece comigo?! Quem é você?! Me responda!"
+  },
+  {
+   "id": "C031_VS_C031_ENTRY_2P_01_KEYWORD",
+   "en": "How dare you use my words against me! And who are you, anyway?!",
+   "pt": "Como ousa usar minhas palavras contra mim! E quem é você, afinal?!"
+  },
+  {
+   "id": "C031_VS_C031_ENTRY_2P_02_KEYWORD",
+   "en": "If you won't introduce yourself, so be it! Your tombstone shall be blank!",
+   "pt": "Se você não vai se apresentar, que assim seja! Sua lápide ficará em branco!"
+  },
+  {
+   "id": "C031_VS_C041_ENTRY_1P_01_KEYWORD",
+   "en": "Let's see which is stronger, Sanageyama. Your sword, or my shield.",
+   "pt": "Vamos ver o que é mais forte, Sanageyama. A sua espada, ou o meu escudo."
+  },
+  {
+   "id": "C031_VS_C041_ENTRY_1P_02_KEYWORD",
+   "en": "I am Lady Satsuki's strongest shield! Don't think you can break me that easily.",
+   "pt": "Eu sou o escudo mais forte da Senhorita Satsuki! Não ache que pode me quebrar tão facilmente."
+  },
+  {
+   "id": "C031_VS_C041_ENTRY_2P_01_KEYWORD",
+   "en": "Sounds good. I'll take all your hits and in the end, I'll be the victor!",
+   "pt": "Parece bom. Receberei todos os seus golpes e, no final, eu serei o vencedor!"
+  },
+  {
+   "id": "C031_VS_C041_ENTRY_2P_02_KEYWORD",
+   "en": "That shouldn't be too hard. I guarantee it won't be that easy to break me!",
+   "pt": "Isso não deve ser muito difícil. Eu garanto que não será tão fácil me quebrar!"
+  },
+  {
+   "id": "C031_VS_C051_ENTRY_1P_01_KEYWORD",
+   "en": "All right, here I am. Now let's see how good your performance is! ",
+   "pt": "Muito bem, aqui estou. Agora vamos ver o quão boa é a sua performance!"
+  },
+  {
+   "id": "C031_VS_C051_ENTRY_1P_02_KEYWORD",
+   "en": "You might be an Elite, but you are still a student here.\nTherefore, I have an obligation to discipline you!",
+   "pt": "Você pode ser uma Elite, mas ainda é uma aluna aqui.\nPortanto, eu tenho a obrigação de disciplinar você!"
+  },
+  {
+   "id": "C031_VS_C051_ENTRY_2P_01_KEYWORD",
+   "en": "I promise to make this quick. Your performances can be quite annoying.",
+   "pt": "Eu prometo fazer isso rápido. Suas performances podem ser bem irritantes."
+  },
+  {
+   "id": "C031_VS_C051_ENTRY_2P_02_KEYWORD",
+   "en": "Sound good to me! I accept your challenge!",
+   "pt": "Por mim tudo bem! Eu aceito o seu desafio!"
+  },
+  {
+   "id": "C031_VS_C061_ENTRY_1P_01_KEYWORD",
+   "en": "They say to know another is to know oneself.\nNow... Show me the power of your data-based combat!",
+   "pt": "Dizem que conhecer o outro é conhecer a si mesmo.\nAgora... Mostre-me o poder do seu combate baseado em dados!"
+  },
+  {
+   "id": "C031_VS_C061_ENTRY_1P_02_KEYWORD",
+   "en": "You must be getting tired after all that data collecting.\nI'll be sure to train you nice and HARD.",
+   "pt": "Você deve estar ficando cansado depois de toda essa coleta de dados.\nEu farei questão de treinar você de forma BEM pesada."
+  },
+  {
+   "id": "C031_VS_C061_ENTRY_2P_01_KEYWORD",
+   "en": "Come on then, Inumuta. Let's see how well your combat data works against me.",
+   "pt": "Venha então, Inumuta. Vamos ver o quão bem os seus dados de combate funcionam contra mim."
+  },
+  {
+   "id": "C031_VS_C061_ENTRY_2P_02_KEYWORD",
+   "en": "If you're that convinced of your skill, then I don't have to worry about hurting you! ",
+   "pt": "Se você está tão convencido da sua habilidade, então eu não preciso me preocupar em te machucar!"
+  },
+  {
+   "id": "C031_VS_C071_ENTRY_1P_01_KEYWORD",
+   "en": "Uh-oh. Here comes trouble...",
+   "pt": "Uh-oh. Lá vem problema..."
+  },
+  {
+   "id": "C031_VS_C071_ENTRY_1P_02_KEYWORD",
+   "en": "I better not underestimate Lady Satsuki's mother.",
+   "pt": "É melhor eu não subestimar a mãe da Senhorita Satsuki."
+  },
+  {
+   "id": "C031_VS_C071_ENTRY_2P_01_KEYWORD",
+   "en": "Uh-oh. Here comes trouble...",
+   "pt": "Uh-oh. Lá vem problema..."
+  },
+  {
+   "id": "C031_VS_C071_ENTRY_2P_02_KEYWORD",
+   "en": "I better not underestimate Lady Satsuki's mother.",
+   "pt": "É melhor eu não subestimar a mãe da Senhorita Satsuki."
+  },
+  {
+   "id": "C031_VS_C081_ENTRY_1P_01_KEYWORD",
+   "en": "I won't let anyone interfere with Lady Satsuki's goals!",
+   "pt": "Não deixarei que ninguém interfira nos objetivos da Senhorita Satsuki!"
+  },
+  {
+   "id": "C031_VS_C081_ENTRY_1P_02_KEYWORD",
+   "en": "You may know Lady Satsuki personally. But stand in her way and I'll crush you!",
+   "pt": "Você pode conhecer a Senhorita Satsuki pessoalmente. Mas fique no caminho dela e eu esmagarei você!"
+  },
+  {
+   "id": "C031_VS_C081_ENTRY_2P_01_KEYWORD",
+   "en": "I won't let anyone interfere with Lady Satsuki's goals!",
+   "pt": "Não deixarei que ninguém interfira nos objetivos da Senhorita Satsuki!"
+  },
+  {
+   "id": "C031_VS_C081_ENTRY_2P_02_KEYWORD",
+   "en": "I don't know what powers you have.\nBut if you think you can beat me that easy, you've got another thing coming!",
+   "pt": "Eu não sei quais poderes você tem.\nMas se você acha que pode me vencer tão fácil assim, está muito enganada!"
+  },
+  {
+   "id": "C031_VS_C141_ENTRY_1P_01_KEYWORD",
+   "en": "I shall strike down all who dare to oppose Lady Satsuki's will!\nThat includes you, Mankanshoku!",
+   "pt": "Eu irei abater todos os que ousarem se opor à vontade da Senhorita Satsuki!\nIsso inclui você, Mankanshoku!"
+  },
+  {
+   "id": "C031_VS_C141_ENTRY_1P_02_KEYWORD",
+   "en": "Don't do this, Mankanshoku! This is beyond reckless! You could get hurt!",
+   "pt": "Não faça isso, Mankanshoku! Isso é mais do que imprudente! Você pode se machucar!"
+  },
+  {
+   "id": "C031_VS_C141_ENTRY_2P_01_KEYWORD",
+   "en": "Wait, Mankanshoku! Y-You don't understand. This isn't a lifestyle choice!",
+   "pt": "Espere, Mankanshoku! V-Você não entende. Esta não é uma escolha de estilo de vida!"
+  },
+  {
+   "id": "C031_VS_C141_ENTRY_2P_02_KEYWORD",
+   "en": "You've got it all wrong, Mankanshoku!\nThis outfit is the manifestation of my resolve! It's nothing to be ashamed of!",
+   "pt": "Você entendeu tudo errado, Mankanshoku!\nEste traje é a manifestação da minha determinação! Não é nada para se envergonhar!"
+  },
+  {
+   "id": "C031_VS_C151_ENTRY_1P_01_KEYWORD",
+   "en": "To think there was a rebel lurking in Honnouji Academy...\nYou, sir, are a traitor! And put some clothes on! You're a teacher, for God's sake!",
+   "pt": "Pensar que havia um rebelde espreitando na Academia Honnouji...\nVocê, senhor, é um traidor! E vista algumas roupas! Você é um professor, pelo amor de Deus!"
+  },
+  {
+   "id": "C031_VS_C151_ENTRY_1P_02_KEYWORD",
+   "en": "I'm warning you... stand in my way, and there will be no mercy!\nI, Ira Gamagoori, shall purge you!",
+   "pt": "Estou avisando... fique no meu caminho, e não haverá misericórdia!\nEu, Ira Gamagoori, irei purgar você!"
+  },
+  {
+   "id": "C031_VS_C151_ENTRY_2P_01_KEYWORD",
+   "en": "My God, do you people have no shame?!\nI shall rehabilitate you!",
+   "pt": "Meu Deus, vocês não têm vergonha?!\nEu irei reabilitar você!"
+  },
+  {
+   "id": "C031_VS_C151_ENTRY_2P_02_KEYWORD",
+   "en": "I have pledged allegiance to Lady Satsuki.\nEven if the world is turnedon its head, I shall never surrender to the likes of you!",
+   "pt": "Eu jurei lealdade à Senhorita Satsuki.\nMesmo que o mundo vire de cabeça para baixo, eu nunca me renderei a alguém como você!"
+  },
+  {
+   "id": "C031_AIR_FAR_CHARGE_01_KEYWORD",
+   "en": "Hah, Scourge Regalia!",
+   "pt": "Hah, Traje do Flagelo!"
+  },
+  {
+   "id": "C031_SP_NEAR_01_KEYWORD",
+   "en": "Time for a purge!",
+   "pt": "Hora de um expurgo!"
+  },
+  {
+   "id": "C031_SP_NEAR_02_KEYWORD",
+   "en": "Hmph!",
+   "pt": "Hmph!"
+  },
+  {
+   "id": "C031_SP_NEAR_03_KEYWORD",
+   "en": "There!",
+   "pt": "Toma!"
+  },
+  {
+   "id": "C031_SP_NEAR_04_KEYWORD",
+   "en": "Sei!",
+   "pt": "Sei!"
+  },
+  {
+   "id": "C031_SP_NEAR_05_KEYWORD",
+   "en": "Nugh!",
+   "pt": "Nugh!"
+  },
+  {
+   "id": "C031_SP_NEAR_06_KEYWORD",
+   "en": "Taste your defeat!",
+   "pt": "Prove a sua derrota!"
+  },
+  {
+   "id": "C031_SP_NEAR_07_KEYWORD",
+   "en": "Too late for excuses!",
+   "pt": "Tarde demais para desculpas!"
+  },
+  {
+   "id": "C031_SP_NEAR_08_KEYWORD",
+   "en": "No excuses!",
+   "pt": "Sem desculpas!"
+  },
+  {
+   "id": "C031_SP_NEAR_09_KEYWORD",
+   "en": "As long as I'm here...",
+   "pt": "Enquanto eu estiver aqui..."
+  },
+  {
+   "id": "C031_SP_NEAR_10_KEYWORD",
+   "en": "You will never be free!",
+   "pt": "Você nunca será livre!"
+  },
+  {
+   "id": "C031_SP_NEAR_11_KEYWORD",
+   "en": "I hate disorder...",
+   "pt": "Eu odeio a desordem..."
+  },
+  {
+   "id": "C031_SP_NEAR_12_KEYWORD",
+   "en": "It is time",
+   "pt": "Chegou a hora"
+  },
+  {
+   "id": "C031_SP_NEAR_13_KEYWORD",
+   "en": "Come at me!",
+   "pt": "Venha para cima!"
+  },
+  {
+   "id": "C031_SP_NEAR_14_KEYWORD",
+   "en": "I'll take you down here and now!",
+   "pt": "Eu vou derrubar você aqui e agora!"
+  },
+  {
+   "id": "C031_SP_NEAR_15_KEYWORD",
+   "en": "I'll never forgive you!",
+   "pt": "Eu nunca vou te perdoar!"
+  },
+  {
+   "id": "C031_SP_NEAR_16_KEYWORD",
+   "en": "I will purge yoooou!",
+   "pt": "Eu vou purgar vocêee!"
+  },
+  {
+   "id": "C031_SP_NEAR_17_KEYWORD",
+   "en": "Repent!",
+   "pt": "Arrependa-se!"
+  },
+  {
+   "id": "C031_SP_NEAR_18_KEYWORD",
+   "en": "Stay right there!",
+   "pt": "Fique bem aí!"
+  },
+  {
+   "id": "C031_SP_FAR_01_KEYWORD",
+   "en": "It's no use!",
+   "pt": "É inútil!"
+  },
+  {
+   "id": "C031_SP_FAR_02_KEYWORD",
+   "en": "If you won't attack, then I will!",
+   "pt": "Se você não vai atacar, então eu vou!"
+  },
+  {
+   "id": "C031_SP_FAR_03_KEYWORD",
+   "en": "Hah, Scourge Regalia!",
+   "pt": "Hah, Traje do Flagelo!"
+  },
+  {
+   "id": "C031_SP_FAR_04_KEYWORD",
+   "en": "Lets go, Shackle Regalia!",
+   "pt": "Vamos lá, Traje da Amarra!"
+  },
+  {
+   "id": "C031_SP_FAR_05_KEYWORD",
+   "en": "Behold my resolve!",
+   "pt": "Contemple a minha determinação!"
+  },
+  {
+   "id": "C031_SP_FAR_06_KEYWORD",
+   "en": "Ah, wonderful!",
+   "pt": "Ah, maravilhoso!"
+  },
+  {
+   "id": "C031_SP_FAR_07_KEYWORD",
+   "en": "More... Moooore!",
+   "pt": "Mais... Maaaais!"
+  },
+  {
+   "id": "C031_SP_FAR_08_KEYWORD",
+   "en": "Feel my charged up power THROB!",
+   "pt": "Sinta meu poder acumulado PULSAR!"
+  },
+  {
+   "id": "C031_SP_FAR_09_KEYWORD",
+   "en": "Here I come! Scourge Regalia!",
+   "pt": "Lá vou eu! Traje do Flagelo!"
+  },
+  {
+   "id": "C031_SP_FAR_10_KEYWORD",
+   "en": "Prepare yourself! Scourge Regalia!",
+   "pt": "Prepare-se! Traje do Flagelo!"
+  },
+  {
+   "id": "C031_SP_BREAK_01_KEYWORD",
+   "en": "Feel my charged up power THROB!",
+   "pt": "Sinta meu poder acumulado PULSAR!"
+  },
+  {
+   "id": "C031_SP_BREAK_02_KEYWORD",
+   "en": "Here I come!",
+   "pt": "Lá vou eu!"
+  },
+  {
+   "id": "C031_SP_BREAK_03_KEYWORD",
+   "en": "Tooh!",
+   "pt": "Tooh!"
+  },
+  {
+   "id": "C031_SP_BREAK_04_KEYWORD",
+   "en": "Buahahaha!",
+   "pt": "Buahahaha!"
+  },
+  {
+   "id": "C031_SP_BREAK_05_KEYWORD",
+   "en": "Take it!",
+   "pt": "Tome isso!"
+  },
+  {
+   "id": "C031_SP_BREAK_06_KEYWORD",
+   "en": "This is the size of my resolve!",
+   "pt": "Este é o tamanho da minha determinação!"
+  },
+  {
+   "id": "C031_SP_BREAK_07_KEYWORD",
+   "en": "This is my resolve!",
+   "pt": "Esta é a minha determinação!"
+  },
+  {
+   "id": "C031_SP_BREAK_08_KEYWORD",
+   "en": "Feel the weight of my resolve!",
+   "pt": "Sinta o peso da minha determinação!"
+  },
+  {
+   "id": "C031_SP_BREAK_09_KEYWORD",
+   "en": "Tah!",
+   "pt": "Tah!"
+  },
+  {
+   "id": "C031_SP_BREAK_10_KEYWORD",
+   "en": "Toh!",
+   "pt": "Toh!"
+  },
+  {
+   "id": "C031_SP_BREAK_11_KEYWORD",
+   "en": "How's that?!",
+   "pt": "Que tal isso?!"
+  },
+  {
+   "id": "C031_SP_BREAK_12_KEYWORD",
+   "en": "Eat this!",
+   "pt": "Engula essa!"
+  },
+  {
+   "id": "C031_SP_BREAK_13_KEYWORD",
+   "en": "Weak! So weak!",
+   "pt": "Fraco! Tão fraco!"
+  },
+  {
+   "id": "C031_SP_BREAK_14_KEYWORD",
+   "en": "You're finished!",
+   "pt": "Você está acabado!"
+  },
+  {
+   "id": "C031_SP_BREAK_15_KEYWORD",
+   "en": "Are you scared yet?!",
+   "pt": "Já está com medo?!"
+  },
+  {
+   "id": "C031_SP_BREAK_16_KEYWORD",
+   "en": "Looks like it was too heavy for you.",
+   "pt": "Parece que foi muito pesado para você."
+  },
+  {
+   "id": "C031_SSP_FAR_01_KEYWORD",
+   "en": "Admonish yourself!",
+   "pt": "Repreenda-se!"
+  },
+  {
+   "id": "C031_SSP_FAR_02_KEYWORD",
+   "en": "Higi Jijo-Jibaku!",
+   "pt": "Higi Jijo-Jibaku!"
+  },
+  {
+   "id": "C031_SSP_FAR_03_KEYWORD",
+   "en": "Take this! Scourge Regalia!",
+   "pt": "Tome isso! Traje do Flagelo!"
+  },
+  {
+   "id": "C031_SSP_FAR_04_KEYWORD",
+   "en": "Purge!",
+   "pt": "Expurgar!"
+  },
+  {
+   "id": "C031_SSP_FAR_05_KEYWORD",
+   "en": "There's no point!",
+   "pt": "Não há sentido!"
+  },
+  {
+   "id": "C031_SSP_FAR_06_KEYWORD",
+   "en": "The more whips I take, the stronger I get!",
+   "pt": "Quantas mais chicotadas eu levo, mais forte eu fico!"
+  },
+  {
+   "id": "C031_SSP_FAR_07_KEYWORD",
+   "en": "Oooohhh!",
+   "pt": "Oooohhh!"
+  },
+  {
+   "id": "C031_SSP_FAR_08_KEYWORD",
+   "en": "Buahahaha! Excellent!",
+   "pt": "Buahahaha! Excelente!"
+  },
+  {
+   "id": "C031_SSP_FAR_09_KEYWORD",
+   "en": "Fully charged, now take this!",
+   "pt": "Totalmente carregado, agora tome isso!"
+  },
+  {
+   "id": "C031_SSP_FAR_10_KEYWORD",
+   "en": "Be grateful for this purging!",
+   "pt": "Seja grato por este expurgo!"
+  },
+  {
+   "id": "C031_VS_C011_DECISION0_S_UPPER_KEYWORD",
+   "en": "HERE WE GO!",
+   "pt": "AQUI VAMOS NÓS!"
+  },
+  {
+   "id": "C031_VS_C011_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "I am the Disciplinary Committee Chair, Ira Gamagoori!",
+   "pt": "Eu sou o Presidente do Comitê Disciplinar, Ira Gamagoori!"
+  },
+  {
+   "id": "C031_VS_C011_DECISION0_S_LOWER_KEYWORD",
+   "en": "You will never beat me!",
+   "pt": "Você nunca me vencerá!"
+  },
+  {
+   "id": "C031_VS_C011_DECISION0_P_UPPER_KEYWORD",
+   "en": "Resistance is futile!",
+   "pt": "A resistência é inútil!"
+  },
+  {
+   "id": "C031_VS_C011_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "I am the Academy's Disciplinary Committee Chair and Lady Satsuki's strongest shield.",
+   "pt": "Eu sou o Presidente do Comitê Disciplinar da Academia e o escudo mais forte da Senhorita Satsuki."
+  },
+  {
+   "id": "C031_VS_C011_DECISION0_P_LOWER_KEYWORD",
+   "en": "I'll crush you in the blink of an eye!",
+   "pt": "Vou te esmagar num piscar de olhos!"
+  },
+  {
+   "id": "C031_VS_C011_DECISION0_G_UPPER_KEYWORD",
+   "en": "Show me how strong you are!",
+   "pt": "Me mostre o quão forte você é!"
+  },
+  {
+   "id": "C031_VS_C011_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "The more you attack me, the stronger I become!",
+   "pt": "Quanto mais você me ataca, mais forte eu me torno!"
+  },
+  {
+   "id": "C031_VS_C011_DECISION0_G_LOWER_KEYWORD",
+   "en": "I will take your attacks and turn them against you!",
+   "pt": "Eu pegarei seus ataques e os voltarei contra você!"
+  },
+  {
+   "id": "C031_VS_C011_DECISION1_S_UPPER_KEYWORD",
+   "en": "Know the difference in our strength!",
+   "pt": "Conheça a diferença na nossa força!"
+  },
+  {
+   "id": "C031_VS_C011_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "As long as I live, you don't stand a chance against me!",
+   "pt": "Enquanto eu viver, você não tem chance contra mim!"
+  },
+  {
+   "id": "C031_VS_C011_DECISION1_S_LOWER_KEYWORD",
+   "en": "Know your place and get ready to be purged!",
+   "pt": "Conheça o seu lugar e prepare-se para ser expurgado!"
+  },
+  {
+   "id": "C031_VS_C011_DECISION1_P_UPPER_KEYWORD",
+   "en": "Back off, you idiots!",
+   "pt": "Recuem, seus idiotas!"
+  },
+  {
+   "id": "C031_VS_C011_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "Your puny strength won't make me budge, let alone Lady Satsuki!",
+   "pt": "Sua força insignificante não me fará recuar, muito menos a Senhorita Satsuki!"
+  },
+  {
+   "id": "C031_VS_C011_DECISION1_P_LOWER_KEYWORD",
+   "en": "You have zero power!",
+   "pt": "Você tem poder zero!"
+  },
+  {
+   "id": "C031_VS_C011_DECISION1_G_UPPER_KEYWORD",
+   "en": "I'll put you in your place!",
+   "pt": "Eu vou te colocar no seu devido lugar!"
+  },
+  {
+   "id": "C031_VS_C011_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "You can't beat me, so don't even try!",
+   "pt": "Você não pode me vencer, então nem tente!"
+  },
+  {
+   "id": "C031_VS_C011_DECISION1_G_LOWER_KEYWORD",
+   "en": "Shame on you for being so weak!",
+   "pt": "Que vergonha você ser tão fraco!"
+  },
+  {
+   "id": "C031_VS_C011_DECISION2_S_UPPER_KEYWORD",
+   "en": "You will never beat me!",
+   "pt": "Você nunca me vencerá!"
+  },
+  {
+   "id": "C031_VS_C011_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "I'm the Academy's guardian and the ideal of order!",
+   "pt": "Eu sou o guardião da Academia e o ideal da ordem!"
+  },
+  {
+   "id": "C031_VS_C011_DECISION2_S_LOWER_KEYWORD",
+   "en": "I won't give up to pond scum like you!",
+   "pt": "Eu não vou desistir para uma escória feito você!"
+  },
+  {
+   "id": "C031_VS_C011_DECISION2_P_UPPER_KEYWORD",
+   "en": "You won't win!",
+   "pt": "Você não vai vencer!"
+  },
+  {
+   "id": "C031_VS_C011_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "Your will is garbage compared to Lady Satsuki's... and mine!",
+   "pt": "A sua vontade é lixo comparada à da Senhorita Satsuki... e à minha!"
+  },
+  {
+   "id": "C031_VS_C011_DECISION2_P_LOWER_KEYWORD",
+   "en": "Your smugness ends here!",
+   "pt": "Sua presunção termina aqui!"
+  },
+  {
+   "id": "C031_VS_C011_DECISION2_G_UPPER_KEYWORD",
+   "en": "This fight is over!",
+   "pt": "Esta luta acabou!"
+  },
+  {
+   "id": "C031_VS_C011_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "There's no point in challenging me, if you don't have a purpose!",
+   "pt": "Não há sentido em me desafiar se você não tem um propósito!"
+  },
+  {
+   "id": "C031_VS_C011_DECISION2_G_LOWER_KEYWORD",
+   "en": "This wall doesn't budge an inch!",
+   "pt": "Esta parede não cede um centímetro sequer!"
+  },
+  {
+   "id": "C031_VS_C012_DECISION0_S_UPPER_KEYWORD",
+   "en": "HERE WE GO!",
+   "pt": "AQUI VAMOS NÓS!"
+  },
+  {
+   "id": "C031_VS_C012_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "I am the Disciplinary Committee Chair, Ira Gamagoori!",
+   "pt": "Eu sou o Presidente do Comitê Disciplinar, Ira Gamagoori!"
+  },
+  {
+   "id": "C031_VS_C012_DECISION0_S_LOWER_KEYWORD",
+   "en": "You will never beat me!",
+   "pt": "Você nunca me vencerá!"
+  },
+  {
+   "id": "C031_VS_C012_DECISION0_P_UPPER_KEYWORD",
+   "en": "Resistance is futile!",
+   "pt": "A resistência é inútil!"
+  },
+  {
+   "id": "C031_VS_C012_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "I am the Academy's Disciplinary Committee Chair and Lady Satsuki's strongest shield.",
+   "pt": "Eu sou o Presidente do Comitê Disciplinar da Academia e o escudo mais forte da Senhorita Satsuki."
+  },
+  {
+   "id": "C031_VS_C012_DECISION0_P_LOWER_KEYWORD",
+   "en": "I'll crush you in the blink of an eye!",
+   "pt": "Vou te esmagar num piscar de olhos!"
+  },
+  {
+   "id": "C031_VS_C012_DECISION0_G_UPPER_KEYWORD",
+   "en": "Show me how strong you are!",
+   "pt": "Me mostre o quão forte você é!"
+  },
+  {
+   "id": "C031_VS_C012_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "The more you attack me, the stronger I become!",
+   "pt": "Quanto mais você me ataca, mais forte eu me torno!"
+  },
+  {
+   "id": "C031_VS_C012_DECISION0_G_LOWER_KEYWORD",
+   "en": "I will take your attacks and turn them against you!",
+   "pt": "Eu pegarei seus ataques e os voltarei contra você!"
+  },
+  {
+   "id": "C031_VS_C012_DECISION1_S_UPPER_KEYWORD",
+   "en": "Know the difference in our strength!",
+   "pt": "Conheça a diferença na nossa força!"
+  },
+  {
+   "id": "C031_VS_C012_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "As long as I live, you don't stand a chance against me!",
+   "pt": "Enquanto eu viver, você não tem chance contra mim!"
+  },
+  {
+   "id": "C031_VS_C012_DECISION1_S_LOWER_KEYWORD",
+   "en": "Know your place and get ready to be purged!",
+   "pt": "Conheça o seu lugar e prepare-se para ser expurgado!"
+  },
+  {
+   "id": "C031_VS_C012_DECISION1_P_UPPER_KEYWORD",
+   "en": "Back off, you idiots!",
+   "pt": "Recuem, seus idiotas!"
+  },
+  {
+   "id": "C031_VS_C012_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "Your puny strength won't make me budge, let alone Lady Satsuki!",
+   "pt": "Sua força insignificante não me fará recuar, muito menos a Senhorita Satsuki!"
+  },
+  {
+   "id": "C031_VS_C012_DECISION1_P_LOWER_KEYWORD",
+   "en": "You have zero power!",
+   "pt": "Você tem poder zero!"
+  },
+  {
+   "id": "C031_VS_C012_DECISION1_G_UPPER_KEYWORD",
+   "en": "I'll put you in your place!",
+   "pt": "Eu vou te colocar no seu devido lugar!"
+  },
+  {
+   "id": "C031_VS_C012_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "You can't beat me, so don't even try!",
+   "pt": "Você não pode me vencer, então nem tente!"
+  },
+  {
+   "id": "C031_VS_C012_DECISION1_G_LOWER_KEYWORD",
+   "en": "Shame on you for being so weak!",
+   "pt": "Que vergonha você ser tão fraco!"
+  },
+  {
+   "id": "C031_VS_C012_DECISION2_S_UPPER_KEYWORD",
+   "en": "You will never beat me!",
+   "pt": "Você nunca me vencerá!"
+  },
+  {
+   "id": "C031_VS_C012_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "I'm the Academy's guardian and the ideal of order!",
+   "pt": "Eu sou o guardião da Academia e o ideal da ordem!"
+  },
+  {
+   "id": "C031_VS_C012_DECISION2_S_LOWER_KEYWORD",
+   "en": "I won't give up to pond scum like you!",
+   "pt": "Eu não vou desistir para uma escória feito você!"
+  },
+  {
+   "id": "C031_VS_C012_DECISION2_P_UPPER_KEYWORD",
+   "en": "You won't win!",
+   "pt": "Você não vai vencer!"
+  },
+  {
+   "id": "C031_VS_C012_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "Your will is garbage compared to Lady Satsuki's... and mine!",
+   "pt": "A sua vontade é lixo comparada à da Senhorita Satsuki... e à minha!"
+  },
+  {
+   "id": "C031_VS_C012_DECISION2_P_LOWER_KEYWORD",
+   "en": "Your smugness ends here!",
+   "pt": "Sua presunção termina aqui!"
+  },
+  {
+   "id": "C031_VS_C012_DECISION2_G_UPPER_KEYWORD",
+   "en": "This fight is over!",
+   "pt": "Esta luta acabou!"
+  },
+  {
+   "id": "C031_VS_C012_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "There's no point in challenging me, if you don't have a purpose!",
+   "pt": "Não há sentido em me desafiar se você não tem um propósito!"
+  },
+  {
+   "id": "C031_VS_C012_DECISION2_G_LOWER_KEYWORD",
+   "en": "This wall doesn't budge an inch!",
+   "pt": "Esta parede não cede um centímetro sequer!"
+  },
+  {
+   "id": "C031_VS_C021_DECISION0_S_UPPER_KEYWORD",
+   "en": "HERE WE GO!",
+   "pt": "AQUI VAMOS NÓS!"
+  },
+  {
+   "id": "C031_VS_C021_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "I am the Disciplinary Committee Chair, Ira Gamagoori!",
+   "pt": "Eu sou o Presidente do Comitê Disciplinar, Ira Gamagoori!"
+  },
+  {
+   "id": "C031_VS_C021_DECISION0_S_LOWER_KEYWORD",
+   "en": "You will never beat me!",
+   "pt": "Você nunca me vencerá!"
+  },
+  {
+   "id": "C031_VS_C021_DECISION0_P_UPPER_KEYWORD",
+   "en": "Pardon my manners, m'Lady!",
+   "pt": "Perdoe meus modos, minha Senhorita!"
+  },
+  {
+   "id": "C031_VS_C021_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "I am Honnouji Academy's strongest shield. No one shall break through me!",
+   "pt": "Eu sou o escudo mais forte da Academia Honnouji. Ninguém passará por mim!"
+  },
+  {
+   "id": "C031_VS_C021_DECISION0_P_LOWER_KEYWORD",
+   "en": "Even your blade can't take me down!",
+   "pt": "Nem mesmo a sua lâmina pode me derrubar!"
+  },
+  {
+   "id": "C031_VS_C021_DECISION0_G_UPPER_KEYWORD",
+   "en": "I thought you were stronger!",
+   "pt": "Eu achei que você fosse mais forte!"
+  },
+  {
+   "id": "C031_VS_C021_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "The more you attack me, the stronger I become!",
+   "pt": "Quanto mais você me ataca, mais forte eu me torno!"
+  },
+  {
+   "id": "C031_VS_C021_DECISION0_G_LOWER_KEYWORD",
+   "en": "Don't stop, Lady Satsuki! More, more!",
+   "pt": "Não pare, Senhorita Satsuki! Mais, mais!"
+  },
+  {
+   "id": "C031_VS_C021_DECISION1_S_UPPER_KEYWORD",
+   "en": "Excuse ME!",
+   "pt": "Com licença!"
+  },
+  {
+   "id": "C031_VS_C021_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "I won't pull my punches, even against you!",
+   "pt": "Eu não vou pegar leve, nem mesmo contra você!"
+  },
+  {
+   "id": "C031_VS_C021_DECISION1_S_LOWER_KEYWORD",
+   "en": "Now get purged!",
+   "pt": "Agora seja expurgada!"
+  },
+  {
+   "id": "C031_VS_C021_DECISION1_P_UPPER_KEYWORD",
+   "en": "I will beat you!",
+   "pt": "Eu vou te vencer!"
+  },
+  {
+   "id": "C031_VS_C021_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "Don't underestimate the Elite Four of Honnouji Academy!",
+   "pt": "Não subestime os Quatro Elites da Academia Honnouji!"
+  },
+  {
+   "id": "C031_VS_C021_DECISION1_P_LOWER_KEYWORD",
+   "en": "You should be way stronger than that!",
+   "pt": "Você deveria ser bem mais forte que isso!"
+  },
+  {
+   "id": "C031_VS_C021_DECISION1_G_UPPER_KEYWORD",
+   "en": "I'm just getting started!",
+   "pt": "Eu estou só começando!"
+  },
+  {
+   "id": "C031_VS_C021_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "You don't stand a chance at breaking me, m'Lady!",
+   "pt": "Você não tem chance de me quebrar, minha Senhorita!"
+  },
+  {
+   "id": "C031_VS_C021_DECISION1_G_LOWER_KEYWORD",
+   "en": "I'm harder and stronger!",
+   "pt": "Eu estou mais duro e mais forte!"
+  },
+  {
+   "id": "C031_VS_C021_DECISION2_S_UPPER_KEYWORD",
+   "en": "That's not enough to beat me!",
+   "pt": "Isso não é o suficiente para me vencer!"
+  },
+  {
+   "id": "C031_VS_C021_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "I'm the Academy's guardian and the ideal of order!",
+   "pt": "Eu sou o guardião da Academia e o ideal da ordem!"
+  },
+  {
+   "id": "C031_VS_C021_DECISION2_S_LOWER_KEYWORD",
+   "en": "I can't lose this battle!",
+   "pt": "Eu não posso perder esta batalha!"
+  },
+  {
+   "id": "C031_VS_C021_DECISION2_P_UPPER_KEYWORD",
+   "en": "You won't beat me!",
+   "pt": "Você não vai me vencer!"
+  },
+  {
+   "id": "C031_VS_C021_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "As someone whose will matches yours, I shall not lose!",
+   "pt": "Como alguém cuja vontade se iguala à sua, eu não vou perder!"
+  },
+  {
+   "id": "C031_VS_C021_DECISION2_P_LOWER_KEYWORD",
+   "en": "Behold my resolve!",
+   "pt": "Contemple a minha determinação!"
+  },
+  {
+   "id": "C031_VS_C021_DECISION2_G_UPPER_KEYWORD",
+   "en": "Seems like the fight's been settled!",
+   "pt": "Parece que a luta foi decidida!"
+  },
+  {
+   "id": "C031_VS_C021_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "For someone with your ambitions, this shouldn't have happened!",
+   "pt": "Para alguém com as suas ambições, isso não deveria ter acontecido!"
+  },
+  {
+   "id": "C031_VS_C021_DECISION2_G_LOWER_KEYWORD",
+   "en": "This wall doesn't budge an inch!",
+   "pt": "Esta parede não cede um centímetro sequer!"
+  },
+  {
+   "id": "C031_VS_C022_DECISION0_S_UPPER_KEYWORD",
+   "en": "HERE WE GO!",
+   "pt": "AQUI VAMOS NÓS!"
+  },
+  {
+   "id": "C031_VS_C022_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "I am the Disciplinary Committee Chair, Ira Gamagoori!",
+   "pt": "Eu sou o Presidente do Comitê Disciplinar, Ira Gamagoori!"
+  },
+  {
+   "id": "C031_VS_C022_DECISION0_S_LOWER_KEYWORD",
+   "en": "You will never beat me!",
+   "pt": "Você nunca me vencerá!"
+  },
+  {
+   "id": "C031_VS_C022_DECISION0_P_UPPER_KEYWORD",
+   "en": "Pardon my manners, m'Lady!",
+   "pt": "Perdoe meus modos, minha Senhorita!"
+  },
+  {
+   "id": "C031_VS_C022_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "I am Honnouji Academy's strongest shield. No one shall break through me!",
+   "pt": "Eu sou o escudo mais forte da Academia Honnouji. Ninguém passará por mim!"
+  },
+  {
+   "id": "C031_VS_C022_DECISION0_P_LOWER_KEYWORD",
+   "en": "Even your blade can't take me down!",
+   "pt": "Nem mesmo a sua lâmina pode me derrubar!"
+  },
+  {
+   "id": "C031_VS_C022_DECISION0_G_UPPER_KEYWORD",
+   "en": "I thought you were stronger!",
+   "pt": "Eu achei que você fosse mais forte!"
+  },
+  {
+   "id": "C031_VS_C022_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "The more you attack me, the stronger I become!",
+   "pt": "Quanto mais você me ataca, mais forte eu me torno!"
+  },
+  {
+   "id": "C031_VS_C022_DECISION0_G_LOWER_KEYWORD",
+   "en": "Don't stop, Lady Satsuki! More, more!",
+   "pt": "Não pare, Senhorita Satsuki! Mais, mais!"
+  },
+  {
+   "id": "C031_VS_C022_DECISION1_S_UPPER_KEYWORD",
+   "en": "Excuse ME!",
+   "pt": "Com licença!"
+  },
+  {
+   "id": "C031_VS_C022_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "I won't pull my punches, even against you!",
+   "pt": "Eu não vou pegar leve, nem mesmo contra você!"
+  },
+  {
+   "id": "C031_VS_C022_DECISION1_S_LOWER_KEYWORD",
+   "en": "Now get purged!",
+   "pt": "Agora seja expurgada!"
+  },
+  {
+   "id": "C031_VS_C022_DECISION1_P_UPPER_KEYWORD",
+   "en": "I will beat you!",
+   "pt": "Eu vou te vencer!"
+  },
+  {
+   "id": "C031_VS_C022_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "Don't underestimate the Elite Four of Honnouji Academy!",
+   "pt": "Não subestime os Quatro Elites da Academia Honnouji!"
+  },
+  {
+   "id": "C031_VS_C022_DECISION1_P_LOWER_KEYWORD",
+   "en": "You should be way stronger than that!",
+   "pt": "Você deveria ser bem mais forte que isso!"
+  },
+  {
+   "id": "C031_VS_C022_DECISION1_G_UPPER_KEYWORD",
+   "en": "I'm just getting started!",
+   "pt": "Eu estou só começando!"
+  }
+ ]
+}

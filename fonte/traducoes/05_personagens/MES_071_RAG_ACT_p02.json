@@ -1,0 +1,1008 @@
+{
+ "origem": "KlkResources/S701_MES/MES_071_RAG_ACT",
+ "conteudo": "Falas em batalha - Ragyo",
+ "parte": "2/3",
+ "instrucoes": "Traduza o campo 'en' para portugues do Brasil e escreva o resultado em 'pt'. Nao altere 'id'. Mantenha intactos os codigos entre chaves ({CA}, {LA}, {BR}, {JU}, {SP}, {GD}, {LS}, {L1}, {R1}, setas), os marcadores de formato (%d, %l, %ls, %hs) e as quebras de linha \\n. Se uma linha nao precisar de traducao, deixe 'pt' vazio.",
+ "linhas": [
+  {
+   "id": "C071_VS_C031_DECISION1_S_LOWER_KEYWORD",
+   "en": "Surrender to our glory!",
+   "pt": "Rendam-se à nossa glória!"
+  },
+  {
+   "id": "C071_VS_C031_DECISION1_P_UPPER_KEYWORD",
+   "en": "It's about time you gave up.",
+   "pt": "Já passou da hora de você desistir."
+  },
+  {
+   "id": "C071_VS_C031_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "Your strategy was amusing... but this is getting old.",
+   "pt": "A sua estratégia foi divertida... mas já está ficando batida."
+  },
+  {
+   "id": "C071_VS_C031_DECISION1_P_LOWER_KEYWORD",
+   "en": "I'll have you exit the stage!",
+   "pt": "Vou fazer você sair do palco!"
+  },
+  {
+   "id": "C071_VS_C031_DECISION1_G_UPPER_KEYWORD",
+   "en": "I'll teach you that humans are nothing but pigs in clothing.",
+   "pt": "Vou te ensinar que humanos não passam de porcos usando roupas."
+  },
+  {
+   "id": "C071_VS_C031_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "You are nothing but livestock for the Life Fibers to consume!",
+   "pt": "Vocês não passam de gado para as Fibras de Vida consumirem!"
+  },
+  {
+   "id": "C071_VS_C031_DECISION1_G_LOWER_KEYWORD",
+   "en": "Get in your pen, like the livestock you are!",
+   "pt": "Volte para o chiqueiro, como o gado que você é!"
+  },
+  {
+   "id": "C071_VS_C031_DECISION2_S_UPPER_KEYWORD",
+   "en": "Useless resistance only makes you look pathetic!",
+   "pt": "Resistir sem esperança só faz você parecer patética!"
+  },
+  {
+   "id": "C071_VS_C031_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "Humanity will be enveloped by the Life Fibers, uniting under one cloth.\nThis is the truth of the universe!",
+   "pt": "A humanidade será envolvida pelas Fibras de Vida, unindo-se sob uma só roupa.\nEssa é a verdade do universo!"
+  },
+  {
+   "id": "C071_VS_C031_DECISION2_S_LOWER_KEYWORD",
+   "en": "There is no escape!",
+   "pt": "Não há escapatória!"
+  },
+  {
+   "id": "C071_VS_C031_DECISION2_P_UPPER_KEYWORD",
+   "en": "Your fate ends here.",
+   "pt": "O seu destino termina aqui."
+  },
+  {
+   "id": "C071_VS_C031_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "Protest all you want, you cannot stop my grand ambitions!",
+   "pt": "Proteste o quanto quiser, você não pode impedir minhas grandes ambições!"
+  },
+  {
+   "id": "C071_VS_C031_DECISION2_P_LOWER_KEYWORD",
+   "en": "It is too, too late!",
+   "pt": "É tarde, tarde demais!"
+  },
+  {
+   "id": "C071_VS_C031_DECISION2_G_UPPER_KEYWORD",
+   "en": "Even a fool like you should understand the difference between a human and clothing!",
+   "pt": "Até mesmo uma tola como você deveria entender a diferença entre um humano e uma roupa!"
+  },
+  {
+   "id": "C071_VS_C031_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "This is what you get for defying the COVERS... and our grand will!",
+   "pt": "É isso que você ganha por desafiar os Casulos... e nossa grandiosa vontade!"
+  },
+  {
+   "id": "C071_VS_C031_DECISION2_G_LOWER_KEYWORD",
+   "en": "Resist! It will do you no good.",
+   "pt": "Resista! Não fará bem algum a você."
+  },
+  {
+   "id": "C071_VS_C041_DECISION0_S_UPPER_KEYWORD",
+   "en": "Behold, you foolish humans!",
+   "pt": "Contemplem, seus humanos tolos!"
+  },
+  {
+   "id": "C071_VS_C041_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "The Life Fibers are the rulers of this world.\nAnd you weak creatures shall be sacrificed to them!",
+   "pt": "As Fibras de Vida são as governantes deste mundo.\nE vocês, criaturas fracas, serão sacrificadas a elas!"
+  },
+  {
+   "id": "C071_VS_C041_DECISION0_S_LOWER_KEYWORD",
+   "en": "You should feel honored.",
+   "pt": "Vocês deveriam se sentir honrados."
+  },
+  {
+   "id": "C071_VS_C041_DECISION0_P_UPPER_KEYWORD",
+   "en": "I'm sorry. Are you mocking me?",
+   "pt": "Perdão. Você está zombando de mim?"
+  },
+  {
+   "id": "C071_VS_C041_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "Did you honestly think a human such as yourself could defeat me?",
+   "pt": "Você achou mesmo que uma humana como você poderia me derrotar?"
+  },
+  {
+   "id": "C071_VS_C041_DECISION0_P_LOWER_KEYWORD",
+   "en": "Know your place!",
+   "pt": "Ponha-se no seu lugar!"
+  },
+  {
+   "id": "C071_VS_C041_DECISION0_G_UPPER_KEYWORD",
+   "en": "I'll be happy to show you how clothing rules over this planet!",
+   "pt": "Ficarei feliz em lhe mostrar como as roupas governam este planeta!"
+  },
+  {
+   "id": "C071_VS_C041_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "Your actions are an act of rebellion against the Life Fibers' will.",
+   "pt": "Suas ações são um ato de rebelião contra a vontade das Fibras de Vida."
+  },
+  {
+   "id": "C071_VS_C041_DECISION0_G_LOWER_KEYWORD",
+   "en": "You'll pay for your transgressions with your flesh!",
+   "pt": "Você pagará por suas transgressões com a sua carne!"
+  },
+  {
+   "id": "C071_VS_C041_DECISION1_S_UPPER_KEYWORD",
+   "en": "Have you not realized the difference in our powers yet?!",
+   "pt": "Você ainda não percebeu a diferença em nossos poderes?!"
+  },
+  {
+   "id": "C071_VS_C041_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "You humans are inferior beings who will submit to the Life Fibers!",
+   "pt": "Vocês, humanos, são seres inferiores que se submeterão às Fibras de Vida!"
+  },
+  {
+   "id": "C071_VS_C041_DECISION1_S_LOWER_KEYWORD",
+   "en": "Surrender to our glory!",
+   "pt": "Rendam-se à nossa glória!"
+  },
+  {
+   "id": "C071_VS_C041_DECISION1_P_UPPER_KEYWORD",
+   "en": "It's about time you gave up.",
+   "pt": "Já passou da hora de você desistir."
+  },
+  {
+   "id": "C071_VS_C041_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "Your strategy was amusing... but this is getting old.",
+   "pt": "A sua estratégia foi divertida... mas já está ficando batida."
+  },
+  {
+   "id": "C071_VS_C041_DECISION1_P_LOWER_KEYWORD",
+   "en": "I'll have you exit the stage!",
+   "pt": "Vou fazer você sair do palco!"
+  },
+  {
+   "id": "C071_VS_C041_DECISION1_G_UPPER_KEYWORD",
+   "en": "I'll teach you that humans are nothing but pigs in clothing.",
+   "pt": "Vou te ensinar que humanos não passam de porcos usando roupas."
+  },
+  {
+   "id": "C071_VS_C041_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "You are nothing but livestock for the Life Fibers to consume!",
+   "pt": "Vocês não passam de gado para as Fibras de Vida consumirem!"
+  },
+  {
+   "id": "C071_VS_C041_DECISION1_G_LOWER_KEYWORD",
+   "en": "Get in your pen, like the livestock you are!",
+   "pt": "Volte para o chiqueiro, como o gado que você é!"
+  },
+  {
+   "id": "C071_VS_C041_DECISION2_S_UPPER_KEYWORD",
+   "en": "Useless resistance only makes you look pathetic!",
+   "pt": "Resistir sem esperança só faz você parecer patética!"
+  },
+  {
+   "id": "C071_VS_C041_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "Humanity will be enveloped by the Life Fibers, uniting under one cloth.\nThis is the truth of the universe!",
+   "pt": "A humanidade será envolvida pelas Fibras de Vida, unindo-se sob uma só roupa.\nEssa é a verdade do universo!"
+  },
+  {
+   "id": "C071_VS_C041_DECISION2_S_LOWER_KEYWORD",
+   "en": "There is no escape!",
+   "pt": "Não há escapatória!"
+  },
+  {
+   "id": "C071_VS_C041_DECISION2_P_UPPER_KEYWORD",
+   "en": "Your fate ends here.",
+   "pt": "O seu destino termina aqui."
+  },
+  {
+   "id": "C071_VS_C041_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "Protest all you want, you cannot stop my grand ambitions!",
+   "pt": "Proteste o quanto quiser, você não pode impedir minhas grandes ambições!"
+  },
+  {
+   "id": "C071_VS_C041_DECISION2_P_LOWER_KEYWORD",
+   "en": "It is too, too late!",
+   "pt": "É tarde, tarde demais!"
+  },
+  {
+   "id": "C071_VS_C041_DECISION2_G_UPPER_KEYWORD",
+   "en": "Even a fool like you should understand the difference between a human and clothing!",
+   "pt": "Até mesmo uma tola como você deveria entender a diferença entre um humano e uma roupa!"
+  },
+  {
+   "id": "C071_VS_C041_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "This is what you get for defying the COVERS... and our grand will!",
+   "pt": "É isso que você ganha por desafiar os Casulos... e nossa grandiosa vontade!"
+  },
+  {
+   "id": "C071_VS_C041_DECISION2_G_LOWER_KEYWORD",
+   "en": "Resist! It will do you no good.",
+   "pt": "Resista! Não fará bem algum a você."
+  },
+  {
+   "id": "C071_VS_C051_DECISION0_S_UPPER_KEYWORD",
+   "en": "Behold, you foolish humans!",
+   "pt": "Contemplem, seus humanos tolos!"
+  },
+  {
+   "id": "C071_VS_C051_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "The Life Fibers are the rulers of this world.\nAnd you weak creatures shall be sacrificed to them!",
+   "pt": "As Fibras de Vida são as governantes deste mundo.\nE vocês, criaturas fracas, serão sacrificadas a elas!"
+  },
+  {
+   "id": "C071_VS_C051_DECISION0_S_LOWER_KEYWORD",
+   "en": "You should feel honored.",
+   "pt": "Vocês deveriam se sentir honrados."
+  },
+  {
+   "id": "C071_VS_C051_DECISION0_P_UPPER_KEYWORD",
+   "en": "I'm sorry. Are you mocking me?",
+   "pt": "Perdão. Você está zombando de mim?"
+  },
+  {
+   "id": "C071_VS_C051_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "Did you honestly think a human such as yourself could defeat me?",
+   "pt": "Você achou mesmo que uma humana como você poderia me derrotar?"
+  },
+  {
+   "id": "C071_VS_C051_DECISION0_P_LOWER_KEYWORD",
+   "en": "Know your place!",
+   "pt": "Ponha-se no seu lugar!"
+  },
+  {
+   "id": "C071_VS_C051_DECISION0_G_UPPER_KEYWORD",
+   "en": "I'll be happy to show you how clothing rules over this planet!",
+   "pt": "Ficarei feliz em lhe mostrar como as roupas governam este planeta!"
+  },
+  {
+   "id": "C071_VS_C051_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "Your actions are an act of rebellion against the Life Fibers' will.",
+   "pt": "Suas ações são um ato de rebelião contra a vontade das Fibras de Vida."
+  },
+  {
+   "id": "C071_VS_C051_DECISION0_G_LOWER_KEYWORD",
+   "en": "You'll pay for your transgressions with your flesh!",
+   "pt": "Você pagará por suas transgressões com a sua carne!"
+  },
+  {
+   "id": "C071_VS_C051_DECISION1_S_UPPER_KEYWORD",
+   "en": "Have you not realized the difference in our powers yet?!",
+   "pt": "Você ainda não percebeu a diferença em nossos poderes?!"
+  },
+  {
+   "id": "C071_VS_C051_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "You humans are inferior beings who will submit to the Life Fibers!",
+   "pt": "Vocês, humanos, são seres inferiores que se submeterão às Fibras de Vida!"
+  },
+  {
+   "id": "C071_VS_C051_DECISION1_S_LOWER_KEYWORD",
+   "en": "Surrender to our glory!",
+   "pt": "Rendam-se à nossa glória!"
+  },
+  {
+   "id": "C071_VS_C051_DECISION1_P_UPPER_KEYWORD",
+   "en": "It's about time you gave up.",
+   "pt": "Já passou da hora de você desistir."
+  },
+  {
+   "id": "C071_VS_C051_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "Your strategy was amusing... but this is getting old.",
+   "pt": "A sua estratégia foi divertida... mas já está ficando batida."
+  },
+  {
+   "id": "C071_VS_C051_DECISION1_P_LOWER_KEYWORD",
+   "en": "I'll have you exit the stage!",
+   "pt": "Vou fazer você sair do palco!"
+  },
+  {
+   "id": "C071_VS_C051_DECISION1_G_UPPER_KEYWORD",
+   "en": "I'll teach you that humans are nothing but pigs in clothing.",
+   "pt": "Vou te ensinar que humanos não passam de porcos usando roupas."
+  },
+  {
+   "id": "C071_VS_C051_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "You are nothing but livestock for the Life Fibers to consume!",
+   "pt": "Vocês não passam de gado para as Fibras de Vida consumirem!"
+  },
+  {
+   "id": "C071_VS_C051_DECISION1_G_LOWER_KEYWORD",
+   "en": "Get in your pen, like the livestock you are!",
+   "pt": "Volte para o chiqueiro, como o gado que você é!"
+  },
+  {
+   "id": "C071_VS_C051_DECISION2_S_UPPER_KEYWORD",
+   "en": "Useless resistance only makes you look pathetic!",
+   "pt": "Resistir sem esperança só faz você parecer patética!"
+  },
+  {
+   "id": "C071_VS_C051_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "Humanity will be enveloped by the Life Fibers, uniting under one cloth.\nThis is the truth of the universe!",
+   "pt": "A humanidade será envolvida pelas Fibras de Vida, unindo-se sob uma só roupa.\nEssa é a verdade do universo!"
+  },
+  {
+   "id": "C071_VS_C051_DECISION2_S_LOWER_KEYWORD",
+   "en": "There is no escape!",
+   "pt": "Não há escapatória!"
+  },
+  {
+   "id": "C071_VS_C051_DECISION2_P_UPPER_KEYWORD",
+   "en": "Your fate ends here.",
+   "pt": "O seu destino termina aqui."
+  },
+  {
+   "id": "C071_VS_C051_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "Protest all you want, you cannot stop my grand ambitions!",
+   "pt": "Proteste o quanto quiser, você não pode impedir minhas grandes ambições!"
+  },
+  {
+   "id": "C071_VS_C051_DECISION2_P_LOWER_KEYWORD",
+   "en": "It is too, too late!",
+   "pt": "É tarde, tarde demais!"
+  },
+  {
+   "id": "C071_VS_C051_DECISION2_G_UPPER_KEYWORD",
+   "en": "Even a fool like you should understand the difference between a human and clothing!",
+   "pt": "Até mesmo uma tola como você deveria entender a diferença entre um humano e uma roupa!"
+  },
+  {
+   "id": "C071_VS_C051_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "This is what you get for defying the COVERS... and our grand will!",
+   "pt": "É isso que você ganha por desafiar os Casulos... e nossa grandiosa vontade!"
+  },
+  {
+   "id": "C071_VS_C051_DECISION2_G_LOWER_KEYWORD",
+   "en": "Resist! It will do you no good.",
+   "pt": "Resista! Não fará bem algum a você."
+  },
+  {
+   "id": "C071_VS_C061_DECISION0_S_UPPER_KEYWORD",
+   "en": "Behold, you foolish humans!",
+   "pt": "Contemplem, seus humanos tolos!"
+  },
+  {
+   "id": "C071_VS_C061_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "The Life Fibers are the rulers of this world.\nAnd you weak creatures shall be sacrificed to them!",
+   "pt": "As Fibras de Vida são as governantes deste mundo.\nE vocês, criaturas fracas, serão sacrificadas a elas!"
+  },
+  {
+   "id": "C071_VS_C061_DECISION0_S_LOWER_KEYWORD",
+   "en": "You should feel honored.",
+   "pt": "Vocês deveriam se sentir honrados."
+  },
+  {
+   "id": "C071_VS_C061_DECISION0_P_UPPER_KEYWORD",
+   "en": "I'm sorry. Are you mocking me?",
+   "pt": "Perdão. Você está zombando de mim?"
+  },
+  {
+   "id": "C071_VS_C061_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "Did you honestly think a human such as yourself could defeat me?",
+   "pt": "Você achou mesmo que uma humana como você poderia me derrotar?"
+  },
+  {
+   "id": "C071_VS_C061_DECISION0_P_LOWER_KEYWORD",
+   "en": "Know your place!",
+   "pt": "Ponha-se no seu lugar!"
+  },
+  {
+   "id": "C071_VS_C061_DECISION0_G_UPPER_KEYWORD",
+   "en": "I'll be happy to show you how clothing rules over this planet!",
+   "pt": "Ficarei feliz em lhe mostrar como as roupas governam este planeta!"
+  },
+  {
+   "id": "C071_VS_C061_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "Your actions are an act of rebellion against the Life Fibers' will.",
+   "pt": "Suas ações são um ato de rebelião contra a vontade das Fibras de Vida."
+  },
+  {
+   "id": "C071_VS_C061_DECISION0_G_LOWER_KEYWORD",
+   "en": "You'll pay for your transgressions with your flesh!",
+   "pt": "Você pagará por suas transgressões com a sua carne!"
+  },
+  {
+   "id": "C071_VS_C061_DECISION1_S_UPPER_KEYWORD",
+   "en": "Have you not realized the difference in our powers yet?!",
+   "pt": "Você ainda não percebeu a diferença em nossos poderes?!"
+  },
+  {
+   "id": "C071_VS_C061_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "You humans are inferior beings who will submit to the Life Fibers!",
+   "pt": "Vocês, humanos, são seres inferiores que se submeterão às Fibras de Vida!"
+  },
+  {
+   "id": "C071_VS_C061_DECISION1_S_LOWER_KEYWORD",
+   "en": "Surrender to our glory!",
+   "pt": "Rendam-se à nossa glória!"
+  },
+  {
+   "id": "C071_VS_C061_DECISION1_P_UPPER_KEYWORD",
+   "en": "It's about time you gave up.",
+   "pt": "Já passou da hora de você desistir."
+  },
+  {
+   "id": "C071_VS_C061_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "Your strategy was amusing... but this is getting old.",
+   "pt": "A sua estratégia foi divertida... mas já está ficando batida."
+  },
+  {
+   "id": "C071_VS_C061_DECISION1_P_LOWER_KEYWORD",
+   "en": "I'll have you exit the stage!",
+   "pt": "Vou fazer você sair do palco!"
+  },
+  {
+   "id": "C071_VS_C061_DECISION1_G_UPPER_KEYWORD",
+   "en": "I'll teach you that humans are nothing but pigs in clothing.",
+   "pt": "Vou te ensinar que humanos não passam de porcos usando roupas."
+  },
+  {
+   "id": "C071_VS_C061_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "You are nothing but livestock for the Life Fibers to consume!",
+   "pt": "Vocês não passam de gado para as Fibras de Vida consumirem!"
+  },
+  {
+   "id": "C071_VS_C061_DECISION1_G_LOWER_KEYWORD",
+   "en": "Get in your pen, like the livestock you are!",
+   "pt": "Volte para o chiqueiro, como o gado que você é!"
+  },
+  {
+   "id": "C071_VS_C061_DECISION2_S_UPPER_KEYWORD",
+   "en": "Useless resistance only makes you look pathetic!",
+   "pt": "Resistir sem esperança só faz você parecer patética!"
+  },
+  {
+   "id": "C071_VS_C061_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "Humanity will be enveloped by the Life Fibers, uniting under one cloth.\nThis is the truth of the universe!",
+   "pt": "A humanidade será envolvida pelas Fibras de Vida, unindo-se sob uma só roupa.\nEssa é a verdade do universo!"
+  },
+  {
+   "id": "C071_VS_C061_DECISION2_S_LOWER_KEYWORD",
+   "en": "There is no escape!",
+   "pt": "Não há escapatória!"
+  },
+  {
+   "id": "C071_VS_C061_DECISION2_P_UPPER_KEYWORD",
+   "en": "Your fate ends here.",
+   "pt": "O seu destino termina aqui."
+  },
+  {
+   "id": "C071_VS_C061_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "Protest all you want, you cannot stop my grand ambitions!",
+   "pt": "Proteste o quanto quiser, você não pode impedir minhas grandes ambições!"
+  },
+  {
+   "id": "C071_VS_C061_DECISION2_P_LOWER_KEYWORD",
+   "en": "It is too, too late!",
+   "pt": "É tarde, tarde demais!"
+  },
+  {
+   "id": "C071_VS_C061_DECISION2_G_UPPER_KEYWORD",
+   "en": "Even a fool like you should understand the difference between a human and clothing!",
+   "pt": "Até mesmo uma tola como você deveria entender a diferença entre um humano e uma roupa!"
+  },
+  {
+   "id": "C071_VS_C061_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "This is what you get for defying the COVERS... and our grand will!",
+   "pt": "É isso que você ganha por desafiar os Casulos... e nossa grandiosa vontade!"
+  },
+  {
+   "id": "C071_VS_C061_DECISION2_G_LOWER_KEYWORD",
+   "en": "Resist! It will do you no good.",
+   "pt": "Resista! Não fará bem algum a você."
+  },
+  {
+   "id": "C071_VS_C071_DECISION0_S_UPPER_KEYWORD",
+   "en": "Behold, you foolish humans!",
+   "pt": "Contemplem, seus humanos tolos!"
+  },
+  {
+   "id": "C071_VS_C071_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "The Life Fibers are the rulers of this world.\nAnd you weak creatures shall be sacrificed to them!",
+   "pt": "As Fibras de Vida são as governantes deste mundo.\nE vocês, criaturas fracas, serão sacrificadas a elas!"
+  },
+  {
+   "id": "C071_VS_C071_DECISION0_S_LOWER_KEYWORD",
+   "en": "You should feel honored.",
+   "pt": "Vocês deveriam se sentir honrados."
+  },
+  {
+   "id": "C071_VS_C071_DECISION0_P_UPPER_KEYWORD",
+   "en": "I'm sorry. Are you mocking me?",
+   "pt": "Perdão. Você está zombando de mim?"
+  },
+  {
+   "id": "C071_VS_C071_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "Did you honestly think a human such as yourself could defeat me?",
+   "pt": "Você achou mesmo que uma humana como você poderia me derrotar?"
+  },
+  {
+   "id": "C071_VS_C071_DECISION0_P_LOWER_KEYWORD",
+   "en": "Know your place!",
+   "pt": "Ponha-se no seu lugar!"
+  },
+  {
+   "id": "C071_VS_C071_DECISION0_G_UPPER_KEYWORD",
+   "en": "I'll be happy to show you how clothing rules over this planet!",
+   "pt": "Ficarei feliz em lhe mostrar como as roupas governam este planeta!"
+  },
+  {
+   "id": "C071_VS_C071_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "Your actions are an act of rebellion against the Life Fibers' will.",
+   "pt": "Suas ações são um ato de rebelião contra a vontade das Fibras de Vida."
+  },
+  {
+   "id": "C071_VS_C071_DECISION0_G_LOWER_KEYWORD",
+   "en": "You'll pay for your transgressions with your flesh!",
+   "pt": "Você pagará por suas transgressões com a sua carne!"
+  },
+  {
+   "id": "C071_VS_C071_DECISION1_S_UPPER_KEYWORD",
+   "en": "Have you not realized the difference in our powers yet?!",
+   "pt": "Você ainda não percebeu a diferença em nossos poderes?!"
+  },
+  {
+   "id": "C071_VS_C071_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "You humans are inferior beings who will submit to the Life Fibers!",
+   "pt": "Vocês, humanos, são seres inferiores que se submeterão às Fibras de Vida!"
+  },
+  {
+   "id": "C071_VS_C071_DECISION1_S_LOWER_KEYWORD",
+   "en": "Surrender to our glory!",
+   "pt": "Rendam-se à nossa glória!"
+  },
+  {
+   "id": "C071_VS_C071_DECISION1_P_UPPER_KEYWORD",
+   "en": "It's about time you gave up.",
+   "pt": "Já passou da hora de você desistir."
+  },
+  {
+   "id": "C071_VS_C071_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "Your strategy was amusing... but this is getting old.",
+   "pt": "A sua estratégia foi divertida... mas já está ficando batida."
+  },
+  {
+   "id": "C071_VS_C071_DECISION1_P_LOWER_KEYWORD",
+   "en": "I'll have you exit the stage!",
+   "pt": "Vou fazer você sair do palco!"
+  },
+  {
+   "id": "C071_VS_C071_DECISION1_G_UPPER_KEYWORD",
+   "en": "I'll teach you that humans are nothing but pigs in clothing.",
+   "pt": "Vou te ensinar que humanos não passam de porcos usando roupas."
+  },
+  {
+   "id": "C071_VS_C071_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "You are nothing but livestock for the Life Fibers to consume!",
+   "pt": "Vocês não passam de gado para as Fibras de Vida consumirem!"
+  },
+  {
+   "id": "C071_VS_C071_DECISION1_G_LOWER_KEYWORD",
+   "en": "Get in your pen, like the livestock you are!",
+   "pt": "Volte para o chiqueiro, como o gado que você é!"
+  },
+  {
+   "id": "C071_VS_C071_DECISION2_S_UPPER_KEYWORD",
+   "en": "Useless resistance only makes you look pathetic!",
+   "pt": "Resistir sem esperança só faz você parecer patética!"
+  },
+  {
+   "id": "C071_VS_C071_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "Humanity will be enveloped by the Life Fibers, uniting under one cloth.\nThis is the truth of the universe!",
+   "pt": "A humanidade será envolvida pelas Fibras de Vida, unindo-se sob uma só roupa.\nEssa é a verdade do universo!"
+  },
+  {
+   "id": "C071_VS_C071_DECISION2_S_LOWER_KEYWORD",
+   "en": "There is no escape!",
+   "pt": "Não há escapatória!"
+  },
+  {
+   "id": "C071_VS_C071_DECISION2_P_UPPER_KEYWORD",
+   "en": "Your fate ends here.",
+   "pt": "O seu destino termina aqui."
+  },
+  {
+   "id": "C071_VS_C071_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "Protest all you want, you cannot stop my grand ambitions!",
+   "pt": "Proteste o quanto quiser, você não pode impedir minhas grandes ambições!"
+  },
+  {
+   "id": "C071_VS_C071_DECISION2_P_LOWER_KEYWORD",
+   "en": "It is too, too late!",
+   "pt": "É tarde, tarde demais!"
+  },
+  {
+   "id": "C071_VS_C071_DECISION2_G_UPPER_KEYWORD",
+   "en": "Even a fool like you should understand the difference between a human and clothing!",
+   "pt": "Até mesmo uma tola como você deveria entender a diferença entre um humano e uma roupa!"
+  },
+  {
+   "id": "C071_VS_C071_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "This is what you get for defying the COVERS... and our grand will!",
+   "pt": "É isso que você ganha por desafiar os Casulos... e nossa grandiosa vontade!"
+  },
+  {
+   "id": "C071_VS_C071_DECISION2_G_LOWER_KEYWORD",
+   "en": "Resist! It will do you no good.",
+   "pt": "Resista! Não fará bem algum a você."
+  },
+  {
+   "id": "C071_VS_C072_DECISION0_S_UPPER_KEYWORD",
+   "en": "Behold, you foolish humans!",
+   "pt": "Contemplem, seus humanos tolos!"
+  },
+  {
+   "id": "C071_VS_C072_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "The Life Fibers are the rulers of this world.\nAnd you weak creatures shall be sacrificed to them!",
+   "pt": "As Fibras de Vida são as governantes deste mundo.\nE vocês, criaturas fracas, serão sacrificadas a elas!"
+  },
+  {
+   "id": "C071_VS_C072_DECISION0_S_LOWER_KEYWORD",
+   "en": "You should feel honored.",
+   "pt": "Vocês deveriam se sentir honrados."
+  },
+  {
+   "id": "C071_VS_C072_DECISION0_P_UPPER_KEYWORD",
+   "en": "I'm sorry. Are you mocking me?",
+   "pt": "Perdão. Você está zombando de mim?"
+  },
+  {
+   "id": "C071_VS_C072_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "Did you honestly think a human such as yourself could defeat me?",
+   "pt": "Você achou mesmo que uma humana como você poderia me derrotar?"
+  },
+  {
+   "id": "C071_VS_C072_DECISION0_P_LOWER_KEYWORD",
+   "en": "Know your place!",
+   "pt": "Ponha-se no seu lugar!"
+  },
+  {
+   "id": "C071_VS_C072_DECISION0_G_UPPER_KEYWORD",
+   "en": "I'll be happy to show you how clothing rules over this planet!",
+   "pt": "Ficarei feliz em lhe mostrar como as roupas governam este planeta!"
+  },
+  {
+   "id": "C071_VS_C072_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "Your actions are an act of rebellion against the Life Fibers' will.",
+   "pt": "Suas ações são um ato de rebelião contra a vontade das Fibras de Vida."
+  },
+  {
+   "id": "C071_VS_C072_DECISION0_G_LOWER_KEYWORD",
+   "en": "You'll pay for your transgressions with your flesh!",
+   "pt": "Você pagará por suas transgressões com a sua carne!"
+  },
+  {
+   "id": "C071_VS_C072_DECISION1_S_UPPER_KEYWORD",
+   "en": "Have you not realized the difference in our powers yet?!",
+   "pt": "Você ainda não percebeu a diferença em nossos poderes?!"
+  },
+  {
+   "id": "C071_VS_C072_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "You humans are inferior beings who will submit to the Life Fibers!",
+   "pt": "Vocês, humanos, são seres inferiores que se submeterão às Fibras de Vida!"
+  },
+  {
+   "id": "C071_VS_C072_DECISION1_S_LOWER_KEYWORD",
+   "en": "Surrender to our glory!",
+   "pt": "Rendam-se à nossa glória!"
+  },
+  {
+   "id": "C071_VS_C072_DECISION1_P_UPPER_KEYWORD",
+   "en": "It's about time you gave up.",
+   "pt": "Já passou da hora de você desistir."
+  },
+  {
+   "id": "C071_VS_C072_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "Your strategy was amusing... but this is getting old.",
+   "pt": "A sua estratégia foi divertida... mas já está ficando batida."
+  },
+  {
+   "id": "C071_VS_C072_DECISION1_P_LOWER_KEYWORD",
+   "en": "I'll have you exit the stage!",
+   "pt": "Vou fazer você sair do palco!"
+  },
+  {
+   "id": "C071_VS_C072_DECISION1_G_UPPER_KEYWORD",
+   "en": "I'll teach you that humans are nothing but pigs in clothing.",
+   "pt": "Vou te ensinar que humanos não passam de porcos usando roupas."
+  },
+  {
+   "id": "C071_VS_C072_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "You are nothing but livestock for the Life Fibers to consume!",
+   "pt": "Vocês não passam de gado para as Fibras de Vida consumirem!"
+  },
+  {
+   "id": "C071_VS_C072_DECISION1_G_LOWER_KEYWORD",
+   "en": "Get in your pen, like the livestock you are!",
+   "pt": "Volte para o chiqueiro, como o gado que você é!"
+  },
+  {
+   "id": "C071_VS_C072_DECISION2_S_UPPER_KEYWORD",
+   "en": "Useless resistance only makes you look pathetic!",
+   "pt": "Resistir sem esperança só faz você parecer patética!"
+  },
+  {
+   "id": "C071_VS_C072_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "Humanity will be enveloped by the Life Fibers, uniting under one cloth.\nThis is the truth of the universe!",
+   "pt": "A humanidade será envolvida pelas Fibras de Vida, unindo-se sob uma só roupa.\nEssa é a verdade do universo!"
+  },
+  {
+   "id": "C071_VS_C072_DECISION2_S_LOWER_KEYWORD",
+   "en": "There is no escape!",
+   "pt": "Não há escapatória!"
+  },
+  {
+   "id": "C071_VS_C072_DECISION2_P_UPPER_KEYWORD",
+   "en": "Your fate ends here.",
+   "pt": "O seu destino termina aqui."
+  },
+  {
+   "id": "C071_VS_C072_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "Protest all you want, you cannot stop my grand ambitions!",
+   "pt": "Proteste o quanto quiser, você não pode impedir minhas grandes ambições!"
+  },
+  {
+   "id": "C071_VS_C072_DECISION2_P_LOWER_KEYWORD",
+   "en": "It is too, too late!",
+   "pt": "É tarde, tarde demais!"
+  },
+  {
+   "id": "C071_VS_C072_DECISION2_G_UPPER_KEYWORD",
+   "en": "Even a fool like you should understand the difference between a human and clothing!",
+   "pt": "Até mesmo uma tola como você deveria entender a diferença entre um humano e uma roupa!"
+  },
+  {
+   "id": "C071_VS_C072_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "This is what you get for defying the COVERS... and our grand will!",
+   "pt": "É isso que você ganha por desafiar os Casulos... e nossa grandiosa vontade!"
+  },
+  {
+   "id": "C071_VS_C072_DECISION2_G_LOWER_KEYWORD",
+   "en": "Resist! It will do you no good.",
+   "pt": "Resista! Não fará bem algum a você."
+  },
+  {
+   "id": "C071_VS_C081_DECISION0_S_UPPER_KEYWORD",
+   "en": "Behold, you foolish humans!",
+   "pt": "Contemplem, seus humanos tolos!"
+  },
+  {
+   "id": "C071_VS_C081_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "The Life Fibers are the rulers of this world.\nAnd you weak creatures shall be sacrificed to them!",
+   "pt": "As Fibras de Vida são as governantes deste mundo.\nE vocês, criaturas fracas, serão sacrificadas a elas!"
+  },
+  {
+   "id": "C071_VS_C081_DECISION0_S_LOWER_KEYWORD",
+   "en": "You should feel honored.",
+   "pt": "Vocês deveriam se sentir honrados."
+  },
+  {
+   "id": "C071_VS_C081_DECISION0_P_UPPER_KEYWORD",
+   "en": "I'm sorry. Are you mocking me?",
+   "pt": "Perdão. Você está zombando de mim?"
+  },
+  {
+   "id": "C071_VS_C081_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "Did you honestly think a human such as yourself could defeat me?",
+   "pt": "Você achou mesmo que uma humana como você poderia me derrotar?"
+  },
+  {
+   "id": "C071_VS_C081_DECISION0_P_LOWER_KEYWORD",
+   "en": "Know your place!",
+   "pt": "Ponha-se no seu lugar!"
+  },
+  {
+   "id": "C071_VS_C081_DECISION0_G_UPPER_KEYWORD",
+   "en": "The world is clothing, my dear.",
+   "pt": "O mundo é feito de roupa, minha querida."
+  },
+  {
+   "id": "C071_VS_C081_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "The actions of these apes is an act of rebellion against the Life Fibers' will.",
+   "pt": "As ações desses macacos são um ato de rebelião contra a vontade das Fibras de Vida."
+  },
+  {
+   "id": "C071_VS_C081_DECISION0_G_LOWER_KEYWORD",
+   "en": "Feel this wrath with your flesh!",
+   "pt": "Sinta essa ira com a sua carne!"
+  },
+  {
+   "id": "C071_VS_C081_DECISION1_S_UPPER_KEYWORD",
+   "en": "I know you understand my power very well.",
+   "pt": "Eu sei que você entende o meu poder muito bem."
+  },
+  {
+   "id": "C071_VS_C081_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "Humans will inevitably yield to the Life Fibers.",
+   "pt": "Os humanos inevitavelmente cederão às Fibras de Vida."
+  },
+  {
+   "id": "C071_VS_C081_DECISION1_S_LOWER_KEYWORD",
+   "en": "I will show you our glory!",
+   "pt": "Eu lhe mostrarei nossa glória!"
+  },
+  {
+   "id": "C071_VS_C081_DECISION1_P_UPPER_KEYWORD",
+   "en": "It's about time you gave up.",
+   "pt": "Já passou da hora de você desistir."
+  },
+  {
+   "id": "C071_VS_C081_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "Your strategy was amusing... but this is getting old.",
+   "pt": "A sua estratégia foi divertida... mas já está ficando batida."
+  },
+  {
+   "id": "C071_VS_C081_DECISION1_P_LOWER_KEYWORD",
+   "en": "I'll have you exit the stage!",
+   "pt": "Vou fazer você sair do palco!"
+  },
+  {
+   "id": "C071_VS_C081_DECISION1_G_UPPER_KEYWORD",
+   "en": "Humans are nothing but pigs in clothing.",
+   "pt": "Humanos não passam de porcos usando roupas."
+  },
+  {
+   "id": "C071_VS_C081_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "Humans are nothing but food for the Life Fibers to consume!",
+   "pt": "Humanos não passam de comida para as Fibras de Vida consumirem!"
+  },
+  {
+   "id": "C071_VS_C081_DECISION1_G_LOWER_KEYWORD",
+   "en": "Get in your pen, like the livestock you are!",
+   "pt": "Volte para o chiqueiro, como o gado que você é!"
+  },
+  {
+   "id": "C071_VS_C081_DECISION2_S_UPPER_KEYWORD",
+   "en": "Useless resistance only makes you look pathetic!",
+   "pt": "Resistir sem esperança só faz você parecer patética!"
+  },
+  {
+   "id": "C071_VS_C081_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "Humanity will be enveloped by the Life Fibers, uniting under one cloth.\nThis is the truth of the universe!",
+   "pt": "A humanidade será envolvida pelas Fibras de Vida, unindo-se sob uma só roupa.\nEssa é a verdade do universo!"
+  },
+  {
+   "id": "C071_VS_C081_DECISION2_S_LOWER_KEYWORD",
+   "en": "You will become part of it!",
+   "pt": "Você se tornará parte disso!"
+  },
+  {
+   "id": "C071_VS_C081_DECISION2_P_UPPER_KEYWORD",
+   "en": "Your fate ends here.",
+   "pt": "O seu destino termina aqui."
+  },
+  {
+   "id": "C071_VS_C081_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "Let us put an end to this farce, dear.",
+   "pt": "Vamos acabar com essa farsa, querida."
+  },
+  {
+   "id": "C071_VS_C081_DECISION2_P_LOWER_KEYWORD",
+   "en": "It is too, too late!",
+   "pt": "É tarde, tarde demais!"
+  },
+  {
+   "id": "C071_VS_C081_DECISION2_G_UPPER_KEYWORD",
+   "en": "You are aware of the difference between humans and clothing, are you not?",
+   "pt": "Você tem noção da diferença entre humanos e roupas, não tem?"
+  },
+  {
+   "id": "C071_VS_C081_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "This is the power of the COVERS. And of our great will!",
+   "pt": "Este é o poder dos Casulos. E da nossa grandiosa vontade!"
+  },
+  {
+   "id": "C071_VS_C081_DECISION2_G_LOWER_KEYWORD",
+   "en": "You will feel it to the bitter end!",
+   "pt": "Você vai sentir isso até o fim amargo!"
+  },
+  {
+   "id": "C071_VS_C082_DECISION0_S_UPPER_KEYWORD",
+   "en": "Behold, you foolish humans!",
+   "pt": "Contemplem, seus humanos tolos!"
+  },
+  {
+   "id": "C071_VS_C082_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "The Life Fibers are the rulers of this world.\nAnd you weak creatures shall be sacrificed to them!",
+   "pt": "As Fibras de Vida são as governantes deste mundo.\nE vocês, criaturas fracas, serão sacrificadas a elas!"
+  },
+  {
+   "id": "C071_VS_C082_DECISION0_S_LOWER_KEYWORD",
+   "en": "You should feel honored.",
+   "pt": "Vocês deveriam se sentir honrados."
+  },
+  {
+   "id": "C071_VS_C082_DECISION0_P_UPPER_KEYWORD",
+   "en": "I'm sorry. Are you mocking me?",
+   "pt": "Perdão. Você está zombando de mim?"
+  },
+  {
+   "id": "C071_VS_C082_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "Did you honestly think a human such as yourself could defeat me?",
+   "pt": "Você achou mesmo que uma humana como você poderia me derrotar?"
+  },
+  {
+   "id": "C071_VS_C082_DECISION0_P_LOWER_KEYWORD",
+   "en": "Know your place!",
+   "pt": "Ponha-se no seu lugar!"
+  },
+  {
+   "id": "C071_VS_C082_DECISION0_G_UPPER_KEYWORD",
+   "en": "The world is clothing, my dear.",
+   "pt": "O mundo é feito de roupa, minha querida."
+  },
+  {
+   "id": "C071_VS_C082_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "The actions of these apes is an act of rebellion against the Life Fibers' will.",
+   "pt": "As ações desses macacos são um ato de rebelião contra a vontade das Fibras de Vida."
+  },
+  {
+   "id": "C071_VS_C082_DECISION0_G_LOWER_KEYWORD",
+   "en": "Feel this wrath with your flesh!",
+   "pt": "Sinta essa ira com a sua carne!"
+  },
+  {
+   "id": "C071_VS_C082_DECISION1_S_UPPER_KEYWORD",
+   "en": "I know you understand my power very well.",
+   "pt": "Eu sei que você entende o meu poder muito bem."
+  },
+  {
+   "id": "C071_VS_C082_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "Humans will inevitably yield to the Life Fibers.",
+   "pt": "Os humanos inevitavelmente cederão às Fibras de Vida."
+  },
+  {
+   "id": "C071_VS_C082_DECISION1_S_LOWER_KEYWORD",
+   "en": "I will show you our glory!",
+   "pt": "Eu lhe mostrarei nossa glória!"
+  },
+  {
+   "id": "C071_VS_C082_DECISION1_P_UPPER_KEYWORD",
+   "en": "It's about time you gave up.",
+   "pt": "Já passou da hora de você desistir."
+  },
+  {
+   "id": "C071_VS_C082_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "Your strategy was amusing... but this is getting old.",
+   "pt": "A sua estratégia foi divertida... mas já está ficando batida."
+  },
+  {
+   "id": "C071_VS_C082_DECISION1_P_LOWER_KEYWORD",
+   "en": "I'll have you exit the stage!",
+   "pt": "Vou fazer você sair do palco!"
+  },
+  {
+   "id": "C071_VS_C082_DECISION1_G_UPPER_KEYWORD",
+   "en": "Humans are nothing but pigs in clothing.",
+   "pt": "Humanos não passam de porcos usando roupas."
+  },
+  {
+   "id": "C071_VS_C082_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "Humans are nothing but food for the Life Fibers to consume!",
+   "pt": "Humanos não passam de comida para as Fibras de Vida consumirem!"
+  },
+  {
+   "id": "C071_VS_C082_DECISION1_G_LOWER_KEYWORD",
+   "en": "Get in your pen, like the livestock you are!",
+   "pt": "Volte para o chiqueiro, como o gado que você é!"
+  },
+  {
+   "id": "C071_VS_C082_DECISION2_S_UPPER_KEYWORD",
+   "en": "Useless resistance only makes you look pathetic!",
+   "pt": "Resistir sem esperança só faz você parecer patética!"
+  },
+  {
+   "id": "C071_VS_C082_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "Humanity will be enveloped by the Life Fibers, uniting under one cloth.\nThis is the truth of the universe!",
+   "pt": "A humanidade será envolvida pelas Fibras de Vida, unindo-se sob uma só roupa.\nEssa é a verdade do universo!"
+  },
+  {
+   "id": "C071_VS_C082_DECISION2_S_LOWER_KEYWORD",
+   "en": "You will become part of it!",
+   "pt": "Você se tornará parte disso!"
+  },
+  {
+   "id": "C071_VS_C082_DECISION2_P_UPPER_KEYWORD",
+   "en": "Your fate ends here.",
+   "pt": "O seu destino termina aqui."
+  }
+ ]
+}

@@ -1,0 +1,1008 @@
+{
+ "origem": "KlkStory/STY_MS_0000/MES_ALL_0000",
+ "conteudo": "Modo Historia - dialogos",
+ "parte": "5/8",
+ "instrucoes": "Traduza o campo 'en' para portugues do Brasil e escreva o resultado em 'pt'. Nao altere 'id'. Mantenha intactos os codigos entre chaves ({CA}, {LA}, {BR}, {JU}, {SP}, {GD}, {LS}, {L1}, {R1}, setas), os marcadores de formato (%d, %l, %ls, %hs) e as quebras de linha \\n. Se uma linha nao precisar de traducao, deixe 'pt' vazio.",
+ "linhas": [
+  {
+   "id": "STS_S01A_58_D",
+   "en": "Not with Two-Star opponents and less...",
+   "pt": "Não com oponentes de Duas Estrelas ou menos..."
+  },
+  {
+   "id": "STS_S01A_59_A",
+   "en": "True. A fight between two Three-Stars, or a Kamui, would yield better combat data.",
+   "pt": "Verdade. Uma luta entre dois Três Estrelas, ou um Kamui, renderia dados de combate melhores."
+  },
+  {
+   "id": "STS_S01A_60_A",
+   "en": "We shall have it soon enough. ",
+   "pt": "Teremos isso em breve. "
+  },
+  {
+   "id": "STS_S01A_60_B",
+   "en": "Until then, look into retailoring the Three-Star Goku uniforms.",
+   "pt": "Até lá, investigue sobre a readequação dos Uniformes Goku de Três Estrelas."
+  },
+  {
+   "id": "STS_S01A_60_C",
+   "en": "Yes, m'Lady.",
+   "pt": "Sim, senhora."
+  },
+  {
+   "id": "STS_S01A_64_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S01A_65_A",
+   "en": "Well, well, well... The Elite Four live up to their name.",
+   "pt": "Ora, ora, ora... Os Quatro Elites fazem jus ao nome."
+  },
+  {
+   "id": "STS_S01A_66_A",
+   "en": "Did you expect any different?",
+   "pt": "Esperava algo diferente?"
+  },
+  {
+   "id": "STS_S01A_66_B",
+   "en": "Lady Satsuki! ",
+   "pt": "Senhorita Satsuki! "
+  },
+  {
+   "id": "STS_S01A_67_A",
+   "en": "We, the Elite Four,\nwould like to propose an additional rule for the Sudden Death Runoffs!",
+   "pt": "Nós, os Quatro Elites,\ngostaríamos de propor uma regra adicional para o Segundo Turno de Morte Súbita!"
+  },
+  {
+   "id": "STS_S01A_67_B",
+   "en": "We, the Elite Four,\nwould like to propose an additional rule for the Sudden Death Runoffs!",
+   "pt": "Nós, os Quatro Elites,\ngostaríamos de propor uma regra adicional para o Segundo Turno de Morte Súbita!"
+  },
+  {
+   "id": "STS_S01A_68_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S01A_69_A",
+   "en": "Each of us wants a shot at facin' Ryuko Matoi in a fight.",
+   "pt": "Cada um de nós quer uma chance de enfrentar a Ryuko Matoi numa luta."
+  },
+  {
+   "id": "STS_S01A_70_A",
+   "en": "We're gonna fight her anyway.\nMight as well do it here, on this grand stage!",
+   "pt": "Nós vamos lutar com ela de qualquer jeito.\nMelhor que seja aqui, neste grande palco!"
+  },
+  {
+   "id": "STS_S01A_71_A",
+   "en": "It would be an explosive finale to the Academy's first election. ",
+   "pt": "Seria um final explosivo para a primeira eleição da Academia. "
+  },
+  {
+   "id": "STS_S01A_71_B",
+   "en": "Don't you think, m'lady?",
+   "pt": "Não acha, senhora?"
+  },
+  {
+   "id": "STS_S01A_72_A",
+   "en": "It would at that...",
+   "pt": "Seria, de fato..."
+  },
+  {
+   "id": "STS_S01A_73_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S01A_77_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S01A_78_A",
+   "en": "This is a king of the hill final battle! ",
+   "pt": "Esta é a batalha final pelo topo! "
+  },
+  {
+   "id": "STS_S01A_79_A",
+   "en": "New rule, Matoi!\nYou must now fight each member of the Elite Four!",
+   "pt": "Nova regra, Matoi!\nAgora você deve lutar contra cada membro dos Quatro Elites!"
+  },
+  {
+   "id": "STS_S01A_79_B",
+   "en": "New rule, Matoi!\nYou must now fight each member of the Elite Four!",
+   "pt": "Nova regra, Matoi!\nAgora você deve lutar contra cada membro dos Quatro Elites!"
+  },
+  {
+   "id": "STS_S01A_80_A",
+   "en": "Say what?!",
+   "pt": "Como é que é?!"
+  },
+  {
+   "id": "STS_S01A_81_A",
+   "en": "If you can beat them, I will tell you the details of your father's death.",
+   "pt": "Se conseguir derrotá-los, vou lhe contar os detalhes da morte do seu pai."
+  },
+  {
+   "id": "STS_S01A_81_B",
+   "en": "If you can beat them, I will tell you the details of your father's death.",
+   "pt": "Se conseguir derrotá-los, vou lhe contar os detalhes da morte do seu pai."
+  },
+  {
+   "id": "STS_S01A_81_C",
+   "en": "Okay you're on! ",
+   "pt": "Beleza, tô dentro! "
+  },
+  {
+   "id": "STS_S01A_81_D",
+   "en": "I'll kick all their asses and when I'm done, I want answers!",
+   "pt": "Vou encher eles de porrada e, quando eu terminar, quero respostas!"
+  },
+  {
+   "id": "STS_S01A_81_E",
+   "en": "I'll kick all their asses and when I'm done, I want answers!",
+   "pt": "Vou encher eles de porrada e, quando eu terminar, quero respostas!"
+  },
+  {
+   "id": "STS_S01A_82_A",
+   "en": "Don't underestimate the Elite Four, Matoi!",
+   "pt": "Não subestime os Quatro Elites, Matoi!"
+  },
+  {
+   "id": "STS_S01A_83_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S01A_84_A",
+   "en": "I am Lady Satsuki's impenetrable shield!",
+   "pt": "Eu sou o escudo impenetrável da Senhorita Satsuki!"
+  },
+  {
+   "id": "STS_S01A_84_B",
+   "en": "And I will crush you!",
+   "pt": "E eu vou te esmagar!"
+  },
+  {
+   "id": "STS_S01A_85_A",
+   "en": "Not gonna happen, tough guy. ",
+   "pt": "Isso não vai acontecer, durão. "
+  },
+  {
+   "id": "STS_S01A_85_B",
+   "en": "If I lose to you, I won't get revenge for my dad!",
+   "pt": "Se eu perder pra você, não vou conseguir vingar o meu pai!"
+  },
+  {
+   "id": "STS_S01A_86_A",
+   "en": "So, bring it on!",
+   "pt": "Então, cai dentro!"
+  },
+  {
+   "id": "STS_S01A_87_A",
+   "en": "Finishing Move: SEN-I-SOSHITSU!",
+   "pt": "Golpe Final: SEN-I-SOSHITSU!"
+  },
+  {
+   "id": "STS_S01A_88_A",
+   "en": "Hahaha! Is that all?",
+   "pt": "Hahaha! É só isso?"
+  },
+  {
+   "id": "STS_S01A_89_A",
+   "en": "How disappointing.\nI was hoping to get more data out of you.",
+   "pt": "Que decepção.\nEu esperava conseguir mais dados de você."
+  },
+  {
+   "id": "STS_S01A_90_A",
+   "en": "We can't stop now, Senketsu. Let's go!",
+   "pt": "Não podemos parar agora, Senketsu. Vamos lá!"
+  },
+  {
+   "id": "STS_S01A_90_B",
+   "en": "We can't stop now, Senketsu. Let's go!",
+   "pt": "Não podemos parar agora, Senketsu. Vamos lá!"
+  },
+  {
+   "id": "STS_S01A_91_A",
+   "en": "SEN-I-SOSHITSU!",
+   "pt": "SEN-I-SOSHITSU!"
+  },
+  {
+   "id": "STS_S01A_92_A",
+   "en": "Symphony Regalia!",
+   "pt": "Symphony Regalia!"
+  },
+  {
+   "id": "STS_S01A_93_A",
+   "en": "You're a sour note, new girl!",
+   "pt": "Você é uma nota desafinada, novata!"
+  },
+  {
+   "id": "STS_S01A_94_A",
+   "en": "I'm gonna blow you away!",
+   "pt": "Eu vou te mandar pelos ares!"
+  },
+  {
+   "id": "STS_S01A_95_A",
+   "en": "Let's shut her ass up!",
+   "pt": "Vamos calar a boca dessa vadia!"
+  },
+  {
+   "id": "STS_S01A_96_A",
+   "en": "SEN-I-SOSHITSU!",
+   "pt": "SEN-I-SOSHITSU!"
+  },
+  {
+   "id": "STS_S01A_97_A",
+   "en": "Here I come!",
+   "pt": "Aí vou eu!"
+  },
+  {
+   "id": "STS_S01A_97_B",
+   "en": "Three-Star Goku Uniform: Blade Regalia! ",
+   "pt": "Uniforme Goku de Três Estrelas: Blade Regalia! "
+  },
+  {
+   "id": "STS_S01A_98_A",
+   "en": "SEN-I-SOSHITSU!",
+   "pt": "SEN-I-SOSHITSU!"
+  },
+  {
+   "id": "STS_S01A_99_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S01A_100_A",
+   "en": "You survived the Elite Four...",
+   "pt": "Você sobreviveu aos Quatro Elites..."
+  },
+  {
+   "id": "STS_S01A_101_A",
+   "en": "...Ryuko Matoi.",
+   "pt": "...Ryuko Matoi."
+  },
+  {
+   "id": "STS_S01A_102_A",
+   "en": "Ha! Damn straight. Now it's your turn!",
+   "pt": "Ha! Pode apostar que sim. Agora é a sua vez!"
+  },
+  {
+   "id": "STS_S01A_103_A",
+   "en": "I'm sorry, Lady Satsuki.",
+   "pt": "Me desculpe, Senhorita Satsuki."
+  },
+  {
+   "id": "STS_S01A_103_B",
+   "en": "No way! Where'd the new girl get all that power from?!",
+   "pt": "De jeito nenhum! De onde a novata tirou todo esse poder?!"
+  },
+  {
+   "id": "STS_S01A_103_C",
+   "en": "Who knows.\nBut compared to my earlier data, she's gotten even stronger.",
+   "pt": "Quem sabe.\nMas comparado aos meus dados anteriores, ela ficou ainda mais forte."
+  },
+  {
+   "id": "STS_S01A_103_D",
+   "en": "Goddammit... Matoi beat me again!",
+   "pt": "Porra... A Matoi me derrotou de novo!"
+  },
+  {
+   "id": "STS_S01A_103_E",
+   "en": "What am I doing wrong?!",
+   "pt": "O que eu tô fazendo de errado?!"
+  },
+  {
+   "id": "STS_S01A_104_A",
+   "en": "Well?!\nYou gonna tell me who killed my dad, or do I hafta beat it outta you!",
+   "pt": "E aí?!\nVai me dizer quem matou meu pai, ou eu vou ter que arrancar isso de você na porrada!"
+  },
+  {
+   "id": "STS_S01A_104_B",
+   "en": "Well?!\nYou gonna tell me who killed my dad, or do I hafta beat it outta you!",
+   "pt": "E aí?!\nVai me dizer quem matou meu pai, ou eu vou ter que arrancar isso de você na porrada!"
+  },
+  {
+   "id": "STS_S01A_105_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S01A_111_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S01A_112_A",
+   "en": "What an interesting gathering you have here.",
+   "pt": "Que reunião interessante vocês têm aqui."
+  },
+  {
+   "id": "STS_S01A_113_A",
+   "en": "Mother! Why are you here?",
+   "pt": "Mãe! Por que está aqui?"
+  },
+  {
+   "id": "STS_S01A_114_A",
+   "en": "I'm here, toooo!",
+   "pt": "Eu também tô aquiiii!"
+  },
+  {
+   "id": "STS_S01A_114_B",
+   "en": "It's been awhile, Lady Satsuki!",
+   "pt": "Quanto tempo, Senhorita Satsuki!"
+  },
+  {
+   "id": "STS_S01A_115_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S01A_116_A",
+   "en": "The Grand Couturier...!",
+   "pt": "A Grande Costureira...!"
+  },
+  {
+   "id": "STS_S01A_117_A",
+   "en": "Why, what's wrong Satsuki?",
+   "pt": "Ora, o que foi, Satsuki?"
+  },
+  {
+   "id": "STS_S01A_117_B",
+   "en": "You look so... troubled.",
+   "pt": "Você parece tão... perturbada."
+  },
+  {
+   "id": "STS_S01A_118_A",
+   "en": "I am sorry, mother. Had I known you would be coming,\nI would have arranged a proper welcome for you.",
+   "pt": "Perdão, mãe. Se eu soubesse que viria,\nteria preparado uma recepção adequada."
+  },
+  {
+   "id": "STS_S01A_118_B",
+   "en": "I am sorry, mother. Had I known you would be coming,\nI would have arranged a proper welcome for you.",
+   "pt": "Perdão, mãe. Se eu soubesse que viria,\nteria preparado uma recepção adequada."
+  },
+  {
+   "id": "STS_S01A_118_C",
+   "en": "That isn't necessary my dear.\nI just came to see your precious face.",
+   "pt": "Isso não é necessário, minha querida.\nEu só vim ver esse seu rostinho lindo."
+  },
+  {
+   "id": "STS_S01A_119_A",
+   "en": "Awww, Lady Satsuki...! ",
+   "pt": "Awww, Senhorita Satsuki...! "
+  },
+  {
+   "id": "STS_S01A_119_B",
+   "en": "You never told me you knew such an interesting girl!",
+   "pt": "Você nunca me disse que conhecia uma garota tão interessante!"
+  },
+  {
+   "id": "STS_S01A_120_A",
+   "en": "Jeez, what the hell are you people yappin' about?!",
+   "pt": "Caralho, do que porra vocês tão falando?!"
+  },
+  {
+   "id": "STS_S01A_121_A",
+   "en": "C'mon, already!\nYou gonna fight me, or not! I ain't got all day!",
+   "pt": "Vamos logo!\nVocê vai lutar comigo ou não?! Eu não tenho o dia todo!"
+  },
+  {
+   "id": "STS_S01A_122_A",
+   "en": "Don't mind us, Satsuki. Please. Continue.",
+   "pt": "Não se importe conosco, Satsuki. Por favor. Continue."
+  },
+  {
+   "id": "STS_S01A_123_A",
+   "en": "As you wish, Ryuko Matoi. ",
+   "pt": "Como quiser, Ryuko Matoi. "
+  },
+  {
+   "id": "STS_S01A_123_B",
+   "en": "Let us fight.",
+   "pt": "Vamos lutar."
+  },
+  {
+   "id": "STS_S01A_124_A",
+   "en": "Life Fiber Override, Kamui Junketsu!",
+   "pt": "Sobreposição de Fibras de Vida, Kamui Junketsu!"
+  },
+  {
+   "id": "STS_S01A_125_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S01A_3_A",
+   "en": "Honnouji Academy",
+   "pt": "Academia Honnouji"
+  },
+  {
+   "id": "STS_S01A_4_A",
+   "en": "Houka Inumuta",
+   "pt": "Houka Inumuta"
+  },
+  {
+   "id": "STS_S01A_5_A",
+   "en": "Ira Gamagoori",
+   "pt": "Ira Gamagoori"
+  },
+  {
+   "id": "STS_S01A_6_A",
+   "en": "Uzu Sanageyama",
+   "pt": "Uzu Sanageyama"
+  },
+  {
+   "id": "STS_S01A_7_A",
+   "en": "Nonon Jakuzure",
+   "pt": "Nonon Jakuzure"
+  },
+  {
+   "id": "STS_S01A_8_A",
+   "en": "Satsuki Kiryuin",
+   "pt": "Satsuki Kiryuin"
+  },
+  {
+   "id": "STS_S01A_9_A",
+   "en": "Ryuko Matoi",
+   "pt": "Ryuko Matoi"
+  },
+  {
+   "id": "STS_S01A_10_A",
+   "en": "Mako Mankanshoku",
+   "pt": "Mako Mankanshoku"
+  },
+  {
+   "id": "STS_S01A_S29A",
+   "en": "Seven days later",
+   "pt": "Sete dias depois"
+  },
+  {
+   "id": "STS_S01A_S30A",
+   "en": "8:30:00",
+   "pt": "8:30:00"
+  },
+  {
+   "id": "STS_S01A_S59A",
+   "en": "Shiro Iori",
+   "pt": "Shiro Iori"
+  },
+  {
+   "id": "STS_S01A_S64A",
+   "en": "Student Council Elite Four",
+   "pt": "Quatro Elites do Conselho Estudantil"
+  },
+  {
+   "id": "STS_S01A_S77A",
+   "en": "Naturals Election Stadium",
+   "pt": "Estádio da Eleição Natural"
+  },
+  {
+   "id": "STS_S01A_S110B",
+   "en": "Ragyo Kiryuin",
+   "pt": "Ragyo Kiryuin"
+  },
+  {
+   "id": "STS_S01A_S111A",
+   "en": "Rei Hououmaru",
+   "pt": "Rei Hououmaru"
+  },
+  {
+   "id": "STS_S01A_S115A",
+   "en": "Nui Harime",
+   "pt": "Nui Harime"
+  },
+  {
+   "id": "STS_S02A_129_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S02A_133_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S02A_134_A",
+   "en": "Huh! Is that all you have?",
+   "pt": "Hã! Isso é tudo que você tem?"
+  },
+  {
+   "id": "STS_S02A_135_A",
+   "en": "Crap. She's even stronger than before!",
+   "pt": "Merda. Ela tá ainda mais forte do que antes!"
+  },
+  {
+   "id": "STS_S02A_135_B",
+   "en": "I won't lose to her again. No way!",
+   "pt": "Eu não vou perder pra ela de novo. Nem fodendo!"
+  },
+  {
+   "id": "STS_S02A_136_A",
+   "en": "Let's go, Senketsu!",
+   "pt": "Vamos nessa, Senketsu!"
+  },
+  {
+   "id": "STS_S02A_137_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S02A_138_A",
+   "en": "That was quite an interesting performance.",
+   "pt": "Essa foi uma performance bem interessante."
+  },
+  {
+   "id": "STS_S02A_139_A",
+   "en": "No. I apologize for wasting your time.",
+   "pt": "Não. Peço perdão por desperdiçar o seu tempo."
+  },
+  {
+   "id": "STS_S02A_140_A",
+   "en": "After that, I'm suuuper-interested in that cute Ryuko girl.",
+   "pt": "Depois disso, eu fiquei suuuper interessada naquela gracinha da Ryuko."
+  },
+  {
+   "id": "STS_S02A_140_B",
+   "en": "Oh, and her darling Kamui, too!",
+   "pt": "Ah, e no queridinho do Kamui dela também!"
+  },
+  {
+   "id": "STS_S02A_140_C",
+   "en": "I shall deal with Ryuko Matoi and her Kamui. ",
+   "pt": "Eu mesma lidarei com a Ryuko Matoi e seu Kamui. "
+  },
+  {
+   "id": "STS_S02A_140_D",
+   "en": "Meddle in my affairs again and,Grand Couturier or not,\nI'll show you no mercy.",
+   "pt": "Meta-se nos meus assuntos de novo e, Grande Costureira ou não,\nnão terei misericórdia de você."
+  },
+  {
+   "id": "STS_S02A_140_E",
+   "en": "Meddle in my affairs again and,Grand Couturier or not,\nI'll show you no mercy.",
+   "pt": "Meta-se nos meus assuntos de novo e, Grande Costureira ou não,\nnão terei misericórdia de você."
+  },
+  {
+   "id": "STS_S02A_140_F",
+   "en": "Awww! You're so mean!",
+   "pt": "Awww! Que malvada!"
+  },
+  {
+   "id": "STS_S02A_141_A",
+   "en": "Thanks to the Naturals Election, preparations are complete.",
+   "pt": "Graças à Eleição Natural, os preparativos estão completos."
+  },
+  {
+   "id": "STS_S02A_141_B",
+   "en": "Soon, we shall embark on the Tri-city Schools Raid Trip.",
+   "pt": "Em breve, embarcaremos na Excursão de Invasão às Escolas das Três Cidades."
+  },
+  {
+   "id": "STS_S02A_142_A",
+   "en": "I hope to hear good news upon your return.",
+   "pt": "Espero ouvir boas notícias no seu retorno."
+  },
+  {
+   "id": "STS_S02A_143_A",
+   "en": "Au revoir, Lady Satsuki!",
+   "pt": "Au revoir, Senhorita Satsuki!"
+  },
+  {
+   "id": "STS_S02A_144_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S03A_145_A",
+   "en": "Satsuki divided the student body into three School Raid Brigades.",
+   "pt": "Satsuki dividiu o corpo estudantil em três Brigadas de Invasão Escolar."
+  },
+  {
+   "id": "STS_S03A_145_B",
+   "en": "Gamagoori, Jakuzure and Sanageyama were each given one to command.",
+   "pt": "Gamagoori, Jakuzure e Sanageyama receberam uma cada para comandar."
+  },
+  {
+   "id": "STS_S03A_145_C",
+   "en": "Based on the data from the Naturals Election and King of the Hill battles,\nthe students' new Goku uniforms were more powerful than ever. ",
+   "pt": "Com base nos dados da Eleição Natural e das batalhas pelo topo,\nos novos Uniformes Goku dos estudantes estavam mais poderosos do que nunca. "
+  },
+  {
+   "id": "STS_S03A_145_D",
+   "en": "Based on the data from the Naturals Election and King of the Hill battles,\nthe students' new Goku uniforms were more powerful than ever. ",
+   "pt": "Com base nos dados da Eleição Natural e das batalhas pelo topo,\nos novos Uniformes Goku dos estudantes estavam mais poderosos do que nunca. "
+  },
+  {
+   "id": "STS_S03A_145_E",
+   "en": "They provided the edge Satsuki needed,\nto ensure her Tri-City Schools Raid Trip was a resounding success.",
+   "pt": "Eles forneceram a vantagem que a Satsuki precisava,\npara garantir que sua Excursão de Invasão às Escolas das Três Cidades fosse um sucesso retumbante."
+  },
+  {
+   "id": "STS_S03A_146_A",
+   "en": "The naked fools never showed up. Pity.",
+   "pt": "Os idiotas nus nunca apareceram. Que pena."
+  },
+  {
+   "id": "STS_S03A_146_B",
+   "en": "We raided the areas we believed to be their bases, but they had already fled.",
+   "pt": "Nós invadimos as áreas que acreditávamos ser suas bases, mas eles já tinham fugido."
+  },
+  {
+   "id": "STS_S03A_147_A",
+   "en": "You did, however, succeed in taking control of all the schools in the country. ",
+   "pt": "Você conseguiu, contudo, tomar o controle de todas as escolas do país. "
+  },
+  {
+   "id": "STS_S03A_147_B",
+   "en": "Satsuki... as a member of the Kiryuin clan and my successor,\nit is time for you to learn the source of our power.",
+   "pt": "Satsuki... como um membro do clã Kiryuin e minha sucessora,\né hora de você aprender a fonte do nosso poder."
+  },
+  {
+   "id": "STS_S03A_147_C",
+   "en": "Satsuki... as a member of the Kiryuin clan and my successor,\nit is time for you to learn the source of our power.",
+   "pt": "Satsuki... como um membro do clã Kiryuin e minha sucessora,\né hora de você aprender a fonte do nosso poder."
+  },
+  {
+   "id": "STS_S03A_148_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S03A_151_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S03A_152_A",
+   "en": "And what might that be... mother.",
+   "pt": "E o que seria isso... mãe."
+  },
+  {
+   "id": "STS_S03A_152_B",
+   "en": "The Primordial Life Fiber.",
+   "pt": "A Fibra de Vida Primordial."
+  },
+  {
+   "id": "STS_S03A_153_A",
+   "en": "This glowing ball of thread drifted through space and arrived on Earth.",
+   "pt": "Essa bola de linha brilhante flutuou pelo espaço e chegou à Terra."
+  },
+  {
+   "id": "STS_S03A_153_B",
+   "en": "It chose humans to become its host and doomed them to serve clothing.",
+   "pt": "Ela escolheu os humanos para se tornarem seus hospedeiros e os condenou a servir às roupas."
+  },
+  {
+   "id": "STS_S03A_154_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S03A_155_A",
+   "en": "Soon, the Life Fibers will be in every piece of clothing, ",
+   "pt": "Em breve, as Fibras de Vida estarão em cada peça de roupa, "
+  },
+  {
+   "id": "STS_S03A_155_B",
+   "en": "wrapping the planet. And then, the COVERS will awaken... ",
+   "pt": "envolvendo o planeta. E então, os Casulos vão despertar... "
+  },
+  {
+   "id": "STS_S03A_155_C",
+   "en": "sealing humanity's fate, once and for all.",
+   "pt": "selando o destino da humanidade, de uma vez por todas."
+  },
+  {
+   "id": "STS_S03A_156_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S03A_158_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S03A_159_A",
+   "en": "That is where the Kiryuins come in.\nWe are the spokespersons for the COVERS' will.",
+   "pt": "É aí que os Kiryuins entram.\nNós somos os porta-vozes da vontade dos Casulos."
+  },
+  {
+   "id": "STS_S03A_159_B",
+   "en": "Do you understand?",
+   "pt": "Você entende?"
+  },
+  {
+   "id": "STS_S03A_160_A",
+   "en": "Yes. Mother.",
+   "pt": "Sim. Mãe."
+  },
+  {
+   "id": "STS_S03A_161_A",
+   "en": "At last, our Honnouji Academy experiment can move to the next phase.",
+   "pt": "Finalmente, nosso experimento na Academia Honnouji pode avançar para a próxima fase."
+  },
+  {
+   "id": "STS_S03A_161_B",
+   "en": "We've completed construction of Ragyo Stadium.",
+   "pt": "Concluímos a construção do Estádio Ragyo."
+  },
+  {
+   "id": "STS_S03A_161_C",
+   "en": "The preparations for the festival are also ready.",
+   "pt": "Os preparativos para o festival também estão prontos."
+  },
+  {
+   "id": "STS_S03A_162_A",
+   "en": "Magnificent. The plan is at its final stage.",
+   "pt": "Magnífico. O plano está em seu estágio final."
+  },
+  {
+   "id": "STS_S03A_162_B",
+   "en": "Announce the Cultural and Sports Grand Festival.",
+   "pt": "Anuncie o Grande Festival Cultural e Esportivo."
+  },
+  {
+   "id": "STS_S03A_163_A",
+   "en": "Yes.",
+   "pt": "Sim."
+  },
+  {
+   "id": "STS_S03A_146A",
+   "en": "Kiryuin's Manor - Underground",
+   "pt": "Mansão dos Kiryuin - Subterrâneo"
+  },
+  {
+   "id": "STS_S03A_149A",
+   "en": "Thread Palace - Kiryuin's Manor - Forbidden Quarters",
+   "pt": "Palácio de Fios - Mansão dos Kiryuin - Aposentos Proibidos"
+  },
+  {
+   "id": "STS_S04A_164_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S04A_165_A",
+   "en": "Attention, students and families of Honnouji Academy!",
+   "pt": "Atenção, alunos e famílias da Academia Honnouji!"
+  },
+  {
+   "id": "STS_S04A_165_B",
+   "en": "We have conquered every school in the country!",
+   "pt": "Nós conquistamos todas as escolas do país!"
+  },
+  {
+   "id": "STS_S04A_166_A",
+   "en": "All who opposed our Goku Uniforms have been eliminated!",
+   "pt": "Todos que se opuseram aos nossos Uniformes Goku foram eliminados!"
+  },
+  {
+   "id": "STS_S04A_166_B",
+   "en": "So today, we celebrate!",
+   "pt": "Então hoje, nós celebramos!"
+  },
+  {
+   "id": "STS_S04A_167_A",
+   "en": "Eat and drink your fill! Praise the Kiryuin name!",
+   "pt": "Comam e bebam à vontade! Louvem o nome dos Kiryuin!"
+  },
+  {
+   "id": "STS_S04A_168_A",
+   "en": "Let Honnouji Academy's Cultural and Sports Grand Festival begin!",
+   "pt": "Que comece o Grande Festival Cultural e Esportivo da Academia Honnouji!"
+  },
+  {
+   "id": "STS_S04A_169_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S04A_172_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S04A_173_A",
+   "en": "Now for the moment you've been waiting for! ",
+   "pt": "Agora o momento que vocês estavam esperando! "
+  },
+  {
+   "id": "STS_S04A_174_A",
+   "en": "Join me in welcoming our guest of honor!",
+   "pt": "Juntem-se a mim para dar as boas-vindas à nossa convidada de honra!"
+  },
+  {
+   "id": "STS_S04A_175_A",
+   "en": "I present to you, the Founder of this academy…",
+   "pt": "Apresento a vocês, a Fundadora desta academia…"
+  },
+  {
+   "id": "STS_S04A_175_B",
+   "en": "Ragyo Kiryuin!",
+   "pt": "Ragyo Kiryuin!"
+  },
+  {
+   "id": "STS_S04A_176_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S04A_180_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S04A_181_A",
+   "en": "Ladies and gentlemen, I ask you: What is the world. ",
+   "pt": "Senhoras e senhores, eu lhes pergunto: O que é o mundo. "
+  },
+  {
+   "id": "STS_S04A_181_B",
+   "en": "Ladies and gentlemen, I ask you: What is the world. ",
+   "pt": "Senhoras e senhores, eu lhes pergunto: O que é o mundo. "
+  },
+  {
+   "id": "STS_S04A_182_A",
+   "en": "Why... the world is clothing.",
+   "pt": "Ora... o mundo são as roupas."
+  },
+  {
+   "id": "STS_S04A_182_B",
+   "en": "And its fate is ruled by beings known as the Life Fibers.",
+   "pt": "E o seu destino é governado por seres conhecidos como Fibras de Vida."
+  },
+  {
+   "id": "STS_S04A_183_A",
+   "en": "I have been entrusted to take their rule to the next stage of completion.\n I am their emissary and their voice!",
+   "pt": "Fui incumbida de levar o seu domínio para o próximo estágio de conclusão.\nEu sou a emissária e a voz deles!"
+  },
+  {
+   "id": "STS_S04A_183_B",
+   "en": "I have been entrusted to take their rule to the next stage of completion.\n I am their emissary and their voice!",
+   "pt": "Fui incumbida de levar o seu domínio para o próximo estágio de conclusão.\nEu sou a emissária e a voz deles!"
+  },
+  {
+   "id": "STS_S04A_183_C",
+   "en": "Honnouji Academy was created as a vessel for their will. ",
+   "pt": "A Academia Honnouji foi criada como um receptáculo para a sua vontade. "
+  },
+  {
+   "id": "STS_S04A_183_D",
+   "en": "Where the weak will serve as the foundation for what is to come.\nSo consider yourselves honored!",
+   "pt": "Onde os fracos servirão de base para o que está por vir.\nEntão considerem-se honrados!"
+  },
+  {
+   "id": "STS_S04A_183_E",
+   "en": "Where the weak will serve as the foundation for what is to come.\nSo consider yourselves honored!",
+   "pt": "Onde os fracos servirão de base para o que está por vir.\nEntão considerem-se honrados!"
+  },
+  {
+   "id": "STS_S04A_184_A",
+   "en": "She's talking about all of you pigs.\nToday, you'll be eaten by your clothing!",
+   "pt": "Ela tá falando de todos vocês, seus porcos.\nHoje, vocês vão ser devorados pelas suas roupas!"
+  },
+  {
+   "id": "STS_S04A_185_A",
+   "en": "Now...! Let the celebration begin!",
+   "pt": "Agora...! Que comece a celebração!"
+  },
+  {
+   "id": "STS_S04A_186_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S04A_189_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S04A_190_A",
+   "en": "What is the meaning of this, Satsuki.",
+   "pt": "Qual o significado disso, Satsuki."
+  },
+  {
+   "id": "STS_S04A_190_B",
+   "en": "The time for speeches is over.",
+   "pt": "O tempo dos discursos acabou."
+  },
+  {
+   "id": "STS_S04A_191_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S04A_192_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S04A_193_A",
+   "en": "Ooohhhhh, so that's her game...",
+   "pt": "Ooohhhhh, então esse é o jogo dela..."
+  },
+  {
+   "id": "STS_S04A_193_B",
+   "en": "Ooohhhhh, so that's her game...",
+   "pt": "Ooohhhhh, então esse é o jogo dela..."
+  },
+  {
+   "id": "STS_S04A_194_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S04A_195_A",
+   "en": "Hear me, Director!\nAs of this moment, Honnouji Academy and I are putting an end to your reign!",
+   "pt": "Ouça-me, Diretora!\nA partir deste momento, a Academia Honnouji e eu estamos pondo um fim no seu reinado!"
+  },
+  {
+   "id": "STS_S04A_195_B",
+   "en": "Hear me, Director!\nAs of this moment, Honnouji Academy and I are putting an end to your reign!",
+   "pt": "Ouça-me, Diretora!\nA partir deste momento, a Academia Honnouji e eu estamos pondo um fim no seu reinado!"
+  },
+  {
+   "id": "STS_S04A_196_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S04A_197_A",
+   "en": "Are you trying to take the throne from me?!",
+   "pt": "Você está tentando roubar o trono de mim?!"
+  },
+  {
+   "id": "STS_S04A_198_A",
+   "en": "No, I'm not!",
+   "pt": "Não, eu não estou!"
+  },
+  {
+   "id": "STS_S04A_199_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S04A_200_A",
+   "en": "People do not live for the sake of clothing!",
+   "pt": "As pessoas não vivem em prol das roupas!"
+  },
+  {
+   "id": "STS_S04A_200_B",
+   "en": "I, Satsuki Kiryuin, am rising up to overthrow the Life Fibers!",
+   "pt": "Eu, Satsuki Kiryuin, estou me rebelando para derrubar as Fibras de Vida!"
+  },
+  {
+   "id": "STS_S04A_201_A",
+   "en": "You see...",
+   "pt": "Veja bem..."
+  },
+  {
+   "id": "STS_S04A_201_B",
+   "en": "...I made Honnouji Academy to destroy you!",
+   "pt": "...eu criei a Academia Honnouji para destruir você!"
+  },
+  {
+   "id": "STS_S04A_202_A",
+   "en": "Remember that, Ragyo Kiryuin.",
+   "pt": "Lembre-se disso, Ragyo Kiryuin."
+  },
+  {
+   "id": "STS_S04A_203_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S04A_204_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S05A_204_A",
+   "en": "",
+   "pt": ""
+  }
+ ]
+}

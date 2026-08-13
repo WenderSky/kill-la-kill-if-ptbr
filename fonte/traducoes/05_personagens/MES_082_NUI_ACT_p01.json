@@ -1,0 +1,233 @@
+{
+ "origem": "KlkResources/S701_MES/MES_082_NUI_ACT",
+ "conteudo": "Falas em batalha - Nui",
+ "parte": "1/1",
+ "instrucoes": "Traduza o campo 'en' para portugues do Brasil e escreva o resultado em 'pt'. Nao altere 'id'. Mantenha intactos os codigos entre chaves ({CA}, {LA}, {BR}, {JU}, {SP}, {GD}, {LS}, {L1}, {R1}, setas), os marcadores de formato (%d, %l, %ls, %hs) e as quebras de linha \\n. Se uma linha nao precisar de traducao, deixe 'pt' vazio.",
+ "linhas": [
+  {
+   "id": "C082_VS_C011_ARREST_S_KEYWORD",
+   "en": "I can totally tell you're holding back.\nC'mon, get serious!",
+   "pt": "Dá pra ver que você tá se segurando.\nQual é, lute a sério!"
+  },
+  {
+   "id": "C082_VS_C011_ARREST_P_KEYWORD",
+   "en": "No way!\nYou're slower than a turtle!",
+   "pt": "De jeito nenhum!\nVocê é mais lenta que uma tartaruga!"
+  },
+  {
+   "id": "C082_VS_C011_ARREST_G_KEYWORD",
+   "en": "Nope, nope, nope!\nYou'll never beat me like that!",
+   "pt": "Não, não, não!\nVocê nunca vai me vencer assim!"
+  },
+  {
+   "id": "C082_VS_C012_ARREST_S_KEYWORD",
+   "en": "I can totally tell you're holding back.\nC'mon, get serious!",
+   "pt": "Dá pra ver que você tá se segurando.\nQual é, lute a sério!"
+  },
+  {
+   "id": "C082_VS_C012_ARREST_P_KEYWORD",
+   "en": "No way!\nYou're slower than a turtle!",
+   "pt": "De jeito nenhum!\nVocê é mais lenta que uma tartaruga!"
+  },
+  {
+   "id": "C082_VS_C012_ARREST_G_KEYWORD",
+   "en": "Nope, nope, nope!\nYou'll never beat me like that!",
+   "pt": "Não, não, não!\nVocê nunca vai me vencer assim!"
+  },
+  {
+   "id": "C082_VS_C021_ARREST_S_KEYWORD",
+   "en": "I can totally tell you're holding back.\nC'mon, get serious!",
+   "pt": "Dá pra ver que você tá se segurando.\nQual é, lute a sério!"
+  },
+  {
+   "id": "C082_VS_C021_ARREST_P_KEYWORD",
+   "en": "No way!\nYou're slower than a turtle!",
+   "pt": "De jeito nenhum!\nVocê é mais lenta que uma tartaruga!"
+  },
+  {
+   "id": "C082_VS_C021_ARREST_G_KEYWORD",
+   "en": "Nope, nope, nope!\nYou'll never beat me like that!",
+   "pt": "Não, não, não!\nVocê nunca vai me vencer assim!"
+  },
+  {
+   "id": "C082_VS_C022_ARREST_S_KEYWORD",
+   "en": "I can totally tell you're holding back.\nC'mon, get serious!",
+   "pt": "Dá pra ver que você tá se segurando.\nQual é, lute a sério!"
+  },
+  {
+   "id": "C082_VS_C022_ARREST_P_KEYWORD",
+   "en": "No way!\nYou're slower than a turtle!",
+   "pt": "De jeito nenhum!\nVocê é mais lenta que uma tartaruga!"
+  },
+  {
+   "id": "C082_VS_C022_ARREST_G_KEYWORD",
+   "en": "Nope, nope, nope!\nYou'll never beat me like that!",
+   "pt": "Não, não, não!\nVocê nunca vai me vencer assim!"
+  },
+  {
+   "id": "C082_VS_C031_ARREST_S_KEYWORD",
+   "en": "Ew. You're ugly!",
+   "pt": "Eca. Você é horrível!"
+  },
+  {
+   "id": "C082_VS_C031_ARREST_P_KEYWORD",
+   "en": "You're so annoying!\nWho do you think you're talking to?!",
+   "pt": "Você é tão irritante!\nCom quem você acha que tá falando?!"
+  },
+  {
+   "id": "C082_VS_C031_ARREST_G_KEYWORD",
+   "en": "I'm sorry... Are you lecturing me?! ",
+   "pt": "Desculpa... Você tá querendo me dar lição de moral?! "
+  },
+  {
+   "id": "C082_VS_C041_ARREST_S_KEYWORD",
+   "en": "Ew. You're ugly!",
+   "pt": "Eca. Você é horrível!"
+  },
+  {
+   "id": "C082_VS_C041_ARREST_P_KEYWORD",
+   "en": "You're so annoying!\nWho do you think you're talking to?!",
+   "pt": "Você é tão irritante!\nCom quem você acha que tá falando?!"
+  },
+  {
+   "id": "C082_VS_C041_ARREST_G_KEYWORD",
+   "en": "I'm sorry... Are you lecturing me?! ",
+   "pt": "Desculpa... Você tá querendo me dar lição de moral?! "
+  },
+  {
+   "id": "C082_VS_C051_ARREST_S_KEYWORD",
+   "en": "Ew. You're ugly!",
+   "pt": "Eca. Você é horrível!"
+  },
+  {
+   "id": "C082_VS_C051_ARREST_P_KEYWORD",
+   "en": "You're so annoying!\nWho do you think you're talking to?!",
+   "pt": "Você é tão irritante!\nCom quem você acha que tá falando?!"
+  },
+  {
+   "id": "C082_VS_C051_ARREST_G_KEYWORD",
+   "en": "I'm sorry... Are you lecturing me?! ",
+   "pt": "Desculpa... Você tá querendo me dar lição de moral?! "
+  },
+  {
+   "id": "C082_VS_C061_ARREST_S_KEYWORD",
+   "en": "Ew. You're ugly!",
+   "pt": "Eca. Você é horrível!"
+  },
+  {
+   "id": "C082_VS_C061_ARREST_P_KEYWORD",
+   "en": "You're so annoying!\nWho do you think you're talking to?!",
+   "pt": "Você é tão irritante!\nCom quem você acha que tá falando?!"
+  },
+  {
+   "id": "C082_VS_C061_ARREST_G_KEYWORD",
+   "en": "I'm sorry... Are you lecturing me?! ",
+   "pt": "Desculpa... Você tá querendo me dar lição de moral?! "
+  },
+  {
+   "id": "C082_VS_C071_ARREST_S_KEYWORD",
+   "en": "Don't hold back!\nGive it everything you got! I can totally take it!",
+   "pt": "Não se segure!\nDê tudo que você tem! Eu aguento de boa!"
+  },
+  {
+   "id": "C082_VS_C071_ARREST_P_KEYWORD",
+   "en": "You're so slow!\nAre you feeling ill today?",
+   "pt": "Você tá tão lerda!\nTá se sentindo mal hoje?"
+  },
+  {
+   "id": "C082_VS_C071_ARREST_G_KEYWORD",
+   "en": "Aw, that's not enough to take me down!\nYou should know that!",
+   "pt": "Ah, isso não é o bastante pra me derrotar!\nVocê devia saber disso!"
+  },
+  {
+   "id": "C082_VS_C081_ARREST_S_KEYWORD",
+   "en": "I can totally tell you're holding back.\nC'mon, get serious!",
+   "pt": "Dá pra ver que você tá se segurando.\nQual é, lute a sério!"
+  },
+  {
+   "id": "C082_VS_C081_ARREST_P_KEYWORD",
+   "en": "No way!\nYou're slower than a turtle!",
+   "pt": "De jeito nenhum!\nVocê é mais lenta que uma tartaruga!"
+  },
+  {
+   "id": "C082_VS_C081_ARREST_G_KEYWORD",
+   "en": "Nope, nope, nope!\nYou'll never beat me like that!",
+   "pt": "Não, não, não!\nVocê nunca vai me vencer assim!"
+  },
+  {
+   "id": "C082_VS_C141_ARREST_S_KEYWORD",
+   "en": "Ew. You're ugly!",
+   "pt": "Eca. Você é horrível!"
+  },
+  {
+   "id": "C082_VS_C141_ARREST_P_KEYWORD",
+   "en": "You're so annoying!\nWho do you think you're talking to?!",
+   "pt": "Você é tão irritante!\nCom quem você acha que tá falando?!"
+  },
+  {
+   "id": "C082_VS_C141_ARREST_G_KEYWORD",
+   "en": "I'm sorry... Are you lecturing me?! ",
+   "pt": "Desculpa... Você tá querendo me dar lição de moral?! "
+  },
+  {
+   "id": "C082_VS_C151_ARREST_S_KEYWORD",
+   "en": "Don't get cocky, you naked apes!",
+   "pt": "Não se achem, seus macacos pelados!"
+  },
+  {
+   "id": "C082_VS_C151_ARREST_P_KEYWORD",
+   "en": "You're just plain old, silly old humans!\nYou can never beat me! ",
+   "pt": "Vocês são só humanos velhos e bobos!\nNunca vão conseguir me vencer! "
+  },
+  {
+   "id": "C082_VS_C151_ARREST_G_KEYWORD",
+   "en": "Uch. Stop fighting us and submit already.",
+   "pt": "Ugh. Parem de lutar contra a gente e se rendam logo."
+  },
+  {
+   "id": "C082_SP_NEAR_01_KEYWORD",
+   "en": "Ugh, you're pissing me off!",
+   "pt": "Ugh, você tá me enchendo o saco!"
+  },
+  {
+   "id": "C082_SP_NEAR_02_KEYWORD",
+   "en": "Be a good little naked monkey!",
+   "pt": "Seja um bom macaquinho pelado!"
+  },
+  {
+   "id": "C082_SP_NEAR_03_KEYWORD",
+   "en": "Let's end this!",
+   "pt": "Vamos acabar com isso!"
+  },
+  {
+   "id": "C082_SP_FAR_01_KEYWORD",
+   "en": "Welcome to the runway of death!",
+   "pt": "Boas-vindas à passarela da morte!"
+  },
+  {
+   "id": "C082_SP_FAR_02_KEYWORD",
+   "en": "Disappear already!",
+   "pt": "Desapareça logo!"
+  },
+  {
+   "id": "C082_SSP_FAR_01_KEYWORD",
+   "en": "Get off the stage, you damn extra!",
+   "pt": "Saia do palco, seu figurante maldito!"
+  },
+  {
+   "id": "C082_SSP_FAR_02_KEYWORD",
+   "en": "Mon mignon prêt-à-porter!",
+   "pt": "Mon mignon prêt-à-porter!"
+  },
+  {
+   "id": "C082_SP_BREAK_01_KEYWORD",
+   "en": "I'll make you behave!",
+   "pt": "Vou fazer você se comportar!"
+  },
+  {
+   "id": "C082_SP_BREAK_02_KEYWORD",
+   "en": "Go nuts!",
+   "pt": "Vá à loucura!"
+  }
+ ]
+}

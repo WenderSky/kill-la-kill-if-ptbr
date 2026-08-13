@@ -1,0 +1,1008 @@
+{
+ "origem": "KlkResources/S701_MES/MES_012_RYU_ACT",
+ "conteudo": "Falas em batalha - Ryuko",
+ "parte": "3/4",
+ "instrucoes": "Traduza o campo 'en' para portugues do Brasil e escreva o resultado em 'pt'. Nao altere 'id'. Mantenha intactos os codigos entre chaves ({CA}, {LA}, {BR}, {JU}, {SP}, {GD}, {LS}, {L1}, {R1}, setas), os marcadores de formato (%d, %l, %ls, %hs) e as quebras de linha \\n. Se uma linha nao precisar de traducao, deixe 'pt' vazio.",
+ "linhas": [
+  {
+   "id": "C012_VS_C061_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "Senketsu and me are even stronger! So watch yer ass!",
+   "pt": "Eu e o Senketsu estamos ainda mais fortes! Então proteja essa sua bunda!"
+  },
+  {
+   "id": "C012_VS_C061_DECISION2_S_LOWER_KEYWORD",
+   "en": "Don't even think you can stop us!",
+   "pt": "Nem pense que pode nos impedir!"
+  },
+  {
+   "id": "C012_VS_C061_DECISION2_P_UPPER_KEYWORD",
+   "en": "Get outta my way!",
+   "pt": "Sai da porra do meu caminho!"
+  },
+  {
+   "id": "C012_VS_C061_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "I need to know why my father was killed!",
+   "pt": "Eu preciso saber por que o meu pai foi morto!"
+  },
+  {
+   "id": "C012_VS_C061_DECISION2_P_LOWER_KEYWORD",
+   "en": "I don't got time to mess around with you!",
+   "pt": "Eu não tenho tempo pra perder com você!"
+  },
+  {
+   "id": "C012_VS_C061_DECISION2_G_UPPER_KEYWORD",
+   "en": "Let's end this now!",
+   "pt": "Vamos acabar logo com isso!"
+  },
+  {
+   "id": "C012_VS_C061_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "This fight was over the second you opened that big, fat, stupid mouth of yours!",
+   "pt": "Essa luta acabou no segundo em que você abriu essa sua boca de merda!"
+  },
+  {
+   "id": "C012_VS_C061_DECISION2_G_LOWER_KEYWORD",
+   "en": "Back off, you ass wipe!",
+   "pt": "Cai fora, seu bosta!"
+  },
+  {
+   "id": "C012_VS_C071_DECISION0_S_UPPER_KEYWORD",
+   "en": "Screw you!",
+   "pt": "Vai se foder!"
+  },
+  {
+   "id": "C012_VS_C071_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "I'll crush everything!\nYour \"great\" ambitions, your perverted sense of self-worth, or whatever!",
+   "pt": "Eu vou esmagar tudo!\nSuas \"grandes\" ambições, seu senso de valor pervertido, ou o caralho a quatro!"
+  },
+  {
+   "id": "C012_VS_C071_DECISION0_S_LOWER_KEYWORD",
+   "en": "I'll destroy all of it!",
+   "pt": "Eu vou destruir a porra toda!"
+  },
+  {
+   "id": "C012_VS_C071_DECISION0_P_UPPER_KEYWORD",
+   "en": "God, you're so annoying!",
+   "pt": "Caralho, você é muito chata!"
+  },
+  {
+   "id": "C012_VS_C071_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "All of you keep goin' on and on about nothing!",
+   "pt": "Todos vocês continuam falando sem parar sobre porra nenhuma!"
+  },
+  {
+   "id": "C012_VS_C071_DECISION0_P_LOWER_KEYWORD",
+   "en": "Shut up already!",
+   "pt": "Cala a boca de uma vez!"
+  },
+  {
+   "id": "C012_VS_C071_DECISION0_G_UPPER_KEYWORD",
+   "en": "What's wrong? Is that all you got?!",
+   "pt": "Qual é o problema? Isso é tudo o que você tem?!"
+  },
+  {
+   "id": "C012_VS_C071_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "You're all talk and no action! Put up or shut up!",
+   "pt": "Você é só papo e nada de ação! Cai pra dentro ou cala a boca!"
+  },
+  {
+   "id": "C012_VS_C071_DECISION0_G_LOWER_KEYWORD",
+   "en": "C'mon, let's go! You and me!",
+   "pt": "Vem, vamos lá! Eu e você!"
+  },
+  {
+   "id": "C012_VS_C071_DECISION1_S_UPPER_KEYWORD",
+   "en": "Better run while you can!",
+   "pt": "É melhor correr enquanto pode!"
+  },
+  {
+   "id": "C012_VS_C071_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "I ain't alone like you! I got Senketsu and we'll kick your ass together!",
+   "pt": "Eu não estou sozinha que nem você! Eu tenho o Senketsu e nós vamos chutar o seu rabo juntos!"
+  },
+  {
+   "id": "C012_VS_C071_DECISION1_S_LOWER_KEYWORD",
+   "en": "I ain't never gonna lose to you!",
+   "pt": "Eu nunca vou perder pra você!"
+  },
+  {
+   "id": "C012_VS_C071_DECISION1_P_UPPER_KEYWORD",
+   "en": "Oh, shut yer hole!",
+   "pt": "Ah, cala essa boca!"
+  },
+  {
+   "id": "C012_VS_C071_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "I don't follow orders!\nI don't care what anyone says, I walk my own path!",
+   "pt": "Eu não sigo ordens!\nEu não dou a mínima pro que dizem, eu sigo o meu próprio caminho!"
+  },
+  {
+   "id": "C012_VS_C071_DECISION1_P_LOWER_KEYWORD",
+   "en": "Get outta my way!",
+   "pt": "Sai da porra do meu caminho!"
+  },
+  {
+   "id": "C012_VS_C071_DECISION1_G_UPPER_KEYWORD",
+   "en": "Give it up already!",
+   "pt": "Desiste logo!"
+  },
+  {
+   "id": "C012_VS_C071_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "Me and Senketsu are way stronger! You don't stand a chance against us!",
+   "pt": "Eu e o Senketsu somos muito mais fortes! Você não tem a menor chance contra nós!"
+  },
+  {
+   "id": "C012_VS_C071_DECISION1_G_LOWER_KEYWORD",
+   "en": "Give up and get outta my way!",
+   "pt": "Desiste e sai da porra do meu caminho!"
+  },
+  {
+   "id": "C012_VS_C071_DECISION2_S_UPPER_KEYWORD",
+   "en": "You got no chance at beating me!",
+   "pt": "Você não tem a menor chance de me vencer!"
+  },
+  {
+   "id": "C012_VS_C071_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "Senketsu and me are even stronger! So watch yer ass!",
+   "pt": "Eu e o Senketsu estamos ainda mais fortes! Então proteja essa sua bunda!"
+  },
+  {
+   "id": "C012_VS_C071_DECISION2_S_LOWER_KEYWORD",
+   "en": "Don't even think you can stop us!",
+   "pt": "Nem pense que pode nos impedir!"
+  },
+  {
+   "id": "C012_VS_C071_DECISION2_P_UPPER_KEYWORD",
+   "en": "Get outta my way!",
+   "pt": "Sai da porra do meu caminho!"
+  },
+  {
+   "id": "C012_VS_C071_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "I need to know why my father was killed!",
+   "pt": "Eu preciso saber por que o meu pai foi morto!"
+  },
+  {
+   "id": "C012_VS_C071_DECISION2_P_LOWER_KEYWORD",
+   "en": "I don't got time to mess around with you!",
+   "pt": "Eu não tenho tempo pra perder com você!"
+  },
+  {
+   "id": "C012_VS_C071_DECISION2_G_UPPER_KEYWORD",
+   "en": "Let's end this now!",
+   "pt": "Vamos acabar logo com isso!"
+  },
+  {
+   "id": "C012_VS_C071_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "This fight was over the second you opened that big, fat, stupid mouth of yours!",
+   "pt": "Essa luta acabou no segundo em que você abriu essa sua boca de merda!"
+  },
+  {
+   "id": "C012_VS_C071_DECISION2_G_LOWER_KEYWORD",
+   "en": "Back off, you ass wipe!",
+   "pt": "Cai fora, seu bosta!"
+  },
+  {
+   "id": "C012_VS_C072_DECISION0_S_UPPER_KEYWORD",
+   "en": "Screw you!",
+   "pt": "Vai se foder!"
+  },
+  {
+   "id": "C012_VS_C072_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "I'll crush everything!\nYour \"great\" ambitions, your perverted sense of self-worth, or whatever!",
+   "pt": "Eu vou esmagar tudo!\nSuas \"grandes\" ambições, seu senso de valor pervertido, ou o caralho a quatro!"
+  },
+  {
+   "id": "C012_VS_C072_DECISION0_S_LOWER_KEYWORD",
+   "en": "I'll destroy all of it!",
+   "pt": "Eu vou destruir a porra toda!"
+  },
+  {
+   "id": "C012_VS_C072_DECISION0_P_UPPER_KEYWORD",
+   "en": "God, you're so annoying!",
+   "pt": "Caralho, você é muito chata!"
+  },
+  {
+   "id": "C012_VS_C072_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "All of you keep goin' on and on about nothing!",
+   "pt": "Todos vocês continuam falando sem parar sobre porra nenhuma!"
+  },
+  {
+   "id": "C012_VS_C072_DECISION0_P_LOWER_KEYWORD",
+   "en": "Shut up already!",
+   "pt": "Cala a boca de uma vez!"
+  },
+  {
+   "id": "C012_VS_C072_DECISION0_G_UPPER_KEYWORD",
+   "en": "What's wrong? Is that all you got?!",
+   "pt": "Qual é o problema? Isso é tudo o que você tem?!"
+  },
+  {
+   "id": "C012_VS_C072_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "You're all talk and no action! Put up or shut up!",
+   "pt": "Você é só papo e nada de ação! Cai pra dentro ou cala a boca!"
+  },
+  {
+   "id": "C012_VS_C072_DECISION0_G_LOWER_KEYWORD",
+   "en": "C'mon, let's go! You and me!",
+   "pt": "Vem, vamos lá! Eu e você!"
+  },
+  {
+   "id": "C012_VS_C072_DECISION1_S_UPPER_KEYWORD",
+   "en": "Better run while you can!",
+   "pt": "É melhor correr enquanto pode!"
+  },
+  {
+   "id": "C012_VS_C072_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "I ain't alone like you! I got Senketsu and we'll kick your ass together!",
+   "pt": "Eu não estou sozinha que nem você! Eu tenho o Senketsu e nós vamos chutar o seu rabo juntos!"
+  },
+  {
+   "id": "C012_VS_C072_DECISION1_S_LOWER_KEYWORD",
+   "en": "I ain't never gonna lose to you!",
+   "pt": "Eu nunca vou perder pra você!"
+  },
+  {
+   "id": "C012_VS_C072_DECISION1_P_UPPER_KEYWORD",
+   "en": "Oh, shut yer hole!",
+   "pt": "Ah, cala essa boca!"
+  },
+  {
+   "id": "C012_VS_C072_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "I don't follow orders!\nI don't care what anyone says, I walk my own path!",
+   "pt": "Eu não sigo ordens!\nEu não dou a mínima pro que dizem, eu sigo o meu próprio caminho!"
+  },
+  {
+   "id": "C012_VS_C072_DECISION1_P_LOWER_KEYWORD",
+   "en": "Get outta my way!",
+   "pt": "Sai da porra do meu caminho!"
+  },
+  {
+   "id": "C012_VS_C072_DECISION1_G_UPPER_KEYWORD",
+   "en": "Give it up already!",
+   "pt": "Desiste logo!"
+  },
+  {
+   "id": "C012_VS_C072_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "Me and Senketsu are way stronger! You don't stand a chance against us!",
+   "pt": "Eu e o Senketsu somos muito mais fortes! Você não tem a menor chance contra nós!"
+  },
+  {
+   "id": "C012_VS_C072_DECISION1_G_LOWER_KEYWORD",
+   "en": "Give up and get outta my way!",
+   "pt": "Desiste e sai da porra do meu caminho!"
+  },
+  {
+   "id": "C012_VS_C072_DECISION2_S_UPPER_KEYWORD",
+   "en": "You got no chance at beating me!",
+   "pt": "Você não tem a menor chance de me vencer!"
+  },
+  {
+   "id": "C012_VS_C072_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "Senketsu and me are even stronger! So watch yer ass!",
+   "pt": "Eu e o Senketsu estamos ainda mais fortes! Então proteja essa sua bunda!"
+  },
+  {
+   "id": "C012_VS_C072_DECISION2_S_LOWER_KEYWORD",
+   "en": "Don't even think you can stop us!",
+   "pt": "Nem pense que pode nos impedir!"
+  },
+  {
+   "id": "C012_VS_C072_DECISION2_P_UPPER_KEYWORD",
+   "en": "Get outta my way!",
+   "pt": "Sai da porra do meu caminho!"
+  },
+  {
+   "id": "C012_VS_C072_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "I need to know why my father was killed!",
+   "pt": "Eu preciso saber por que o meu pai foi morto!"
+  },
+  {
+   "id": "C012_VS_C072_DECISION2_P_LOWER_KEYWORD",
+   "en": "I don't got time to mess around with you!",
+   "pt": "Eu não tenho tempo pra perder com você!"
+  },
+  {
+   "id": "C012_VS_C072_DECISION2_G_UPPER_KEYWORD",
+   "en": "Let's end this now!",
+   "pt": "Vamos acabar logo com isso!"
+  },
+  {
+   "id": "C012_VS_C072_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "This fight was over the second you opened that big, fat, stupid mouth of yours!",
+   "pt": "Essa luta acabou no segundo em que você abriu essa sua boca de merda!"
+  },
+  {
+   "id": "C012_VS_C072_DECISION2_G_LOWER_KEYWORD",
+   "en": "Back off, you ass wipe!",
+   "pt": "Cai fora, seu bosta!"
+  },
+  {
+   "id": "C012_VS_C081_DECISION0_S_UPPER_KEYWORD",
+   "en": "Screw you!",
+   "pt": "Vai se foder!"
+  },
+  {
+   "id": "C012_VS_C081_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "I'll crush everything!\nYour \"great\" ambitions, your perverted sense of self-worth, or whatever!",
+   "pt": "Eu vou esmagar tudo!\nSuas \"grandes\" ambições, seu senso de valor pervertido, ou o caralho a quatro!"
+  },
+  {
+   "id": "C012_VS_C081_DECISION0_S_LOWER_KEYWORD",
+   "en": "I'll destroy all of it!",
+   "pt": "Eu vou destruir a porra toda!"
+  },
+  {
+   "id": "C012_VS_C081_DECISION0_P_UPPER_KEYWORD",
+   "en": "God, you're so annoying!",
+   "pt": "Caralho, você é muito chata!"
+  },
+  {
+   "id": "C012_VS_C081_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "All of you keep goin' on and on about nothing!",
+   "pt": "Todos vocês continuam falando sem parar sobre porra nenhuma!"
+  },
+  {
+   "id": "C012_VS_C081_DECISION0_P_LOWER_KEYWORD",
+   "en": "Shut up already!",
+   "pt": "Cala a boca de uma vez!"
+  },
+  {
+   "id": "C012_VS_C081_DECISION0_G_UPPER_KEYWORD",
+   "en": "What's wrong? Is that all you got?!",
+   "pt": "Qual é o problema? Isso é tudo o que você tem?!"
+  },
+  {
+   "id": "C012_VS_C081_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "You're all talk and no action! Put up or shut up!",
+   "pt": "Você é só papo e nada de ação! Cai pra dentro ou cala a boca!"
+  },
+  {
+   "id": "C012_VS_C081_DECISION0_G_LOWER_KEYWORD",
+   "en": "C'mon, let's go! You and me!",
+   "pt": "Vem, vamos lá! Eu e você!"
+  },
+  {
+   "id": "C012_VS_C081_DECISION1_S_UPPER_KEYWORD",
+   "en": "Better run while you can!",
+   "pt": "É melhor correr enquanto pode!"
+  },
+  {
+   "id": "C012_VS_C081_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "I ain't alone like you! I got Senketsu and we'll kick your ass together!",
+   "pt": "Eu não estou sozinha que nem você! Eu tenho o Senketsu e nós vamos chutar o seu rabo juntos!"
+  },
+  {
+   "id": "C012_VS_C081_DECISION1_S_LOWER_KEYWORD",
+   "en": "I ain't never gonna lose to you!",
+   "pt": "Eu nunca vou perder pra você!"
+  },
+  {
+   "id": "C012_VS_C081_DECISION1_P_UPPER_KEYWORD",
+   "en": "Oh, shut yer hole!",
+   "pt": "Ah, cala essa boca!"
+  },
+  {
+   "id": "C012_VS_C081_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "I don't follow orders!\nI don't care what anyone says, I walk my own path!",
+   "pt": "Eu não sigo ordens!\nEu não dou a mínima pro que dizem, eu sigo o meu próprio caminho!"
+  },
+  {
+   "id": "C012_VS_C081_DECISION1_P_LOWER_KEYWORD",
+   "en": "Get outta my way!",
+   "pt": "Sai da porra do meu caminho!"
+  },
+  {
+   "id": "C012_VS_C081_DECISION1_G_UPPER_KEYWORD",
+   "en": "Give it up already!",
+   "pt": "Desiste logo!"
+  },
+  {
+   "id": "C012_VS_C081_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "Me and Senketsu are way stronger! You don't stand a chance against us!",
+   "pt": "Eu e o Senketsu somos muito mais fortes! Você não tem a menor chance contra nós!"
+  },
+  {
+   "id": "C012_VS_C081_DECISION1_G_LOWER_KEYWORD",
+   "en": "Give up and get outta my way!",
+   "pt": "Desiste e sai da porra do meu caminho!"
+  },
+  {
+   "id": "C012_VS_C081_DECISION2_S_UPPER_KEYWORD",
+   "en": "You got no chance at beating me!",
+   "pt": "Você não tem a menor chance de me vencer!"
+  },
+  {
+   "id": "C012_VS_C081_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "Senketsu and me are even stronger! So watch yer ass!",
+   "pt": "Eu e o Senketsu estamos ainda mais fortes! Então proteja essa sua bunda!"
+  },
+  {
+   "id": "C012_VS_C081_DECISION2_S_LOWER_KEYWORD",
+   "en": "Don't even think you can stop us!",
+   "pt": "Nem pense que pode nos impedir!"
+  },
+  {
+   "id": "C012_VS_C081_DECISION2_P_UPPER_KEYWORD",
+   "en": "Get outta my way!",
+   "pt": "Sai da porra do meu caminho!"
+  },
+  {
+   "id": "C012_VS_C081_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "I need to know why my father was killed!",
+   "pt": "Eu preciso saber por que o meu pai foi morto!"
+  },
+  {
+   "id": "C012_VS_C081_DECISION2_P_LOWER_KEYWORD",
+   "en": "I don't got time to mess around with you!",
+   "pt": "Eu não tenho tempo pra perder com você!"
+  },
+  {
+   "id": "C012_VS_C081_DECISION2_G_UPPER_KEYWORD",
+   "en": "Let's end this now!",
+   "pt": "Vamos acabar logo com isso!"
+  },
+  {
+   "id": "C012_VS_C081_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "This fight was over the second you opened that big, fat, stupid mouth of yours!",
+   "pt": "Essa luta acabou no segundo em que você abriu essa sua boca de merda!"
+  },
+  {
+   "id": "C012_VS_C081_DECISION2_G_LOWER_KEYWORD",
+   "en": "Back off, you ass wipe!",
+   "pt": "Cai fora, seu bosta!"
+  },
+  {
+   "id": "C012_VS_C082_DECISION0_S_UPPER_KEYWORD",
+   "en": "Screw you!",
+   "pt": "Vai se foder!"
+  },
+  {
+   "id": "C012_VS_C082_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "I'll crush everything!\nYour \"great\" ambitions, your perverted sense of self-worth, or whatever!",
+   "pt": "Eu vou esmagar tudo!\nSuas \"grandes\" ambições, seu senso de valor pervertido, ou o caralho a quatro!"
+  },
+  {
+   "id": "C012_VS_C082_DECISION0_S_LOWER_KEYWORD",
+   "en": "I'll destroy all of it!",
+   "pt": "Eu vou destruir a porra toda!"
+  },
+  {
+   "id": "C012_VS_C082_DECISION0_P_UPPER_KEYWORD",
+   "en": "God, you're so annoying!",
+   "pt": "Caralho, você é muito chata!"
+  },
+  {
+   "id": "C012_VS_C082_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "All of you keep goin' on and on about nothing!",
+   "pt": "Todos vocês continuam falando sem parar sobre porra nenhuma!"
+  },
+  {
+   "id": "C012_VS_C082_DECISION0_P_LOWER_KEYWORD",
+   "en": "Shut up already!",
+   "pt": "Cala a boca de uma vez!"
+  },
+  {
+   "id": "C012_VS_C082_DECISION0_G_UPPER_KEYWORD",
+   "en": "What's wrong? Is that all you got?!",
+   "pt": "Qual é o problema? Isso é tudo o que você tem?!"
+  },
+  {
+   "id": "C012_VS_C082_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "You're all talk and no action! Put up or shut up!",
+   "pt": "Você é só papo e nada de ação! Cai pra dentro ou cala a boca!"
+  },
+  {
+   "id": "C012_VS_C082_DECISION0_G_LOWER_KEYWORD",
+   "en": "C'mon, let's go! You and me!",
+   "pt": "Vem, vamos lá! Eu e você!"
+  },
+  {
+   "id": "C012_VS_C082_DECISION1_S_UPPER_KEYWORD",
+   "en": "Better run while you can!",
+   "pt": "É melhor correr enquanto pode!"
+  },
+  {
+   "id": "C012_VS_C082_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "I ain't alone like you! I got Senketsu and we'll kick your ass together!",
+   "pt": "Eu não estou sozinha que nem você! Eu tenho o Senketsu e nós vamos chutar o seu rabo juntos!"
+  },
+  {
+   "id": "C012_VS_C082_DECISION1_S_LOWER_KEYWORD",
+   "en": "I ain't never gonna lose to you!",
+   "pt": "Eu nunca vou perder pra você!"
+  },
+  {
+   "id": "C012_VS_C082_DECISION1_P_UPPER_KEYWORD",
+   "en": "Oh, shut yer hole!",
+   "pt": "Ah, cala essa boca!"
+  },
+  {
+   "id": "C012_VS_C082_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "I don't follow orders!\nI don't care what anyone says, I walk my own path!",
+   "pt": "Eu não sigo ordens!\nEu não dou a mínima pro que dizem, eu sigo o meu próprio caminho!"
+  },
+  {
+   "id": "C012_VS_C082_DECISION1_P_LOWER_KEYWORD",
+   "en": "Get outta my way!",
+   "pt": "Sai da porra do meu caminho!"
+  },
+  {
+   "id": "C012_VS_C082_DECISION1_G_UPPER_KEYWORD",
+   "en": "Give it up already!",
+   "pt": "Desiste logo!"
+  },
+  {
+   "id": "C012_VS_C082_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "Me and Senketsu are way stronger! You don't stand a chance against us!",
+   "pt": "Eu e o Senketsu somos muito mais fortes! Você não tem a menor chance contra nós!"
+  },
+  {
+   "id": "C012_VS_C082_DECISION1_G_LOWER_KEYWORD",
+   "en": "Give up and get outta my way!",
+   "pt": "Desiste e sai da porra do meu caminho!"
+  },
+  {
+   "id": "C012_VS_C082_DECISION2_S_UPPER_KEYWORD",
+   "en": "You got no chance at beating me!",
+   "pt": "Você não tem a menor chance de me vencer!"
+  },
+  {
+   "id": "C012_VS_C082_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "Senketsu and me are even stronger! So watch yer ass!",
+   "pt": "Eu e o Senketsu estamos ainda mais fortes! Então proteja essa sua bunda!"
+  },
+  {
+   "id": "C012_VS_C082_DECISION2_S_LOWER_KEYWORD",
+   "en": "Don't even think you can stop us!",
+   "pt": "Nem pense que pode nos impedir!"
+  },
+  {
+   "id": "C012_VS_C082_DECISION2_P_UPPER_KEYWORD",
+   "en": "Get outta my way!",
+   "pt": "Sai da porra do meu caminho!"
+  },
+  {
+   "id": "C012_VS_C082_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "I need to know why my father was killed!",
+   "pt": "Eu preciso saber por que o meu pai foi morto!"
+  },
+  {
+   "id": "C012_VS_C082_DECISION2_P_LOWER_KEYWORD",
+   "en": "I don't got time to mess around with you!",
+   "pt": "Eu não tenho tempo pra perder com você!"
+  },
+  {
+   "id": "C012_VS_C082_DECISION2_G_UPPER_KEYWORD",
+   "en": "Let's end this now!",
+   "pt": "Vamos acabar logo com isso!"
+  },
+  {
+   "id": "C012_VS_C082_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "This fight was over the second you opened that big, fat, stupid mouth of yours!",
+   "pt": "Essa luta acabou no segundo em que você abriu essa sua boca de merda!"
+  },
+  {
+   "id": "C012_VS_C082_DECISION2_G_LOWER_KEYWORD",
+   "en": "Back off, you ass wipe!",
+   "pt": "Cai fora, seu bosta!"
+  },
+  {
+   "id": "C012_VS_C141_DECISION0_S_UPPER_KEYWORD",
+   "en": "Screw you!",
+   "pt": "Vai se foder!"
+  },
+  {
+   "id": "C012_VS_C141_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "I'll crush everything!\nYour \"great\" ambitions, your perverted sense of self-worth, or whatever!",
+   "pt": "Eu vou esmagar tudo!\nSuas \"grandes\" ambições, seu senso de valor pervertido, ou o caralho a quatro!"
+  },
+  {
+   "id": "C012_VS_C141_DECISION0_S_LOWER_KEYWORD",
+   "en": "I'll destroy all of it!",
+   "pt": "Eu vou destruir a porra toda!"
+  },
+  {
+   "id": "C012_VS_C141_DECISION0_P_UPPER_KEYWORD",
+   "en": "God, you're so annoying!",
+   "pt": "Caralho, você é muito chata!"
+  },
+  {
+   "id": "C012_VS_C141_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "All of you keep goin' on and on about nothing!",
+   "pt": "Todos vocês continuam falando sem parar sobre porra nenhuma!"
+  },
+  {
+   "id": "C012_VS_C141_DECISION0_P_LOWER_KEYWORD",
+   "en": "Shut up already!",
+   "pt": "Cala a boca de uma vez!"
+  },
+  {
+   "id": "C012_VS_C141_DECISION0_G_UPPER_KEYWORD",
+   "en": "What's wrong? Is that all you got?!",
+   "pt": "Qual é o problema? Isso é tudo o que você tem?!"
+  },
+  {
+   "id": "C012_VS_C141_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "You're all talk and no action! Put up or shut up!",
+   "pt": "Você é só papo e nada de ação! Cai pra dentro ou cala a boca!"
+  },
+  {
+   "id": "C012_VS_C141_DECISION0_G_LOWER_KEYWORD",
+   "en": "C'mon, let's go! You and me!",
+   "pt": "Vem, vamos lá! Eu e você!"
+  },
+  {
+   "id": "C012_VS_C141_DECISION1_S_UPPER_KEYWORD",
+   "en": "Better run while you can!",
+   "pt": "É melhor correr enquanto pode!"
+  },
+  {
+   "id": "C012_VS_C141_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "I ain't alone like you! I got Senketsu and we'll kick your ass together!",
+   "pt": "Eu não estou sozinha que nem você! Eu tenho o Senketsu e nós vamos chutar o seu rabo juntos!"
+  },
+  {
+   "id": "C012_VS_C141_DECISION1_S_LOWER_KEYWORD",
+   "en": "I ain't never gonna lose to you!",
+   "pt": "Eu nunca vou perder pra você!"
+  },
+  {
+   "id": "C012_VS_C141_DECISION1_P_UPPER_KEYWORD",
+   "en": "Oh, shut yer hole!",
+   "pt": "Ah, cala essa boca!"
+  },
+  {
+   "id": "C012_VS_C141_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "I don't follow orders!\nI don't care what anyone says, I walk my own path!",
+   "pt": "Eu não sigo ordens!\nEu não dou a mínima pro que dizem, eu sigo o meu próprio caminho!"
+  },
+  {
+   "id": "C012_VS_C141_DECISION1_P_LOWER_KEYWORD",
+   "en": "Get outta my way!",
+   "pt": "Sai da porra do meu caminho!"
+  },
+  {
+   "id": "C012_VS_C141_DECISION1_G_UPPER_KEYWORD",
+   "en": "Give it up already!",
+   "pt": "Desiste logo!"
+  },
+  {
+   "id": "C012_VS_C141_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "Me and Senketsu are way stronger! You don't stand a chance against us!",
+   "pt": "Eu e o Senketsu somos muito mais fortes! Você não tem a menor chance contra nós!"
+  },
+  {
+   "id": "C012_VS_C141_DECISION1_G_LOWER_KEYWORD",
+   "en": "Give up and get outta my way!",
+   "pt": "Desiste e sai da porra do meu caminho!"
+  },
+  {
+   "id": "C012_VS_C141_DECISION2_S_UPPER_KEYWORD",
+   "en": "You got no chance at beating me!",
+   "pt": "Você não tem a menor chance de me vencer!"
+  },
+  {
+   "id": "C012_VS_C141_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "Senketsu and me are even stronger! So watch yer ass!",
+   "pt": "Eu e o Senketsu estamos ainda mais fortes! Então proteja essa sua bunda!"
+  },
+  {
+   "id": "C012_VS_C141_DECISION2_S_LOWER_KEYWORD",
+   "en": "Don't even think you can stop us!",
+   "pt": "Nem pense que pode nos impedir!"
+  },
+  {
+   "id": "C012_VS_C141_DECISION2_P_UPPER_KEYWORD",
+   "en": "Get outta my way!",
+   "pt": "Sai da porra do meu caminho!"
+  },
+  {
+   "id": "C012_VS_C141_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "I need to know why my father was killed!",
+   "pt": "Eu preciso saber por que o meu pai foi morto!"
+  },
+  {
+   "id": "C012_VS_C141_DECISION2_P_LOWER_KEYWORD",
+   "en": "I don't got time to mess around with you!",
+   "pt": "Eu não tenho tempo pra perder com você!"
+  },
+  {
+   "id": "C012_VS_C141_DECISION2_G_UPPER_KEYWORD",
+   "en": "Let's end this now!",
+   "pt": "Vamos acabar logo com isso!"
+  },
+  {
+   "id": "C012_VS_C141_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "This fight was over the second you opened that big, fat, stupid mouth of yours!",
+   "pt": "Essa luta acabou no segundo em que você abriu essa sua boca de merda!"
+  },
+  {
+   "id": "C012_VS_C141_DECISION2_G_LOWER_KEYWORD",
+   "en": "Back off, you ass wipe!",
+   "pt": "Cai fora, seu bosta!"
+  },
+  {
+   "id": "C012_VS_C151_DECISION0_S_UPPER_KEYWORD",
+   "en": "Screw you!",
+   "pt": "Vai se foder!"
+  },
+  {
+   "id": "C012_VS_C151_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "I'll crush everything!\nYour \"great\" ambitions, your perverted sense of self-worth, or whatever!",
+   "pt": "Eu vou esmagar tudo!\nSuas \"grandes\" ambições, seu senso de valor pervertido, ou o caralho a quatro!"
+  },
+  {
+   "id": "C012_VS_C151_DECISION0_S_LOWER_KEYWORD",
+   "en": "I'll destroy all of it!",
+   "pt": "Eu vou destruir a porra toda!"
+  },
+  {
+   "id": "C012_VS_C151_DECISION0_P_UPPER_KEYWORD",
+   "en": "God, you're so annoying!",
+   "pt": "Caralho, você é muito chata!"
+  },
+  {
+   "id": "C012_VS_C151_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "All of you keep goin' on and on about nothing!",
+   "pt": "Todos vocês continuam falando sem parar sobre porra nenhuma!"
+  },
+  {
+   "id": "C012_VS_C151_DECISION0_P_LOWER_KEYWORD",
+   "en": "Shut up already!",
+   "pt": "Cala a boca de uma vez!"
+  },
+  {
+   "id": "C012_VS_C151_DECISION0_G_UPPER_KEYWORD",
+   "en": "What's wrong? Is that all you got?!",
+   "pt": "Qual é o problema? Isso é tudo o que você tem?!"
+  },
+  {
+   "id": "C012_VS_C151_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "You're all talk and no action! Put up or shut up!",
+   "pt": "Você é só papo e nada de ação! Cai pra dentro ou cala a boca!"
+  },
+  {
+   "id": "C012_VS_C151_DECISION0_G_LOWER_KEYWORD",
+   "en": "C'mon, let's go! You and me!",
+   "pt": "Vem, vamos lá! Eu e você!"
+  },
+  {
+   "id": "C012_VS_C151_DECISION1_S_UPPER_KEYWORD",
+   "en": "Better run while you can!",
+   "pt": "É melhor correr enquanto pode!"
+  },
+  {
+   "id": "C012_VS_C151_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "I ain't alone like you! I got Senketsu and we'll kick your ass together!",
+   "pt": "Eu não estou sozinha que nem você! Eu tenho o Senketsu e nós vamos chutar o seu rabo juntos!"
+  },
+  {
+   "id": "C012_VS_C151_DECISION1_S_LOWER_KEYWORD",
+   "en": "I ain't never gonna lose to you!",
+   "pt": "Eu nunca vou perder pra você!"
+  },
+  {
+   "id": "C012_VS_C151_DECISION1_P_UPPER_KEYWORD",
+   "en": "Oh, shut yer hole!",
+   "pt": "Ah, cala essa boca!"
+  },
+  {
+   "id": "C012_VS_C151_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "I don't follow orders!\nI don't care what anyone says, I walk my own path!",
+   "pt": "Eu não sigo ordens!\nEu não dou a mínima pro que dizem, eu sigo o meu próprio caminho!"
+  },
+  {
+   "id": "C012_VS_C151_DECISION1_P_LOWER_KEYWORD",
+   "en": "Get outta my way!",
+   "pt": "Sai da porra do meu caminho!"
+  },
+  {
+   "id": "C012_VS_C151_DECISION1_G_UPPER_KEYWORD",
+   "en": "Give it up already!",
+   "pt": "Desiste logo!"
+  },
+  {
+   "id": "C012_VS_C151_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "Me and Senketsu are way stronger! You don't stand a chance against us!",
+   "pt": "Eu e o Senketsu somos muito mais fortes! Você não tem a menor chance contra nós!"
+  },
+  {
+   "id": "C012_VS_C151_DECISION1_G_LOWER_KEYWORD",
+   "en": "Give up and get outta my way!",
+   "pt": "Desiste e sai da porra do meu caminho!"
+  },
+  {
+   "id": "C012_VS_C151_DECISION2_S_UPPER_KEYWORD",
+   "en": "You got no chance at beating me!",
+   "pt": "Você não tem a menor chance de me vencer!"
+  },
+  {
+   "id": "C012_VS_C151_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "Senketsu and me are even stronger! So watch yer ass!",
+   "pt": "Eu e o Senketsu estamos ainda mais fortes! Então proteja essa sua bunda!"
+  },
+  {
+   "id": "C012_VS_C151_DECISION2_S_LOWER_KEYWORD",
+   "en": "Don't even think you can stop us!",
+   "pt": "Nem pense que pode nos impedir!"
+  },
+  {
+   "id": "C012_VS_C151_DECISION2_P_UPPER_KEYWORD",
+   "en": "Get outta my way!",
+   "pt": "Sai da porra do meu caminho!"
+  },
+  {
+   "id": "C012_VS_C151_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "I need to know why my father was killed!",
+   "pt": "Eu preciso saber por que o meu pai foi morto!"
+  },
+  {
+   "id": "C012_VS_C151_DECISION2_P_LOWER_KEYWORD",
+   "en": "I don't got time to mess around with you!",
+   "pt": "Eu não tenho tempo pra perder com você!"
+  },
+  {
+   "id": "C012_VS_C151_DECISION2_G_UPPER_KEYWORD",
+   "en": "Let's end this now!",
+   "pt": "Vamos acabar logo com isso!"
+  },
+  {
+   "id": "C012_VS_C151_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "This fight was over the second you opened that big, fat, stupid mouth of yours!",
+   "pt": "Essa luta acabou no segundo em que você abriu essa sua boca de merda!"
+  },
+  {
+   "id": "C012_VS_C151_DECISION2_G_LOWER_KEYWORD",
+   "en": "Back off, you ass wipe!",
+   "pt": "Cai fora, seu bosta!"
+  },
+  {
+   "id": "C012_VS_R070_DECISION0_S_UPPER_KEYWORD",
+   "en": "I'm gonna make you pay!",
+   "pt": "Eu vou fazer você pagar!"
+  },
+  {
+   "id": "C012_VS_R070_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "I don't give a rat's ass what you say anymore!",
+   "pt": "Eu tô cagando e andando pro que você diz!"
+  },
+  {
+   "id": "C012_VS_R070_DECISION0_S_LOWER_KEYWORD",
+   "en": "You killed my dad and now I'll kill you!",
+   "pt": "Você matou o meu pai e agora eu vou matar você!"
+  },
+  {
+   "id": "C012_VS_R070_DECISION0_P_UPPER_KEYWORD",
+   "en": "Stop talkin', 'cuz I'm done listening!",
+   "pt": "Para de falar, porque eu cansei de ouvir!"
+  },
+  {
+   "id": "C012_VS_R070_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "I'm gonna beat you down and make you spit out why you killed Dad!",
+   "pt": "Eu vou te dar uma surra e fazer você cuspir por que matou o meu pai!"
+  },
+  {
+   "id": "C012_VS_R070_DECISION0_P_LOWER_KEYWORD",
+   "en": "Get ready to die, Nui!",
+   "pt": "Se prepara pra morrer, Nui!"
+  },
+  {
+   "id": "C012_VS_R070_DECISION0_G_UPPER_KEYWORD",
+   "en": "Don't screw with me!",
+   "pt": "Não fode comigo!"
+  },
+  {
+   "id": "C012_VS_R070_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "With Senketsu on my side, we can take anything you dish out! ",
+   "pt": "Com o Senketsu do meu lado, nós aguentamos qualquer merda que você mandar! "
+  },
+  {
+   "id": "C012_VS_R070_DECISION0_G_LOWER_KEYWORD",
+   "en": "Quit acting like it's no big deal, you lil psycho!",
+   "pt": "Para de agir como se não fosse nada demais, sua psicopata de merda!"
+  },
+  {
+   "id": "C012_VS_R070_DECISION1_S_UPPER_KEYWORD",
+   "en": "You're so slow I'm getting bored.",
+   "pt": "Você é tão lenta que eu tô ficando entediada."
+  },
+  {
+   "id": "C012_VS_R070_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "I'd have more fun fighting a turtle than you.",
+   "pt": "Eu me divertiria mais lutando contra uma tartaruga do que contra você."
+  },
+  {
+   "id": "C012_VS_R070_DECISION1_S_LOWER_KEYWORD",
+   "en": "Oh, c'mon! You can do better than that!",
+   "pt": "Ah, qual é! Você consegue fazer melhor que isso!"
+  },
+  {
+   "id": "C012_VS_R070_DECISION1_P_UPPER_KEYWORD",
+   "en": "Time to stop fartin' around!",
+   "pt": "Hora de parar com a porra da brincadeira!"
+  },
+  {
+   "id": "C012_VS_R070_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "You keep flappin' yer mouth, but I ain't hearing what I wanna know!",
+   "pt": "Você continua abrindo essa boca, mas eu não tô ouvindo o que eu quero saber!"
+  },
+  {
+   "id": "C012_VS_R070_DECISION1_P_LOWER_KEYWORD",
+   "en": "Shut up! I'm sick of listening to yer B.S.!",
+   "pt": "Cala a boca! Eu tô cansada de ouvir as suas merdas!"
+  },
+  {
+   "id": "C012_VS_R070_DECISION1_G_UPPER_KEYWORD",
+   "en": "What's wrong? You getting tired, or something?",
+   "pt": "Qual é o problema? Tá ficando cansada ou o quê?"
+  },
+  {
+   "id": "C012_VS_R070_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "Aww, your face is all busted up. How 'bout I straighten it out for ya?",
+   "pt": "Aww, seu rosto tá todo arrebentado. Que tal eu dar um jeito nele pra você?"
+  },
+  {
+   "id": "C012_VS_R070_DECISION1_G_LOWER_KEYWORD",
+   "en": "What's wrong? Cat got yer tongue?",
+   "pt": "Qual é o problema? O gato comeu a sua língua?"
+  },
+  {
+   "id": "C012_VS_R070_DECISION2_S_UPPER_KEYWORD",
+   "en": "You piss me off!",
+   "pt": "Você me deixa puta da cara!"
+  },
+  {
+   "id": "C012_VS_R070_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "What's with you? Every time you open yer mouth, a load of crap falls out!",
+   "pt": "Qual é a sua? Toda vez que você abre a boca, sai um monte de merda!"
+  },
+  {
+   "id": "C012_VS_R070_DECISION2_S_LOWER_KEYWORD",
+   "en": "You can talk after I beat the piss outta you.",
+   "pt": "Você pode falar depois que eu te arrebentar na porrada."
+  },
+  {
+   "id": "C012_VS_R070_DECISION2_P_UPPER_KEYWORD",
+   "en": "Getting bored of your yappin'!",
+   "pt": "Ficando entediada com esse seu falatório!"
+  },
+  {
+   "id": "C012_VS_R070_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "I'm gonna bust yer teeth out and make you pay for what you did! ",
+   "pt": "Eu vou quebrar os seus dentes e fazer você pagar pelo que fez! "
+  },
+  {
+   "id": "C012_VS_R070_DECISION2_P_LOWER_KEYWORD",
+   "en": "You killed my dad and now... I'm gonna kill you!",
+   "pt": "Você matou o meu pai e agora... eu vou matar você!"
+  },
+  {
+   "id": "C012_VS_R070_DECISION2_G_UPPER_KEYWORD",
+   "en": "You're not lookin' so hot now!",
+   "pt": "Você não tá parecendo tão foda agora!"
+  },
+  {
+   "id": "C012_VS_R070_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "No matter how strong you are, you're alone.\nYou can't defeat the two of us!",
+   "pt": "Não importa o quão forte você seja, você está sozinha.\nVocê não pode derrotar nós dois!"
+  },
+  {
+   "id": "C012_VS_R070_DECISION2_G_LOWER_KEYWORD",
+   "en": "You're done! Give it up already! ",
+   "pt": "Você já era! Desiste logo! "
+  },
+  {
+   "id": "C012_VS_R080_DECISION0_S_UPPER_KEYWORD",
+   "en": "Let's settle this!",
+   "pt": "Vamos resolver isso!"
+  },
+  {
+   "id": "C012_VS_R080_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "All I got to do to end this, is beat you? I'm down with that.",
+   "pt": "Tudo que eu tenho que fazer pra acabar com isso, é bater em você? Eu topo."
+  },
+  {
+   "id": "C012_VS_R080_DECISION0_S_LOWER_KEYWORD",
+   "en": "I'll finish you off nice and quick!",
+   "pt": "Eu vou acabar com você bem rápido!"
+  }
+ ]
+}

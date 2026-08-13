@@ -1,0 +1,1008 @@
+{
+ "origem": "KlkResources/S701_MES/MES_061_INU_ACT",
+ "conteudo": "Falas em batalha - Inumuta",
+ "parte": "1/3",
+ "instrucoes": "Traduza o campo 'en' para portugues do Brasil e escreva o resultado em 'pt'. Nao altere 'id'. Mantenha intactos os codigos entre chaves ({CA}, {LA}, {BR}, {JU}, {SP}, {GD}, {LS}, {L1}, {R1}, setas), os marcadores de formato (%d, %l, %ls, %hs) e as quebras de linha \\n. Se uma linha nao precisar de traducao, deixe 'pt' vazio.",
+ "linhas": [
+  {
+   "id": "C061_VS_C011_ENTRY_1P_01_KEYWORD",
+   "en": "I've already analyzed your data. \nYour chances of winning are next to zero!",
+   "pt": "Eu já analisei seus dados. \nSuas chances de vitória são quase zero!"
+  },
+  {
+   "id": "C061_VS_C011_ENTRY_1P_02_KEYWORD",
+   "en": "Show me your power, but just so you know... \nI wanted to get some data on your Kamui, specifically.",
+   "pt": "Mostre-me o seu poder, mas para que saiba... \nEu queria obter alguns dados do seu Kamui, especificamente."
+  },
+  {
+   "id": "C061_VS_C011_ENTRY_2P_01_KEYWORD",
+   "en": "You're free to think what you want.\nBut I'll show you how terrifying data can be.",
+   "pt": "Você é livre para pensar o que quiser.\nMas vou lhe mostrar o quão aterrorizantes os dados podem ser."
+  },
+  {
+   "id": "C061_VS_C011_ENTRY_2P_02_KEYWORD",
+   "en": "That's it, Matoi! Let me see all of your powers.",
+   "pt": "Isso, Matoi! Deixe-me ver todos os seus poderes."
+  },
+  {
+   "id": "C061_VS_C012_ENTRY_1P_01_KEYWORD",
+   "en": "Sweet. I'm going to collect data on your dual Scissor Blades.",
+   "pt": "Ótimo. Vou coletar dados sobre as suas Lâminas-Tesoura duplas."
+  },
+  {
+   "id": "C061_VS_C012_ENTRY_1P_02_KEYWORD",
+   "en": "Your Rending Scissors are powerful, but you need lots of strength to wield them.\nI wonder how long your body will hold up?",
+   "pt": "Suas Lâminas-Tesoura são poderosas, mas você precisa de muita força para empunhá-las.\nSerá que o seu corpo vai aguentar por muito tempo?"
+  },
+  {
+   "id": "C061_VS_C012_ENTRY_2P_01_KEYWORD",
+   "en": "Same as always won't cut it against me.\nOnce I have your data, I'll know all your moves.",
+   "pt": "Fazer a mesma coisa de sempre não vai funcionar contra mim.\nAssim que eu tiver seus dados, saberei todos os seus movimentos."
+  },
+  {
+   "id": "C061_VS_C012_ENTRY_2P_02_KEYWORD",
+   "en": "I already factored in your growth rate.\nThere will be no miscalculations.",
+   "pt": "Eu já calculei a sua taxa de crescimento.\nNão haverá erros de cálculo."
+  },
+  {
+   "id": "C061_VS_C021_ENTRY_1P_01_KEYWORD",
+   "en": "Lady Satsuki... if you don't mind, I'd like your data.",
+   "pt": "Senhorita Satsuki... se não se importa, eu gostaria dos seus dados."
+  },
+  {
+   "id": "C061_VS_C021_ENTRY_1P_02_KEYWORD",
+   "en": "Allow me to test my data against you, m'Lady. I'll be gentle.",
+   "pt": "Permita-me testar meus dados contra você, Senhorita. Serei gentil."
+  },
+  {
+   "id": "C061_VS_C021_ENTRY_2P_01_KEYWORD",
+   "en": "I'm terrified, m'Lady. Please... go easy on me.",
+   "pt": "Estou apavorado, Senhorita. Por favor... pegue leve comigo."
+  },
+  {
+   "id": "C061_VS_C021_ENTRY_2P_02_KEYWORD",
+   "en": "I just wanted to get some data on how I'd do against you. No offense, m'Lady.",
+   "pt": "Eu só queria obter alguns dados de como eu me sairia contra você. Sem ofensa, Senhorita."
+  },
+  {
+   "id": "C061_VS_C022_ENTRY_1P_01_KEYWORD",
+   "en": "Lady Satsuki... if you don't mind, I'd like your data.",
+   "pt": "Senhorita Satsuki... se não se importa, eu gostaria dos seus dados."
+  },
+  {
+   "id": "C061_VS_C022_ENTRY_1P_02_KEYWORD",
+   "en": "Allow me to test my data against you, m'Lady. I'll be gentle.",
+   "pt": "Permita-me testar meus dados contra você, Senhorita. Serei gentil."
+  },
+  {
+   "id": "C061_VS_C022_ENTRY_2P_01_KEYWORD",
+   "en": "If Lady Satsuki commands it, I guess I can't back down!",
+   "pt": "Se a Senhorita Satsuki ordena, acho que não posso recuar!"
+  },
+  {
+   "id": "C061_VS_C022_ENTRY_2P_02_KEYWORD",
+   "en": "You don't know that for sure! I haven't revealed all of my data yet.",
+   "pt": "Você não tem certeza disso! Eu ainda não revelei todos os meus dados."
+  },
+  {
+   "id": "C061_VS_C031_ENTRY_1P_01_KEYWORD",
+   "en": "Your data's mine, Gamagoori. Thank you in advance.",
+   "pt": "Seus dados são meus, Gamagoori. Agradeço desde já."
+  },
+  {
+   "id": "C061_VS_C031_ENTRY_1P_02_KEYWORD",
+   "en": "You're remarkably tough. But if I hit your weak spot, I believe I can beat you.",
+   "pt": "Você é notavelmente durão. Mas se eu atingir seu ponto fraco, acredito que posso vencê-lo."
+  },
+  {
+   "id": "C061_VS_C031_ENTRY_2P_01_KEYWORD",
+   "en": "I was just thinking about how nice it would be to get your data.",
+   "pt": "Eu estava justamente pensando em como seria bom obter os seus dados."
+  },
+  {
+   "id": "C061_VS_C031_ENTRY_2P_02_KEYWORD",
+   "en": "Uch, it's always training with you.\nYou train so much your brain has turned into a muscle.",
+   "pt": "Ugh, com você é sempre treino.\nVocê treina tanto que seu cérebro virou um músculo."
+  },
+  {
+   "id": "C061_VS_C041_ENTRY_1P_01_KEYWORD",
+   "en": "Your data is mine, Sanageyama. In case you were wondering.",
+   "pt": "Seus dados são meus, Sanageyama. Caso estivesse se perguntando."
+  },
+  {
+   "id": "C061_VS_C041_ENTRY_1P_02_KEYWORD",
+   "en": "Your senses may be superhuman, but it shouldn't take me too long to hack your defenses!",
+   "pt": "Seus sentidos podem ser sobre-humanos, mas não vou levar muito tempo para hackear suas defesas!"
+  },
+  {
+   "id": "C061_VS_C041_ENTRY_2P_01_KEYWORD",
+   "en": "Well, I've already calculated your growth rate.\nAnd my calculations are flawless.",
+   "pt": "Bem, eu já calculei a sua taxa de crescimento.\nE meus cálculos são perfeitos."
+  },
+  {
+   "id": "C061_VS_C041_ENTRY_2P_02_KEYWORD",
+   "en": "I didn't think you'd be easy.\nThen again, I didn't think you'd be too difficult, either.",
+   "pt": "Eu não achei que você seria fácil.\nPor outro lado, também não achei que seria muito difícil."
+  },
+  {
+   "id": "C061_VS_C051_ENTRY_1P_01_KEYWORD",
+   "en": "Jakuzure... I'm going to steal all your data.",
+   "pt": "Jakuzure... eu vou roubar todos os seus dados."
+  },
+  {
+   "id": "C061_VS_C051_ENTRY_1P_02_KEYWORD",
+   "en": "The closer the friends, the better the data.\nOn second thought, we're not that close.",
+   "pt": "Quanto mais próximos os amigos, melhores os dados.\nPensando bem, não somos tão próximos assim."
+  },
+  {
+   "id": "C061_VS_C051_ENTRY_2P_01_KEYWORD",
+   "en": "Actually, it's a great chance to test my noise cancelling tech.",
+   "pt": "Na verdade, é uma ótima chance de testar minha tecnologia de cancelamento de ruído."
+  },
+  {
+   "id": "C061_VS_C051_ENTRY_2P_02_KEYWORD",
+   "en": "I don't hate the idea, but I'd rather not listen to you play right now.",
+   "pt": "Eu não odeio a ideia, mas prefiro não ouvir você tocar agora."
+  },
+  {
+   "id": "C061_VS_C061_ENTRY_1P_01_KEYWORD",
+   "en": "I never thought I'd get to extract data from my doppelganger.",
+   "pt": "Nunca pensei que conseguiria extrair dados do meu clone."
+  },
+  {
+   "id": "C061_VS_C061_ENTRY_1P_02_KEYWORD",
+   "en": "I know my weaknesses better than anyone else. This should be easy.",
+   "pt": "Eu conheço as minhas fraquezas melhor que qualquer um. Isso deve ser fácil."
+  },
+  {
+   "id": "C061_VS_C061_ENTRY_2P_01_KEYWORD",
+   "en": "This is going to be interesting. He looks and behaves just like me.",
+   "pt": "Isso vai ser interessante. Ele se parece e age exatamente como eu."
+  },
+  {
+   "id": "C061_VS_C061_ENTRY_2P_02_KEYWORD",
+   "en": "The same goes for me.\nDon't think everything will go according to your calculations.",
+   "pt": "O mesmo vale para mim.\nNão pense que tudo vai sair de acordo com os seus cálculos."
+  },
+  {
+   "id": "C061_VS_C071_ENTRY_1P_01_KEYWORD",
+   "en": "I never thought I'd get the chance to get data directly from the Director herself.",
+   "pt": "Nunca pensei que teria a chance de obter dados diretamente da própria Diretora."
+  },
+  {
+   "id": "C061_VS_C071_ENTRY_1P_02_KEYWORD",
+   "en": "I'm honored to do battle with you, Madam Director.",
+   "pt": "Estou honrado em lutar contra você, Senhora Diretora."
+  },
+  {
+   "id": "C061_VS_C071_ENTRY_2P_01_KEYWORD",
+   "en": "No need to hold back, Madam Director.\nPlease... show me how strong you are.",
+   "pt": "Não precisa se segurar, Senhora Diretora.\nPor favor... mostre-me o quão forte você é."
+  },
+  {
+   "id": "C061_VS_C071_ENTRY_2P_02_KEYWORD",
+   "en": "I'm honored to do battle with you, Madam Director.",
+   "pt": "Estou honrado em lutar contra você, Senhora Diretora."
+  },
+  {
+   "id": "C061_VS_C081_ENTRY_1P_01_KEYWORD",
+   "en": "I don't know how you can face someone wearing a Goku Uniform if you're not wearing one.\nUnless you're a monster....",
+   "pt": "Eu não sei como você consegue enfrentar alguém usando um Uniforme Goku se não está usando um.\nA não ser que você seja um monstro..."
+  },
+  {
+   "id": "C061_VS_C081_ENTRY_1P_02_KEYWORD",
+   "en": "She's the one Lady Satsuki's worried about.\nI can't wait to see the data I get from her.",
+   "pt": "Ela é aquela com a qual a Senhorita Satsuki está preocupada.\nMal posso esperar para ver os dados que vou obter dela."
+  },
+  {
+   "id": "C061_VS_C081_ENTRY_2P_01_KEYWORD",
+   "en": "So you're the one Lady Satsuki warned us about.\nI must have your data.",
+   "pt": "Então você é aquela sobre quem a Senhorita Satsuki nos avisou.\nEu preciso ter seus dados."
+  },
+  {
+   "id": "C061_VS_C081_ENTRY_2P_02_KEYWORD",
+   "en": "I don't believe in ethical combat. Winning's all that matters in a fight. ",
+   "pt": "Eu não acredito em combate ético. Vencer é tudo que importa em uma luta. "
+  },
+  {
+   "id": "C061_VS_C141_ENTRY_1P_01_KEYWORD",
+   "en": "I'm intrigued by your compatibility with the Goku Uniform.\nI'd like a closer look at your data and add it to my collection.",
+   "pt": "Estou intrigado com a sua compatibilidade com o Uniforme Goku.\nEu gostaria de dar uma olhada mais de perto nos seus dados e adicioná-los à minha coleção."
+  },
+  {
+   "id": "C061_VS_C141_ENTRY_1P_02_KEYWORD",
+   "en": "Your resilience is fascinating, Mankanshoku.\nStand still and let me have a closer look at your data.",
+   "pt": "Sua resiliência é fascinante, Mankanshoku.\nFique parada e deixe-me dar uma olhada mais de perto nos seus dados."
+  },
+  {
+   "id": "C061_VS_C141_ENTRY_2P_01_KEYWORD",
+   "en": "You couldn't be more wrong about me. All I want is your combat data.\nI haven't the slightest interest in you as a person.",
+   "pt": "Você não poderia estar mais errada sobre mim. Tudo que eu quero são seus dados de combate.\nNão tenho o menor interesse em você como pessoa."
+  },
+  {
+   "id": "C061_VS_C141_ENTRY_2P_02_KEYWORD",
+   "en": "Okay, this is getting out of hand. Time to silence this bobblehead.",
+   "pt": "Certo, isso está saindo do controle. Hora de silenciar essa tagarela."
+  },
+  {
+   "id": "C061_VS_C151_ENTRY_1P_01_KEYWORD",
+   "en": "Seriously? You guys want to fight me... in that ridiculous thing?",
+   "pt": "É sério? Vocês querem me enfrentar... nessa coisa ridícula?"
+  },
+  {
+   "id": "C061_VS_C151_ENTRY_1P_02_KEYWORD",
+   "en": "On second thought, that thing's too bizarre. I'll pass.",
+   "pt": "Pensando bem, essa coisa é bizarra demais. Eu passo."
+  },
+  {
+   "id": "C061_VS_C151_ENTRY_2P_01_KEYWORD",
+   "en": "Actually, I wasn't even interested in it. It's... goofy.",
+   "pt": "Na verdade, eu nem estava interessado nela. É... patética."
+  },
+  {
+   "id": "C061_VS_C151_ENTRY_2P_02_KEYWORD",
+   "en": "Historically, the strongest have always decided what's right and wrong.\nBeat me and then you can lecture me.",
+   "pt": "Historicamente, os mais fortes sempre decidiram o que é certo e errado.\nMe vença e então poderá me dar lição de moral."
+  },
+  {
+   "id": "C061_SP_NEAR_01_KEYWORD",
+   "en": "How naïve.",
+   "pt": "Quão ingênuo."
+  },
+  {
+   "id": "C061_SP_NEAR_02_KEYWORD",
+   "en": "Hah hah!",
+   "pt": "Hah hah!"
+  },
+  {
+   "id": "C061_SP_NEAR_03_KEYWORD",
+   "en": "What's wrong?!",
+   "pt": "Qual é o problema?!"
+  },
+  {
+   "id": "C061_SP_NEAR_04_KEYWORD",
+   "en": "Aw, what's the matter?!",
+   "pt": "Ah, qual é o problema?!"
+  },
+  {
+   "id": "C061_SP_NEAR_05_KEYWORD",
+   "en": "I see you're out of options!",
+   "pt": "Vejo que você ficou sem opções!"
+  },
+  {
+   "id": "C061_SP_NEAR_06_KEYWORD",
+   "en": "You can do better than that!",
+   "pt": "Você consegue fazer melhor que isso!"
+  },
+  {
+   "id": "C061_SP_NEAR_07_KEYWORD",
+   "en": "Well, that's disappointing!",
+   "pt": "Bem, isso é decepcionante!"
+  },
+  {
+   "id": "C061_SP_NEAR_08_KEYWORD",
+   "en": "You can fight back, you know!",
+   "pt": "Você pode revidar, sabia!"
+  },
+  {
+   "id": "C061_SP_NEAR_09_KEYWORD",
+   "en": "Show me more of what you've got!",
+   "pt": "Mostre-me mais do que você tem!"
+  },
+  {
+   "id": "C061_SP_BREAK_01_KEYWORD",
+   "en": "Now, let's go!",
+   "pt": "Agora, vamos lá!"
+  },
+  {
+   "id": "C061_SP_BREAK_02_KEYWORD",
+   "en": "Let's warm up, first!",
+   "pt": "Vamos nos aquecer primeiro!"
+  },
+  {
+   "id": "C061_SP_BREAK_03_KEYWORD",
+   "en": "I'll take you on!",
+   "pt": "Eu te enfrento!"
+  },
+  {
+   "id": "C061_SP_BREAK_04_KEYWORD",
+   "en": "Hey, what are you looking at?",
+   "pt": "Ei, o que você está olhando?"
+  },
+  {
+   "id": "C061_SP_BREAK_05_KEYWORD",
+   "en": "Sorry, I'm behind you!",
+   "pt": "Desculpe, estou atrás de você!"
+  },
+  {
+   "id": "C061_SP_BREAK_06_KEYWORD",
+   "en": "Sorry, that's my double.",
+   "pt": "Desculpe, esse é o meu clone."
+  },
+  {
+   "id": "C061_SP_BREAK_07_KEYWORD",
+   "en": "I'm taking your data!",
+   "pt": "Estou pegando seus dados!"
+  },
+  {
+   "id": "C061_SP_BREAK_08_KEYWORD",
+   "en": "I'm going to thoroughly analyze your data!",
+   "pt": "Vou analisar completamente os seus dados!"
+  },
+  {
+   "id": "C061_SP_BREAK_09_KEYWORD",
+   "en": "I'll be taking this data.",
+   "pt": "Vou ficar com esses dados."
+  },
+  {
+   "id": "C061_SP_BREAK_10_KEYWORD",
+   "en": "What's the matter? Come at me!",
+   "pt": "Qual o problema? Venha!"
+  },
+  {
+   "id": "C061_SP_BREAK_11_KEYWORD",
+   "en": "Hurry! Show me your power!",
+   "pt": "Rápido! Mostre-me o seu poder!"
+  },
+  {
+   "id": "C061_SP_BREAK_12_KEYWORD",
+   "en": "I can't get any data like this.",
+   "pt": "Não consigo pegar nenhum dado assim."
+  },
+  {
+   "id": "C061_SP_FAR_01_KEYWORD",
+   "en": "Let's begin the analysis.",
+   "pt": "Vamos começar a análise."
+  },
+  {
+   "id": "C061_SP_FAR_02_KEYWORD",
+   "en": "I'll have your data.",
+   "pt": "Vou pegar os seus dados."
+  },
+  {
+   "id": "C061_SP_FAR_03_KEYWORD",
+   "en": "Beginning analysis.",
+   "pt": "Iniciando análise."
+  },
+  {
+   "id": "C061_SP_FAR_04_KEYWORD",
+   "en": "I have all of your data.",
+   "pt": "Eu tenho todos os seus dados."
+  },
+  {
+   "id": "C061_SP_FAR_05_KEYWORD",
+   "en": "Well, this should be enough.",
+   "pt": "Bem, isso deve ser o suficiente."
+  },
+  {
+   "id": "C061_SP_FAR_06_KEYWORD",
+   "en": "I'll cut you some slack.",
+   "pt": "Vou dar um desconto para você."
+  },
+  {
+   "id": "C061_SSP_BREAK_01_KEYWORD",
+   "en": "Begin analysis!",
+   "pt": "Iniciar análise!"
+  },
+  {
+   "id": "C061_SSP_BREAK_02_KEYWORD",
+   "en": "Lets see what you're made of.",
+   "pt": "Vamos ver do que você é feito."
+  },
+  {
+   "id": "C061_SSP_BREAK_03_KEYWORD",
+   "en": "Let's start the data extraction!",
+   "pt": "Vamos começar a extração de dados!"
+  },
+  {
+   "id": "C061_SSP_BREAK_04_KEYWORD",
+   "en": "Oh, that was close!",
+   "pt": "Oh, essa foi quase!"
+  },
+  {
+   "id": "C061_SSP_BREAK_05_KEYWORD",
+   "en": "Resistance is futile.",
+   "pt": "Resistência é inútil."
+  },
+  {
+   "id": "C061_SSP_BREAK_06_KEYWORD",
+   "en": "This is good data.",
+   "pt": "Esses dados são bons."
+  },
+  {
+   "id": "C061_SSP_BREAK_07_KEYWORD",
+   "en": "Well, shall I continue?",
+   "pt": "Bem, devo continuar?"
+  },
+  {
+   "id": "C061_SSP_BREAK_08_KEYWORD",
+   "en": "You're going to help me collect data!",
+   "pt": "Você vai me ajudar a coletar dados!"
+  },
+  {
+   "id": "C061_SSP_BREAK_09_KEYWORD",
+   "en": "Buahaha! I have some great data. Much obliged!",
+   "pt": "Buahaha! Eu consegui ótimos dados. Muito obrigado!"
+  },
+  {
+   "id": "C061_SSP_BREAK_10_KEYWORD",
+   "en": "Here you go!",
+   "pt": "Aqui está!"
+  },
+  {
+   "id": "C061_SSP_BREAK_11_KEYWORD",
+   "en": "Yaaah!",
+   "pt": "Yaaah!"
+  },
+  {
+   "id": "C061_SSP_BREAK_12_KEYWORD",
+   "en": "There!",
+   "pt": "Toma!"
+  },
+  {
+   "id": "C061_VS_C011_DECISION0_S_UPPER_KEYWORD",
+   "en": "Beginning data collection.",
+   "pt": "Iniciando coleta de dados."
+  },
+  {
+   "id": "C061_VS_C011_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "I'll make you use your power and then measure it in real time!",
+   "pt": "Vou fazer você usar o seu poder e depois medi-lo em tempo real!"
+  },
+  {
+   "id": "C061_VS_C011_DECISION0_S_LOWER_KEYWORD",
+   "en": "Now... show me more of your power!",
+   "pt": "Agora... mostre-me mais do seu poder!"
+  },
+  {
+   "id": "C061_VS_C011_DECISION0_P_UPPER_KEYWORD",
+   "en": "When you're ready, show me what you have!",
+   "pt": "Quando estiver pronto, mostre-me o que tem!"
+  },
+  {
+   "id": "C061_VS_C011_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "I don't want to win, I want your data.\nThe question is, will it be worth it?",
+   "pt": "Eu não quero vencer, quero seus dados.\nA questão é: vai valer a pena?"
+  },
+  {
+   "id": "C061_VS_C011_DECISION0_P_LOWER_KEYWORD",
+   "en": "Okay... let's see what you're made of!",
+   "pt": "Certo... vamos ver do que você é feito!"
+  },
+  {
+   "id": "C061_VS_C011_DECISION0_G_UPPER_KEYWORD",
+   "en": "It's meaningless to resist me.",
+   "pt": "É inútil resistir a mim."
+  },
+  {
+   "id": "C061_VS_C011_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "The moment you challenged me, your chances of beating me dropped to zero.",
+   "pt": "No momento em que me desafiou, suas chances de me vencer caíram para zero."
+  },
+  {
+   "id": "C061_VS_C011_DECISION0_G_LOWER_KEYWORD",
+   "en": "You better show me some good data!",
+   "pt": "É bom você me mostrar dados bons!"
+  },
+  {
+   "id": "C061_VS_C011_DECISION1_S_UPPER_KEYWORD",
+   "en": "Uh-oh. You're slowing down!",
+   "pt": "Uh-oh. Você está ficando lento!"
+  },
+  {
+   "id": "C061_VS_C011_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "By my calculations, you seem to be overexerting yourself.",
+   "pt": "Pelos meus cálculos, parece que você está se esforçando demais."
+  },
+  {
+   "id": "C061_VS_C011_DECISION1_S_LOWER_KEYWORD",
+   "en": "I don't mind you taking a little breather!",
+   "pt": "Eu não me importo se você quiser respirar um pouco!"
+  },
+  {
+   "id": "C061_VS_C011_DECISION1_P_UPPER_KEYWORD",
+   "en": "Is that all you've got?",
+   "pt": "Isso é tudo que você tem?"
+  },
+  {
+   "id": "C061_VS_C011_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "At this rate, it will be quite some time before you're strong enough to face me.",
+   "pt": "Neste ritmo, vai demorar bastante até que você seja forte o suficiente para me enfrentar."
+  },
+  {
+   "id": "C061_VS_C011_DECISION1_P_LOWER_KEYWORD",
+   "en": "Come on! Let's see you beat me!",
+   "pt": "Vamos lá! Quero ver você me vencer!"
+  },
+  {
+   "id": "C061_VS_C011_DECISION1_G_UPPER_KEYWORD",
+   "en": "So, that is really all you have?",
+   "pt": "Então, isso é realmente tudo o que você tem?"
+  },
+  {
+   "id": "C061_VS_C011_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "According to my calculations, you should be way better than this.",
+   "pt": "De acordo com meus cálculos, você deveria ser muito melhor do que isso."
+  },
+  {
+   "id": "C061_VS_C011_DECISION1_G_LOWER_KEYWORD",
+   "en": "Don't disappoint me now!",
+   "pt": "Não me decepcione agora!"
+  },
+  {
+   "id": "C061_VS_C011_DECISION2_S_UPPER_KEYWORD",
+   "en": "Data analysis complete. ",
+   "pt": "Análise de dados concluída. "
+  },
+  {
+   "id": "C061_VS_C011_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "No matter what you do or what strategy you take, you're done.",
+   "pt": "Não importa o que você faça ou qual estratégia adote, você já era."
+  },
+  {
+   "id": "C061_VS_C011_DECISION2_S_LOWER_KEYWORD",
+   "en": "You will never defeat me!",
+   "pt": "Você nunca me derrotará!"
+  },
+  {
+   "id": "C061_VS_C011_DECISION2_P_UPPER_KEYWORD",
+   "en": "Oh, well. I guess it was a waste of time.",
+   "pt": "Oh, bem. Acho que foi uma perda de tempo."
+  },
+  {
+   "id": "C061_VS_C011_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "It's a shame I can only get this teeny amount of data from you!",
+   "pt": "É uma pena que eu só consiga obter essa quantidade minúscula de dados de você!"
+  },
+  {
+   "id": "C061_VS_C011_DECISION2_P_LOWER_KEYWORD",
+   "en": "I'm disappointed!",
+   "pt": "Estou decepcionado!"
+  },
+  {
+   "id": "C061_VS_C011_DECISION2_G_UPPER_KEYWORD",
+   "en": "Looks like you're out of luck.",
+   "pt": "Parece que você está sem sorte."
+  },
+  {
+   "id": "C061_VS_C011_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "It doesn't matter what you do, you'll end up dancing in the palm of my hand!",
+   "pt": "Não importa o que você faça, vai acabar dançando na palma da minha mão!"
+  },
+  {
+   "id": "C061_VS_C011_DECISION2_G_LOWER_KEYWORD",
+   "en": "Let's see you struggle now!",
+   "pt": "Quero ver você se debater agora!"
+  },
+  {
+   "id": "C061_VS_C012_DECISION0_S_UPPER_KEYWORD",
+   "en": "Beginning data collection.",
+   "pt": "Iniciando coleta de dados."
+  },
+  {
+   "id": "C061_VS_C012_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "I'll make you use your power and then measure it in real time!",
+   "pt": "Vou fazer você usar o seu poder e depois medi-lo em tempo real!"
+  },
+  {
+   "id": "C061_VS_C012_DECISION0_S_LOWER_KEYWORD",
+   "en": "Now... show me more of your power!",
+   "pt": "Agora... mostre-me mais do seu poder!"
+  },
+  {
+   "id": "C061_VS_C012_DECISION0_P_UPPER_KEYWORD",
+   "en": "When you're ready, show me what you have!",
+   "pt": "Quando estiver pronto, mostre-me o que tem!"
+  },
+  {
+   "id": "C061_VS_C012_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "I don't want to win, I want your data.\nThe question is, will it be worth it?",
+   "pt": "Eu não quero vencer, quero seus dados.\nA questão é: vai valer a pena?"
+  },
+  {
+   "id": "C061_VS_C012_DECISION0_P_LOWER_KEYWORD",
+   "en": "Okay... let's see what you're made of!",
+   "pt": "Certo... vamos ver do que você é feito!"
+  },
+  {
+   "id": "C061_VS_C012_DECISION0_G_UPPER_KEYWORD",
+   "en": "It's meaningless to resist me.",
+   "pt": "É inútil resistir a mim."
+  },
+  {
+   "id": "C061_VS_C012_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "The moment you challenged me, your chances of beating me dropped to zero.",
+   "pt": "No momento em que me desafiou, suas chances de me vencer caíram para zero."
+  },
+  {
+   "id": "C061_VS_C012_DECISION0_G_LOWER_KEYWORD",
+   "en": "You better show me some good data!",
+   "pt": "É bom você me mostrar dados bons!"
+  },
+  {
+   "id": "C061_VS_C012_DECISION1_S_UPPER_KEYWORD",
+   "en": "Uh-oh. You're slowing down!",
+   "pt": "Uh-oh. Você está ficando lento!"
+  },
+  {
+   "id": "C061_VS_C012_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "By my calculations, you seem to be overexerting yourself.",
+   "pt": "Pelos meus cálculos, parece que você está se esforçando demais."
+  },
+  {
+   "id": "C061_VS_C012_DECISION1_S_LOWER_KEYWORD",
+   "en": "I don't mind you taking a little breather!",
+   "pt": "Eu não me importo se você quiser respirar um pouco!"
+  },
+  {
+   "id": "C061_VS_C012_DECISION1_P_UPPER_KEYWORD",
+   "en": "Is that all you've got?",
+   "pt": "Isso é tudo que você tem?"
+  },
+  {
+   "id": "C061_VS_C012_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "At this rate, it will be quite some time before you're strong enough to face me.",
+   "pt": "Neste ritmo, vai demorar bastante até que você seja forte o suficiente para me enfrentar."
+  },
+  {
+   "id": "C061_VS_C012_DECISION1_P_LOWER_KEYWORD",
+   "en": "Come on! Let's see you beat me!",
+   "pt": "Vamos lá! Quero ver você me vencer!"
+  },
+  {
+   "id": "C061_VS_C012_DECISION1_G_UPPER_KEYWORD",
+   "en": "So, that is really all you have?",
+   "pt": "Então, isso é realmente tudo o que você tem?"
+  },
+  {
+   "id": "C061_VS_C012_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "According to my calculations, you should be way better than this.",
+   "pt": "De acordo com meus cálculos, você deveria ser muito melhor do que isso."
+  },
+  {
+   "id": "C061_VS_C012_DECISION1_G_LOWER_KEYWORD",
+   "en": "Don't disappoint me now!",
+   "pt": "Não me decepcione agora!"
+  },
+  {
+   "id": "C061_VS_C012_DECISION2_S_UPPER_KEYWORD",
+   "en": "Data analysis complete. ",
+   "pt": "Análise de dados concluída. "
+  },
+  {
+   "id": "C061_VS_C012_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "No matter what you do or what strategy you take, you're done.",
+   "pt": "Não importa o que você faça ou qual estratégia adote, você já era."
+  },
+  {
+   "id": "C061_VS_C012_DECISION2_S_LOWER_KEYWORD",
+   "en": "You will never defeat me!",
+   "pt": "Você nunca me derrotará!"
+  },
+  {
+   "id": "C061_VS_C012_DECISION2_P_UPPER_KEYWORD",
+   "en": "Oh, well. I guess it was a waste of time.",
+   "pt": "Oh, bem. Acho que foi uma perda de tempo."
+  },
+  {
+   "id": "C061_VS_C012_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "It's a shame I can only get this teeny amount of data from you!",
+   "pt": "É uma pena que eu só consiga obter essa quantidade minúscula de dados de você!"
+  },
+  {
+   "id": "C061_VS_C012_DECISION2_P_LOWER_KEYWORD",
+   "en": "I'm disappointed!",
+   "pt": "Estou decepcionado!"
+  },
+  {
+   "id": "C061_VS_C012_DECISION2_G_UPPER_KEYWORD",
+   "en": "Looks like you're out of luck.",
+   "pt": "Parece que você está sem sorte."
+  },
+  {
+   "id": "C061_VS_C012_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "It doesn't matter what you do, you'll end up dancing in the palm of my hand!",
+   "pt": "Não importa o que você faça, vai acabar dançando na palma da minha mão!"
+  },
+  {
+   "id": "C061_VS_C012_DECISION2_G_LOWER_KEYWORD",
+   "en": "Let's see you struggle now!",
+   "pt": "Quero ver você se debater agora!"
+  },
+  {
+   "id": "C061_VS_C021_DECISION0_S_UPPER_KEYWORD",
+   "en": "Beginning data collection.",
+   "pt": "Iniciando coleta de dados."
+  },
+  {
+   "id": "C061_VS_C021_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "I'll make you use your power and then measure it in real time!",
+   "pt": "Vou fazer você usar o seu poder e depois medi-lo em tempo real!"
+  },
+  {
+   "id": "C061_VS_C021_DECISION0_S_LOWER_KEYWORD",
+   "en": "Now... show me more of your power!",
+   "pt": "Agora... mostre-me mais do seu poder!"
+  },
+  {
+   "id": "C061_VS_C021_DECISION0_P_UPPER_KEYWORD",
+   "en": "I'll show you how useful I can be!",
+   "pt": "Eu vou te mostrar o quão útil posso ser!"
+  },
+  {
+   "id": "C061_VS_C021_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "I don't care about winning, I want data.\nThis fight will serve that purpose nicely.",
+   "pt": "Eu não me importo em vencer, quero dados.\nEsta luta servirá muito bem para esse propósito."
+  },
+  {
+   "id": "C061_VS_C021_DECISION0_P_LOWER_KEYWORD",
+   "en": "Now... humor me, won't you?",
+   "pt": "Agora... satisfaça minha vontade, sim?"
+  },
+  {
+   "id": "C061_VS_C021_DECISION0_G_UPPER_KEYWORD",
+   "en": "Resist, but it won't matter.",
+   "pt": "Resista, mas não fará diferença."
+  },
+  {
+   "id": "C061_VS_C021_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "Your data was mine the second you challenged me.",
+   "pt": "Seus dados já eram meus no segundo em que me desafiou."
+  },
+  {
+   "id": "C061_VS_C021_DECISION0_G_LOWER_KEYWORD",
+   "en": "It's too late to resist!",
+   "pt": "É tarde demais para resistir!"
+  },
+  {
+   "id": "C061_VS_C021_DECISION1_S_UPPER_KEYWORD",
+   "en": "Hmm. You seem to be slowing down.",
+   "pt": "Hmm. Parece que você está ficando lento."
+  },
+  {
+   "id": "C061_VS_C021_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "Well, now you're definitely overexerting yourself.",
+   "pt": "Bem, agora você definitivamente está se esforçando além da conta."
+  },
+  {
+   "id": "C061_VS_C021_DECISION1_S_LOWER_KEYWORD",
+   "en": "Why don't you take a break for a bit.",
+   "pt": "Por que você não descansa um pouco."
+  },
+  {
+   "id": "C061_VS_C021_DECISION1_P_UPPER_KEYWORD",
+   "en": "Is that all you've got?",
+   "pt": "Isso é tudo que você tem?"
+  },
+  {
+   "id": "C061_VS_C021_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "You'll find it quite difficult to beat me if you keep attacking me like that.",
+   "pt": "Você achará muito difícil me vencer se continuar me atacando assim."
+  },
+  {
+   "id": "C061_VS_C021_DECISION1_P_LOWER_KEYWORD",
+   "en": "Don't hold back! Show me all your power!",
+   "pt": "Não se segure! Mostre-me todo o seu poder!"
+  },
+  {
+   "id": "C061_VS_C021_DECISION1_G_UPPER_KEYWORD",
+   "en": "What's the matter, Lady Satsuki?!",
+   "pt": "Qual é o problema, Senhorita Satsuki?!"
+  },
+  {
+   "id": "C061_VS_C021_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "According to my calculations, your blade should be much sharper than it is.",
+   "pt": "De acordo com meus cálculos, sua lâmina deveria ser muito mais afiada do que está sendo."
+  },
+  {
+   "id": "C061_VS_C021_DECISION1_G_LOWER_KEYWORD",
+   "en": "Please don't disappoint me, m'Lady!",
+   "pt": "Por favor, não me decepcione, Senhorita!"
+  },
+  {
+   "id": "C061_VS_C021_DECISION2_S_UPPER_KEYWORD",
+   "en": "Data analysis complete. ",
+   "pt": "Análise de dados concluída. "
+  },
+  {
+   "id": "C061_VS_C021_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "No matter what you do or what strategy you take, you're done.",
+   "pt": "Não importa o que você faça ou qual estratégia adote, você já era."
+  },
+  {
+   "id": "C061_VS_C021_DECISION2_S_LOWER_KEYWORD",
+   "en": "You will never defeat me!",
+   "pt": "Você nunca me derrotará!"
+  },
+  {
+   "id": "C061_VS_C021_DECISION2_P_UPPER_KEYWORD",
+   "en": "Oh, well. I guess it was a waste of time.",
+   "pt": "Oh, bem. Acho que foi uma perda de tempo."
+  },
+  {
+   "id": "C061_VS_C021_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "It's a shame I can only get this teeny amount of data from you!",
+   "pt": "É uma pena que eu só consiga obter essa quantidade minúscula de dados de você!"
+  },
+  {
+   "id": "C061_VS_C021_DECISION2_P_LOWER_KEYWORD",
+   "en": "I'm disappointed!",
+   "pt": "Estou decepcionado!"
+  },
+  {
+   "id": "C061_VS_C021_DECISION2_G_UPPER_KEYWORD",
+   "en": "Looks like you're out of luck.",
+   "pt": "Parece que você está sem sorte."
+  },
+  {
+   "id": "C061_VS_C021_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "I'm sorry. You were in the palm of my hand this whole time.",
+   "pt": "Sinto muito. Você estava na palma da minha mão esse tempo todo."
+  },
+  {
+   "id": "C061_VS_C021_DECISION2_G_LOWER_KEYWORD",
+   "en": "I'll take every last bit of data from you!",
+   "pt": "Eu vou extrair até o último bit de dados de você!"
+  },
+  {
+   "id": "C061_VS_C022_DECISION0_S_UPPER_KEYWORD",
+   "en": "Beginning data collection.",
+   "pt": "Iniciando coleta de dados."
+  },
+  {
+   "id": "C061_VS_C022_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "I'll make you use your power and then measure it in real time!",
+   "pt": "Vou fazer você usar o seu poder e depois medi-lo em tempo real!"
+  },
+  {
+   "id": "C061_VS_C022_DECISION0_S_LOWER_KEYWORD",
+   "en": "Now... show me more of your power!",
+   "pt": "Agora... mostre-me mais do seu poder!"
+  },
+  {
+   "id": "C061_VS_C022_DECISION0_P_UPPER_KEYWORD",
+   "en": "I'll show you how useful I can be!",
+   "pt": "Eu vou te mostrar o quão útil posso ser!"
+  },
+  {
+   "id": "C061_VS_C022_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "I don't care about winning, I want data. This fight will serve that purpose nicely.",
+   "pt": "Eu não me importo em vencer, quero dados. Esta luta servirá muito bem para esse propósito."
+  },
+  {
+   "id": "C061_VS_C022_DECISION0_P_LOWER_KEYWORD",
+   "en": "Now... humor me, won't you?",
+   "pt": "Agora... satisfaça minha vontade, sim?"
+  },
+  {
+   "id": "C061_VS_C022_DECISION0_G_UPPER_KEYWORD",
+   "en": "Resist, but it won't matter.",
+   "pt": "Resista, mas não fará diferença."
+  },
+  {
+   "id": "C061_VS_C022_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "Your data was mine the second you challenged me.",
+   "pt": "Seus dados já eram meus no segundo em que me desafiou."
+  },
+  {
+   "id": "C061_VS_C022_DECISION0_G_LOWER_KEYWORD",
+   "en": "It's too late to resist!",
+   "pt": "É tarde demais para resistir!"
+  },
+  {
+   "id": "C061_VS_C022_DECISION1_S_UPPER_KEYWORD",
+   "en": "Hmm. You seem to be slowing down.",
+   "pt": "Hmm. Parece que você está ficando lento."
+  },
+  {
+   "id": "C061_VS_C022_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "Well, now you're definitely overexerting yourself.",
+   "pt": "Bem, agora você definitivamente está se esforçando além da conta."
+  },
+  {
+   "id": "C061_VS_C022_DECISION1_S_LOWER_KEYWORD",
+   "en": "Why don't you take a break for a bit.",
+   "pt": "Por que você não descansa um pouco."
+  },
+  {
+   "id": "C061_VS_C022_DECISION1_P_UPPER_KEYWORD",
+   "en": "Is that all you've got?",
+   "pt": "Isso é tudo que você tem?"
+  },
+  {
+   "id": "C061_VS_C022_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "You'll find it quite difficult to beat me if you keep attacking me like that.",
+   "pt": "Você achará muito difícil me vencer se continuar me atacando assim."
+  },
+  {
+   "id": "C061_VS_C022_DECISION1_P_LOWER_KEYWORD",
+   "en": "Don't hold back! Show me all your power!",
+   "pt": "Não se segure! Mostre-me todo o seu poder!"
+  },
+  {
+   "id": "C061_VS_C022_DECISION1_G_UPPER_KEYWORD",
+   "en": "What's the matter, Lady Satsuki?!",
+   "pt": "Qual é o problema, Senhorita Satsuki?!"
+  },
+  {
+   "id": "C061_VS_C022_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "According to my calculations, your blade should be much sharper than it is.",
+   "pt": "De acordo com meus cálculos, sua lâmina deveria ser muito mais afiada do que está sendo."
+  },
+  {
+   "id": "C061_VS_C022_DECISION1_G_LOWER_KEYWORD",
+   "en": "Please don't disappoint me, m'Lady!",
+   "pt": "Por favor, não me decepcione, Senhorita!"
+  },
+  {
+   "id": "C061_VS_C022_DECISION2_S_UPPER_KEYWORD",
+   "en": "Data analysis complete. ",
+   "pt": "Análise de dados concluída. "
+  },
+  {
+   "id": "C061_VS_C022_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "No matter what you do or what strategy you take, you're done.",
+   "pt": "Não importa o que você faça ou qual estratégia adote, você já era."
+  },
+  {
+   "id": "C061_VS_C022_DECISION2_S_LOWER_KEYWORD",
+   "en": "You will never defeat me!",
+   "pt": "Você nunca me derrotará!"
+  },
+  {
+   "id": "C061_VS_C022_DECISION2_P_UPPER_KEYWORD",
+   "en": "Oh, well. I guess it was a waste of time.",
+   "pt": "Oh, bem. Acho que foi uma perda de tempo."
+  },
+  {
+   "id": "C061_VS_C022_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "It's a shame I can only get this teeny amount of data from you!",
+   "pt": "É uma pena que eu só consiga obter essa quantidade minúscula de dados de você!"
+  },
+  {
+   "id": "C061_VS_C022_DECISION2_P_LOWER_KEYWORD",
+   "en": "I'm disappointed!",
+   "pt": "Estou decepcionado!"
+  },
+  {
+   "id": "C061_VS_C022_DECISION2_G_UPPER_KEYWORD",
+   "en": "Looks like you're out of luck.",
+   "pt": "Parece que você está sem sorte."
+  },
+  {
+   "id": "C061_VS_C022_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "I'm sorry. You were in the palm of my hand this whole time.",
+   "pt": "Sinto muito. Você estava na palma da minha mão esse tempo todo."
+  },
+  {
+   "id": "C061_VS_C022_DECISION2_G_LOWER_KEYWORD",
+   "en": "I'll take every last bit of data from you!",
+   "pt": "Eu vou extrair até o último bit de dados de você!"
+  },
+  {
+   "id": "C061_VS_C031_DECISION0_S_UPPER_KEYWORD",
+   "en": "Beginning data collection.",
+   "pt": "Iniciando coleta de dados."
+  },
+  {
+   "id": "C061_VS_C031_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "I'll make you use your power and then measure it in real time!",
+   "pt": "Vou fazer você usar o seu poder e depois medi-lo em tempo real!"
+  },
+  {
+   "id": "C061_VS_C031_DECISION0_S_LOWER_KEYWORD",
+   "en": "Now... show me more of your power!",
+   "pt": "Agora... mostre-me mais do seu poder!"
+  },
+  {
+   "id": "C061_VS_C031_DECISION0_P_UPPER_KEYWORD",
+   "en": "When you're ready, show me what you have!",
+   "pt": "Quando estiver pronto, mostre-me o que tem!"
+  },
+  {
+   "id": "C061_VS_C031_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "I don't want to win, I want your data.\nThe question is, will it be worth it?",
+   "pt": "Eu não quero vencer, quero seus dados.\nA questão é: vai valer a pena?"
+  }
+ ]
+}

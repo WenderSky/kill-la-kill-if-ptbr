@@ -1,0 +1,313 @@
+{
+ "origem": "KlkResources/S701_MES/MES_013_RYU_ACT",
+ "conteudo": "Falas em batalha - Ryuko",
+ "parte": "1/1",
+ "instrucoes": "Traduza o campo 'en' para portugues do Brasil e escreva o resultado em 'pt'. Nao altere 'id'. Mantenha intactos os codigos entre chaves ({CA}, {LA}, {BR}, {JU}, {SP}, {GD}, {LS}, {L1}, {R1}, setas), os marcadores de formato (%d, %l, %ls, %hs) e as quebras de linha \\n. Se uma linha nao precisar de traducao, deixe 'pt' vazio.",
+ "linhas": [
+  {
+   "id": "C013_SP_NEAR_01_KEYWORD",
+   "en": "We're goin' all out, Senketsu!",
+   "pt": "Vamos com tudo, Senketsu!"
+  },
+  {
+   "id": "C013_SP_NEAR_02_KEYWORD",
+   "en": "Senketsu, time to speed things up!",
+   "pt": "Senketsu, hora de acelerar as coisas!"
+  },
+  {
+   "id": "C013_SP_NEAR_03_KEYWORD",
+   "en": "Right, let's step on it!",
+   "pt": "Certo, vamos pisar fundo!"
+  },
+  {
+   "id": "C013_SP_NEAR_04_KEYWORD",
+   "en": "Roger that, full throttle!",
+   "pt": "Entendido, força total!"
+  },
+  {
+   "id": "C013_SP_NEAR_05_KEYWORD",
+   "en": "C'mon, c'mon, c'mon!",
+   "pt": "Bora, bora, bora!"
+  },
+  {
+   "id": "C013_SP_NEAR_06_KEYWORD",
+   "en": "Oooaaaagh!",
+   "pt": "Uooooaaah!"
+  },
+  {
+   "id": "C013_SP_NEAR_07_KEYWORD",
+   "en": "Stay down!",
+   "pt": "Fique no chão!"
+  },
+  {
+   "id": "C013_SP_NEAR_08_KEYWORD",
+   "en": "All right... time to finish this!",
+   "pt": "Beleza... hora de acabar com isso!"
+  },
+  {
+   "id": "C013_SP_NEAR_09_KEYWORD",
+   "en": "Let's go all out!",
+   "pt": "Vamos com tudo!"
+  },
+  {
+   "id": "C013_SP_NEAR_10_KEYWORD",
+   "en": "Give it up already!",
+   "pt": "Desiste logo, porra!"
+  },
+  {
+   "id": "C013_SP_BREAK_01_KEYWORD",
+   "en": "Let's fly, Senketsu!",
+   "pt": "Vamos voar, Senketsu!"
+  },
+  {
+   "id": "C013_SP_BREAK_02_KEYWORD",
+   "en": "Can you do it, Senketsu?!",
+   "pt": "Você consegue, Senketsu?!"
+  },
+  {
+   "id": "C013_SP_BREAK_03_KEYWORD",
+   "en": "Don't bite your tongue!",
+   "pt": "Não morda a língua!"
+  },
+  {
+   "id": "C013_SP_BREAK_04_KEYWORD",
+   "en": "I'm ready!",
+   "pt": "Tô pronta!"
+  },
+  {
+   "id": "C013_SP_BREAK_05_KEYWORD",
+   "en": "Goooo!",
+   "pt": "Vaaaaaaai!"
+  },
+  {
+   "id": "C013_SP_BREAK_06_KEYWORD",
+   "en": "Oooaaagh!",
+   "pt": "Uooooaaah!"
+  },
+  {
+   "id": "C013_SP_BREAK_07_KEYWORD",
+   "en": "Get a load of summa this!",
+   "pt": "Toma um pouco disso!"
+  },
+  {
+   "id": "C013_SP_BREAK_08_KEYWORD",
+   "en": "Give it up already!",
+   "pt": "Desiste logo, porra!"
+  },
+  {
+   "id": "C013_SP_BREAK_09_KEYWORD",
+   "en": "Oraagh!",
+   "pt": "Oraaah!"
+  },
+  {
+   "id": "C013_SP_FAR_01_KEYWORD",
+   "en": "Senketsu, let's bust their shit!",
+   "pt": "Senketsu, vamos foder com a cara deles!"
+  },
+  {
+   "id": "C013_SP_FAR_02_KEYWORD",
+   "en": "Here comes the pain!",
+   "pt": "Aí vem a dor!"
+  },
+  {
+   "id": "C013_SP_FAR_03_KEYWORD",
+   "en": "Right! Time to get serious!",
+   "pt": "Beleza! Hora de falar sério!"
+  },
+  {
+   "id": "C013_SP_FAR_04_KEYWORD",
+   "en": "You got it. Let's go all in!",
+   "pt": "Entendido. Vamos apostar tudo!"
+  },
+  {
+   "id": "C013_SP_FAR_05_KEYWORD",
+   "en": "Can't get away from this one!",
+   "pt": "Dessa não tem como fugir!"
+  },
+  {
+   "id": "C013_SP_FAR_06_KEYWORD",
+   "en": "I'll cut you to bits!",
+   "pt": "Vou cortar você em pedaços!"
+  },
+  {
+   "id": "C013_SP_FAR_07_KEYWORD",
+   "en": "Ryuko!",
+   "pt": "Ryuko!"
+  },
+  {
+   "id": "C013_SP_FAR_08_KEYWORD",
+   "en": "Let's finish this!",
+   "pt": "Vamos acabar com isso!"
+  },
+  {
+   "id": "C013_FINISHARTS_01_KEYWORD",
+   "en": "Let's end this now!",
+   "pt": "Vamos acabar com isso agora!"
+  },
+  {
+   "id": "C013_FINISHARTS_02_KEYWORD",
+   "en": "Ryuko! I can feel your blood surging!",
+   "pt": "Ryuko! Sinto seu sangue fervendo!"
+  },
+  {
+   "id": "C013_FINISHARTS_03_KEYWORD",
+   "en": "We got a lot riding on this. We can't lose this one!",
+   "pt": "Tem muita coisa em jogo. Não podemos perder essa!"
+  },
+  {
+   "id": "C013_FINISHARTS_04_KEYWORD",
+   "en": "Then I'll make sure to go all out! Just like you!",
+   "pt": "Então vou garantir de dar tudo de mim! Igual a você!"
+  },
+  {
+   "id": "C013_FINISHARTS_05_KEYWORD",
+   "en": "Here we go, SEN-I-SOSHITSU!",
+   "pt": "Lá vamos nós, SEN-I-SOSHITSU!"
+  },
+  {
+   "id": "C013_DEFEAT_01_KEYWORD",
+   "en": "Damn, not like this...!",
+   "pt": "Merda, não assim...!"
+  },
+  {
+   "id": "C013_DEFEAT_02_KEYWORD",
+   "en": "Damnit...",
+   "pt": "Merda..."
+  },
+  {
+   "id": "C013_VS_R100_DECISION0_S_UPPER_KEYWORD",
+   "en": "This is...Senketsu Kisaragi...",
+   "pt": "Esse é o... Senketsu Kisaragi..."
+  },
+  {
+   "id": "C013_VS_R100_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "It feels way warmer and more comfier than usual.",
+   "pt": "Tá muito mais quente e confortável que o normal."
+  },
+  {
+   "id": "C013_VS_R100_DECISION0_S_LOWER_KEYWORD",
+   "en": "I feel unbeatable!",
+   "pt": "Me sinto imbatível!"
+  },
+  {
+   "id": "C013_VS_R100_DECISION0_P_UPPER_KEYWORD",
+   "en": "How friggin' sad!",
+   "pt": "Que tristeza do caralho!"
+  },
+  {
+   "id": "C013_VS_R100_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "After all that big talk of yours…\nnow you're the one being worn by your Kamui!",
+   "pt": "Depois de toda aquela sua falação...\nagora é você quem tá sendo vestida pelo seu Kamui!"
+  },
+  {
+   "id": "C013_VS_R100_DECISION0_P_LOWER_KEYWORD",
+   "en": "If it don't fit you, take it off!",
+   "pt": "Se não te serve, então tira!"
+  },
+  {
+   "id": "C013_VS_R100_DECISION0_G_UPPER_KEYWORD",
+   "en": "Your delusions or whatever suck.",
+   "pt": "Suas ilusões ou sei lá o que são uma merda."
+  },
+  {
+   "id": "C013_VS_R100_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "Is destroying the Life Fibers all you ever cared about?",
+   "pt": "Destruir as Fibras de Vida é a única coisa que importava pra você?"
+  },
+  {
+   "id": "C013_VS_R100_DECISION0_G_LOWER_KEYWORD",
+   "en": "Why can't you dream a future that's happy instead, you dumbass.",
+   "pt": "Por que não sonha com um futuro que seja feliz, sua idiota."
+  },
+  {
+   "id": "C013_VS_R100_DECISION1_S_UPPER_KEYWORD",
+   "en": "She can still put up a good fight!",
+   "pt": "Ela ainda consegue lutar bem!"
+  },
+  {
+   "id": "C013_VS_R100_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "I guess Satsuki's a bad-ass, whether she's awake or not.",
+   "pt": "Acho que a Satsuki é foda, quer esteja acordada ou não."
+  },
+  {
+   "id": "C013_VS_R100_DECISION1_S_LOWER_KEYWORD",
+   "en": "Welp! Guess I gotta go even more crazy!",
+   "pt": "Bom! Acho que tenho que ficar ainda mais louca!"
+  },
+  {
+   "id": "C013_VS_R100_DECISION1_P_UPPER_KEYWORD",
+   "en": "What the hell's with you, Satsuki?",
+   "pt": "Que porra é essa, Satsuki?"
+  },
+  {
+   "id": "C013_VS_R100_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "Don't fight your friends!\nBein' unconscious, or hypnotized or whatever's no excuse! ",
+   "pt": "Não lute contra os seus amigos!\nEstar inconsciente, hipnotizada ou qualquer merda não é desculpa! "
+  },
+  {
+   "id": "C013_VS_R100_DECISION1_P_LOWER_KEYWORD",
+   "en": "Is your ambition that important to you?",
+   "pt": "A sua ambição é tão importante assim pra você?"
+  },
+  {
+   "id": "C013_VS_R100_DECISION1_G_UPPER_KEYWORD",
+   "en": "Whatta buncha crap.",
+   "pt": "Quanta merda."
+  },
+  {
+   "id": "C013_VS_R100_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "If your ambitions only come true in your dreams, they don't mean shit!",
+   "pt": "Se suas ambições só se realizam nos seus sonhos, elas não significam porra nenhuma!"
+  },
+  {
+   "id": "C013_VS_R100_DECISION1_G_LOWER_KEYWORD",
+   "en": "Wake the hell up already and make 'em true for real!",
+   "pt": "Acorda logo, caralho, e faz elas virarem realidade!"
+  },
+  {
+   "id": "C013_VS_R100_DECISION2_S_UPPER_KEYWORD",
+   "en": "I hate to say this, but I'm kinda diggin' your delusions.",
+   "pt": "Odeio admitir, mas até que tô curtindo as suas ilusões."
+  },
+  {
+   "id": "C013_VS_R100_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "If I get to be like this some day, then I'm all for it. But first things, first!",
+   "pt": "Se eu puder ser assim algum dia, então tô dentro. Mas primeiro o mais importante!"
+  },
+  {
+   "id": "C013_VS_R100_DECISION2_S_LOWER_KEYWORD",
+   "en": "I gotta get back to reality and make sure I get it!",
+   "pt": "Tenho que voltar pra realidade e garantir isso!"
+  },
+  {
+   "id": "C013_VS_R100_DECISION2_P_UPPER_KEYWORD",
+   "en": "No matter how crazy it's gonna be!",
+   "pt": "Não importa o quão louco isso vai ser!"
+  },
+  {
+   "id": "C013_VS_R100_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "Everyone here's counting on me to bust your spell, too.\nSo I'm slappin' you awake!",
+   "pt": "Todo mundo aqui tá contando comigo pra quebrar esse seu feitiço também.\nEntão vou te acordar na porrada!"
+  },
+  {
+   "id": "C013_VS_R100_DECISION2_P_LOWER_KEYWORD",
+   "en": "C'mon, Satsuki! Wake the hell up already!",
+   "pt": "Bora, Satsuki! Acorda logo, caralho!"
+  },
+  {
+   "id": "C013_VS_R100_DECISION2_G_UPPER_KEYWORD",
+   "en": "It's time you stopped dreaming.",
+   "pt": "Já passou da hora de parar de sonhar."
+  },
+  {
+   "id": "C013_VS_R100_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "This world's gonna end anyway.\nBesides, the Satsuki I know ain't so weak, she'd hang onto some fantasy.",
+   "pt": "Esse mundo vai acabar de qualquer jeito.\nAlém disso, a Satsuki que eu conheço não é tão fraca a ponto de se apegar a uma fantasia."
+  },
+  {
+   "id": "C013_VS_R100_DECISION2_G_LOWER_KEYWORD",
+   "en": "I'm gonna snip off your dream world and wake your ass up to reality! ",
+   "pt": "Vou cortar fora esse seu mundo dos sonhos e fazer você acordar pra realidade! "
+  }
+ ]
+}

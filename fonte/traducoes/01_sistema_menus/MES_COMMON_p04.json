@@ -1,0 +1,1008 @@
+{
+ "origem": "message/MES_COMMON",
+ "conteudo": "Menus, sistema e avisos",
+ "parte": "4/8",
+ "instrucoes": "Traduza o campo 'en' para portugues do Brasil e escreva o resultado em 'pt'. Nao altere 'id'. Mantenha intactos os codigos entre chaves ({CA}, {LA}, {BR}, {JU}, {SP}, {GD}, {LS}, {L1}, {R1}, setas), os marcadores de formato (%d, %l, %ls, %hs) e as quebras de linha \\n. Se uma linha nao precisar de traducao, deixe 'pt' vazio.",
+ "linhas": [
+  {
+   "id": "ONLINE_NETWORK_LINE_03",
+   "en": "3 or More",
+   "pt": "3 ou Mais"
+  },
+  {
+   "id": "ONLINE_NETWORK_LINE_04",
+   "en": "4 Only",
+   "pt": "Apenas 4"
+  },
+  {
+   "id": "ONLINE_SHARE_00",
+   "en": "No Preference",
+   "pt": "Sem Preferência"
+  },
+  {
+   "id": "ONLINE_SHARE_01",
+   "en": "Allowed",
+   "pt": "Permitido"
+  },
+  {
+   "id": "ONLINE_SHARE_02",
+   "en": "Not Allowed",
+   "pt": "Não Permitido"
+  },
+  {
+   "id": "INVALID_PASSWORD",
+   "en": "No Password",
+   "pt": "Sem Senha"
+  },
+  {
+   "id": "INVALID_ROOM_ID",
+   "en": "No ID",
+   "pt": "Sem ID"
+  },
+  {
+   "id": "INVALID_CHARACTER",
+   "en": "No bans",
+   "pt": "Sem banimentos"
+  },
+  {
+   "id": "INVALID_ROOM_NAME",
+   "en": "---",
+   "pt": "---"
+  },
+  {
+   "id": "INVALID_ROOM_INFO",
+   "en": "---",
+   "pt": "---"
+  },
+  {
+   "id": "INVALID_USER_NAME",
+   "en": "---",
+   "pt": "---"
+  },
+  {
+   "id": "ONLINE_STAGE_NAME_ALL",
+   "en": "No Preference",
+   "pt": "Sem Preferência"
+  },
+  {
+   "id": "ONLINE_GAME_TIMER_ALL",
+   "en": "No Preference",
+   "pt": "Sem Preferência"
+  },
+  {
+   "id": "NETWORK_INITIALIZE",
+   "en": "Connecting to the network.",
+   "pt": "Conectando à rede."
+  },
+  {
+   "id": "NETWORK_QA_CHECK",
+   "en": "Confirming PlayStation®Plus membership.",
+   "pt": "Confirmando assinatura do PlayStation®Plus."
+  },
+  {
+   "id": "RANK_MATCH_RANK",
+   "en": "Rank",
+   "pt": "Rank"
+  },
+  {
+   "id": "RANK_MATCH_RATEPOINT",
+   "en": "Thread Count",
+   "pt": "Contagem de Fios"
+  },
+  {
+   "id": "RANK_MATCH_RANK_00",
+   "en": "No-Star",
+   "pt": "Sem Estrela"
+  },
+  {
+   "id": "RANK_MATCH_RANK_01",
+   "en": "One-Star Third Class Soldier",
+   "pt": "Soldado de Terceira Classe de Uma Estrela"
+  },
+  {
+   "id": "RANK_MATCH_RANK_02",
+   "en": "One-Star Second Class Soldier",
+   "pt": "Soldado de Segunda Classe de Uma Estrela"
+  },
+  {
+   "id": "RANK_MATCH_RANK_03",
+   "en": "One-Star First Class Soldier",
+   "pt": "Soldado de Primeira Classe de Uma Estrela"
+  },
+  {
+   "id": "RANK_MATCH_RANK_04",
+   "en": "Two-Star Bench",
+   "pt": "Reserva de Duas Estrelas"
+  },
+  {
+   "id": "RANK_MATCH_RANK_05",
+   "en": "Two-Star Starter",
+   "pt": "Titular de Duas Estrelas"
+  },
+  {
+   "id": "RANK_MATCH_RANK_06",
+   "en": "Two-Star Vice Chair",
+   "pt": "Vice-Líder de Duas Estrelas"
+  },
+  {
+   "id": "RANK_MATCH_RANK_07",
+   "en": "Two-Star Chair",
+   "pt": "Líder de Duas Estrelas"
+  },
+  {
+   "id": "RANK_MATCH_RANK_08",
+   "en": "Three-Star Major",
+   "pt": "Major de Três Estrelas"
+  },
+  {
+   "id": "RANK_MATCH_RANK_09",
+   "en": "Three-Star Lieutenant",
+   "pt": "Tenente de Três Estrelas"
+  },
+  {
+   "id": "RANK_MATCH_RANK_10",
+   "en": "Three-Star Colonel",
+   "pt": "Coronel de Três Estrelas"
+  },
+  {
+   "id": "RANK_MATCH_RANK_11",
+   "en": "Three-Star Major General",
+   "pt": "Major-General de Três Estrelas"
+  },
+  {
+   "id": "RANK_MATCH_RANK_12",
+   "en": "Three-Star Lieutenant General",
+   "pt": "Tenente-General de Três Estrelas"
+  },
+  {
+   "id": "RANK_MATCH_RANK_13",
+   "en": "Three-Star Admiral",
+   "pt": "Almirante de Três Estrelas"
+  },
+  {
+   "id": "RANK_MATCH_RANK_14",
+   "en": "Three-Star Elite Four",
+   "pt": "Quatro Elites de Três Estrelas"
+  },
+  {
+   "id": "RANK_MATCH_RANK_15",
+   "en": "Student Council President",
+   "pt": "Presidente do Conselho Estudantil"
+  },
+  {
+   "id": "RANK_MATCH_RANK_16",
+   "en": "Honorary Student Council President",
+   "pt": "Presidente Honorária do Conselho Estudantil"
+  },
+  {
+   "id": "RANK_MATCH_RANK_17",
+   "en": "Eternal Student Council President",
+   "pt": "Presidente Eterna do Conselho Estudantil"
+  },
+  {
+   "id": "REPLAY_MODE_FREE",
+   "en": "Free Battle",
+   "pt": "Batalha Livre"
+  },
+  {
+   "id": "REPLAY_MODE_ONLINE",
+   "en": "Player Match",
+   "pt": "Partida Livre"
+  },
+  {
+   "id": "REPLAY_MODE_RANKING",
+   "en": "Ranked Match",
+   "pt": "Partida Ranqueada"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_000",
+   "en": "Shiro Iori",
+   "pt": "Shiro Iori"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_001",
+   "en": "Houka Inumuta",
+   "pt": "Houka Inumuta"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_002",
+   "en": "Kusatao Uwabami",
+   "pt": "Kusatao Uwabami"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_003",
+   "en": "Maiko Ogure",
+   "pt": "Maiko Ogure"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_004",
+   "en": "Kyuji Obayashi",
+   "pt": "Kyuji Obayashi"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_005",
+   "en": "Maimu Okurahama",
+   "pt": "Maimu Okurahama"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_006",
+   "en": "Otte Tatamu",
+   "pt": "Otte Tatamu"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_007",
+   "en": "Kagezaburo Kagerou",
+   "pt": "Kagezaburo Kagerou"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_008",
+   "en": "Guts",
+   "pt": "Guts"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_009",
+   "en": "Ira Gamagoori",
+   "pt": "Ira Gamagoori"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_010",
+   "en": "Tsumugu Kinagase",
+   "pt": "Tsumugu Kinagase"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_011",
+   "en": "Satsuki Kiryuin",
+   "pt": "Satsuki Kiryuin"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_012",
+   "en": "Soichiro Kiryuin",
+   "pt": "Soichiro Kiryuin"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_013",
+   "en": "Ragyo Kiryuin",
+   "pt": "Ragyo Kiryuin"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_014",
+   "en": "Takiji Kuroido",
+   "pt": "Takiji Kuroido"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_015",
+   "en": "Taro Genbu",
+   "pt": "Taro Genbu"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_016",
+   "en": "Kenta Sakuramiya",
+   "pt": "Kenta Sakuramiya"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_017",
+   "en": "Uzu Sanageyama",
+   "pt": "Uzu Sanageyama"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_018",
+   "en": "Nonon Jakuzure",
+   "pt": "Nonon Jakuzure"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_019",
+   "en": "Naito Jack",
+   "pt": "Naito Jack"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_020",
+   "en": "Jiro Suzaku",
+   "pt": "Jiro Suzaku"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_021",
+   "en": "Saburo Seiryu",
+   "pt": "Saburo Seiryu"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_022",
+   "en": "Senketsu",
+   "pt": "Senketsu"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_023",
+   "en": "Mitsuzo Soroi",
+   "pt": "Mitsuzo Soroi"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_024",
+   "en": "Kaneo Takarada",
+   "pt": "Kaneo Takarada"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_025",
+   "en": "Ryusuke Todoroki",
+   "pt": "Ryusuke Todoroki"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_026",
+   "en": "Omiko Hakodate",
+   "pt": "Omiko Hakodate"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_027",
+   "en": "Nui Harime",
+   "pt": "Nui Harime"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_028",
+   "en": "Taro Byakko",
+   "pt": "Taro Byakko"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_029",
+   "en": "Takaharu Fukuroda",
+   "pt": "Takaharu Fukuroda"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_030",
+   "en": "Aisenbo Fuguhara",
+   "pt": "Aisenbo Fuguhara"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_031",
+   "en": "Rei Hououmaru",
+   "pt": "Rei Hououmaru"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_032",
+   "en": "Isshin Matoi",
+   "pt": "Isshin Matoi"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_033",
+   "en": "Ryuko Matoi",
+   "pt": "Ryuko Matoi"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_034",
+   "en": "Sukuyo Mankanshoku",
+   "pt": "Sukuyo Mankanshoku"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_035",
+   "en": "Barazo Mankanshoku",
+   "pt": "Barazo Mankanshoku"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_036",
+   "en": "Mako Mankanshoku",
+   "pt": "Mako Mankanshoku"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_037",
+   "en": "Mataro Mankanshoku",
+   "pt": "Mataro Mankanshoku"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_038",
+   "en": "Aikuro Mikisugi",
+   "pt": "Aikuro Mikisugi"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_039",
+   "en": "Kusanosuke Yaguruma",
+   "pt": "Kusanosuke Yaguruma"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_040",
+   "en": "Masuyo Watari",
+   "pt": "Masuyo Watari"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_READING_00",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_READING_01",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_READING_02",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_READING_03",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_READING_04",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_READING_05",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_READING_06",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_READING_07",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_READING_08",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_READING_09",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_READING_10",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_READING_11",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_READING_12",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_READING_13",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_READING_14",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_READING_15",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_READING_16",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_READING_17",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_READING_18",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_READING_19",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_READING_20",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_READING_21",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_READING_22",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_READING_23",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_READING_24",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_READING_25",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_READING_26",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_READING_27",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_READING_28",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_READING_29",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_READING_30",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_READING_31",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_READING_32",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_READING_33",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_READING_34",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_READING_35",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_READING_36",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_READING_37",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_READING_38",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_READING_39",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_READING_40",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_VOICE_000",
+   "en": "VA: Yuji Ueda",
+   "pt": "Dublador: Yuji Ueda"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_VOICE_001",
+   "en": "VA: Hiroyuki Yoshino",
+   "pt": "Dublador: Hiroyuki Yoshino"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_VOICE_003",
+   "en": "VA: Marina Inoue",
+   "pt": "Dubladora: Marina Inoue"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_VOICE_004",
+   "en": "VA: Ryota Takeuchi",
+   "pt": "Dublador: Ryota Takeuchi"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_VOICE_007",
+   "en": "VA: Shinichiro Miki",
+   "pt": "Dublador: Shinichiro Miki"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_VOICE_008",
+   "en": "VA: ????",
+   "pt": "Dublador(a): ????"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_VOICE_009",
+   "en": "VA: Tetsu Inada",
+   "pt": "Dublador: Tetsu Inada"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_VOICE_010",
+   "en": "VA: Katsuyuki Konishi",
+   "pt": "Dublador: Katsuyuki Konishi"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_VOICE_011",
+   "en": "VA: Ryōka Yuzuki",
+   "pt": "Dubladora: Ryōka Yuzuki"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_VOICE_013",
+   "en": "VA: Romi Park",
+   "pt": "Dubladora: Romi Park"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_VOICE_014",
+   "en": "VA: Kōsei Hirota",
+   "pt": "Dublador: Kōsei Hirota"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_VOICE_017",
+   "en": "VA: Nobuyuki Hiyama",
+   "pt": "Dublador: Nobuyuki Hiyama"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_VOICE_018",
+   "en": "VA: Mayumi Shintani",
+   "pt": "Dubladora: Mayumi Shintani"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_VOICE_022",
+   "en": "VA: Toshihiko Seki",
+   "pt": "Dublador: Toshihiko Seki"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_VOICE_023",
+   "en": "VA: Akio Nojima",
+   "pt": "Dublador: Akio Nojima"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_VOICE_024",
+   "en": "VA: Makoto Awane",
+   "pt": "Dublador: Makoto Awane"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_VOICE_025",
+   "en": "VA: Kiyohito Yoshikai",
+   "pt": "Dublador: Kiyohito Yoshikai"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_VOICE_026",
+   "en": "VA: Chiaki Takahashi",
+   "pt": "Dubladora: Chiaki Takahashi"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_VOICE_027",
+   "en": "VA: Yukari Tamura",
+   "pt": "Dubladora: Yukari Tamura"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_VOICE_029",
+   "en": "VA: Mitsuo Iwata",
+   "pt": "Dublador: Mitsuo Iwata"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_VOICE_031",
+   "en": "VA: Ayumi Fujimura",
+   "pt": "Dubladora: Ayumi Fujimura"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_VOICE_032",
+   "en": "VA: Kinryu Arimoto",
+   "pt": "Dublador: Kinryu Arimoto"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_VOICE_033",
+   "en": "VA: Ami Koshimizu",
+   "pt": "Dubladora: Ami Koshimizu"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_VOICE_034",
+   "en": "VA: Yukari Fukui",
+   "pt": "Dubladora: Yukari Fukui"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_VOICE_035",
+   "en": "VA: Kenyu Horiuchi",
+   "pt": "Dublador: Kenyu Horiuchi"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_VOICE_036",
+   "en": "VA: Aya Suzaki",
+   "pt": "Dubladora: Aya Suzaki"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_VOICE_037",
+   "en": "VA: Ayumi Fujimura",
+   "pt": "Dubladora: Ayumi Fujimura"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_VOICE_038",
+   "en": "VA: Shinichiro Miki",
+   "pt": "Dublador: Shinichiro Miki"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_VOICE_039",
+   "en": "VA: Ryō Naitō",
+   "pt": "Dublador: Ryō Naitō"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_INFO_000",
+   "en": "Honnouji Academy Sewing Club President. Satsuki's butler Soroi's nephew.\nHe always wears a plastic mask that covers half his face, and a white coat with a long hem.\nBesides producing and upgrading the Goku Uniforms,　\nhe is also involved in the analysis of the Life Fibers,\nand conducts experiments to unlock their full potential.\nHe often exchanges information and ideas with Inumuta outside of official duties.",
+   "pt": "Presidente do Clube de Costura da Academia Honnouji. Sobrinho do mordomo de Satsuki, Soroi.\nEle sempre usa uma máscara de plástico que cobre metade do seu rosto e um casaco branco comprido.\nAlém de produzir e melhorar os Uniformes Goku,　\nele também está envolvido na análise das Fibras de Vida,\ne conduz experimentos para desbloquear todo o seu potencial.\nEle frequentemente troca informações e ideias com Inumuta fora de seus deveres oficiais."
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_INFO_001",
+   "en": "A member of the Student Council Elite Four. He is Honnouji Academy Student \nCouncil's treasurer and chair of the Information and Strategy Committee.\nData collection and analysis is his favorite pastime. He is usually quiet and reserved,\nbut when others touch his devices he becomes extremely vocal.\nHe was caught bySatsuki Kiryuin while hacking into REVOCS Inc.　\nduring junior high, leading her to recruit him.",
+   "pt": "Um membro dos Quatro Elites do Conselho Estudantil. Ele é o tesoureiro do Conselho \nEstudantil da Academia Honnouji e líder do Comitê de Informação e Estratégia.\nColeta e análise de dados é seu passatempo favorito. Ele geralmente é quieto e reservado,\nmas quando outros tocam nos seus aparelhos, ele se torna extremamente barulhento.\nEle foi pego por Satsuki Kiryuin enquanto invadia os sistemas da REVOCS Inc.　\ndurante o ensino fundamental, o que a levou a recrutá-lo."
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_INFO_002",
+   "en": "Honnouji Academy Gardening Club Backyard Garden \nGeneral Manager. He appears in Episode 5.\nUsing his Gardening-spec Two-Star Goku Uniform,\nhe challenges Kinagase under Jakuzure's command.",
+   "pt": "Gerente Geral do Jardim dos Fundos do Clube de Jardinagem \nda Academia Honnouji. Ele aparece no Episódio 5.\nUsando seu Uniforme Goku de Duas Estrelas de Jardinagem,\nele desafia Kinagase sob o comando de Jakuzure."
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_INFO_003",
+   "en": "Honnouji Academy Second Year Class K, \nHead of the Trap Department. She appears in episode 4.\nShe appears in front of Ryuko and Mako by dressing up as a useless No-Star students\non No-Late Day. In hopes of surpassing the Student Council President,\nSatsuki, she plotted to take Senketsu away from Ryuko by fooling her.",
+   "pt": "Turma K do Segundo Ano da Academia Honnouji, \nChefe do Departamento de Armadilhas. Ela aparece no episódio 4.\nEla aparece na frente de Ryuko e Mako se vestindo como uma estudante Sem Estrela inútil\nno Dia Sem Atrasos. Na esperança de superar a Presidente do Conselho Estudantil,\nSatsuki, ela planejou tirar Senketsu de Ryuko enganando-a."
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_INFO_004",
+   "en": "Kami-Kobe High School, Martial Arts Federation Representative.\nHe appears in episode 14. His brightly colored Meiji period Imperial Navy uniform,\nwooden sandals and bamboo sword are part of his signature style.\nIn order to defend his school against Honnouji Academy during the Tri-City Schools Raid,\nhe faces off against Gamagoori by commanding his fellow classmates as well as the students\nfrom American High School.",
+   "pt": "Representante da Federação de Artes Marciais do Colégio Kami-Kobe.\nEle aparece no episódio 14. Seu uniforme da Marinha Imperial do período Meiji de cores vivas,\nsandálias de madeira e espada de bambu fazem parte do seu estilo de assinatura.\nPara defender sua escola da Academia Honnouji durante a Excursão de Invasão às Escolas das Três Cidades,\nele enfrenta Gamagoori comandando seus colegas de classe e os estudantes\ndo Colégio Americano."
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_INFO_005",
+   "en": "Honnouji Academy Folk Dance Club President. She appears in episode 7. \nWhen Ryuko was in the Fight Club, she was a target of the Goku Uniform hunt.\nArms grow from both sides of her body, and wearing a Two-star Goku Uniform that \nlooks like a mixer on her head, she kicks her opponents with lightning speed \nwhile dancing the mayim mayim. She also uses a move known as the Oklahoma Mixer.",
+   "pt": "Presidente do Clube de Dança Folclórica da Academia Honnouji. Ela aparece no episódio 7. \nQuando Ryuko estava no Clube de Luta, ela foi um alvo da caça aos Uniformes Goku.\nBraços crescem de ambos os lados do seu corpo, e usando um Uniforme Goku de Duas Estrelas que \nparece uma batedeira na sua cabeça, ela chuta seus oponentes com velocidade relâmpago \nenquanto dança mayim mayim. Ela também usa um golpe conhecido como Oklahoma Mixer."
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_INFO_006",
+   "en": "Honnouji Academy Origami Club President.\nHe appears in episode 7. While Ryuko was in the Fight Club,\nhe was a target of the Goku Uniform hunt.\nHe uses a Two-star Goku Uniform that allows him to fold into various shapes.\nYou know, like origami.",
+   "pt": "Presidente do Clube de Origami da Academia Honnouji.\nEle aparece no episódio 7. Enquanto Ryuko estava no Clube de Luta,\nele foi um alvo da caça aos Uniformes Goku.\nEle usa um Uniforme Goku de Duas Estrelas que permite se dobrar em várias formas.\nSabe, igual a origami."
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_INFO_007",
+   "en": "Honnouji Academy Nanjing Lily Club President. He appears in episode 7. \nHe is bald and wears a Buddhist rosary around his neck. He uses a\nTwo-Star Goku Uniform that looks like a Tamasudare wrapped in a bundle.",
+   "pt": "Presidente do Clube do Lírio de Nanquim da Academia Honnouji. Ele aparece no episódio 7. \nEle é careca e usa um rosário budista em volta do pescoço. Ele usa um\nUniforme Goku de Duas Estrelas que se parece com um Tamasudare embrulhado num feixe."
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_INFO_008",
+   "en": "The Mankanshoku family's pet dog. His name comes from the fact \nthat every food in sight makes its way into his guts.\nHis vitality and intelligence far exceed that of an ordinary dog.\nHe has been known to come to Ryuko and Mako's rescue at times.",
+   "pt": "O cachorro de estimação da família Mankanshoku. Seu nome vem do fato \nde que qualquer comida à vista vai direto para o bucho dele.\nSua vitalidade e inteligência superam muito as de um cachorro comum.\nEle é conhecido por vir ao resgate de Ryuko e Mako de vez em quando."
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_INFO_009",
+   "en": "A member of the Honnouji Academy Student Council Elite Four.\nChairman of the Disciplinary Committee. Has absolute loyalty toward Satsuki, \nwaiting two years until her graduation from junior high in order to join the academy.\nMako sometimes calls him old face. He's overly earnest, sticks to the rules,\nand has no mercy against those who do not comply with the rules.\nStill, he's flexible enough to understand Mako.",
+   "pt": "Um membro dos Quatro Elites do Conselho Estudantil da Academia Honnouji.\nLíder do Comitê Disciplinar. Tem lealdade absoluta a Satsuki, \nesperando dois anos até a formatura dela no ensino fundamental para entrar na academia.\nMako às vezes o chama de cara de velho. Ele é excessivamente sério, segue as regras a rigor,\ne não tem misericórdia contra aqueles que não cumprem as regras.\nAinda assim, ele é flexível o suficiente para entender Mako."
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_INFO_010",
+   "en": "Founding member of the anti-uniform faction, \"Nudist Beach.\"\nSports a red mohawk and a built physique. He has an aggressive personality. \nHe's skilled in tactical warfare, using his sewing machine gun and other tools to \nchallenge Ryuko in hopes of taking Senketsu away from her.\nHas a strong resentment toward Life Fibers, and fights to eradicate them.\nHe has a tendency to warn others by saying, \"I'll tell you two things.\"",
+   "pt": "Membro fundador da facção anti-roupas, \"Nudist Beach\".\nOstenta um moicano vermelho e um físico musculoso. Ele tem uma personalidade agressiva. \nEle é habilidoso em guerra tática, usando sua metralhadora de costura e outras ferramentas para \ndesafiar Ryuko na esperança de tirar Senketsu dela.\nTem um forte ressentimento com as Fibras de Vida, e luta para erradicá-las.\nEle tem a tendência de alertar os outros dizendo: \"Vou te dizer duas coisas.\""
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_INFO_011",
+   "en": "Student Council President. Ragyo, her mother and chairwoman of the school,\ntasked her with managing Honnouji Academy.\nSupplies talented students with the Goku Uniforms, positioning them under her command.\nShe is relentless, calling humanity \"pigs wearing human clothes.\"\nShe wields her blade, Bakuzan, with grace. Satsuki obtains her own Kamui, Junketsu, \nand stands against Ryuko alongside her Elite Four.",
+   "pt": "Presidente do Conselho Estudantil. Ragyo, sua mãe e diretora da escola,\nencarregou-a de administrar a Academia Honnouji.\nFornece os Uniformes Goku aos alunos talentosos, colocando-os sob seu comando.\nEla é implacável, chamando a humanidade de \"porcos em roupas de humanos\".\nEla empunha sua lâmina, Bakuzan, com graça. Satsuki obtém seu próprio Kamui, Junketsu, \ne enfrenta Ryuko ao lado de seus Quatro Elites."
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_INFO_012",
+   "en": "Satsuki's father. A talented researcher who was also the husband of Ragyo Kiryuin.\nHe was researching the Life Fibers with his wife,\nbut tragically died in an accident when Satsuki was five.",
+   "pt": "Pai de Satsuki. Um pesquisador talentoso que também era o marido de Ragyo Kiryuin.\nEle estava pesquisando as Fibras de Vida com sua esposa,\nmas morreu tragicamente em um acidente quando Satsuki tinha cinco anos."
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_INFO_013",
+   "en": "Satsuki's mother. She is the head of the Kiryuin Conglomerate and \nthe CEO of REVOCS, Inc., which holds a 70% share of the global apparel industry,\nas well as serving as the chairwoman of Honnouji Academy.\nShe came in contact with the Life Fibers 20 years ago,\nand in order to see Cocoon Star Nativity realized,\nshe distributes clothing embedded with Life Fibers throughout the world.",
+   "pt": "Mãe de Satsuki. Ela é a chefe do Conglomerado Kiryuin e \nCEO da REVOCS, Inc., que detém 70% de participação na indústria global de vestuário,\nalém de servir como diretora da Academia Honnouji.\nEla entrou em contato com as Fibras de Vida há 20 anos,\ne para ver o Nascimento da Estrela Casulo se realizar,\nela distribui roupas incorporadas com Fibras de Vida por todo o mundo."
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_INFO_014",
+   "en": "He is the primary butler of the Kiryuin family,\nand a man who has pledged absolute loyalty to Ragyo.\nHe serves as a vanguard to the Kiryuin family.\nHe tried to stop Satsuki from stealing Junketsu\nfrom the underground research laboratory, but she did not listen.",
+   "pt": "Ele é o mordomo principal da família Kiryuin,\ne um homem que jurou lealdade absoluta a Ragyo.\nEle serve como uma vanguarda para a família Kiryuin.\nEle tentou impedir Satsuki de roubar Junketsu\ndo laboratório de pesquisa subterrâneo, mas ela não lhe deu ouvidos."
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_INFO_015",
+   "en": "A member of the Abokabe Academy Onmyou Club. He appears in episode 14 of the anime.\nHe faces off against Jakuzure's Raid Trip Brigade during their Tri-City Schools Raid Trip.",
+   "pt": "Um membro do Clube Onmyou da Academia Abokabe. Ele aparece no episódio 14 do anime.\nEle enfrenta a Brigada de Excursão de Jakuzure durante a Excursão de Invasão às Escolas das Três Cidades."
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_INFO_016",
+   "en": "A representative of the Martial Arts Federation at Kami-Kobe High School. \nHe appears in episode 14. He sports long hair and a white school uniform.\nWith the help of his fellow students, including those from the American High School,\nhe stood against Ira Gamagoori's Kobe Raid Army\nto defend his school during the Tri-City Schools Raid Trip. \n",
+   "pt": "Um representante da Federação de Artes Marciais no Colégio Kami-Kobe. \nEle aparece no episódio 14. Ele ostenta cabelos longos e um uniforme escolar branco.\nCom a ajuda de seus colegas de classe, incluindo aqueles do Colégio Americano,\nele enfrentou o Exército de Invasão a Kobe de Ira Gamagoori\npara defender sua escola durante a Excursão de Invasão às Escolas das Três Cidades. \n"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_INFO_017",
+   "en": "A member of the Honnouji Academy Student Council Elite Four. \nHe is the Athletic Committee Chair. He demonstrated his extreme resolve toward \ncompetition when he sewed his own eyes shut after being defeated by Ryuko as \na result of his overconfidence in his Tengantsu ability. His desire to fight Satsuki \nagain after his defeat during junior high motivated him to join Satsuki's brigade.",
+   "pt": "Um membro dos Quatro Elites do Conselho Estudantil da Academia Honnouji. \nEle é o Líder do Comitê Atlético. Ele demonstrou sua extrema determinação em relação \nà competição quando costurou os próprios olhos depois de ser derrotado por Ryuko como \nresultado do seu excesso de confiança na sua habilidade Tengantsu. Seu desejo de lutar contra Satsuki \nnovamente após a sua derrota no ensino fundamental o motivou a se juntar à brigada de Satsuki."
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_INFO_018",
+   "en": "A member of the Student Council Elite Four,\nserves as the school's Non-Athletic Committee Chair.\nShe looks and sounds childish from her small physique and speech, \nbut she's quite snobby, often giving her Elite Four comrades nicknames.\nHer father is a CEO of a Kiryuin Group company. She has known Satsuki since childhood.\nShe is one of the few people that Satsuki feels comfortable around.",
+   "pt": "Um membro dos Quatro Elites do Conselho Estudantil,\nserve como Líder do Comitê Não Atlético da escola.\nEla parece e soa infantil pelo seu físico pequeno e fala, \nmas ela é bastante esnobe, frequentemente dando apelidos aos seus camaradas dos Quatro Elites.\nSeu pai é o CEO de uma empresa do Grupo Kiryuin. Ela conhece Satsuki desde a infância.\nEla é uma das poucas pessoas com quem Satsuki se sente confortável."
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_INFO_019",
+   "en": "He is Honnouji Academy's Knife Throwing Club President. He appears in episode 7. \nHe was a target of the Goku Uniform Hunt while Ryuko was in the Fight Club. \nHe uses a Two-Star Goku Uniform that covers his entire body in knives.",
+   "pt": "Ele é o Presidente do Clube de Arremesso de Facas da Academia Honnouji. Ele aparece no episódio 7. \nEle foi um alvo da Caça aos Uniformes Goku enquanto Ryuko estava no Clube de Luta. \nEle usa um Uniforme Goku de Duas Estrelas que cobre todo o seu corpo com facas."
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_INFO_020",
+   "en": "Member of the Onmyou Club at Abokabe Academy. He appears in episode 14.\nHe wears a kimono decorated with feathers. \nHe defends Abokabe Academy against Jakuzure's Raid Trip Brigade.",
+   "pt": "Membro do Clube Onmyou da Academia Abokabe. Ele aparece no episódio 14.\nEle usa um quimono decorado com penas. \nEle defende a Academia Abokabe da Brigada de Excursão de Jakuzure."
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_INFO_021",
+   "en": "Member of the Onmyou Club at Abokabe Academy. He appears in episode 14 of the anime. \nHe wears a dragon-like costume. He fights to defend Abokabe Acade\nmy from the Jakuzure's Raid Trip Brigade during the Tri-City Schools Raid Trip.",
+   "pt": "Membro do Clube Onmyou da Academia Abokabe. Ele aparece no episódio 14 do anime. \nEle usa uma fantasia de dragão. Ele luta para defender a Academia Abokabe\nda Brigada de Excursão de Jakuzure durante a Excursão de Invasão às Escolas das Três Cidades."
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_INFO_022",
+   "en": "A talking school uniform made by Isshin Matoi. He is 100% composed of Life Fibers, \nand only Ryuko can hear him. With Mikisugi's help Ryuko meets Senketsu \nat her father's lab. He awakens after sucking her blood. His name is derived\nfrom the Japanese characters for \"fresh blood.\"\nThe two quickly become close friends. Very strict about her health, measuring \nher body-fat % and reporting it to her. Likes being ironed. ",
+   "pt": "Um uniforme escolar falante feito por Isshin Matoi. Ele é 100% composto de Fibras de Vida, \ne apenas Ryuko consegue ouvi-lo. Com a ajuda de Mikisugi, Ryuko encontra Senketsu \nno laboratório de seu pai. Ele desperta depois de sugar o sangue dela. Seu nome deriva\ndos caracteres japoneses para \"sangue fresco\".\nOs dois rapidamente se tornam grandes amigos. Muito rigoroso sobre a saúde dela, medindo \nseu % de gordura corporal e relatando a ela. Gosta de ser passado a ferro. "
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_INFO_023",
+   "en": "Satsuki's butler serving the Kiryuin family, and Shiro Iori's uncle.\nHe's always wearing a three piece suit. He has been serving\nand supporting Satsuki since she was very little.\nHis greatest joy is serving her tea.  He is one of only a few \npeople that Satsuki opens her heart to.  He calls Satsuki \"Milady.\"",
+   "pt": "O mordomo de Satsuki que serve a família Kiryuin, e tio de Shiro Iori.\nEle está sempre usando um terno de três peças. Ele serve\ne apoia Satsuki desde que ela era bem pequena.\nSua maior alegria é servir chá para ela.  Ele é uma das poucas \npessoas para quem Satsuki abre o seu coração.  Ele chama Satsuki de \"Senhorita\"."
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_INFO_024",
+   "en": "Student Council President of Naniwa Kinman High School. He wears a coat embroidered \nwith a tiger design. He has an overbite and inserts that say \"ZENI.\" \nHe is the inheritor of the Takarada Conglomerate. Upon Honnouji's attack during \nthe Tri-City Schools Raid Trip, he fought against Sanageyama with his Conglomerate's\ninvestments while riding the Anti-Honnouji Academy mechanized weapon, Dotonbori Robo.",
+   "pt": "Presidente do Conselho Estudantil do Colégio Naniwa Kinman. Ele usa um casaco bordado \ncom o desenho de um tigre. Ele tem os dentes salientes e implantes que dizem \"ZENI\". \nEle é o herdeiro do Conglomerado Takarada. No ataque de Honnouji durante \na Excursão de Invasão às Escolas das Três Cidades, ele lutou contra Sanageyama com os investimentos\ndo seu Conglomerado enquanto pilotava a arma mecanizada Anti-Academia Honnouji, o Robô Dotonbori."
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_INFO_025",
+   "en": "President of Honnouji Academy's Automotive Airsoft Club. He appears in episode 8.\nHe uses a Two-star Goku Uniform that turns him into an automobile. \nThe Automotive Airsoft Club is a fusion of the Airsoft and the Automobile Clubs. \nHe led an assault against Ryuko and her allies while \nthey were riding in Gamagoori's car during the Naturals Election.",
+   "pt": "Presidente do Clube de Automóveis e Airsoft da Academia Honnouji. Ele aparece no episódio 8.\nEle usa um Uniforme Goku de Duas Estrelas que o transforma em um automóvel. \nO Clube de Automóveis e Airsoft é uma fusão do Clube de Airsoft e de Automóveis. \nEle liderou um ataque contra Ryuko e seus aliados enquanto \neles andavam no carro de Gamagoori durante a Eleição Natural."
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_INFO_026",
+   "en": "President of Honnouji Academy's Tennis Club. She appears in episode 2.  \nShe wears a sun visor and a rotating scope lens on her right eye. \nHer Two-Star Goku Uniform comes with tennis balls\nloaded beneath her skirt. The tennis racquet is strung with Life Fibers,\nallowing her to make steel-penetrating serves.\nShe engages in a death match against Ryuko.",
+   "pt": "Presidente do Clube de Tênis da Academia Honnouji. Ela aparece no episódio 2.  \nEla usa uma viseira de sol e uma lente telescópica rotativa no olho direito. \nSeu Uniforme Goku de Duas Estrelas vem com bolas de tênis\ncarregadas debaixo da sua saia. A raquete de tênis tem cordas de Fibras de Vida,\npermitindo que ela faça saques que penetram o aço.\nEla se envolve numa partida mortal contra Ryuko."
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_INFO_027",
+   "en": "The Grand Couturier of REVOCS, Inc. \nShe wears her hair in pigtails and sports an eyepatch. \nHer innocent smile and energetic demeanor disguise\nher inner cruelty and insanity. She is very elusive, \nand Ragyo considers her actions to be the whim of an artist. \nEven Satsuki, with her overwhelming power, fears her, \nas Nui has the combat skill to stand against Goku Uniforms with her own body. ",
+   "pt": "A Grande Costureira da REVOCS, Inc. \nEla usa o cabelo em maria-chiquinha e ostenta um tapa-olho. \nSeu sorriso inocente e comportamento enérgico disfarçam\nsua crueldade e insanidade interior. Ela é muito esquiva, \ne Ragyo considera suas ações os caprichos de uma artista. \nAté mesmo Satsuki, com seu poder esmagador, a teme, \njá que Nui tem habilidade de combate para bater de frente com os Uniformes Goku com o próprio corpo. "
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_INFO_028",
+   "en": "A member of the Onmyou Club at Abekamo Academy.\nHe appears in episode 14. He wears a kimono that looks like a white tiger. \nHe defends Abekamo Academy from Jakuzure's Raid Trip Brigade.",
+   "pt": "Um membro do Clube Onmyou da Academia Abekamo.\nEle aparece no episódio 14. Ele usa um quimono que parece um tigre branco. \nEle defende a Academia Abekamo da Brigada de Excursão de Jakuzure."
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_INFO_029",
+   "en": "President of the Honnouji Academy Boxing Club. He appears in episode 1. \nHe uses a Two-Star Goku Uniform that enhances his gloves and trunks with Life Fibers. \nHe threatened Ryuko with his iron-hard gloves and \nleft jabs so fast that they could shatter clothing into pieces.",
+   "pt": "Presidente do Clube de Boxe da Academia Honnouji. Ele aparece no episódio 1. \nEle usa um Uniforme Goku de Duas Estrelas que melhora suas luvas e calções com Fibras de Vida. \nEle ameaçou Ryuko com suas luvas duras como ferro e \njabs de esquerda tão rápidos que podiam despedaçar roupas em pedaços."
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_INFO_030",
+   "en": "President of the Ping Pong Club at Honnouji Academy. She appears in episode 7 of the anime.\nShe was a target of the Goku Uniform Hunt when Ryuko was in the Fight Club.\nShe uses a Two-Star Goku Uniform equipped with various ping pong tools.\nShe serves by spitting out oil from her mouth and burning the ball.",
+   "pt": "Presidente do Clube de Ping Pong da Academia Honnouji. Ela aparece no episódio 7 do anime.\nEla foi um alvo da Caça aos Uniformes Goku quando Ryuko estava no Clube de Luta.\nEla usa um Uniforme Goku de Duas Estrelas equipado com várias ferramentas de ping pong.\nEla saca cuspindo óleo da boca e queimando a bola."
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_INFO_031",
+   "en": "Ragyo's secretary. \nShe rocks a white suit that serves as a lovely contrast over her dark skin.\nShe is wholly devoted to Ragyo. Not only does she serve as Ragyo's secretary, \nbut will at times fight to protect her. \nHer suit sleeves elongates and turn into beltlike structures, \nallowing her to adjust the length to act as a sword or shield at will.",
+   "pt": "Secretária de Ragyo. \nEla arrasa num terno branco que serve como um belo contraste com a sua pele escura.\nEla é totalmente devotada a Ragyo. Ela não apenas atua como secretária de Ragyo, \nmas também, às vezes, luta para protegê-la. \nAs mangas do seu terno se alongam e se transformam em estruturas semelhantes a cintos, \npermitindo que ela ajuste o comprimento para agir como uma espada ou escudo à vontade."
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_INFO_032",
+   "en": "Ryuko's father and the Life Fiber researcher who created Senketsu. \nHe has a long beard, an eye patch, a white coat, a cane, and a pet mouse.\nHe was in the process of inventing a weapon that could withstand \nthe Life Fiber weapons like the Scissor Blades and Senketsu, \nbut was murdered before he could finish his research.",
+   "pt": "O pai de Ryuko e o pesquisador de Fibras de Vida que criou Senketsu. \nEle tem uma barba longa, um tapa-olho, um jaleco branco, uma bengala e um rato de estimação.\nEle estava no processo de inventar uma arma que pudesse resistir \nàs armas de Fibra de Vida, como as Lâminas-Tesoura e Senketsu, \nmas foi assassinado antes de poder terminar a sua pesquisa."
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_INFO_033",
+   "en": "She transfers to Honnouji Academy in search of the truth behind her father's death. \nHolding one half of a giant pair of scissors, known as the Scissor Blade, \nshe is in search of the other half. After meeting the talking school uniform, Kamui Senketsu, \nshe throws herself into a battle against Satsuki Kiryuin, \nwho may hold the secret behind her father's death.",
+   "pt": "Ela se transfere para a Academia Honnouji em busca da verdade por trás da morte do seu pai. \nEmpunhando uma metade de uma tesoura gigante, conhecida como Lâmina-Tesoura, \nela está à procura da outra metade. Após conhecer o uniforme escolar falante, Kamui Senketsu, \nela se joga em uma batalha contra Satsuki Kiryuin, \nque pode ter o segredo por trás da morte do seu pai."
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_INFO_034",
+   "en": "Mako's mother. Easygoing and caring, but is merciless against her husband and son, \noften blurting vitriol against them with a smile. Her favorite food to cook is the croquette. \nAccording to her, the secret to a good croquette is to\nchop just about anything up into bits and mix it with potatoes. \nHer Mystery Croquettes are very tasty. According to Barazo, \nshe is \"top of her class when it comes to mystery frying.\"",
+   "pt": "A mãe de Mako. Descontraída e carinhosa, mas implacável contra o marido e o filho, \nfrequentemente disparando ofensas contra eles com um sorriso. Sua comida favorita de cozinhar é o croquete. \nSegundo ela, o segredo para um bom croquete é\npicar praticamente qualquer coisa em pedaços e misturar com batatas. \nSeus Croquetes Misteriosos são muito saborosos. De acordo com Barazo, \nela é a \"melhor da classe quando se trata de fritura misteriosa\"."
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_INFO_035",
+   "en": "Mako's Father. He has a beer belly, wears a wrinkled dress shirt, a loose tie, \nand no pants--just underwear. He runs the \"Mankanshoku Back Alley Clinic\" \nfrom his beat-up home, but his skills as a doctor are questionable at best. \nAccording to Mako, he has killed more patients than he has cured.\nHis motto? \"Dead people don't complain.\"",
+   "pt": "O Pai de Mako. Ele tem uma barriga de chope, usa uma camisa social amassada, uma gravata frouxa, \ne não usa calças -- apenas cueca. Ele administra a \"Clínica de Fundo de Quintal Mankanshoku\" \nda sua casa caindo aos pedaços, mas suas habilidades como médico são bem questionáveis. \nSegundo Mako, ele já matou mais pacientes do que curou.\nSeu lema? \"Gente morta não reclama.\""
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_INFO_036",
+   "en": "A No-Star second year student attending Honnouji Academy who is associated with the\nacademy's Tennis Club. Despite being known as an underachiever who is often found eating\nand sleeping during classes, she is very optimistic and enjoys life to its fullest.\nShe didn't have any real friends, but she somewhat forcefully made friends upon meeting\nRyuko. For better or for worse, Ryuko's contact with Mako's overly positive attitude and \nbrazen approach towards danger brought them together ever more closer with each seeing \neach other as someone precious.\nDespite being a No-Star student, she seems to synchronize well with the Life Fibers.\nThis may be why she displayed power equal to that of the other Presidents when she wore \nher Two-Star Goku Uniform as President of the Fight Club.",
+   "pt": "Uma estudante Sem Estrela do segundo ano da Academia Honnouji, que é associada ao\nClube de Tênis da academia. Apesar de ser conhecida como uma aluna de baixo rendimento, que é frequentemente encontrada comendo\ne dormindo durante as aulas, ela é muito otimista e aproveita a vida ao máximo.\nEla não tinha nenhum amigo de verdade, mas fez amizade de forma um tanto forçada ao conhecer\nRyuko. Para o bem ou para o mal, o contato de Ryuko com a atitude excessivamente positiva e \na abordagem descarada de Mako perante o perigo as uniu cada vez mais, com cada uma vendo \na outra como alguém precioso.\nApesar de ser uma estudante Sem Estrela, ela parece sincronizar bem com as Fibras de Vida.\nIsto pode ser o motivo pelo qual ela exibiu um poder igual ao dos outros Presidentes quando usou \nseu Uniforme Goku de Duas Estrelas como Presidente do Clube de Luta."
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_INFO_037",
+   "en": "Mako's younger brother. He skips school and gets up to all sorts of hijinks in Honnou City\nwith his friends. He is weak against the strong, and strong against the weak.\nSince he's very well known in the city, he at times helps Ryuko gather information.",
+   "pt": "O irmão mais novo de Mako. Ele mata aula e se mete em todo tipo de confusão na Cidade de Honnou\ncom seus amigos. Ele é fraco contra os fortes, e forte contra os fracos.\nComo ele é muito conhecido na cidade, ele às vezes ajuda Ryuko a coletar informações."
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_INFO_038",
+   "en": "Ryuko's homeroom teacher. He teaches World History. A mysterious man who keeps\nan eye on Ryuko and oft aids her. While he seems like a scruffy teacher, \nhe's actually quite beautiful once he takes his sunglasses off and pulls his hair back. \nHe becomes quite the narcissist as he strips. \nFor some reason, his nipples and other body parts shine when he becomes nude.\n",
+   "pt": "O professor regente da turma de Ryuko. Ele ensina História Mundial. Um homem misterioso que fica\nde olho em Ryuko e frequentemente a ajuda. Embora pareça um professor desleixado, \nele é na verdade bem bonito quando tira os óculos escuros e puxa o cabelo para trás. \nEle se torna bem narcisista quando se despe. \nPor algum motivo, seus mamilos e outras partes do corpo brilham quando ele fica nu.\n"
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_INFO_039",
+   "en": "Honnouji Academy Gardening Club Terrance General Manager. \nHe uses the Gardening-spec, Green Thumb-enhancing\nTwo-Star Goku Uniform to challenge Kinagase\nafter he littered the garden with his cigarette butt in episode 5.",
+   "pt": "Gerente Geral do Terraço do Clube de Jardinagem da Academia Honnouji. \nEle usa o Uniforme Goku de Duas Estrelas de Jardinagem,\nque aprimora seu Dedo Verde, para desafiar Kinagase\ndepois que ele sujou o jardim com a sua bituca de cigarro no episódio 5."
+  },
+  {
+   "id": "GLOSSARY_CHARACTER_INFO_040",
+   "en": "President of the Tightrope Walking Club at Honnouji Academy. \nShe appears in episode 7. She was a target of the Goku Uniform Hunt \nwhen Ryuko was in the Fight Club. \nShe wears a Two-Star Goku Uniform that looks like a clown. \nShe holds a barbell in place of a balancing pole, appearing on top of a bar with a spinning top.",
+   "pt": "Presidente do Clube de Equilibrismo na Corda Bamba da Academia Honnouji. \nEla aparece no episódio 7. Ela foi um alvo da Caça aos Uniformes Goku \nquando Ryuko estava no Clube de Luta. \nEla usa um Uniforme Goku de Duas Estrelas que parece um palhaço. \nEla segura um haltere no lugar de uma vara de equilíbrio, aparecendo em cima de uma barra com um pião."
+  },
+  {
+   "id": "GLOSSARY_COSTUME_001",
+   "en": "Gardening-spec, Green Thumb-\nenhancing Two-Star Goku Uniform",
+   "pt": "Uniforme Goku de Duas Estrelas\nde Jardinagem que aprimora o Dedo Verde"
+  },
+  {
+   "id": "GLOSSARY_COSTUME_002",
+   "en": "Kamui Junketsu",
+   "pt": "Kamui Junketsu"
+  },
+  {
+   "id": "GLOSSARY_COSTUME_003",
+   "en": "Kamui Senketsu",
+   "pt": "Kamui Senketsu"
+  },
+  {
+   "id": "GLOSSARY_COSTUME_004",
+   "en": "Fight Club-spec \nTwo-Star Goku Uniform",
+   "pt": "Uniforme Goku de Duas Estrelas\ndo Clube de Luta"
+  },
+  {
+   "id": "GLOSSARY_COSTUME_005",
+   "en": "Junketsu Shinzui",
+   "pt": "Junketsu Shinzui"
+  },
+  {
+   "id": "GLOSSARY_COSTUME_006",
+   "en": "Shinra-Kouketsu",
+   "pt": "Shinra-Kouketsu"
+  },
+  {
+   "id": "GLOSSARY_COSTUME_007",
+   "en": "Senketsu  Kisaragi",
+   "pt": "Senketsu  Kisaragi"
+  },
+  {
+   "id": "GLOSSARY_COSTUME_008",
+   "en": "Three-Star Goku Uniform: \nTailored Regalia",
+   "pt": "Uniforme Goku de Três Estrelas: \nTraje de Batalha Sob Medida"
+  },
+  {
+   "id": "GLOSSARY_COSTUME_009",
+   "en": "Three-Star Goku Uniform: \nSymphony Regalia",
+   "pt": "Uniforme Goku de Três Estrelas: \nTraje de Batalha Sinfônico"
+  },
+  {
+   "id": "GLOSSARY_COSTUME_010",
+   "en": "Three-Star Goku Uniform: \nSymphony Regalia MKII",
+   "pt": "Uniforme Goku de Três Estrelas: \nTraje de Batalha Sinfônico MKII"
+  }
+ ]
+}

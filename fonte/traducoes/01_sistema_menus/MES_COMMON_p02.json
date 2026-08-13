@@ -1,0 +1,1008 @@
+{
+ "origem": "message/MES_COMMON",
+ "conteudo": "Menus, sistema e avisos",
+ "parte": "2/8",
+ "instrucoes": "Traduza o campo 'en' para portugues do Brasil e escreva o resultado em 'pt'. Nao altere 'id'. Mantenha intactos os codigos entre chaves ({CA}, {LA}, {BR}, {JU}, {SP}, {GD}, {LS}, {L1}, {R1}, setas), os marcadores de formato (%d, %l, %ls, %hs) e as quebras de linha \\n. Se uma linha nao precisar de traducao, deixe 'pt' vazio.",
+ "linhas": [
+  {
+   "id": "MAINMENU_DESC_02_01",
+   "en": "★Unlock Criteria★ Clear \"Episode 1\" in Story Mode.",
+   "pt": "★Requisito de Desbloqueio★ Conclua o \"Episódio 1\" no Modo História."
+  },
+  {
+   "id": "MAINMENU_DESC_03_01",
+   "en": "★Unlock Criteria★ Clear \"Episode 1\" in Story Mode.",
+   "pt": "★Requisito de Desbloqueio★ Conclua o \"Episódio 1\" no Modo História."
+  },
+  {
+   "id": "MAINMENU_NOTICE_00_00",
+   "en": "You obtained %d GP.",
+   "pt": "Você obteve %d GP."
+  },
+  {
+   "id": "STORYMENU_DESC_00_00",
+   "en": "You can play the Satsuki chapter, \"Torn Spirits, Changing Fates.\"",
+   "pt": "Você pode jogar o capítulo da Satsuki, \"Espíritos Divididos, Destinos Alterados\"."
+  },
+  {
+   "id": "STORYMENU_DESC_01_00",
+   "en": "You can play the Ryuko chapter, \"For Days Long Gone.\"",
+   "pt": "Você pode jogar o capítulo da Ryuko, \"Por Dias Já Passados\"."
+  },
+  {
+   "id": "STORYMENU_DESC_00_01",
+   "en": "You can play the Satsuki chapter, \"Torn Spirits, Changing Fates.\"",
+   "pt": "Você pode jogar o capítulo da Satsuki, \"Espíritos Divididos, Destinos Alterados\"."
+  },
+  {
+   "id": "STORYMENU_DESC_01_01",
+   "en": "★Unlock Criteria★ Clear Episode 10 of Story Mode using Satsuki Kiryuin.",
+   "pt": "★Requisito de Desbloqueio★ Conclua o Episódio 10 do Modo História usando Satsuki Kiryuin."
+  },
+  {
+   "id": "STORY_RYUKO_LOCK_OVERVIEW",
+   "en": "This character is locked. You can play once you meet the unlock criteria.",
+   "pt": "Esta personagem está bloqueada. Você poderá jogar assim que cumprir o requisito de desbloqueio."
+  },
+  {
+   "id": "STORY_RYUKO_LOCK_TERM",
+   "en": "★Unlock Criteria★",
+   "pt": "★Requisito de Desbloqueio★"
+  },
+  {
+   "id": "STORY_RYUKO_LOCK_DETAIL",
+   "en": "Clear Episode 10 of the story mode using Satsuki Kiryuin.",
+   "pt": "Conclua o Episódio 10 do Modo História usando Satsuki Kiryuin."
+  },
+  {
+   "id": "CHAPTER_MENU_DESC_00",
+   "en": "Please select an episode.",
+   "pt": "Por favor, selecione um episódio."
+  },
+  {
+   "id": "DESC_CHP00_00",
+   "en": "The Honnouji Academy Naturals Election has begun! \nRyuko Matoi has defeated the Honnouji Academy \nElite Four and prepares to face off against \nSatsuki in the King Of The Hill Final Battle!",
+   "pt": "A Eleição Natural da Academia Honnouji começou!\nRyuko Matoi derrotou os Quatro Elites da\nAcademia Honnouji e se prepara para enfrentar\nSatsuki na Batalha Final de O Rei do Pedaço!"
+  },
+  {
+   "id": "DESC_CHP00_01",
+   "en": "After the Naturals Election, Satsuki embarked \non the Tri-City Schools Raid Trip. \nHer mission completed, she steels herself for \nher rebellion against Ragyo at the Cultural \n& Sports Grand Festival!",
+   "pt": "Após a Eleição Natural, Satsuki embarcou\nna Excursão de Invasão às Escolas das Três Cidades.\nCom sua missão concluída, ela se prepara para a\nrebelião contra Ragyo no Grande Festival\nCultural e Esportivo!"
+  },
+  {
+   "id": "DESC_CHP00_02",
+   "en": "Ryuko Matoi appears again after releasing the \nElite Four, but when she finds out that Nui was \nthe one who really killed her father, she goes \nberserk! A three-way battle between Satsuki, \nRyuko, and Nui begins!",
+   "pt": "Ryuko Matoi aparece novamente após libertar os\nQuatro Elites, mas quando descobre que Nui foi\nquem realmente matou seu pai, ela perde o controle!\nUma batalha tripla entre Satsuki,\nRyuko e Nui começa!"
+  },
+  {
+   "id": "DESC_CHP00_03",
+   "en": "Ragyo uses the Life Fibers sewn into her body \nto revive herself and face off with Satsuki \nonce again!",
+   "pt": "Ragyo usa as Fibras de Vida costuradas em seu corpo\npara se reviver e enfrentar Satsuki\nmais uma vez!"
+  },
+  {
+   "id": "DESC_CHP00_04",
+   "en": "Satsuki manages to defeat Ragyo with the help \nof the Elite Four, but Ragyo revives a third time \nand transfers the Thread Palace to the basement of \nHonnouji Academy. There, numerous COVERS begin to \nassault the weakened Satsuki!",
+   "pt": "Satsuki consegue derrotar Ragyo com a ajuda\ndos Quatro Elites, mas Ragyo revive pela terceira vez\ne transfere o Palácio de Fios para o porão da\nAcademia Honnouji. Lá, vários Casulos começam a\natacar uma Satsuki enfraquecida!"
+  },
+  {
+   "id": "DESC_CHP00_05",
+   "en": "Satsuki eliminates the COVERS with the Elite Four, \nbut Ragyo's true objectives lie elsewhere!",
+   "pt": "Satsuki elimina os Casulos com os Quatro Elites,\nmas os verdadeiros objetivos de Ragyo são outros!"
+  },
+  {
+   "id": "DESC_CHP00_06",
+   "en": "While Satsuki was busy fighting off COVERS, \nNui completed the Shinra-Kouketsu, \nprompting Ragyo to make her exit. Satsuki, \ndumbfounded, must now face off with Nui once more! ",
+   "pt": "Enquanto Satsuki estava ocupada lutando contra os Casulos,\nNui completou o Shinra-Kouketsu,\nfazendo Ragyo se retirar. Satsuki,\nperplexa, agora deve enfrentar Nui mais uma vez!"
+  },
+  {
+   "id": "DESC_CHP00_07",
+   "en": "Satsuki fends off Nui, learning the Life Fibers' \nweakness in the process. Now, she heads to the \nThread Palace for the final showdown!",
+   "pt": "Satsuki afasta Nui, aprendendo a fraqueza\ndas Fibras de Vida no processo. Agora, ela segue para o\nPalácio de Fios para o confronto final!"
+  },
+  {
+   "id": "DESC_CHP00_08",
+   "en": "Satsuki, ready for the final battle, pursues Ragyo, \nbut Nui and COVERS block her path.",
+   "pt": "Satsuki, pronta para a batalha final, persegue Ragyo,\nmas Nui e Casulos bloqueiam seu caminho."
+  },
+  {
+   "id": "DESC_CHP00_09",
+   "en": "Although Ragyo is defeated, the Original Life Fiber \nuses other Life Fibers to transform and escape the \nThread Palace! Satsuki dons Junketsu's \nfinal form--Junketsu Shinzui--and takes off after it.",
+   "pt": "Embora Ragyo seja derrotada, a Fibra de Vida Original\nusa outras Fibras de Vida para se transformar e escapar do\nPalácio de Fios! Satsuki veste a\nforma final de Junketsu--Junketsu Shinzui--e parte atrás dela."
+  },
+  {
+   "id": "DESC_CHP01_00",
+   "en": "The Honnouji Academy Naturals Election has begun \nand the surviving finalists are the Honnouji Academy \nElite Four and Ryuko Matoi! Ryuko faces the Elite Four \nin order to fight Satsuki Kiryuin and discover the \ntruth about her father's death!",
+   "pt": "A Eleição Natural da Academia Honnouji começou\ne os finalistas sobreviventes são os Quatro Elites\nda Academia Honnouji e Ryuko Matoi! Ryuko enfrenta os Quatro Elites\npara poder lutar contra Satsuki Kiryuin e descobrir a\nverdade sobre a morte de seu pai!"
+  },
+  {
+   "id": "DESC_CHP01_01",
+   "en": "Ryuko defeats the Elite Four, but Satsuki's immense \npower forces her to retreat. \nWhile Ryuko contemplates a strategy to defeat Satsuki, \nNui Harime appears and summons the Combat \nEnhanced COVERS!",
+   "pt": "Ryuko derrota os Quatro Elites, mas o poder imenso\nde Satsuki a força a recuar.\nEnquanto Ryuko planeja uma estratégia para derrotar Satsuki,\nNui Harime aparece e invoca os Casulos\nde Combate Melhorados!"
+  },
+  {
+   "id": "DESC_CHP01_02",
+   "en": "After reaching the Cultural & Sports Grand Festival \narena, Ryuko finds out the truth about her father's \ndeath during Satsuki and Nui's battle.",
+   "pt": "Após chegar na arena do Grande Festival Cultural e Esportivo,\nRyuko descobre a verdade sobre a morte de seu pai\ndurante a batalha entre Satsuki e Nui."
+  },
+  {
+   "id": "DESC_CHP01_03",
+   "en": "Ryuko goes berserk after finding out that Nui is her \nfather's true killer, but is defeated once Satsuki \nshreds Senketsu to pieces. \nRyuko and her friends manage to run away, \nbut Nui sneaks after them!",
+   "pt": "Ryuko perde o controle após descobrir que Nui é a\nverdadeira assassina de seu pai, mas é derrotada quando Satsuki\ncorta Senketsu em pedaços.\nRyuko e seus amigos conseguem fugir,\nmas Nui os segue sorrateiramente!"
+  },
+  {
+   "id": "DESC_CHP01_04",
+   "en": "After Iori's request, Ryuko steps up to the plate to free \nSatsuki and the Elite Four from Ragyo's Mind Stitching!",
+   "pt": "Após o pedido de Iori, Ryuko toma a frente para libertar\nSatsuki e os Quatro Elites da Costura Mental de Ragyo!"
+  },
+  {
+   "id": "DESC_CHP01_05",
+   "en": "Ryuko defeats Nui and discovers Satsuki's true \nobjectives, but chooses to go after Nui on her own \nto avenge her father. However, Nui and an army of \nCOVERS are waiting for her!",
+   "pt": "Ryuko derrota Nui e descobre os verdadeiros\nobjetivos de Satsuki, mas decide ir atrás de Nui sozinha\npara vingar seu pai. No entanto, Nui e um exército de\nCasulos estão esperando por ela!"
+  },
+  {
+   "id": "DESC_CHP01_06",
+   "en": "After defeating Nui, Ryuko heads to the Thread Palace \nto find Satsuki fighting against Ragyo. \nShe joins forces with Satsuki and the Elite Four to \neliminate Ragyo once and for all!",
+   "pt": "Após derrotar Nui, Ryuko segue para o Palácio de Fios\ne encontra Satsuki lutando contra Ragyo.\nEla une forças com Satsuki e os Quatro Elites para\neliminar Ragyo de uma vez por todas!"
+  },
+  {
+   "id": "DESC_CHP01_07",
+   "en": "Destroying the Original Life Fiber reveals that this \nworld was a product of Satsuki's delusions!",
+   "pt": "Destruir a Fibra de Vida Original revela que este\nmundo não passava de uma ilusão da Satsuki!"
+  },
+  {
+   "id": "DESC_CHP01_08",
+   "en": "The only way to save Satsuki is to strip Junketsu Shinzui \noff of her. Ryuko dons Senketsu Kisaragi for the final \nbattle to wake Satsuki from her dream!",
+   "pt": "A única forma de salvar Satsuki é arrancar o Junketsu Shinzui\ndela. Ryuko veste Senketsu Kisaragi para a batalha\nfinal a fim de acordar Satsuki do seu sonho!"
+  },
+  {
+   "id": "DESC_CHP01_09",
+   "en": "With the help of Senketsu Kisaragi, Ryuko manages to \ndestroy Junketsu Shinzui, but what will happen to \nSatsuki's world of delusions now that she's been \ndefeated?",
+   "pt": "Com a ajuda de Senketsu Kisaragi, Ryuko consegue\ndestruir Junketsu Shinzui, mas o que acontecerá com\no mundo de ilusões de Satsuki agora que ela foi\nderrotada?"
+  },
+  {
+   "id": "BATTLE_MENU_DESC_00_00",
+   "en": "Choose your character, stage and set handicaps freely to fight \nagainst a COM opponent or another player near you.",
+   "pt": "Escolha seu personagem, cenário e defina vantagens à vontade para lutar\ncontra um oponente COM ou outro jogador localmente."
+  },
+  {
+   "id": "BATTLE_MENU_DESC_01_00",
+   "en": "Fight against players from all over the world via an internet connection. \nYou can create a room or search for an existing room to look for opponents.",
+   "pt": "Lute contra jogadores do mundo todo via conexão de internet.\nVocê pode criar uma sala ou buscar uma sala existente para procurar oponentes."
+  },
+  {
+   "id": "BATTLE_MENU_DESC_01_01",
+   "en": "★Unlock Criteria★\nClear \"Episode 6\" of the Story Mode.",
+   "pt": "★Requisito de Desbloqueio★\nConclua o \"Episódio 6\" do Modo História."
+  },
+  {
+   "id": "BATTLE_MENU_DESC_02_00",
+   "en": "Fight against players from all over the world via an internet connection. \nYou can earn Thread Count by winning matches. You will automatically \nbe matched with players who have a similar Thread Count as you. \nYou cannot select anything but your character.",
+   "pt": "Lute contra jogadores do mundo todo via conexão com a internet.\nVocê pode ganhar Contagem de Fios ao vencer partidas. Você será\nautomaticamente agrupado com jogadores que tenham uma Contagem de Fios\nsemelhante à sua. Você só pode selecionar o seu personagem."
+  },
+  {
+   "id": "BATTLE_MENU_DESC_02_01",
+   "en": "★Unlock Criteria★\nClear \"Episode 10\" of the Story Mode.",
+   "pt": "★Requisito de Desbloqueio★\nConclua o \"Episódio 10\" do Modo História."
+  },
+  {
+   "id": "BATTLE_MENU_POPUP_LOCK",
+   "en": "The battle mode is locked. You can play after clearing the unlock criteria.",
+   "pt": "O modo batalha está bloqueado. Você poderá jogar após concluir o requisito de desbloqueio."
+  },
+  {
+   "id": "BATTLE_MENU_POPUP_OFFLINE",
+   "en": "This battle mode utilizes internet connection. \nYou are currently offline. Please check your internet connection status.",
+   "pt": "Este modo de batalha utiliza conexão com a internet.\nVocê está offline no momento. Por favor, verifique o status da sua conexão de internet."
+  },
+  {
+   "id": "2PSEL_TEXT_WAIT_2P_CONNECT",
+   "en": "You will need two DUALSHOCK®4 wireless controllers in order to play VS PLAYER. \nPlease connect the DUALSHOCK®4 wireless controller to be assigned to the second player.",
+   "pt": "Você precisará de dois controles sem fio DUALSHOCK®4 para jogar o modo VS JOGADOR.\nPor favor, conecte o controle sem fio DUALSHOCK®4 para ser atribuído ao segundo jogador."
+  },
+  {
+   "id": "2PSEL_TEXT_WAIT_2P_CONNECT_PC",
+   "en": "You will need two controllers to play VS PLAYER.\nPlease connect the controller for Player 2.",
+   "pt": "Você precisará de dois controles para jogar VS JOGADOR.\nPor favor, conecte o controle para o Jogador 2."
+  },
+  {
+   "id": "2P_SELECT_DESC_00",
+   "en": "Please select your opponent.",
+   "pt": "Por favor, selecione seu oponente."
+  },
+  {
+   "id": "CHAR_SEL_DESC_00",
+   "en": "Please select your character.",
+   "pt": "Por favor, selecione seu personagem."
+  },
+  {
+   "id": "CHAR_SEL_DESC_01",
+   "en": "Please select the COM's character.",
+   "pt": "Por favor, selecione o personagem do COM."
+  },
+  {
+   "id": "CHAR_SEL_DESC_02",
+   "en": "Please select your character.",
+   "pt": "Por favor, selecione seu personagem."
+  },
+  {
+   "id": "BTL_STG_DESC_00",
+   "en": "Configure detailed settings, such as stage settings.",
+   "pt": "Faça configurações detalhadas, como as configurações de cenário."
+  },
+  {
+   "id": "STAGE_STG_DESC_00",
+   "en": "Configure stage settings.",
+   "pt": "Faça as configurações de cenário."
+  },
+  {
+   "id": "BTL_STG_ITEMNAME_STAGE",
+   "en": "Stage",
+   "pt": "Cenário"
+  },
+  {
+   "id": "BTL_STG_ITEMNAME_STAGE_SIZE",
+   "en": "Stage Format",
+   "pt": "Formato do Cenário"
+  },
+  {
+   "id": "BTL_STG_ITEMNAME_TIME",
+   "en": "Time Limit",
+   "pt": "Limite de Tempo"
+  },
+  {
+   "id": "BTL_STG_ITEMNAME_BGM",
+   "en": "BGM",
+   "pt": "BGM"
+  },
+  {
+   "id": "BTL_STG_ITEMNAME_HANDI_1P",
+   "en": "1P Handicap",
+   "pt": "Vantagem do 1P"
+  },
+  {
+   "id": "BTL_STG_ITEMNAME_HANDI_2P",
+   "en": "2P Handicap",
+   "pt": "Vantagem do 2P"
+  },
+  {
+   "id": "BTL_STG_ITEMNAME_DIF",
+   "en": "COM Difficulty",
+   "pt": "Dificuldade do COM"
+  },
+  {
+   "id": "BATTLE_STAGE_NAME_01",
+   "en": "Naturals Election Stadium",
+   "pt": "Estádio da Eleição Natural"
+  },
+  {
+   "id": "BATTLE_STAGE_NAME_02",
+   "en": "Polling Grounds",
+   "pt": "Campos de Votação"
+  },
+  {
+   "id": "BATTLE_STAGE_NAME_03",
+   "en": "Ragyo Stadium Runway",
+   "pt": "Passarela do Estádio da Ragyo"
+  },
+  {
+   "id": "BATTLE_STAGE_NAME_04",
+   "en": "Ragyo Stadium Grounds",
+   "pt": "Pátio do Estádio da Ragyo"
+  },
+  {
+   "id": "BATTLE_STAGE_NAME_05",
+   "en": "Honnou-cho Open Field",
+   "pt": "Campo Aberto de Honnou-cho"
+  },
+  {
+   "id": "BATTLE_STAGE_NAME_06",
+   "en": "Thread Palace",
+   "pt": "Palácio de Fios"
+  },
+  {
+   "id": "BATTLE_STAGE_NAME_RANDOM",
+   "en": "Random",
+   "pt": "Aleatório"
+  },
+  {
+   "id": "LEVEL_CHANGE_GUIDE_YAZI",
+   "en": "←→",
+   "pt": "←→"
+  },
+  {
+   "id": "LEVEL_CHANGE_GUIDE_AD",
+   "en": "Change Difficulty",
+   "pt": "Alterar Dificuldade"
+  },
+  {
+   "id": "LEVEL_CHANGE_GUIDE_CIR",
+   "en": "○",
+   "pt": "○"
+  },
+  {
+   "id": "LEVEL_CHANGE_GUIDE_APP_RE",
+   "en": "Adjust and Retry",
+   "pt": "Ajustar e Tentar Novamente"
+  },
+  {
+   "id": "LEVEL_CHANGE_GUIDE_X",
+   "en": "×",
+   "pt": "×"
+  },
+  {
+   "id": "LEVEL_CHANGE_GUIDE_BACK",
+   "en": "Return",
+   "pt": "Voltar"
+  },
+  {
+   "id": "ACT_REPLAY_SAVE",
+   "en": "Saving battle replay...",
+   "pt": "Salvando replay da batalha..."
+  },
+  {
+   "id": "ACT_REPLAY_END_CHECK",
+   "en": "End replay and return to replay list?",
+   "pt": "Encerrar replay e voltar para a lista de replays?"
+  },
+  {
+   "id": "ACT_REPLAY_END_CHECK_POPUP_SEL_00",
+   "en": "End",
+   "pt": "Encerrar"
+  },
+  {
+   "id": "PRACTICE_MENU_DESC_00_00",
+   "en": "Learn the basic battle controls.",
+   "pt": "Aprenda os controles básicos de batalha."
+  },
+  {
+   "id": "PRACTICE_MENU_DESC_01_00",
+   "en": "Configure various settings and practice the way you want to.",
+   "pt": "Configure várias opções e treine da maneira que preferir."
+  },
+  {
+   "id": "PRACTICE_MENU_DESC_02_00",
+   "en": "Fight against COM opponents consecutively and shoot for a new win record.",
+   "pt": "Lute contra oponentes do COM consecutivamente e tente alcançar um novo recorde de vitórias."
+  },
+  {
+   "id": "PRACTICE_MENU_DESC_02_01",
+   "en": "★Unlock Criteria★\nClear \"Episode 5\" of the Story Mode.",
+   "pt": "★Requisito de Desbloqueio★\nConclua o \"Episódio 5\" do Modo História."
+  },
+  {
+   "id": "PRACTICE_MENU_DESC_03_00",
+   "en": "Hone your technique by fighting an onslaught of COVERS.",
+   "pt": "Aprimore suas técnicas lutando contra hordas de Casulos."
+  },
+  {
+   "id": "PRACTICE_MENU_DESC_03_01",
+   "en": "★Unlock Criteria★\nClear \"Episode 9\" of the Story Mode.",
+   "pt": "★Requisito de Desbloqueio★\nConclua o \"Episódio 9\" do Modo História."
+  },
+  {
+   "id": "PRACTICE_MENU_POPUP_LOCK",
+   "en": "This practice mode is locked.\nYou can play it after clearing the unlock criteria.",
+   "pt": "Este modo de treino está bloqueado.\nVocê poderá jogar após concluir o requisito de desbloqueio."
+  },
+  {
+   "id": "TRAINING_MENU_NAME_00",
+   "en": "Reset Positions",
+   "pt": "Resetar Posições"
+  },
+  {
+   "id": "TRAINING_MENU_NAME_01",
+   "en": "Command List",
+   "pt": "Lista de Comandos"
+  },
+  {
+   "id": "TRAINING_MENU_NAME_02",
+   "en": "Options",
+   "pt": "Opções"
+  },
+  {
+   "id": "TRAINING_MENU_NAME_03",
+   "en": "Initialize settings",
+   "pt": "Restaurar Padrões"
+  },
+  {
+   "id": "TRAINING_MENU_NAME_04",
+   "en": "Player Max Health",
+   "pt": "Vida Máx. do Jogador"
+  },
+  {
+   "id": "TRAINING_MENU_NAME_05",
+   "en": "Enemy Max Health",
+   "pt": "Vida Máx. do Inimigo"
+  },
+  {
+   "id": "TRAINING_MENU_NAME_06",
+   "en": "Health Recovery",
+   "pt": "Recuperação de Vida"
+  },
+  {
+   "id": "TRAINING_MENU_NAME_07",
+   "en": "Player Max SP Gauge",
+   "pt": "Barra SP Máx. do Jogador"
+  },
+  {
+   "id": "TRAINING_MENU_NAME_08",
+   "en": "Enemy Max SP gauge",
+   "pt": "Barra SP Máx. do Inimigo"
+  },
+  {
+   "id": "TRAINING_MENU_NAME_09",
+   "en": "Fill SP Gauge",
+   "pt": "Encher Barra SP"
+  },
+  {
+   "id": "TRAINING_MENU_NAME_10",
+   "en": "Player Valor Level",
+   "pt": "Nível de Valor do Jogador"
+  },
+  {
+   "id": "TRAINING_MENU_NAME_11",
+   "en": "Enemy Valor Level",
+   "pt": "Nível de Valor do Inimigo"
+  },
+  {
+   "id": "TRAINING_MENU_NAME_12",
+   "en": "Update Valor level ",
+   "pt": "Atualizar Nível de Valor"
+  },
+  {
+   "id": "TRAINING_MENU_NAME_13",
+   "en": "Enemy Action",
+   "pt": "Ação do Inimigo"
+  },
+  {
+   "id": "TRAINING_MENU_NAME_14",
+   "en": "Player Handicap",
+   "pt": "Vantagem do Jogador"
+  },
+  {
+   "id": "TRAINING_MENU_NAME_15",
+   "en": "Enemy Handicap",
+   "pt": "Vantagem do Inimigo"
+  },
+  {
+   "id": "TRAINING_MENU_NAME_16",
+   "en": "Action Loop",
+   "pt": "Loop de Ação"
+  },
+  {
+   "id": "TRAINING_MENU_NAME_17",
+   "en": "Loop Interval (Shortest)",
+   "pt": "Intervalo do Loop (Mais Curto)"
+  },
+  {
+   "id": "TRAINING_MENU_NAME_18",
+   "en": "Loop Interval (Longest)",
+   "pt": "Intervalo do Loop (Mais Longo)"
+  },
+  {
+   "id": "TRAINING_MENU_NAME_19",
+   "en": "Enemy AI Difficulty",
+   "pt": "Dificuldade da IA Inimiga"
+  },
+  {
+   "id": "TRAINING_MENU_NAME_20",
+   "en": "Max Gamagoori Gauge",
+   "pt": "Barra Máx. de Gamagoori"
+  },
+  {
+   "id": "TRAINING_MENU_NAME_21",
+   "en": "Fill Gamagoori Gauge",
+   "pt": "Encher Barra de Gamagoori"
+  },
+  {
+   "id": "TRAINING_MENU_NAME_22",
+   "en": "Max Inumuta Gauge",
+   "pt": "Barra Máx. de Inumuta"
+  },
+  {
+   "id": "TRAINING_MENU_NAME_23",
+   "en": "Fill Inumuta Gauge",
+   "pt": "Encher Barra de Inumuta"
+  },
+  {
+   "id": "TRAINING_MENU_NAME_24",
+   "en": "Tension",
+   "pt": "Tensão"
+  },
+  {
+   "id": "TRAINING_MENU_NAME_25",
+   "en": "Tension Lv",
+   "pt": "Nív. Tensão"
+  },
+  {
+   "id": "TRAINING_MENU_NAME_26",
+   "en": "Display Damage",
+   "pt": "Mostrar Dano"
+  },
+  {
+   "id": "TRAINING_MENU_NAME_27",
+   "en": "Hide UI",
+   "pt": "Ocultar UI"
+  },
+  {
+   "id": "TRAINING_MENU_NAME_28",
+   "en": "Exit Training",
+   "pt": "Sair do Treino"
+  },
+  {
+   "id": "TRAINING_MENU_NAME_29",
+   "en": "Return to Training",
+   "pt": "Voltar ao Treino"
+  },
+  {
+   "id": "TRAINING_HP_RECOVER_00",
+   "en": "Off",
+   "pt": "Desligado"
+  },
+  {
+   "id": "TRAINING_HP_RECOVER_01",
+   "en": "On",
+   "pt": "Ligado"
+  },
+  {
+   "id": "TRAINING_RECOVER_00",
+   "en": "Normal",
+   "pt": "Normal"
+  },
+  {
+   "id": "TRAINING_RECOVER_01",
+   "en": "Autofill",
+   "pt": "Preenchimento Automático"
+  },
+  {
+   "id": "TRAINING_ENEMY_AI_00",
+   "en": "Action Loop",
+   "pt": "Loop de Ação"
+  },
+  {
+   "id": "TRAINING_ENEMY_AI_01",
+   "en": "Normal AI",
+   "pt": "IA Normal"
+  },
+  {
+   "id": "TRAINING_ENEMY_AI_02",
+   "en": "Controller",
+   "pt": "Controle"
+  },
+  {
+   "id": "TRAINING_LOOP_TYPE_00",
+   "en": "Do Nothing",
+   "pt": "Não Fazer Nada"
+  },
+  {
+   "id": "TRAINING_LOOP_TYPE_01",
+   "en": "Guard",
+   "pt": "Defesa"
+  },
+  {
+   "id": "TRAINING_LOOP_TYPE_02",
+   "en": "Approach",
+   "pt": "Aproximar"
+  },
+  {
+   "id": "TRAINING_LOOP_TYPE_03",
+   "en": "Retreat",
+   "pt": "Recuar"
+  },
+  {
+   "id": "TRAINING_LOOP_TYPE_04",
+   "en": "Front Step",
+   "pt": "Avanço Frontal"
+  },
+  {
+   "id": "TRAINING_LOOP_TYPE_05",
+   "en": "Back Step",
+   "pt": "Avanço para Trás"
+  },
+  {
+   "id": "TRAINING_LOOP_TYPE_06",
+   "en": "Sidestep Right",
+   "pt": "Passo para Direita"
+  },
+  {
+   "id": "TRAINING_LOOP_TYPE_07",
+   "en": "Sidestep Left",
+   "pt": "Passo para Esquerda"
+  },
+  {
+   "id": "TRAINING_LOOP_TYPE_08",
+   "en": "Step (Random)",
+   "pt": "Passo (Aleatório)"
+  },
+  {
+   "id": "TRAINING_LOOP_TYPE_09",
+   "en": "Homing Dash",
+   "pt": "Avanço Teleguiado"
+  },
+  {
+   "id": "TRAINING_LOOP_TYPE_10",
+   "en": "Jump",
+   "pt": "Pulo"
+  },
+  {
+   "id": "TRAINING_LOOP_TYPE_11",
+   "en": "Air Homing Dash",
+   "pt": "Avanço Teleguiado Aéreo"
+  },
+  {
+   "id": "TRAINING_LOOP_TYPE_12",
+   "en": "Close Range Attack",
+   "pt": "Ataque a Curta Distância"
+  },
+  {
+   "id": "TRAINING_LOOP_TYPE_13",
+   "en": "Long Range Attack",
+   "pt": "Ataque à Distância"
+  },
+  {
+   "id": "TRAINING_LOOP_TYPE_14",
+   "en": "Break Attack",
+   "pt": "Ataque de Quebra"
+  },
+  {
+   "id": "TRAINING_LOOP_TYPE_15",
+   "en": "Random Attack",
+   "pt": "Ataque Aleatório"
+  },
+  {
+   "id": "TRAINING_LOOP_TYPE_16",
+   "en": "Valor Burst",
+   "pt": "Explosão de Valor"
+  },
+  {
+   "id": "TRAINING_SHOW_DMG_00",
+   "en": "Hide",
+   "pt": "Ocultar"
+  },
+  {
+   "id": "TRAINING_SHOW_DMG_01",
+   "en": "Show",
+   "pt": "Mostrar"
+  },
+  {
+   "id": "TRAINING_MAKO_FIX_00",
+   "en": "Normal",
+   "pt": "Normal"
+  },
+  {
+   "id": "TRAINING_MAKO_FIX_01",
+   "en": "Fixed",
+   "pt": "Fixo"
+  },
+  {
+   "id": "TRAINING_MAKO_TENSION_00",
+   "en": "Lv1",
+   "pt": "Nv. 1"
+  },
+  {
+   "id": "TRAINING_MAKO_TENSION_01",
+   "en": "Lv2",
+   "pt": "Nv. 2"
+  },
+  {
+   "id": "TRAINING_MAKO_TENSION_02",
+   "en": "Lv3",
+   "pt": "Nv. 3"
+  },
+  {
+   "id": "TRAINING_MAKO_TENSION_03",
+   "en": "Lv4",
+   "pt": "Nv. 4"
+  },
+  {
+   "id": "PAUSE_ITEM_TO_BATTLE",
+   "en": "Return to Battle",
+   "pt": "Voltar à Batalha"
+  },
+  {
+   "id": "PAUSE_ITEM_CTRL_DESC",
+   "en": "Controls",
+   "pt": "Controles"
+  },
+  {
+   "id": "PAUSE_ITEM_TO_CHAR_SEL",
+   "en": "Return to Character Select",
+   "pt": "Voltar para Seleção de Personagem"
+  },
+  {
+   "id": "PAUSE_ITEM_TO_TITLE",
+   "en": "Return to Title",
+   "pt": "Voltar à Tela Inicial"
+  },
+  {
+   "id": "PAUSE_ITEM_RETRY",
+   "en": "Retry",
+   "pt": "Tentar Novamente"
+  },
+  {
+   "id": "PAUSE_ITEM_CMD_LIST",
+   "en": "Command List",
+   "pt": "Lista de Comandos"
+  },
+  {
+   "id": "PAUSE_ITEM_OPTION",
+   "en": "Options",
+   "pt": "Opções"
+  },
+  {
+   "id": "PAUSE_ITEM_RETRY_DIF",
+   "en": "Change Difficulty and Retry",
+   "pt": "Alterar Dificuldade e Tentar Novamente"
+  },
+  {
+   "id": "PAUSE_ITEM_END_GAME",
+   "en": "Finish",
+   "pt": "Concluir"
+  },
+  {
+   "id": "PAUSE_ITEM_TO_ROOM",
+   "en": "Return to Room",
+   "pt": "Voltar à Sala"
+  },
+  {
+   "id": "PAUSE_ITEM_CAPTURE",
+   "en": "Save Battle",
+   "pt": "Salvar Batalha"
+  },
+  {
+   "id": "PAUSE_ITEM_TO_LOBBY",
+   "en": "Return to Lobby",
+   "pt": "Voltar ao Lobby"
+  },
+  {
+   "id": "PAUSE_ITEM_CAPTURE_SERVER",
+   "en": "Upload Battle",
+   "pt": "Enviar Batalha"
+  },
+  {
+   "id": "PAUSE_ITEM_REPLAY",
+   "en": "Replay Again",
+   "pt": "Reproduzir Novamente"
+  },
+  {
+   "id": "PAUSE_ITEM_TO_REPLAY_SEL",
+   "en": "Return to Replay List",
+   "pt": "Voltar à Lista de Replays"
+  },
+  {
+   "id": "PAUSE_ITEM_TO_CHAPTER_SEL",
+   "en": "Return to Chapter Select",
+   "pt": "Voltar à Seleção de Capítulo"
+  },
+  {
+   "id": "PAUSE_ITEM_TO_MAINMENU",
+   "en": "Return to Main Menu",
+   "pt": "Voltar ao Menu Principal"
+  },
+  {
+   "id": "KATINUKI_HP_RECOVER_DESC",
+   "en": "Health recovery",
+   "pt": "Recuperação de Vida"
+  },
+  {
+   "id": "KATINUKI_HP_RECOVER_PER",
+   "en": "＋%d％",
+   "pt": "＋%d％"
+  },
+  {
+   "id": "ONLINE_BTL_BEFORE_BATTLE",
+   "en": "Synchronizing...",
+   "pt": "Sincronizando..."
+  },
+  {
+   "id": "ROOM_TYPE_SEL_ITEM_SEARCH",
+   "en": "Search for a Room",
+   "pt": "Buscar por uma Sala"
+  },
+  {
+   "id": "ROOM_TYPE_SEL_ITEM_CREATE",
+   "en": "Create a Room",
+   "pt": "Criar uma Sala"
+  },
+  {
+   "id": "ROOM_TYPE_SEL_DESC_00",
+   "en": "Your gateway to online combat.",
+   "pt": "Seu portal para o combate online."
+  },
+  {
+   "id": "ROOM_SEARCH_ITEM_CONFIRM",
+   "en": "Begin the Search",
+   "pt": "Iniciar Busca"
+  },
+  {
+   "id": "ROOM_SEARCH_ITEM_PLAYER_SKILL",
+   "en": "Enemy Skill Level",
+   "pt": "Nível de Habilidade do Inimigo"
+  },
+  {
+   "id": "ROOM_SEARCH_ITEM_ROOM_ID",
+   "en": "Search ID",
+   "pt": "ID de Busca"
+  },
+  {
+   "id": "ROOM_SEARCH_WAITING_TEXT",
+   "en": "Searching for a room...",
+   "pt": "Procurando por uma sala..."
+  },
+  {
+   "id": "ROOM_SEARCH_DESC_00",
+   "en": "Configure your room search criteria.",
+   "pt": "Configure os critérios de busca de sala."
+  },
+  {
+   "id": "ROOM_SEARCH_CHANGE_ITEM_CONFIRM",
+   "en": "Change your criteria and search again.",
+   "pt": "Altere seus critérios e busque novamente."
+  },
+  {
+   "id": "ROOM_SEARCH_SET_ROOM_ID",
+   "en": "Please enter the room ID (4 digits).",
+   "pt": "Por favor, digite o ID da sala (4 dígitos)."
+  },
+  {
+   "id": "ROOM_CREATE_ITEM_CONFIRM",
+   "en": "Create a Room",
+   "pt": "Criar uma Sala"
+  },
+  {
+   "id": "ROOM_CREATE_ITEM_PLAYER_SKILL",
+   "en": "Recommended Skill Level",
+   "pt": "Nível de Habilidade Recomendado"
+  },
+  {
+   "id": "ROOM_CREATE_WAITING_TEXT",
+   "en": "Creating room.",
+   "pt": "Criando sala."
+  },
+  {
+   "id": "ROOM_CREATE_DESC_00",
+   "en": "Configure your room settings.",
+   "pt": "Configure as opções da sua sala."
+  },
+  {
+   "id": "ROOM_LIST_SEARCHING_ROOM",
+   "en": "Retrying search...",
+   "pt": "Tentando buscar novamente..."
+  },
+  {
+   "id": "ROOM_LIST_RESEARCH_REQUEST",
+   "en": "Unable to find a room that fits your criteria. \nPlease try again later, or change your criteria and search again.",
+   "pt": "Não foi possível encontrar uma sala com os seus critérios.\nPor favor, tente novamente mais tarde, ou altere os critérios e busque de novo."
+  },
+  {
+   "id": "ROOM_LIST_CHECK_JOIN_ROOM",
+   "en": "Enter the selected room?",
+   "pt": "Entrar na sala selecionada?"
+  },
+  {
+   "id": "ROOM_LIST_JOINNING_ROOM",
+   "en": "Entering room.",
+   "pt": "Entrando na sala."
+  },
+  {
+   "id": "ROOM_LIST_INPUT_PASSWORD",
+   "en": "Please enter the password.",
+   "pt": "Por favor, digite a senha."
+  },
+  {
+   "id": "ROOM_LIST_DESC_00",
+   "en": "Select a room to enter.",
+   "pt": "Selecione uma sala para entrar."
+  },
+  {
+   "id": "RANK_MATCH_ITEM_CONFIRM",
+   "en": "Begin Matchmaking",
+   "pt": "Iniciar Matchmaking"
+  },
+  {
+   "id": "RANK_MATCH_ITEM_RANK",
+   "en": "Rank",
+   "pt": "Rank"
+  },
+  {
+   "id": "RANK_MATCH_ITEM_REPLAY",
+   "en": "Auto Upload Replay",
+   "pt": "Enviar Replay Automaticamente"
+  },
+  {
+   "id": "RANK_MATCH_ITEM_REPLAY_NOTES",
+   "en": "(*When highly ranked)",
+   "pt": "(*Quando em rank alto)"
+  },
+  {
+   "id": "RANK_MATCH_WAITING_TEXT",
+   "en": "Matching you with a foe...",
+   "pt": "Procurando um oponente para você..."
+  },
+  {
+   "id": "RANK_MATCH_ITEM_RANK_00",
+   "en": "Same Rank",
+   "pt": "Mesmo Rank"
+  },
+  {
+   "id": "RANK_MATCH_ITEM_RANK_01",
+   "en": "Higher Rank",
+   "pt": "Rank Maior"
+  },
+  {
+   "id": "RANK_MATCH_ITEM_REPLAY_00",
+   "en": "No",
+   "pt": "Não"
+  },
+  {
+   "id": "RANK_MATCH_ITEM_REPLAY_01",
+   "en": "Yes",
+   "pt": "Sim"
+  },
+  {
+   "id": "ROOM_JOIN_MEMBER",
+   "en": "[%ls] has entered the room.",
+   "pt": "[%ls] entrou na sala."
+  },
+  {
+   "id": "ROOM_CHECK_EXIT_ROOM",
+   "en": "Leave the room?",
+   "pt": "Sair da sala?"
+  },
+  {
+   "id": "ROOM_EXIT_ROOM_HOST",
+   "en": "A guest has left the room.",
+   "pt": "Um convidado saiu da sala."
+  },
+  {
+   "id": "ROOM_EXIT_ROOM_GUEST",
+   "en": "Leaving room.",
+   "pt": "Saindo da sala."
+  },
+  {
+   "id": "ROOM_CHECK_BREAKUP_ROOM",
+   "en": "Disband the room?",
+   "pt": "Desfazer a sala?"
+  },
+  {
+   "id": "ROOM_BREAKUP_ROOM_HOST",
+   "en": "Disbanding the room.",
+   "pt": "Desfazendo a sala."
+  },
+  {
+   "id": "ROOM_CHECK_KICK_OUT",
+   "en": "Kick this guest from the room?",
+   "pt": "Expulsar este convidado da sala?"
+  },
+  {
+   "id": "ROOM_KICKING_OUT",
+   "en": "Kicking guest...",
+   "pt": "Expulsando convidado..."
+  },
+  {
+   "id": "ROOM_COMPLETE_KICK_OUT",
+   "en": "The guest has been kicked.",
+   "pt": "O convidado foi expulso."
+  },
+  {
+   "id": "ROOM_SETTING_CHANGE_START",
+   "en": "Change settings and return to room.",
+   "pt": "Mudar as configurações e voltar à sala."
+  },
+  {
+   "id": "ROOM_SETTING_CHANGING",
+   "en": "Changing settings...",
+   "pt": "Mudando as configurações..."
+  },
+  {
+   "id": "ROOM_SETTING_CANCELING",
+   "en": "Returning to room.",
+   "pt": "Voltando à sala."
+  },
+  {
+   "id": "ROOM_CHARACTER_CHANGING",
+   "en": "Changing character...",
+   "pt": "Mudando personagem..."
+  }
+ ]
+}

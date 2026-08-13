@@ -1,0 +1,403 @@
+{
+ "origem": "message/MES_CMD_LIST",
+ "conteudo": "Lista de comandos e golpes",
+ "parte": "4/4",
+ "instrucoes": "Traduza o campo 'en' para portugues do Brasil e escreva o resultado em 'pt'. Nao altere 'id'. Mantenha intactos os codigos entre chaves ({CA}, {LA}, {BR}, {JU}, {SP}, {GD}, {LS}, {L1}, {R1}, setas), os marcadores de formato (%d, %l, %ls, %hs) e as quebras de linha \\n. Se uma linha nao precisar de traducao, deixe 'pt' vazio.",
+ "linhas": [
+  {
+   "id": "ATKCOMBO_14_2_SKILL",
+   "en": "This is for Mom!\n⇒This is for Guts!\n⇒And this is for the me in my head!",
+   "pt": "Isso é pela mamãe!\n⇒Isso é pelo Guts!\n⇒E isso é pela eu da minha cabeça!"
+  },
+  {
+   "id": "ATKCOMBO_14_2_INPUT",
+   "en": "{←} or {→} + {CA}　\n⇒　{CA}　⇒　{←} or {→} + {CA}",
+   "pt": "{←} ou {→} + {CA}　\n⇒　{CA}　⇒　{←} ou {→} + {CA}"
+  },
+  {
+   "id": "ATKCOMBO_14_3_SKILL",
+   "en": "This is for Mataro!\n⇒This is for Guts!\n⇒And this is for the Ryuko in my heart!",
+   "pt": "Isso é pelo Mataro!\n⇒Isso é pelo Guts!\n⇒E isso é pela Ryuko do meu coração!"
+  },
+  {
+   "id": "ATKCOMBO_14_3_INPUT",
+   "en": "{↑} or {↓} + {CA}　\n⇒　{CA}　⇒　{↑} or {↓} + {CA}",
+   "pt": "{↑} ou {↓} + {CA}　\n⇒　{CA}　⇒　{↑} ou {↓} + {CA}"
+  },
+  {
+   "id": "ATKCOMBO_14_4_SKILL",
+   "en": "I think I can fly!\n⇒This is for Guts!\n⇒And last is for me!",
+   "pt": "Acho que consigo voar!\n⇒Isso é pelo Guts!\n⇒E por último, por mim!"
+  },
+  {
+   "id": "ATKCOMBO_14_4_INPUT",
+   "en": "{CA}　⇒　{CA}　⇒　{CA}",
+   "pt": "{CA}　⇒　{CA}　⇒　{CA}"
+  },
+  {
+   "id": "ATKCOMBO_14_5_SKILL",
+   "en": "I can't make sudden stops!",
+   "pt": "Eu não consigo parar de repente!"
+  },
+  {
+   "id": "ATKCOMBO_14_5_INPUT",
+   "en": "{CA}",
+   "pt": "{CA}"
+  },
+  {
+   "id": "ATKCOMBO_14_6_SKILL",
+   "en": "Alright, try to catch me!",
+   "pt": "Beleza, tenta me pegar!"
+  },
+  {
+   "id": "ATKCOMBO_14_6_POSITION",
+   "en": "During rolling actions",
+   "pt": "Durante o rolamento"
+  },
+  {
+   "id": "ATKCOMBO_14_6_INPUT",
+   "en": "{CA}",
+   "pt": "{CA}"
+  },
+  {
+   "id": "SHTCOMBO_14_1_SKILL",
+   "en": "Here comes an ultra fastball!",
+   "pt": "Lá vem uma ultra bola rápida!"
+  },
+  {
+   "id": "SHTCOMBO_14_1_INPUT",
+   "en": "{LA} Hold",
+   "pt": "Segurar {LA}"
+  },
+  {
+   "id": "SHTCOMBO_14_2_SKILL",
+   "en": "Throw and throw and throw!",
+   "pt": "Lança, lança e lança!"
+  },
+  {
+   "id": "SHTCOMBO_14_2_INPUT",
+   "en": "{LA} Mash",
+   "pt": "Esmagar {LA}"
+  },
+  {
+   "id": "SHTCOMBO_14_3_SKILL",
+   "en": "Just keep on throwing!",
+   "pt": "Só continua lançando!"
+  },
+  {
+   "id": "SHTCOMBO_14_3_INPUT",
+   "en": "{LA} Hold",
+   "pt": "Segurar {LA}"
+  },
+  {
+   "id": "SHTCOMBO_14_4_SKILL",
+   "en": "Just throw at random!",
+   "pt": "Só joga aleatório!"
+  },
+  {
+   "id": "SHTCOMBO_14_4_INPUT",
+   "en": "{LA} Mash",
+   "pt": "Esmagar {LA}"
+  },
+  {
+   "id": "SHTCOMBO_14_5_SKILL",
+   "en": "I threw! But I fell over!",
+   "pt": "Joguei! Mas eu caí!"
+  },
+  {
+   "id": "SHTCOMBO_14_5_INPUT",
+   "en": "{LA}",
+   "pt": "{LA}"
+  },
+  {
+   "id": "SHTCOMBO_14_6_SKILL",
+   "en": "If I fall, I won't get up normally!",
+   "pt": "Se eu cair, não vou levantar normalmente!"
+  },
+  {
+   "id": "SHTCOMBO_14_6_POSITION",
+   "en": "During rolling actions",
+   "pt": "Durante o rolamento"
+  },
+  {
+   "id": "SHTCOMBO_14_6_INPUT",
+   "en": "{LA}",
+   "pt": "{LA}"
+  },
+  {
+   "id": "BRKCOMBO_14_1_SKILL",
+   "en": "Tennis club power stroke!",
+   "pt": "Golpe poderoso do clube de tênis!"
+  },
+  {
+   "id": "BRKCOMBO_14_1_INPUT",
+   "en": "{BR}",
+   "pt": "{BR}"
+  },
+  {
+   "id": "BRKCOMBO_14_2_SKILL",
+   "en": "Wings on a tiger! Mako with a nail bat!",
+   "pt": "Asas num tigre! Mako com um taco de pregos!"
+  },
+  {
+   "id": "BRKCOMBO_14_2_INPUT",
+   "en": "{BR}",
+   "pt": "{BR}"
+  },
+  {
+   "id": "BRKCOMBO_14_3_SKILL",
+   "en": "Bats and nails are made for hitting!",
+   "pt": "Tacos e pregos foram feitos pra bater!"
+  },
+  {
+   "id": "BRKCOMBO_14_3_INPUT",
+   "en": "{BR}",
+   "pt": "{BR}"
+  },
+  {
+   "id": "BRKCOMBO_14_4_SKILL",
+   "en": "Always rise after a fall!",
+   "pt": "Sempre se levante depois de cair!"
+  },
+  {
+   "id": "BRKCOMBO_14_4_POSITION",
+   "en": "During rolling actions",
+   "pt": "Durante o rolamento"
+  },
+  {
+   "id": "BRKCOMBO_14_4_INPUT",
+   "en": "{BR}",
+   "pt": "{BR}"
+  },
+  {
+   "id": "KILLERMOVE_14_1_SKILL",
+   "en": "My fist hurts like my heart!",
+   "pt": "Meu punho dói que nem meu coração!"
+  },
+  {
+   "id": "KILLERMOVE_14_2_SKILL",
+   "en": "Anything goes in a fight!",
+   "pt": "Numa briga vale tudo!"
+  },
+  {
+   "id": "KILLERMOVE_14_3_SKILL",
+   "en": "I don't really get it rush!",
+   "pt": "Sequência 'Não Entendi Direito'!"
+  },
+  {
+   "id": "SUPERKILLERMOVE_14_1_SKILL",
+   "en": "I don't really get it mega rush!",
+   "pt": "Mega Sequência 'Não Entendi Direito'!"
+  },
+  {
+   "id": "ARCANUM_14_1_SKILL",
+   "en": "This is what Mako Mankanshoku can do!",
+   "pt": "É isso que Mako Mankanshoku sabe fazer!"
+  },
+  {
+   "id": "CHARACTER_15-1",
+   "en": "Nudist Beach (DTR)",
+   "pt": "Nudist Beach (DTR)"
+  },
+  {
+   "id": "POINT_15_1",
+   "en": "Giant robot team!\nMulti-range characters. Equally effective from short or long distances.",
+   "pt": "Equipe de robô gigante!\nPersonagens multi-distância. Igualmente eficientes a curtas ou longas distâncias."
+  },
+  {
+   "id": "BUILDUP_15_1",
+   "en": "Valor Level 1\nEnhances weapon actions.\nProvides armor that prevents some damage when sidestepping and performing pursuit dashes.",
+   "pt": "Nível de Valor 1\nMelhora ações de arma.\nFornece armadura que previne parte do dano ao esquivar e realizar avanços de perseguição."
+  },
+  {
+   "id": "BUILDUP_15_2",
+   "en": "Valor Level 2\nSpecial close range attacks powered up to super attacks.",
+   "pt": "Nível de Valor 2\nAtaques especiais de curta distância fortalecidos para superataques."
+  },
+  {
+   "id": "BUILDUP_15_3",
+   "en": "Valor Level 3\nEnter Bloody Valor Overpowered state and gain a boost to your SP gauge.\nSEN-I-SOSHITSU Secret Art unsealed.",
+   "pt": "Nível de Valor 3\nEntra no estado Bloody Valor Sobrepujado e ganha um bônus na barra de SP.\nArte Secreta SEN-I-SOSHITSU liberada."
+  },
+  {
+   "id": "ABILITY_15",
+   "en": "Grenade\nA break attack that places a grenade with the initial input and detonates it with a subsequent input.\nHitting an opponent with a thrown grenade will not break their guard, but detonating it can.\nYou can have up to ten grenades out, and can control the direction and distance you throw them.",
+   "pt": "Granada\nUm ataque de quebra que planta uma granada com o primeiro comando e a detona com o comando seguinte.\nAcertar o oponente com uma granada arremessada não quebra a defesa, mas detoná-la, sim.\nVocê pode ter até dez granadas em campo e pode controlar a direção e a distância que as arremessa."
+  },
+  {
+   "id": "ATKCOMBO_15_1_SKILL",
+   "en": "Zipper Punch\n⇒ Nu-dagger",
+   "pt": "Soco Zíper\n⇒ Nu-daga"
+  },
+  {
+   "id": "ATKCOMBO_15_1_INPUT",
+   "en": "{CA}{CA}　⇒　{CA}",
+   "pt": "{CA}{CA}　⇒　{CA}"
+  },
+  {
+   "id": "ATKCOMBO_15_2_SKILL",
+   "en": "Beautiful MKSG\n⇒ Nake-dagger",
+   "pt": "Belo MKSG\n⇒ Adaga Nua"
+  },
+  {
+   "id": "ATKCOMBO_15_2_INPUT",
+   "en": "{←} or {→} + {CA}　\n⇒　{←} or {→} + {CA}",
+   "pt": "{←} ou {→} + {CA}　\n⇒　{←} ou {→} + {CA}"
+  },
+  {
+   "id": "ATKCOMBO_15_3_SKILL",
+   "en": "Nice Butt\n⇒ Au Naturel",
+   "pt": "Bela Bunda\n⇒ Ao Natural"
+  },
+  {
+   "id": "ATKCOMBO_15_3_INPUT",
+   "en": "{↑} or {↓} + {CA}　\n⇒　{↑} or {↓} + {CA}",
+   "pt": "{↑} ou {↓} + {CA}　\n⇒　{↑} ou {↓} + {CA}"
+  },
+  {
+   "id": "ATKCOMBO_15_4_SKILL",
+   "en": "No Suit Please",
+   "pt": "Sem Traje Por Favor"
+  },
+  {
+   "id": "ATKCOMBO_15_4_INPUT",
+   "en": "{CA}",
+   "pt": "{CA}"
+  },
+  {
+   "id": "ATKCOMBO_15_5_SKILL",
+   "en": "Rolling Nudist",
+   "pt": "Nudista Rolante"
+  },
+  {
+   "id": "ATKCOMBO_15_5_INPUT",
+   "en": "{CA}",
+   "pt": "{CA}"
+  },
+  {
+   "id": "SHTCOMBO_15_1_SKILL",
+   "en": "Marking Pencil Missile (Earth)",
+   "pt": "Míssil Lápis Marcador (Terra)"
+  },
+  {
+   "id": "SHTCOMBO_15_1_INPUT",
+   "en": "{LA} Hold",
+   "pt": "Segurar {LA}"
+  },
+  {
+   "id": "SHTCOMBO_15_2_SKILL",
+   "en": "Machine Gun (Earth)\n⇒ Ripper Rifle (Earth)",
+   "pt": "Metralhadora (Terra)\n⇒ Rifle Estripador (Terra)"
+  },
+  {
+   "id": "SHTCOMBO_15_2_INPUT",
+   "en": "{LA}　⇒　{LA}",
+   "pt": "{LA}　⇒　{LA}"
+  },
+  {
+   "id": "SHTCOMBO_15_3_SKILL",
+   "en": "Marking Pencil Missile (Sky)",
+   "pt": "Míssil Lápis Marcador (Céu)"
+  },
+  {
+   "id": "SHTCOMBO_15_3_INPUT",
+   "en": "{LA} Hold",
+   "pt": "Segurar {LA}"
+  },
+  {
+   "id": "SHTCOMBO_15_4_SKILL",
+   "en": "Machine Gun (Sky)\n⇒ Marking Pencil Missile (Earth)",
+   "pt": "Metralhadora (Céu)\n⇒ Míssil Lápis Marcador (Terra)"
+  },
+  {
+   "id": "SHTCOMBO_15_4_INPUT",
+   "en": "{LA}",
+   "pt": "{LA}"
+  },
+  {
+   "id": "SHTCOMBO_15_5_SKILL",
+   "en": "Machine Gun (Dash)\n⇒ Ripper Rifle (Earth)",
+   "pt": "Metralhadora (Avanço)\n⇒ Rifle Estripador (Terra)"
+  },
+  {
+   "id": "SHTCOMBO_15_5_INPUT",
+   "en": "{LA}　⇒　{LA}",
+   "pt": "{LA}　⇒　{LA}"
+  },
+  {
+   "id": "BRKCOMBO_15_1_SKILL",
+   "en": "Bobbin Grenade (Earth)\n⇒ Take It Off! (Remove Clothing)",
+   "pt": "Granada Bobina (Terra)\n⇒ Tire! (Remover Roupa)"
+  },
+  {
+   "id": "BRKCOMBO_15_1_INPUT",
+   "en": "{BR}　⇒　Mash {BR}",
+   "pt": "{BR}　⇒　Esmagar {BR}"
+  },
+  {
+   "id": "BRKCOMBO_15_2_SKILL",
+   "en": "Bobbin Grenade (Sky)\n⇒ Pull It Off! (Remove Clothing)",
+   "pt": "Granada Bobina (Céu)\n⇒ Puxe! (Remover Roupa)"
+  },
+  {
+   "id": "BRKCOMBO_15_2_INPUT",
+   "en": "{BR}　⇒　Mash {BR}",
+   "pt": "{BR}　⇒　Esmagar {BR}"
+  },
+  {
+   "id": "BRKCOMBO_15_3_SKILL",
+   "en": "Bobbin Grenade (Triple)\n⇒ Kick It Off! (Remove Clothing)",
+   "pt": "Granada Bobina (Tripla)\n⇒ Chute! (Remover Roupa)"
+  },
+  {
+   "id": "BRKCOMBO_15_3_INPUT",
+   "en": "{BR}　⇒ {BR}",
+   "pt": "{BR}　⇒ {BR}"
+  },
+  {
+   "id": "BRKCOMBO_15_4_SKILL",
+   "en": "Cast It Off! (Remove Clothing)",
+   "pt": "Arranque! (Remover Roupa)"
+  },
+  {
+   "id": "BRKCOMBO_15_4_POSITION",
+   "en": "Ground/Aerial\n(When grenade(s) are set.)",
+   "pt": "Solo/Aéreo\n(Quando granada(s) estão plantadas.)"
+  },
+  {
+   "id": "BRKCOMBO_15_4_INPUT",
+   "en": "{GD} + {BR}",
+   "pt": "{GD} + {BR}"
+  },
+  {
+   "id": "KILLERMOVE_15_1_SKILL",
+   "en": "Lesser Great Disrobe-dagger",
+   "pt": "Pequena Grande Adaga de Despir"
+  },
+  {
+   "id": "KILLERMOVE_15_2_SKILL",
+   "en": "Nudist Beach Inventory",
+   "pt": "Inventário da Nudist Beach"
+  },
+  {
+   "id": "KILLERMOVE_15_3_SKILL",
+   "en": "Sexy Explosion\n⇒ Cast It Off! (Remove Clothing)",
+   "pt": "Explosão Sexy\n⇒ Arranque! (Remover Roupa)"
+  },
+  {
+   "id": "KILLERMOVE_15_3_INPUT",
+   "en": "{SP} + {BR}\n⇒{BR}",
+   "pt": "{SP} + {BR}\n⇒{BR}"
+  },
+  {
+   "id": "SUPERKILLERMOVE_15_1_SKILL",
+   "en": "No Nude, No Life",
+   "pt": "Sem Nudez, Sem Vida"
+  },
+  {
+   "id": "ARCANUM_15_1_SKILL",
+   "en": "Nude to Heart, Heart to Nude",
+   "pt": "Nudez pro Coração, Coração pra Nudez"
+  }
+ ]
+}

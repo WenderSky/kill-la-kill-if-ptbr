@@ -1,0 +1,1008 @@
+{
+ "origem": "message/MES_COMMON",
+ "conteudo": "Menus, sistema e avisos",
+ "parte": "3/8",
+ "instrucoes": "Traduza o campo 'en' para portugues do Brasil e escreva o resultado em 'pt'. Nao altere 'id'. Mantenha intactos os codigos entre chaves ({CA}, {LA}, {BR}, {JU}, {SP}, {GD}, {LS}, {L1}, {R1}, setas), os marcadores de formato (%d, %l, %ls, %hs) e as quebras de linha \\n. Se uma linha nao precisar de traducao, deixe 'pt' vazio.",
+ "linhas": [
+  {
+   "id": "ROOM_CHARACTER_CANCELING",
+   "en": "Returning to room.",
+   "pt": "Voltando para a sala."
+  },
+  {
+   "id": "ROOM_UPDATE_SEQUENCE",
+   "en": "Updating information...",
+   "pt": "Atualizando informações..."
+  },
+  {
+   "id": "ONLINE_SQ_RECRUIT",
+   "en": "Recruiting challengers.",
+   "pt": "Recrutando desafiantes."
+  },
+  {
+   "id": "ONLINE_SQ_SELECT_CHARACTER",
+   "en": "Changing character...",
+   "pt": "Trocando de personagem..."
+  },
+  {
+   "id": "ONLINE_SQ_ROOM_SETTING",
+   "en": "Changing battle settings...",
+   "pt": "Alterando configurações de batalha..."
+  },
+  {
+   "id": "ONLINE_SQ_SELECT_HANDICAP",
+   "en": "Changing handicap...",
+   "pt": "Alterando handicap..."
+  },
+  {
+   "id": "ONLINE_SQ_READY",
+   "en": "Ready!",
+   "pt": "Pronto!"
+  },
+  {
+   "id": "ONLINE_SQ_GAME_START",
+   "en": "Starting game.",
+   "pt": "Iniciando jogo."
+  },
+  {
+   "id": "ONLINE_SQ_IN_BATTLE",
+   "en": "Now battling...",
+   "pt": "Batalhando..."
+  },
+  {
+   "id": "ONLINE_SQ_IN_RESULT",
+   "en": "Confirming result...",
+   "pt": "Confirmando resultado..."
+  },
+  {
+   "id": "ONLINE_SQ_RETURN_ROOM",
+   "en": "Returning to room.",
+   "pt": "Voltando para a sala."
+  },
+  {
+   "id": "ONLINE_ROOM_ID_GENERATE",
+   "en": "A search ID has been issued. This room's ID is [%hs]. \nLet your friends know to search it, so they can join you.",
+   "pt": "Uma ID de busca foi criada. A ID desta sala é [%hs]. \nAvise seus amigos para buscarem por ela e entrarem."
+  },
+  {
+   "id": "RANKING_SQ_RECRUIT",
+   "en": "Searching for an opponent.",
+   "pt": "Buscando oponente."
+  },
+  {
+   "id": "RANKING_JOIN_MEMBER",
+   "en": "[%ls] has entered the room.",
+   "pt": "[%ls] entrou na sala."
+  },
+  {
+   "id": "RANKING_CHECK_EXIT_ROOM",
+   "en": "Stop searching for a ranked match?",
+   "pt": "Parar de buscar Partida Ranqueada?"
+  },
+  {
+   "id": "RANKING_EXIT_ROOM",
+   "en": "Ending matchmaking...",
+   "pt": "Encerrando busca por partidas..."
+  },
+  {
+   "id": "RANKING_RESTART_MATCHMAKE",
+   "en": "Resuming matchmaking.",
+   "pt": "Retomando busca por partidas."
+  },
+  {
+   "id": "RANKING_RECORD_DATA",
+   "en": "Uploading match results.",
+   "pt": "Enviando resultados da partida."
+  },
+  {
+   "id": "RANKING_BACK_TO_LOBBY",
+   "en": "Returning to lobby.",
+   "pt": "Voltando para o lobby."
+  },
+  {
+   "id": "NO_OPTION_NOTICE_RANKMATCH",
+   "en": "Options cannot be changed while the match making is in progress.",
+   "pt": "As opções não podem ser alteradas enquanto a busca por partidas estiver em andamento."
+  },
+  {
+   "id": "AUTO_MATCH_CHECK_START_BATTLE",
+   "en": "Opponent found.\nYou ready to fight?\n%d seconds remaining.",
+   "pt": "Oponente encontrado.\nPronto pra lutar?\n%d segundos restantes."
+  },
+  {
+   "id": "AUTO_MATCH_WAIT_REPLY",
+   "en": "Waiting for opponent's response.",
+   "pt": "Aguardando resposta do oponente."
+  },
+  {
+   "id": "AUTO_MATCH_GAME_CANCELED",
+   "en": "Your opponent canceled the battle.",
+   "pt": "O oponente cancelou a batalha."
+  },
+  {
+   "id": "AUTO_MATCH_GAME_CANCEL_SELF",
+   "en": "Canceling the search...",
+   "pt": "Cancelando a busca..."
+  },
+  {
+   "id": "AUTO_MATCH_GAME_CANCELED_SELF",
+   "en": "Matchmaking canceled.",
+   "pt": "Busca por partidas cancelada."
+  },
+  {
+   "id": "AUTO_MATCH_NO_REPLYED",
+   "en": "Your opponent didn't respond.",
+   "pt": "O oponente não respondeu."
+  },
+  {
+   "id": "AUTO_MATCH_NO_REPLY_SELF",
+   "en": "Time limit exceeded. Canceling the match.",
+   "pt": "Tempo limite excedido. Cancelando a partida."
+  },
+  {
+   "id": "AUTO_MATCH_NO_REPLYED_SELF",
+   "en": "Matchmaking was canceled because you exceeded the time limit.",
+   "pt": "A busca por partidas foi cancelada porque você excedeu o tempo limite."
+  },
+  {
+   "id": "AUTO_MATCH_GAME_START",
+   "en": "Starting match.",
+   "pt": "Iniciando a partida."
+  },
+  {
+   "id": "MUSOU_SEL_DESC_00",
+   "en": "Defeat as many COVERS as you can in one minute.",
+   "pt": "Derrote o máximo de Casulos que conseguir em um minuto."
+  },
+  {
+   "id": "MUSOU_SEL_DESC_01",
+   "en": "Defeat 100 COVERS as fast as possible!",
+   "pt": "Derrote 100 Casulos o mais rápido possível!"
+  },
+  {
+   "id": "MUSOU_SEL_DESC_02",
+   "en": "Fight until you can't fight any longer and defeat as many COVERS as you can.",
+   "pt": "Lute até não aguentar mais e derrote o máximo de Casulos que conseguir."
+  },
+  {
+   "id": "04_TEXT_GUIDE_X_EV",
+   "en": "//",
+   "pt": "//"
+  },
+  {
+   "id": "04_TEXT_GUIDE_BACK_EV",
+   "en": "//",
+   "pt": "//"
+  },
+  {
+   "id": "04_TEXT_GUIDE_TRI_EV",
+   "en": "×",
+   "pt": "×"
+  },
+  {
+   "id": "04_TEXT_GUIDE_OP_EV",
+   "en": "Select",
+   "pt": "Select"
+  },
+  {
+   "id": "04_TEXT_GUIDE_CIR_EV",
+   "en": "//",
+   "pt": "//"
+  },
+  {
+   "id": "04_TEXT_GUIDE_SEL_EV",
+   "en": "//",
+   "pt": "//"
+  },
+  {
+   "id": "ACT_DUMMY_END_SPECIAL",
+   "en": "You Win\n(Ending cutscenes will be available in the final version.)",
+   "pt": "Você Venceu\n(As cenas finais estarão disponíveis na versão final.)"
+  },
+  {
+   "id": "CTRL_DESC_CLOSE",
+   "en": "Close",
+   "pt": "Fechar"
+  },
+  {
+   "id": "BT_021_STU_ATTACK_052",
+   "en": "This is the difference between us!",
+   "pt": "Essa é a diferença entre nós!"
+  },
+  {
+   "id": "BT_011_RYU_ATTACK_041",
+   "en": "Finishing move, Sen'i Soshitsu (Fiber Lost)!",
+   "pt": "Golpe final, Sen'i Soshitsu (Perda de Fibras)!"
+  },
+  {
+   "id": "BT_031_GAM_ATTACK_133",
+   "en": "I will mold you back into shape!",
+   "pt": "Eu vou te botar na linha!"
+  },
+  {
+   "id": "BT_041_SAN_ATTACK_122",
+   "en": "What a pathetic end.",
+   "pt": "Que fim patético."
+  },
+  {
+   "id": "VOI_051_JYA_ATTACK_124",
+   "en": "This is the finale!",
+   "pt": "Esse é o grand finale!"
+  },
+  {
+   "id": "VOI_061_INU_ATTACK_130",
+   "en": "It's over now!",
+   "pt": "Acabou!"
+  },
+  {
+   "id": "VOI_014_RYU_ATTACK_087",
+   "en": "I'll slice you in two!",
+   "pt": "Vou te partir no meio, porra!"
+  },
+  {
+   "id": "VOI_024_SAT_ATTACK_101",
+   "en": "On your knees!",
+   "pt": "De joelhos!"
+  },
+  {
+   "id": "NO_VOICE_WARNING",
+   "en": "Please note that some character voices have not been implemented yet.\nAll content herein are in-development and not indicative of the final product.",
+   "pt": "Observe que algumas vozes de personagens ainda não foram implementadas.\nTodo este conteúdo está em desenvolvimento e não reflete o produto final."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_00_00",
+   "en": "Story mode \"Ryuko Chapter\" has been unlocked.",
+   "pt": "O Modo História \"Capítulo da Ryuko\" foi desbloqueado."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_00_01",
+   "en": "Battle mode \"Free Battle\" has been unlocked.",
+   "pt": "O modo de batalha \"Batalha Livre\" foi desbloqueado."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_00_02",
+   "en": "Battle mode \"Player Match\" has been unlocked.",
+   "pt": "O modo de batalha \"Partida Livre\" foi desbloqueado."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_00_03",
+   "en": "Battle mode \"Ranked Match\" has been unlocked.",
+   "pt": "O modo de batalha \"Partida Ranqueada\" foi desbloqueado."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_00_04",
+   "en": "Practice mode \"Tutorial\" has been unlocked.",
+   "pt": "O modo de prática \"Tutorial\" foi desbloqueado."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_00_05",
+   "en": "Practice mode \"Training\" has been unlocked.",
+   "pt": "O modo de prática \"Treino\" foi desbloqueado."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_00_06",
+   "en": "Practice mode \"Survival Challenge\" has been unlocked.",
+   "pt": "O modo de prática \"Desafio de Sobrevivência\" foi desbloqueado."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_00_07",
+   "en": "Practice mode \"COVERS Challenge\" has been unlocked.",
+   "pt": "O modo de prática \"Desafio de Casulos\" foi desbloqueado."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_00_08",
+   "en": "Gallery Mode has been unlocked.",
+   "pt": "O modo Galeria foi desbloqueado."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_00_09",
+   "en": "\"Ragyo Kiryuin\" has been unlocked as a playable character in Free Battle.",
+   "pt": "\"Ragyo Kiryuin\" foi desbloqueada como personagem jogável em Batalha Livre."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_00_10",
+   "en": "\"Nui Harime\" has been unlocked as a playable character in Free Battle.",
+   "pt": "\"Nui Harime\" foi desbloqueada como personagem jogável em Batalha Livre."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_00_11",
+   "en": "\"Satsuki Kiryuin (Dual Wield)\" has been unlocked as a playable character in Free Battle.",
+   "pt": "\"Satsuki Kiryuin (Empunhadura Dupla)\" foi desbloqueada como personagem jogável em Batalha Livre."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_00_12",
+   "en": "\"Ryuko Matoi (Dual Wield)\" has been unlocked as a playable character in Free Battle.",
+   "pt": "\"Ryuko Matoi (Empunhadura Dupla)\" foi desbloqueada como personagem jogável em Batalha Livre."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_01_00",
+   "en": "The anime, \"Satsuki Chapter - Episode 1,\" has been unlocked.",
+   "pt": "O anime \"Capítulo da Satsuki - Episódio 1\" foi desbloqueado."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_01_01",
+   "en": "The anime, \"Satsuki Chapter - Episode 2,\" has been unlocked.",
+   "pt": "O anime \"Capítulo da Satsuki - Episódio 2\" foi desbloqueado."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_01_02",
+   "en": "The anime, \"Satsuki Chapter - Episode 3,\" has been unlocked.",
+   "pt": "O anime \"Capítulo da Satsuki - Episódio 3\" foi desbloqueado."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_01_03",
+   "en": "The anime, \"Satsuki Chapter - Episode 4,\" has been unlocked.",
+   "pt": "O anime \"Capítulo da Satsuki - Episódio 4\" foi desbloqueado."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_01_04",
+   "en": "The anime, \"Satsuki Chapter - Episode 5,\" has been unlocked.",
+   "pt": "O anime \"Capítulo da Satsuki - Episódio 5\" foi desbloqueado."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_01_05",
+   "en": "The anime, \"Satsuki Chapter - Episode 6,\" has been unlocked.",
+   "pt": "O anime \"Capítulo da Satsuki - Episódio 6\" foi desbloqueado."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_01_06",
+   "en": "The anime, \"Satsuki Chapter - Episode 7,\" has been unlocked.",
+   "pt": "O anime \"Capítulo da Satsuki - Episódio 7\" foi desbloqueado."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_01_07",
+   "en": "The anime, \"Satsuki Chapter - Episode 8,\" has been unlocked.",
+   "pt": "O anime \"Capítulo da Satsuki - Episódio 8\" foi desbloqueado."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_01_08",
+   "en": "The anime, \"Satsuki Chapter - Episode 9,\" has been unlocked.",
+   "pt": "O anime \"Capítulo da Satsuki - Episódio 9\" foi desbloqueado."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_01_09",
+   "en": "The anime, \"Satsuki Chapter - Episode 10,\" has been unlocked.",
+   "pt": "O anime \"Capítulo da Satsuki - Episódio 10\" foi desbloqueado."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_01_10",
+   "en": "The anime, \"Ryuko Chapter - Episode 1,\" has been unlocked.",
+   "pt": "O anime \"Capítulo da Ryuko - Episódio 1\" foi desbloqueado."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_01_11",
+   "en": "The anime, \"Ryuko Chapter - Episode 2,\" has been unlocked.",
+   "pt": "O anime \"Capítulo da Ryuko - Episódio 2\" foi desbloqueado."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_01_12",
+   "en": "The anime, \"Ryuko Chapter - Episode 3,\" has been unlocked.",
+   "pt": "O anime \"Capítulo da Ryuko - Episódio 3\" foi desbloqueado."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_01_13",
+   "en": "The anime, \"Ryuko Chapter - Episode 4,\" has been unlocked.",
+   "pt": "O anime \"Capítulo da Ryuko - Episódio 4\" foi desbloqueado."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_01_14",
+   "en": "The anime, \"Ryuko Chapter - Episode 5,\" has been unlocked.",
+   "pt": "O anime \"Capítulo da Ryuko - Episódio 5\" foi desbloqueado."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_01_15",
+   "en": "The anime, \"Ryuko Chapter - Episode 6,\" has been unlocked.",
+   "pt": "O anime \"Capítulo da Ryuko - Episódio 6\" foi desbloqueado."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_01_16",
+   "en": "The anime, \"Ryuko Chapter - Episode 7,\" has been unlocked.",
+   "pt": "O anime \"Capítulo da Ryuko - Episódio 7\" foi desbloqueado."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_01_17",
+   "en": "The anime, \"Ryuko Chapter - Episode 8,\" has been unlocked.",
+   "pt": "O anime \"Capítulo da Ryuko - Episódio 8\" foi desbloqueado."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_01_18",
+   "en": "The anime, \"Ryuko Chapter - Episode 9,\" has been unlocked.",
+   "pt": "O anime \"Capítulo da Ryuko - Episódio 9\" foi desbloqueado."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_01_19",
+   "en": "The anime, \"Ryuko Chapter - Episode 10,\" has been unlocked.",
+   "pt": "O anime \"Capítulo da Ryuko - Episódio 10\" foi desbloqueado."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_01_20",
+   "en": "The anime, \"Opening,\" has been unlocked",
+   "pt": "O anime \"Abertura\" foi desbloqueado."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_01_21",
+   "en": "The anime, \"Ending,\" has been unlocked.",
+   "pt": "O anime \"Encerramento\" foi desbloqueado."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_01_22",
+   "en": "Anime [Next Episode Preview - Satsuki] has been unlocked.",
+   "pt": "O anime [Prévia do Próximo Episódio - Satsuki] foi desbloqueado."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_01_23",
+   "en": "Anime [Next Episode Preview - Ryuko] has been unlocked.",
+   "pt": "O anime [Prévia do Próximo Episódio - Ryuko] foi desbloqueado."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_01_24",
+   "en": "The anime, \"Product Trailer,\" has been unlocked.",
+   "pt": "O anime \"Trailer do Produto\" foi desbloqueado."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_01_25",
+   "en": "The anime, \"First TV Commercial\" has been unlocked.",
+   "pt": "O anime \"Primeiro Comercial de TV\" foi desbloqueado."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_01_26",
+   "en": "The anime, \"Promotional Video,\" has been unlocked.",
+   "pt": "O anime \"Vídeo Promocional\" foi desbloqueado."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_01_30",
+   "en": "The voice library, \"Satsuki Kiryuin,\" has been unlocked.",
+   "pt": "A biblioteca de vozes \"Satsuki Kiryuin\" foi desbloqueada."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_01_31",
+   "en": "The voice library, \"Ryuko Matoi & Senketsu,\" has been unlocked.",
+   "pt": "A biblioteca de vozes \"Ryuko Matoi e Senketsu\" foi desbloqueada."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_01_32",
+   "en": "The voice library, \"Ira Gamagoori,\" has been unlocked.",
+   "pt": "A biblioteca de vozes \"Ira Gamagoori\" foi desbloqueada."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_01_33",
+   "en": "The voice library, \"Uzu Sanageyama,\" has been unlocked.",
+   "pt": "A biblioteca de vozes \"Uzu Sanageyama\" foi desbloqueada."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_01_34",
+   "en": "The voice library, \"Nonon Jakuzure,\" has been unlocked.",
+   "pt": "A biblioteca de vozes \"Nonon Jakuzure\" foi desbloqueada."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_01_35",
+   "en": "The voice library, \"Houka Inumuta,\" has been unlocked.",
+   "pt": "A biblioteca de vozes \"Houka Inumuta\" foi desbloqueada."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_01_36",
+   "en": "The voice library, \"Nui Harime,\" has been unlocked.",
+   "pt": "A biblioteca de vozes \"Nui Harime\" foi desbloqueada."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_01_37",
+   "en": "The voice library, \"Ragyo Kiryuin,\" has been unlocked.",
+   "pt": "A biblioteca de vozes \"Ragyo Kiryuin\" foi desbloqueada."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_01_38",
+   "en": "The voice library, \"Shiro Iori,\" has been unlocked.",
+   "pt": "A biblioteca de vozes \"Shiro Iori\" foi desbloqueada."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_01_39",
+   "en": "The voice library, \"Mako Mankanshoku,\" has been unlocked.",
+   "pt": "A biblioteca de vozes \"Mako Mankanshoku\" foi desbloqueada."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_01_40",
+   "en": "The voice library, \"Nudist Beach,\" has been unlocked.",
+   "pt": "A biblioteca de vozes \"Nudist Beach\" foi desbloqueada."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_01_60",
+   "en": "The digital figure, \"Satsuki (Life Fiber Override),\" has been unlocked.",
+   "pt": "A figura digital \"Satsuki (Sobreposição de Fibras de Vida)\" foi desbloqueada."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_01_61",
+   "en": "The digital figure, \"Satsuki (Life Fiber Override, Dual Wield),\" has been unlocked.",
+   "pt": "A figura digital \"Satsuki (Sobreposição de Fibras de Vida, Empunhadura Dupla)\" foi desbloqueada."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_01_62",
+   "en": "The digital figure, \"Satsuki (Shinzui),\" has been unlocked.",
+   "pt": "A figura digital \"Satsuki (Shinzui)\" foi desbloqueada."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_01_63",
+   "en": "The digital figure, \"Ryuko (Life Fiber Synchronize),\" has been unlocked.",
+   "pt": "A figura digital \"Ryuko (Sincronização de Fibras de Vida)\" foi desbloqueada."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_01_64",
+   "en": "The digital figure, \"Ryuko (Life Fiber Synchronize, Dual Wield),\" has been unlocked.",
+   "pt": "A figura digital \"Ryuko (Sincronização de Fibras de Vida, Empunhadura Dupla)\" foi desbloqueada."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_01_65",
+   "en": "The digital figure, \"Ryuko (Kisaragi),\" has been unlocked.",
+   "pt": "A figura digital \"Ryuko (Kisaragi)\" foi desbloqueada."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_01_66",
+   "en": "The digital figure, \"Gamagoori (Shackle & Scourge Regalia),\" has been unlocked.",
+   "pt": "A figura digital \"Gamagoori (Uniforme Goku Algemas e Açoites)\" foi desbloqueada."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_01_67",
+   "en": "The digital figure, \"Sanageyama (Blade Regalia MKII),\" has been unlocked.",
+   "pt": "A figura digital \"Sanageyama (Uniforme Goku das Espadas MKII)\" foi desbloqueada."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_01_68",
+   "en": "The digital figure, \"Inumuta (Probe Regalia),\" has been unlocked.",
+   "pt": "A figura digital \"Inumuta (Uniforme Goku das Sondas)\" foi desbloqueada."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_01_69",
+   "en": "The digital figure, \"Jakuzure (Symphony Regalia Da Capo),\" has been unlocked.",
+   "pt": "A figura digital \"Jakuzure (Uniforme Goku da Sinfonia Da Capo)\" foi desbloqueada."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_01_70",
+   "en": "The digital figure, \"Nui (Scissor Blade),\" has been unlocked.",
+   "pt": "A figura digital \"Nui (Lâmina-Tesoura)\" foi desbloqueada."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_01_71",
+   "en": "The digital figure, \"Nui (Clone),\" has been unlocked.",
+   "pt": "A figura digital \"Nui (Clone)\" foi desbloqueada."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_01_72",
+   "en": "The digital figure, \"Nui (Life Fiber Arms),\" has been unlocked.",
+   "pt": "A figura digital \"Nui (Braços de Fibra de Vida)\" foi desbloqueada."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_01_73",
+   "en": "The digital figure, \"Ragyo (Dress),\" has been unlocked.",
+   "pt": "A figura digital \"Ragyo (Vestido)\" foi desbloqueada."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_01_74",
+   "en": "The digital figure, \"Ragyo (Shinra-Kouketsu),\" has been unlocked.",
+   "pt": "A figura digital \"Ragyo (Shinra-Kouketsu)\" foi desbloqueada."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_01_75",
+   "en": "The digital figure, \"One-Star Student,\" has been unlocked.",
+   "pt": "A figura digital \"Estudante de Uma Estrela\" foi desbloqueada."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_01_76",
+   "en": "The digital figure, \"COVERS,\" has been unlocked.",
+   "pt": "A figura digital \"Casulos\" foi desbloqueada."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_01_77",
+   "en": "The digital figure, \"Enhanced COVERS,\" has been unlocked.",
+   "pt": "A figura digital \"Casulos Aprimorados\" foi desbloqueada."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_01_78",
+   "en": "The digital figure, \"Mako (Fight Club Goku Uniform),\" has been unlocked.",
+   "pt": "A figura digital \"Mako (Uniforme Goku do Clube de Luta)\" foi desbloqueada."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_01_79",
+   "en": "The digital figure, \"Nudist Beach,\" has been unlocked.",
+   "pt": "A figura digital \"Nudist Beach\" foi desbloqueada."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_01_100",
+   "en": "The digital figure background, \"Honnouji Academy,\" has been unlocked.",
+   "pt": "O fundo de figura digital \"Academia Honnouji\" foi desbloqueado."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_01_101",
+   "en": "The digital figure background, \"Polling Grounds,\" has been unlocked.",
+   "pt": "O fundo de figura digital \"Campos de Votação\" foi desbloqueado."
+  },
+  {
+   "id": "NOTIFY_UNLOCK_01_102",
+   "en": "The digital figure background, \"Honnou-cho Open Field,\" has been unlocked.",
+   "pt": "O fundo de figura digital \"Campo Aberto de Honnou-cho\" foi desbloqueado."
+  },
+  {
+   "id": "GAME_TITLE",
+   "en": "Kill la Kill -IF-",
+   "pt": "Kill la Kill -IF-"
+  },
+  {
+   "id": "CHARA_NAME_000",
+   "en": "None",
+   "pt": "Nenhum"
+  },
+  {
+   "id": "C01_1_00",
+   "en": "Ryuko Matoi",
+   "pt": "Ryuko Matoi"
+  },
+  {
+   "id": "C01_2_00",
+   "en": "Ryuko Matoi, DUAL WIELD",
+   "pt": "Ryuko Matoi, EMPUNHADURA DUPLA"
+  },
+  {
+   "id": "C02_1_00",
+   "en": "Satsuki Kiryuin",
+   "pt": "Satsuki Kiryuin"
+  },
+  {
+   "id": "C02_2_00",
+   "en": "Satsuki Kiryuin, DUAL WIELD",
+   "pt": "Satsuki Kiryuin, EMPUNHADURA DUPLA"
+  },
+  {
+   "id": "C03_1_00",
+   "en": "Ira Gamagoori",
+   "pt": "Ira Gamagoori"
+  },
+  {
+   "id": "C04_1_00",
+   "en": "Uzu Sanageyama",
+   "pt": "Uzu Sanageyama"
+  },
+  {
+   "id": "C05_1_00",
+   "en": "Nonon Jakuzure",
+   "pt": "Nonon Jakuzure"
+  },
+  {
+   "id": "C06_1_00",
+   "en": "Houka Inumuta",
+   "pt": "Houka Inumuta"
+  },
+  {
+   "id": "C07_1_00",
+   "en": "Ragyo Kiryuin",
+   "pt": "Ragyo Kiryuin"
+  },
+  {
+   "id": "C08_1_00",
+   "en": "Nui Harime",
+   "pt": "Nui Harime"
+  },
+  {
+   "id": "C14_1_00",
+   "en": "Mako Mankanshoku",
+   "pt": "Mako Mankanshoku"
+  },
+  {
+   "id": "C15_1_00",
+   "en": "Nudist Beach",
+   "pt": "Nudist Beach"
+  },
+  {
+   "id": "PERCENT",
+   "en": "％",
+   "pt": "％"
+  },
+  {
+   "id": "SECOND",
+   "en": "Sec",
+   "pt": "Seg"
+  },
+  {
+   "id": "USER_NAME_OFFLINE_1P",
+   "en": "PLAYER1",
+   "pt": "JOGADOR1"
+  },
+  {
+   "id": "USER_NAME_OFFLINE_2P",
+   "en": "PLAYER2",
+   "pt": "JOGADOR2"
+  },
+  {
+   "id": "USER_NAME_OFFLINE_COM",
+   "en": "COM",
+   "pt": "COM"
+  },
+  {
+   "id": "LIST_PAGE_FORMAT",
+   "en": "%d / %d",
+   "pt": "%d / %d"
+  },
+  {
+   "id": "STAR_00",
+   "en": "No-Star",
+   "pt": "Sem Estrela"
+  },
+  {
+   "id": "STAR_01",
+   "en": "One-Star",
+   "pt": "Uma Estrela"
+  },
+  {
+   "id": "STAR_02",
+   "en": "Two-Star",
+   "pt": "Duas Estrelas"
+  },
+  {
+   "id": "STAR_03",
+   "en": "Three-Star",
+   "pt": "Três Estrelas"
+  },
+  {
+   "id": "KETSUI_BUFF_S",
+   "en": "SP Gauge Recovery",
+   "pt": "Recuperação de Barra de SP"
+  },
+  {
+   "id": "KETSUI_BUFF_P",
+   "en": "Damage",
+   "pt": "Dano"
+  },
+  {
+   "id": "KETSUI_BUFF_G",
+   "en": "Life Recovery",
+   "pt": "Recuperação de Vida"
+  },
+  {
+   "id": "LOADING",
+   "en": "LOADING",
+   "pt": "CARREGANDO"
+  },
+  {
+   "id": "LOADING_SAFIX_0",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "LOADING_SAFIX_1",
+   "en": " .",
+   "pt": " ."
+  },
+  {
+   "id": "LOADING_SAFIX_2",
+   "en": " . .",
+   "pt": " . ."
+  },
+  {
+   "id": "LOADING_SAFIX_3",
+   "en": " . . .",
+   "pt": " . . ."
+  },
+  {
+   "id": "POPUP_DEFAULT_00",
+   "en": "Yes",
+   "pt": "Sim"
+  },
+  {
+   "id": "POPUP_DEFAULT_01",
+   "en": "No",
+   "pt": "Não"
+  },
+  {
+   "id": "COLOR_DEFAULT",
+   "en": "Basic Color",
+   "pt": "Cor Básica"
+  },
+  {
+   "id": "COLOR_1",
+   "en": "Alternate Color",
+   "pt": "Cor Alternativa"
+  },
+  {
+   "id": "COLOR_2",
+   "en": "ARC Collab Color",
+   "pt": "Cor Collab ARC"
+  },
+  {
+   "id": "COLOR_3",
+   "en": "Special Color",
+   "pt": "Cor Especial"
+  },
+  {
+   "id": "STAGE_DESC_NARROW",
+   "en": "Narrow",
+   "pt": "Estreito"
+  },
+  {
+   "id": "STAGE_DESC_SQUARE",
+   "en": "Square",
+   "pt": "Quadrado"
+  },
+  {
+   "id": "STAGE_DESC_WIDE",
+   "en": "Wide",
+   "pt": "Amplo"
+  },
+  {
+   "id": "STAGE_DESC_ROUND",
+   "en": "Round",
+   "pt": "Redondo"
+  },
+  {
+   "id": "STAGE_DESC_UNKNOWN",
+   "en": "?",
+   "pt": "?"
+  },
+  {
+   "id": "TIME_ENDLESS",
+   "en": "Endless",
+   "pt": "Infinito"
+  },
+  {
+   "id": "CHALLENGE_TITLE_COVERS",
+   "en": "COVERS Challenge",
+   "pt": "Desafio de Casulos"
+  },
+  {
+   "id": "CHALLENGE_TITLE_KATINUKI",
+   "en": "Survival Challenge",
+   "pt": "Desafio de Sobrevivência"
+  },
+  {
+   "id": "CHALLENGE_MODE_00",
+   "en": "1 Minute Brawl",
+   "pt": "Briga de 1 Minuto"
+  },
+  {
+   "id": "CHALLENGE_MODE_01",
+   "en": "100-Man Brawl",
+   "pt": "Briga de 100 Homens"
+  },
+  {
+   "id": "CHALLENGE_MODE_02",
+   "en": "Endless Brawl",
+   "pt": "Briga Infinita"
+  },
+  {
+   "id": "CHALLENGE_RANK_TYPE_TOTAL",
+   "en": "Total",
+   "pt": "Total"
+  },
+  {
+   "id": "CHALLENGE_RANK_TYPE_CHARACTER",
+   "en": "Character",
+   "pt": "Personagem"
+  },
+  {
+   "id": "ONLINE_PUBLISHING",
+   "en": "Privacy",
+   "pt": "Privacidade"
+  },
+  {
+   "id": "ONLINE_PASSWORD",
+   "en": "Password",
+   "pt": "Senha"
+  },
+  {
+   "id": "ONLINE_BTL_DIRECTION",
+   "en": "Type of Room",
+   "pt": "Tipo de Sala"
+  },
+  {
+   "id": "ONLINE_NETWORK_LINE",
+   "en": "Connectivity Restrictions",
+   "pt": "Restrições de Conexão"
+  },
+  {
+   "id": "ONLINE_SHARE",
+   "en": "SHARE Functions",
+   "pt": "Funções SHARE"
+  },
+  {
+   "id": "ONLINE_STAGE",
+   "en": "Stage",
+   "pt": "Estágio"
+  },
+  {
+   "id": "ONLINE_GAME_TIMER",
+   "en": "Time Limit",
+   "pt": "Tempo Limite"
+  },
+  {
+   "id": "ONLINE_BGM",
+   "en": "BGM",
+   "pt": "BGM"
+  },
+  {
+   "id": "ONLINE_INITIALIZE",
+   "en": "Initialize Settings",
+   "pt": "Redefinir Configurações"
+  },
+  {
+   "id": "ONLINE_CHARACTER_SELECT",
+   "en": "Character Select",
+   "pt": "Seleção de Personagem"
+  },
+  {
+   "id": "ONLINE_ROOM_ID",
+   "en": "Room Search ID",
+   "pt": "ID de Busca da Sala"
+  },
+  {
+   "id": "ONLINE_PUBLISHING_00",
+   "en": "Public",
+   "pt": "Pública"
+  },
+  {
+   "id": "ONLINE_PUBLISHING_01",
+   "en": "Private",
+   "pt": "Privada"
+  },
+  {
+   "id": "ONLINE_BTL_DIRECTION_00",
+   "en": "Up for Whatever",
+   "pt": "Aceito Tudo"
+  },
+  {
+   "id": "ONLINE_BTL_DIRECTION_01",
+   "en": "Serious Matches",
+   "pt": "Partidas Sérias"
+  },
+  {
+   "id": "ONLINE_BTL_DIRECTION_02",
+   "en": "Casual Matches",
+   "pt": "Partidas Casuais"
+  },
+  {
+   "id": "ONLINE_BTL_DIRECTION_03",
+   "en": "Training",
+   "pt": "Treino"
+  },
+  {
+   "id": "ONLINE_BTL_DIRECTION_04",
+   "en": "Rematch Me",
+   "pt": "Me Dê Revanche"
+  },
+  {
+   "id": "ONLINE_BTL_DIRECTION_05",
+   "en": "Streaming",
+   "pt": "Em Transmissão"
+  },
+  {
+   "id": "ONLINE_BTL_DIRECTION_06",
+   "en": "Newcomers Welcome",
+   "pt": "Novatos Bem-vindos"
+  },
+  {
+   "id": "ONLINE_PLAYER_SKILL_00",
+   "en": "Any Skill Level",
+   "pt": "Qualquer Habilidade"
+  },
+  {
+   "id": "ONLINE_PLAYER_SKILL_01",
+   "en": "About the Same",
+   "pt": "Mais ou Menos Igual"
+  },
+  {
+   "id": "ONLINE_PLAYER_SKILL_02",
+   "en": "Higher Ranked",
+   "pt": "Rank Superior"
+  },
+  {
+   "id": "ONLINE_NETWORK_LINE_00",
+   "en": "None",
+   "pt": "Nenhuma"
+  },
+  {
+   "id": "ONLINE_NETWORK_LINE_01",
+   "en": "1 or More",
+   "pt": "1 ou Mais"
+  },
+  {
+   "id": "ONLINE_NETWORK_LINE_02",
+   "en": "2 or More",
+   "pt": "2 ou Mais"
+  }
+ ]
+}

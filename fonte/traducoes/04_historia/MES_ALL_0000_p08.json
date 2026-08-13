@@ -1,0 +1,753 @@
+{
+ "origem": "KlkStory/STY_MS_0000/MES_ALL_0000",
+ "conteudo": "Modo Historia - dialogos",
+ "parte": "8/8",
+ "instrucoes": "Traduza o campo 'en' para portugues do Brasil e escreva o resultado em 'pt'. Nao altere 'id'. Mantenha intactos os codigos entre chaves ({CA}, {LA}, {BR}, {JU}, {SP}, {GD}, {LS}, {L1}, {R1}, setas), os marcadores de formato (%d, %l, %ls, %hs) e as quebras de linha \\n. Se uma linha nao precisar de traducao, deixe 'pt' vazio.",
+ "linhas": [
+  {
+   "id": "STS_S15A_542_C",
+   "en": "Are you ever not grumpy?",
+   "pt": "Você nunca deixa de ser rabugenta?"
+  },
+  {
+   "id": "STS_S15A_543_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S15A_544_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S16A_545_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S16A_546_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S16A_547_A",
+   "en": "Ridiculous.",
+   "pt": "Ridículo."
+  },
+  {
+   "id": "STS_S16A_548_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S16A_551_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S16A_552_A",
+   "en": "Satsuki. You're looking... well.",
+   "pt": "Satsuki. Você parece... bem."
+  },
+  {
+   "id": "STS_S16A_553_A",
+   "en": "I see you revived Junketsu, too.",
+   "pt": "Vejo que você reviveu o Junketsu também."
+  },
+  {
+   "id": "STS_S16A_554_A",
+   "en": "Surprised?\nIt's time we settled things, Ragyo. ",
+   "pt": "Surpresa?\nChegou a hora de resolvermos as coisas, Ragyo. "
+  },
+  {
+   "id": "STS_S16A_555_A",
+   "en": "\"Settle\"...? You poor, misguided little thing.",
+   "pt": "\"Resolver\"...? Sua pobre coisinha iludida."
+  },
+  {
+   "id": "STS_S16A_555_B",
+   "en": "You have no idea what you're saying.",
+   "pt": "Você não tem ideia do que está dizendo."
+  },
+  {
+   "id": "STS_S16A_555_C",
+   "en": "I will not allow you to destroy humanity.",
+   "pt": "Não permitirei que você destrua a humanidade."
+  },
+  {
+   "id": "STS_S16A_555_D",
+   "en": "I swore to stop you and I shall!",
+   "pt": "Eu jurei te impedir e eu vou!"
+  },
+  {
+   "id": "STS_S16A_556_A",
+   "en": "You cannot hope to understand, dear.",
+   "pt": "Você não tem como esperar entender, querida."
+  },
+  {
+   "id": "STS_S16A_556_B",
+   "en": "I suppose, though,\nthat your obliviousness is what brought this situation about in the first place.",
+   "pt": "Suponho, no entanto,\nque a sua ignorância é o que causou essa situação em primeiro lugar."
+  },
+  {
+   "id": "STS_S16A_556_C",
+   "en": "I suppose, though,\nthat your obliviousness is what brought this situation about in the first place.",
+   "pt": "Suponho, no entanto,\nque a sua ignorância é o que causou essa situação em primeiro lugar."
+  },
+  {
+   "id": "STS_S16A_557_A",
+   "en": "If you're trying to distract me, it won't work. ",
+   "pt": "Se está tentando me distrair, não vai funcionar. "
+  },
+  {
+   "id": "STS_S16A_557_B",
+   "en": "My mission is clear.\nI will put an end to you and the Primordial Life Fiber!",
+   "pt": "Minha missão é clara.\nEu vou acabar com você e a Fibra de Vida Primordial!"
+  },
+  {
+   "id": "STS_S16A_557_C",
+   "en": "My mission is clear.\nI will put an end to you and the Primordial Life Fiber!",
+   "pt": "Minha missão é clara.\nEu vou acabar com você e a Fibra de Vida Primordial!"
+  },
+  {
+   "id": "STS_S16A_558_A",
+   "en": "A distorted world such as this can transcend space and time. ",
+   "pt": "Um mundo distorcido como este pode transcender o espaço e o tempo. "
+  },
+  {
+   "id": "STS_S16A_558_B",
+   "en": "One such as this can even be spun into a single yarn\nwith the Primordial Life Fiber.",
+   "pt": "Um mundo assim pode até ser fiado em um único fio\ncom a Fibra de Vida Primordial."
+  },
+  {
+   "id": "STS_S16A_558_C",
+   "en": "One such as this can even be spun into a single yarn\nwith the Primordial Life Fiber.",
+   "pt": "Um mundo assim pode até ser fiado em um único fio\ncom a Fibra de Vida Primordial."
+  },
+  {
+   "id": "STS_S16A_559_A",
+   "en": "Speak your drivel if it comforts you.",
+   "pt": "Fale suas baboseiras se isso te conforta."
+  },
+  {
+   "id": "STS_S16A_560_A",
+   "en": "Prepare to die, Ragyo Kiryuin",
+   "pt": "Prepare-se para morrer, Ragyo Kiryuin"
+  },
+  {
+   "id": "STS_S16A_561_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S17A_561_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S17A_564_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S17A_565_A",
+   "en": "That's it? It's over?",
+   "pt": "É só isso? Acabou?"
+  },
+  {
+   "id": "STS_S17A_565_B",
+   "en": "What's wrong, new girl? You sound disappointed.",
+   "pt": "O que foi, novata? Você parece decepcionada."
+  },
+  {
+   "id": "STS_S17A_565_C",
+   "en": "What's wrong, new girl? You sound disappointed.",
+   "pt": "O que foi, novata? Você parece decepcionada."
+  },
+  {
+   "id": "STS_S17A_566_A",
+   "en": "Get off my back!",
+   "pt": "Não me enche a porra do saco!"
+  },
+  {
+   "id": "STS_S17A_567_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S17A_568_A",
+   "en": "Ragyo Kiryuin, the agent of the COVERS' will, has fallen. ",
+   "pt": "Ragyo Kiryuin, a agente da vontade dos Casulos, caiu. "
+  },
+  {
+   "id": "STS_S17A_568_B",
+   "en": "And once the Primordial Life Fiber has been destroyed, my purpose will be fulfilled. ",
+   "pt": "E assim que a Fibra de Vida Primordial for destruída, meu propósito estará cumprido. "
+  },
+  {
+   "id": "STS_S17A_569_A",
+   "en": "Humans will not become slaves to clothing.",
+   "pt": "Os humanos não se tornarão escravos de roupas."
+  },
+  {
+   "id": "STS_S17A_570_A",
+   "en": "As long as I live... I won't allow it!",
+   "pt": "Enquanto eu viver... eu não permitirei!"
+  },
+  {
+   "id": "STS_S17A_570_B",
+   "en": "As long as I live... I won't allow it!",
+   "pt": "Enquanto eu viver... eu não permitirei!"
+  },
+  {
+   "id": "STS_S17A_571_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S17A_576_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S17A_577_A",
+   "en": "This thing doesn't know when to give up!",
+   "pt": "Essa coisa não sabe a hora de desistir!"
+  },
+  {
+   "id": "STS_S17A_577_B",
+   "en": "FYI... Girls don't like it when you're too persistent!",
+   "pt": "Pra sua informação... as garotas não gostam quando você é insistente demais!"
+  },
+  {
+   "id": "STS_S17A_578_A",
+   "en": "You're not going to trap us with your Mind Stitching again.",
+   "pt": "Você não vai nos prender com sua Costura Mental de novo."
+  },
+  {
+   "id": "STS_S17A_578_B",
+   "en": "Defying Lady Satsuki 'till the end. How futile!",
+   "pt": "Desafiando a Senhorita Satsuki até o fim. Quanta futilidade!"
+  },
+  {
+   "id": "STS_S17A_579_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S17A_581_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S17A_582_A",
+   "en": "Look out!",
+   "pt": "Cuidado!"
+  },
+  {
+   "id": "STS_S17A_582_B",
+   "en": "The Primordial Life Fiber is trying to absorb Ragyo's Life Fibers!",
+   "pt": "A Fibra de Vida Primordial está tentando absorver as Fibras de Vida da Ragyo!"
+  },
+  {
+   "id": "STS_S17A_584_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S17A_586_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S17A_587_A",
+   "en": "Whoa! It's sucking up all the COVERS we beat, too!",
+   "pt": "Uau! Tá sugando todos os Casulos que derrotamos também!"
+  },
+  {
+   "id": "STS_S17A_587_B",
+   "en": "Inu! You're the smarty-pants! What the hell's going on?! ",
+   "pt": "Inu! Você é o sabichão! Que porra tá acontecendo?! "
+  },
+  {
+   "id": "STS_S17A_587_C",
+   "en": "It seems the Primordial Life Fiber knows it's in danger.\nIt's trying to save itself by absorbing all the Life Fibers!",
+   "pt": "Parece que a Fibra de Vida Primordial sabe que está em perigo.\nEla está tentando se salvar absorvendo todas as Fibras de Vida!"
+  },
+  {
+   "id": "STS_S17A_588_A",
+   "en": "It seems the Primordial Life Fiber knows it's in danger.\nIt's trying to save itself by absorbing all the Life Fibers!",
+   "pt": "Parece que a Fibra de Vida Primordial sabe que está em perigo.\nEla está tentando se salvar absorvendo todas as Fibras de Vida!"
+  },
+  {
+   "id": "STS_S17A_588_B",
+   "en": "Careful!\nThere's a chance you'll be sucked in along with your Goku Uniform!",
+   "pt": "Cuidado!\nHá uma chance de você ser sugado junto com o seu Uniforme Goku!"
+  },
+  {
+   "id": "STS_S17A_588_C",
+   "en": "Careful!\nThere's a chance you'll be sucked in along with your Goku Uniform!",
+   "pt": "Cuidado!\nHá uma chance de você ser sugado junto com o seu Uniforme Goku!"
+  },
+  {
+   "id": "STS_S17A_592_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S17A_593_A",
+   "en": "Not gonna happen!",
+   "pt": "Nem fodendo!"
+  },
+  {
+   "id": "STS_S17A_594_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S17A_596_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S17A_597_A",
+   "en": "Crap, it's reforming!\nThat ain't no ordinary Life Fiber!",
+   "pt": "Merda, tá se reformando!\nEssa não é uma Fibra de Vida comum!"
+  },
+  {
+   "id": "STS_S17A_597_B",
+   "en": "Crap, it's reforming!\nThat ain't no ordinary Life Fiber!",
+   "pt": "Merda, tá se reformando!\nEssa não é uma Fibra de Vida comum!"
+  },
+  {
+   "id": "STS_S17A_598_A",
+   "en": "This is crazy.\nWe're not strong enough to handle this!",
+   "pt": "Isso é loucura.\nNão somos fortes o suficiente pra lidar com isso!"
+  },
+  {
+   "id": "STS_S17A_598_B",
+   "en": "This is crazy.\nWe're not strong enough to handle this!",
+   "pt": "Isso é loucura.\nNão somos fortes o suficiente pra lidar com isso!"
+  },
+  {
+   "id": "STS_S17A_598_C",
+   "en": "Calm down, Inumuta.",
+   "pt": "Acalme-se, Inumuta."
+  },
+  {
+   "id": "STS_S17A_599_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S17A_600_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S17A_601_A",
+   "en": "What's going on?!",
+   "pt": "O que tá acontecendo?!"
+  },
+  {
+   "id": "STS_S17A_601_B",
+   "en": "What is this...?!",
+   "pt": "O que é isso...?!"
+  },
+  {
+   "id": "STS_S17A_602_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S17A_605_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S17A_606_A",
+   "en": "Heeeey. Where does she think she's going?!",
+   "pt": "Eeeeei. Aonde ela pensa que tá indo?!"
+  },
+  {
+   "id": "STS_S17A_607_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S17A_608_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S17A_609_A",
+   "en": "What the hell?! ",
+   "pt": "Que porra é essa?! "
+  },
+  {
+   "id": "STS_S17A_609_B",
+   "en": "Why's Satsuki just standing there?!",
+   "pt": "Por que a Satsuki tá só parada ali?!"
+  },
+  {
+   "id": "STS_S17A_611_A",
+   "en": "I am Ira Gamagoori!\nHonnouji Academy's Disciplinary Chair and Satsuki Kiryuin's living shield!",
+   "pt": "Eu sou Ira Gamagoori!\nPresidente do Comitê Disciplinar da Academia Honnouji e escudo vivo de Satsuki Kiryuin!"
+  },
+  {
+   "id": "STS_S17A_611_B",
+   "en": "I am Ira Gamagoori!\nHonnouji Academy's Disciplinary Chair and Satsuki Kiryuin's living shield!",
+   "pt": "Eu sou Ira Gamagoori!\nPresidente do Comitê Disciplinar da Academia Honnouji e escudo vivo de Satsuki Kiryuin!"
+  },
+  {
+   "id": "STS_S17A_611_C",
+   "en": "There's no way I'm gonna let Gama steal the spotlight!",
+   "pt": "De jeito nenhum eu vou deixar o Gama roubar os holofotes!"
+  },
+  {
+   "id": "STS_S17A_611_D",
+   "en": "We're Honnouji Academy's Elite Four!",
+   "pt": "Nós somos os Quatro Elites da Academia Honnouji!"
+  },
+  {
+   "id": "STS_S17A_611_E",
+   "en": "If you want to get to Lady Satsuki…\nyou're going to have to deal with us first!",
+   "pt": "Se quiser chegar até a Senhorita Satsuki…\nvai ter que lidar com a gente primeiro!"
+  },
+  {
+   "id": "STS_S17A_612_A",
+   "en": "Uuuooooh!!",
+   "pt": "Uuuooooh!!"
+  },
+  {
+   "id": "STS_S17A_613_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S17A_614_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S17A_615_A",
+   "en": "Ngh! Now what?!",
+   "pt": "Ngh! E agora?!"
+  },
+  {
+   "id": "STS_S17A_616_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S17A_623_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S17A_624_A",
+   "en": "I'm sorry, everyone.",
+   "pt": "Me desculpem, pessoal."
+  },
+  {
+   "id": "STS_S17A_624_B",
+   "en": "It's alright now.",
+   "pt": "Está tudo bem agora."
+  },
+  {
+   "id": "STS_S17A_625_A",
+   "en": "Lady Satsuki!",
+   "pt": "Senhorita Satsuki!"
+  },
+  {
+   "id": "STS_S17A_626_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S17A_630_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S17A_631_A",
+   "en": "We're powerless like this.",
+   "pt": "Somos impotentes desse jeito."
+  },
+  {
+   "id": "STS_S17A_632_A",
+   "en": "Regardless... I will NOT give up now!",
+   "pt": "Mesmo assim... eu NÃO vou desistir agora!"
+  },
+  {
+   "id": "STS_S18A_634_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S18A_635B",
+   "en": "Junketsu Shinzui",
+   "pt": "Junketsu Shinzui"
+  },
+  {
+   "id": "STS_S18A_636_A",
+   "en": "I used all the Life Fibers from the Goku Uniforms we had left at the Academy,\nto make repairs and enhancements to Junketsu. ",
+   "pt": "Eu usei todas as Fibras de Vida dos Uniformes Goku que restaram na Academia,\npara fazer reparos e melhorias no Junketsu. "
+  },
+  {
+   "id": "STS_S18A_636_B",
+   "en": "I used all the Life Fibers from the Goku Uniforms we had left at the Academy,\nto make repairs and enhancements to Junketsu. ",
+   "pt": "Eu usei todas as Fibras de Vida dos Uniformes Goku que restaram na Academia,\npara fazer reparos e melhorias no Junketsu. "
+  },
+  {
+   "id": "STS_S18A_636_C",
+   "en": "Well, Lady Satsuki? How does it feel?",
+   "pt": "E então, Senhorita Satsuki? Como se sente?"
+  },
+  {
+   "id": "STS_S18A_637_A",
+   "en": "Very impressive, Iori.",
+   "pt": "Muito impressionante, Iori."
+  },
+  {
+   "id": "STS_S18A_638_A",
+   "en": "Listen up, everyone!\nI'll be borrowing your uniforms.",
+   "pt": "Ouçam com atenção, pessoal!\nPegarei os seus uniformes emprestados."
+  },
+  {
+   "id": "STS_S18A_639_A",
+   "en": "Good luck, Lady Satsuki.",
+   "pt": "Boa sorte, Senhorita Satsuki."
+  },
+  {
+   "id": "STS_S18A_639_B",
+   "en": "Go kick that thing's ass for us m'Lady!",
+   "pt": "Vá chutar o traseiro daquela coisa por nós, Senhorita!"
+  },
+  {
+   "id": "STS_S18A_639_C",
+   "en": "Make sure you come back safe, Lady Satsuki!",
+   "pt": "Certifique-se de voltar em segurança, Senhorita Satsuki!"
+  },
+  {
+   "id": "STS_S18A_639_D",
+   "en": "The Primordial Life Fiber is hovering over Honnouji Academy.\nIt seems as though it's waiting for something. But what?",
+   "pt": "A Fibra de Vida Primordial está pairando sobre a Academia Honnouji.\nParece que ela está esperando por algo. Mas o quê?"
+  },
+  {
+   "id": "STS_S18A_639_E",
+   "en": "The Primordial Life Fiber is hovering over Honnouji Academy.\nIt seems as though it's waiting for something. But what?",
+   "pt": "A Fibra de Vida Primordial está pairando sobre a Academia Honnouji.\nParece que ela está esperando por algo. Mas o quê?"
+  },
+  {
+   "id": "STS_S18A_639_F",
+   "en": "It could be a trap, but it is risk I must take.\nThis is my chance to destroy it once and for all!",
+   "pt": "Pode ser uma armadilha, mas é um risco que devo correr.\nEssa é minha chance de destruí-la de uma vez por todas!"
+  },
+  {
+   "id": "STS_S18A_639_G",
+   "en": "It could be a trap, but it is risk I must take.\nThis is my chance to destroy it once and for all!",
+   "pt": "Pode ser uma armadilha, mas é um risco que devo correr.\nEssa é minha chance de destruí-la de uma vez por todas!"
+  },
+  {
+   "id": "STS_S18A_640_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S18A_646_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S19A_647_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S19A_653_A",
+   "en": "You're not making this easy for me.",
+   "pt": "Você não tá facilitando as coisas pra mim."
+  },
+  {
+   "id": "STS_S19A_653_B",
+   "en": "But no matter how many times you regenerate...",
+   "pt": "Mas não importa quantas vezes você se regenere..."
+  },
+  {
+   "id": "STS_S19A_653_C",
+   "en": "...I will end you!",
+   "pt": "...eu vou acabar com você!"
+  },
+  {
+   "id": "STS_S19A_667_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S19A_668_A",
+   "en": "What...?",
+   "pt": "O que...?"
+  },
+  {
+   "id": "STS_S19A_669_A",
+   "en": "Mornin', sunshine.",
+   "pt": "Bom dia, flor do dia."
+  },
+  {
+   "id": "STS_S19A_670_A",
+   "en": "You're such a pain in the ass.",
+   "pt": "Você é um pé no saco da porra."
+  },
+  {
+   "id": "STS_S19A_672_A",
+   "en": "Here, Satsuki. ",
+   "pt": "Toma, Satsuki. "
+  },
+  {
+   "id": "STS_S19A_672_B",
+   "en": "Use this.",
+   "pt": "Use isso."
+  },
+  {
+   "id": "STS_S19A_673_A",
+   "en": "The Rending Scissors...",
+   "pt": "A Lâmina-Tesoura..."
+  },
+  {
+   "id": "STS_S19A_673_B",
+   "en": "You're a sharp chick. ",
+   "pt": "Você é uma garota esperta. "
+  },
+  {
+   "id": "STS_S19A_673_C",
+   "en": "I bet'chya already got it figured out.",
+   "pt": "Aposto que já sacou tudo."
+  },
+  {
+   "id": "STS_S19A_674_A",
+   "en": "What?",
+   "pt": "O que?"
+  },
+  {
+   "id": "STS_S19A_675_A",
+   "en": "All of this is because of you, Satsuki.\nBecause of who you are. ",
+   "pt": "Tudo isso é por sua causa, Satsuki.\nPor causa de quem você é. "
+  },
+  {
+   "id": "STS_S19A_675_B",
+   "en": "You cannot hope to understand, dear.",
+   "pt": "Você não tem como esperar entender, querida."
+  },
+  {
+   "id": "STS_S19A_675_C",
+   "en": "I suppose, though...",
+   "pt": "Suponho, no entanto..."
+  },
+  {
+   "id": "STS_S19A_675_D",
+   "en": "...That your obliviousness is what brought this situation about in the first place.",
+   "pt": "...que a sua ignorância é o que causou essa situação em primeiro lugar."
+  },
+  {
+   "id": "STS_S19A_676_A",
+   "en": "Jeez. That you're the only person who can snip this world off.\nThat's what!",
+   "pt": "Caralho. Que você é a única pessoa que pode cortar esse mundo fora.\nÉ isso!"
+  },
+  {
+   "id": "STS_S19A_676_B",
+   "en": "Jeez. That you're the only person who can snip this world off.\nThat's what!",
+   "pt": "Caralho. Que você é a única pessoa que pode cortar esse mundo fora.\nÉ isso!"
+  },
+  {
+   "id": "STS_S19A_677_A",
+   "en": "So I am...",
+   "pt": "Então eu sou..."
+  },
+  {
+   "id": "STS_S19A_678_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S19A_689_A",
+   "en": "Die!",
+   "pt": "Morra!"
+  },
+  {
+   "id": "STS_S19A_705_A",
+   "en": "Ryuko Matoi... ",
+   "pt": "Ryuko Matoi... "
+  },
+  {
+   "id": "STS_S19A_705_B",
+   "en": "Thank you.\nI am sorry for all the trouble.",
+   "pt": "Obrigada.\nMe desculpe por todo o problema."
+  },
+  {
+   "id": "STS_S19A_705_C",
+   "en": "Thank you.\nI am sorry for all the trouble.",
+   "pt": "Obrigada.\nMe desculpe por todo o problema."
+  },
+  {
+   "id": "STS_S19A_706_A",
+   "en": "Huh! Don't get all mushy.\nBesides, there's a few things we still gotta settle.",
+   "pt": "Hã! Não fica toda melosa.\nAlém disso, ainda tem algumas coisas que a gente precisa resolver."
+  },
+  {
+   "id": "STS_S19A_706_B",
+   "en": "Huh! Don't get all mushy.\nBesides, there's a few things we still gotta settle.",
+   "pt": "Hã! Não fica toda melosa.\nAlém disso, ainda tem algumas coisas que a gente precisa resolver."
+  },
+  {
+   "id": "STS_S19A_707_A",
+   "en": "Indeed we have. Until we meet again.",
+   "pt": "De fato temos. Até nos encontrarmos novamente."
+  },
+  {
+   "id": "STS_S19A_707_B",
+   "en": "Indeed we have. Until we meet again.",
+   "pt": "De fato temos. Até nos encontrarmos novamente."
+  },
+  {
+   "id": "STS_S19A_708_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S19A_712_A",
+   "en": "I had a bad dream...",
+   "pt": "Eu tive um pesadelo..."
+  },
+  {
+   "id": "STS_S19A_717_A",
+   "en": "Sorry to interrupt, but I hear you're the queen bee here.",
+   "pt": "Desculpa interromper, mas ouvi dizer que você é a abelha-rainha daqui."
+  },
+  {
+   "id": "STS_S19A_718_A",
+   "en": "I got a question for ya.",
+   "pt": "Tenho uma pergunta pra você."
+  },
+  {
+   "id": "STS_S19A_719_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S20A_999_A",
+   "en": "When humans realize the world they desire is a fleeting thing,\nwill they be able to accept it?",
+   "pt": "Quando os humanos perceberem que o mundo que desejam é algo fugaz,\neles serão capazes de aceitá-lo?"
+  },
+  {
+   "id": "STS_S20A_999_B",
+   "en": "I didn't get much action this time around,\nbut next time I will! And so will Mako!",
+   "pt": "Eu não tive muita ação dessa vez,\nmas na próxima eu vou ter! E a Mako também!"
+  },
+  {
+   "id": "STS_S20A_999_C",
+   "en": "On the next episode of Kill la Kill The Game - IF: it's the Ryuko Matoi Chapter.\n\"For Days Long Gone.\"",
+   "pt": "No próximo episódio de Kill la Kill The Game - IF: é o Capítulo da Ryuko Matoi.\n\"Pelos Dias Que Se Foram.\""
+  }
+ ]
+}

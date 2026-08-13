@@ -1,0 +1,868 @@
+{
+ "origem": "KlkResources/S701_MES/MES_041_SAN_ACT",
+ "conteudo": "Falas em batalha - Sanageyama",
+ "parte": "3/3",
+ "instrucoes": "Traduza o campo 'en' para portugues do Brasil e escreva o resultado em 'pt'. Nao altere 'id'. Mantenha intactos os codigos entre chaves ({CA}, {LA}, {BR}, {JU}, {SP}, {GD}, {LS}, {L1}, {R1}, setas), os marcadores de formato (%d, %l, %ls, %hs) e as quebras de linha \\n. Se uma linha nao precisar de traducao, deixe 'pt' vazio.",
+ "linhas": [
+  {
+   "id": "C041_VS_C141_DECISION0_P_LOWER_KEYWORD",
+   "en": "That sucked! Shame on you!",
+   "pt": "Isso foi uma bosta! Que vergonha!"
+  },
+  {
+   "id": "C041_VS_C141_DECISION0_G_UPPER_KEYWORD",
+   "en": "Surrender with honor, dork!",
+   "pt": "Renda-se com honra, otário!"
+  },
+  {
+   "id": "C041_VS_C141_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "What're you thinking?\nHow are you gonna block my sword, if your skills are so lame?",
+   "pt": "No que está pensando?\nComo vai bloquear minha espada se suas habilidades são tão fracas?"
+  },
+  {
+   "id": "C041_VS_C141_DECISION0_G_LOWER_KEYWORD",
+   "en": "Come back after you train s'more!",
+   "pt": "Volte depois de treinar mais um pouco!"
+  },
+  {
+   "id": "C041_VS_C141_DECISION1_S_UPPER_KEYWORD",
+   "en": "Are you making fun of me? Wanna die?!",
+   "pt": "Tá tirando sarro de mim? Quer morrer?!"
+  },
+  {
+   "id": "C041_VS_C141_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "You got ahead of yourself!\nYou underestimated me and thought you could beat me. ",
+   "pt": "Você se precipitou!\nMe subestimou e achou que podia me vencer. "
+  },
+  {
+   "id": "C041_VS_C141_DECISION1_S_LOWER_KEYWORD",
+   "en": "Good thing for you, I can straighten out that ego!",
+   "pt": "Sorte sua que eu posso consertar esse ego!"
+  },
+  {
+   "id": "C041_VS_C141_DECISION1_P_UPPER_KEYWORD",
+   "en": "Don't get so full of yourself!",
+   "pt": "Não se ache tanto!"
+  },
+  {
+   "id": "C041_VS_C141_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "If you don't have the will to win, you won't beat me. Period!",
+   "pt": "Se não tem vontade de vencer, não vai me derrotar. Ponto final!"
+  },
+  {
+   "id": "C041_VS_C141_DECISION1_P_LOWER_KEYWORD",
+   "en": "Try that again!",
+   "pt": "Tente isso de novo!"
+  },
+  {
+   "id": "C041_VS_C141_DECISION1_G_UPPER_KEYWORD",
+   "en": "You're gonna be hurting after this!",
+   "pt": "Você vai sofrer depois dessa!"
+  },
+  {
+   "id": "C041_VS_C141_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "Whatever I lack, my sword can overcome it!",
+   "pt": "O que me falta, minha espada compensa!"
+  },
+  {
+   "id": "C041_VS_C141_DECISION1_G_LOWER_KEYWORD",
+   "en": "You can't hold out against my sword!",
+   "pt": "Você não consegue resistir à minha espada!"
+  },
+  {
+   "id": "C041_VS_C141_DECISION2_S_UPPER_KEYWORD",
+   "en": "Score is settled!",
+   "pt": "Contas acertadas!"
+  },
+  {
+   "id": "C041_VS_C141_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "You're on the road to loser-ville and there's no going back!",
+   "pt": "Você tá na estrada pro fracasso e não tem volta!"
+  },
+  {
+   "id": "C041_VS_C141_DECISION2_S_LOWER_KEYWORD",
+   "en": "You can't appreciate the taste of Konnyaku!",
+   "pt": "Você não consegue apreciar o gosto do Konnyaku!"
+  },
+  {
+   "id": "C041_VS_C141_DECISION2_P_UPPER_KEYWORD",
+   "en": "I can see everything! ",
+   "pt": "Eu vejo tudo! "
+  },
+  {
+   "id": "C041_VS_C141_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "My eyes might not work, but I can still see in three-sixty!",
+   "pt": "Meus olhos podem não funcionar, mas ainda vejo em trezentos e sessenta graus!"
+  },
+  {
+   "id": "C041_VS_C141_DECISION2_P_LOWER_KEYWORD",
+   "en": "You can never escape my blade!",
+   "pt": "Você nunca vai escapar da minha lâmina!"
+  },
+  {
+   "id": "C041_VS_C141_DECISION2_G_UPPER_KEYWORD",
+   "en": "No matter what you do, it'll end the same way!",
+   "pt": "Não importa o que faça, vai acabar do mesmo jeito!"
+  },
+  {
+   "id": "C041_VS_C141_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "I can sense your breathing, your heart beat, everything!",
+   "pt": "Sinto sua respiração, seu batimento, tudo!"
+  },
+  {
+   "id": "C041_VS_C141_DECISION2_G_LOWER_KEYWORD",
+   "en": "You're never gonna beat me!",
+   "pt": "Você nunca vai me derrotar!"
+  },
+  {
+   "id": "C041_VS_C151_DECISION0_S_UPPER_KEYWORD",
+   "en": "Don't fight back! It's pointless!",
+   "pt": "Não lute! É inútil!"
+  },
+  {
+   "id": "C041_VS_C151_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "You can't stop us! You're a couple of naked dudes poking out of a robot.",
+   "pt": "Vocês não podem nos parar! Vocês são só dois caras pelados saindo de um robô."
+  },
+  {
+   "id": "C041_VS_C151_DECISION0_S_LOWER_KEYWORD",
+   "en": "Blade Regalia Mark Three!",
+   "pt": "Blade Regalia Mark Três!"
+  },
+  {
+   "id": "C041_VS_C151_DECISION0_P_UPPER_KEYWORD",
+   "en": "What's up? Is that all you got for me?!",
+   "pt": "E aí? É só isso que têm pra mim?!"
+  },
+  {
+   "id": "C041_VS_C151_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "After all that big talk, is that the best you can do? Friggin' loser!",
+   "pt": "Depois de toda aquela conversa fiada, isso é o melhor que conseguem? Bando de fracassados!"
+  },
+  {
+   "id": "C041_VS_C151_DECISION0_P_LOWER_KEYWORD",
+   "en": "That sucked! Shame on you!",
+   "pt": "Isso foi uma bosta! Que vergonha!"
+  },
+  {
+   "id": "C041_VS_C151_DECISION0_G_UPPER_KEYWORD",
+   "en": "Surrender with honor, dork!",
+   "pt": "Rendam-se com honra, otários!"
+  },
+  {
+   "id": "C041_VS_C151_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "What're you thinking?\nHow are you gonna block my sword, if your skills are so lame?",
+   "pt": "No que estão pensando?\nComo vão bloquear minha espada se suas habilidades são tão fracas?"
+  },
+  {
+   "id": "C041_VS_C151_DECISION0_G_LOWER_KEYWORD",
+   "en": "Come back after you train s'more!",
+   "pt": "Voltem depois de treinar mais um pouco!"
+  },
+  {
+   "id": "C041_VS_C151_DECISION1_S_UPPER_KEYWORD",
+   "en": "Are you making fun of me?!",
+   "pt": "Tão tirando sarro de mim?!"
+  },
+  {
+   "id": "C041_VS_C151_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "You got ahead of yourself!\nYou underestimated me and thought you could beat me. ",
+   "pt": "Vocês se precipitaram!\nMe subestimaram e acharam que podiam me vencer. "
+  },
+  {
+   "id": "C041_VS_C151_DECISION1_S_LOWER_KEYWORD",
+   "en": "Good thing for you, I can straighten out that ego!",
+   "pt": "Sorte de vocês que eu posso consertar esse ego!"
+  },
+  {
+   "id": "C041_VS_C151_DECISION1_P_UPPER_KEYWORD",
+   "en": "Don't get so full of yourself!",
+   "pt": "Não se achem tanto!"
+  },
+  {
+   "id": "C041_VS_C151_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "If you don't have the will to win, you won't beat me. Period!",
+   "pt": "Se não têm vontade de vencer, não vão me derrotar. Ponto final!"
+  },
+  {
+   "id": "C041_VS_C151_DECISION1_P_LOWER_KEYWORD",
+   "en": "Try that again!",
+   "pt": "Tentem isso de novo!"
+  },
+  {
+   "id": "C041_VS_C151_DECISION1_G_UPPER_KEYWORD",
+   "en": "You're gonna be hurting after this!",
+   "pt": "Vocês vão sofrer depois dessa!"
+  },
+  {
+   "id": "C041_VS_C151_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "Whatever I lack, my sword can overcome it!",
+   "pt": "O que me falta, minha espada compensa!"
+  },
+  {
+   "id": "C041_VS_C151_DECISION1_G_LOWER_KEYWORD",
+   "en": "You can't hold out against my sword!",
+   "pt": "Vocês não conseguem resistir à minha espada!"
+  },
+  {
+   "id": "C041_VS_C151_DECISION2_S_UPPER_KEYWORD",
+   "en": "This match is mine!",
+   "pt": "Essa partida é minha!"
+  },
+  {
+   "id": "C041_VS_C151_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "You can't turn the tables on me! You pervs!",
+   "pt": "Vocês não podem virar o jogo contra mim! Seus tarados!"
+  },
+  {
+   "id": "C041_VS_C151_DECISION2_S_LOWER_KEYWORD",
+   "en": "You can't appreciate the taste of Konnyaku!",
+   "pt": "Vocês não conseguem apreciar o gosto do Konnyaku!"
+  },
+  {
+   "id": "C041_VS_C151_DECISION2_P_UPPER_KEYWORD",
+   "en": "I can see everything! ",
+   "pt": "Eu vejo tudo! "
+  },
+  {
+   "id": "C041_VS_C151_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "My eyes might not work, but I can still see in three-sixty!",
+   "pt": "Meus olhos podem não funcionar, mas ainda vejo em trezentos e sessenta graus!"
+  },
+  {
+   "id": "C041_VS_C151_DECISION2_P_LOWER_KEYWORD",
+   "en": "You can never escape my blade!",
+   "pt": "Vocês nunca vão escapar da minha lâmina!"
+  },
+  {
+   "id": "C041_VS_C151_DECISION2_G_UPPER_KEYWORD",
+   "en": "Everything you do's a waste of time!",
+   "pt": "Tudo que fazem é uma perda de tempo!"
+  },
+  {
+   "id": "C041_VS_C151_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "I can sense your breathing, your heart beat, everything!",
+   "pt": "Sinto suas respirações, seus batimentos, tudo!"
+  },
+  {
+   "id": "C041_VS_C151_DECISION2_G_LOWER_KEYWORD",
+   "en": "You can't beat me!",
+   "pt": "Vocês não podem me vencer!"
+  },
+  {
+   "id": "C041_VS_C011_ARREST_S_KEYWORD",
+   "en": "God, would you shut up already!",
+   "pt": "Porra, cala a boca de uma vez!"
+  },
+  {
+   "id": "C041_VS_C011_ARREST_P_KEYWORD",
+   "en": "That sucked. Try again!",
+   "pt": "Isso foi uma bosta. Tente de novo!"
+  },
+  {
+   "id": "C041_VS_C011_ARREST_G_KEYWORD",
+   "en": "So what? Do I look like I care?!",
+   "pt": "E daí? Parece que eu ligo?!"
+  },
+  {
+   "id": "C041_VS_C012_ARREST_S_KEYWORD",
+   "en": "God, would you shut up already!",
+   "pt": "Porra, cala a boca de uma vez!"
+  },
+  {
+   "id": "C041_VS_C012_ARREST_P_KEYWORD",
+   "en": "That sucked. Try again!",
+   "pt": "Isso foi uma bosta. Tente de novo!"
+  },
+  {
+   "id": "C041_VS_C012_ARREST_G_KEYWORD",
+   "en": "So what? Do I look like I care?!",
+   "pt": "E daí? Parece que eu ligo?!"
+  },
+  {
+   "id": "C041_VS_C021_ARREST_S_KEYWORD",
+   "en": "Uh-oh! You're wide open!",
+   "pt": "Opa! Você tá totalmente exposta!"
+  },
+  {
+   "id": "C041_VS_C021_ARREST_P_KEYWORD",
+   "en": "What's wrong? You're stronger than that!",
+   "pt": "Qual o problema? Você é mais forte que isso!"
+  },
+  {
+   "id": "C041_VS_C021_ARREST_G_KEYWORD",
+   "en": "Quit talking. Warriors don't need words!",
+   "pt": "Pare de falar. Guerreiros não precisam de palavras!"
+  },
+  {
+   "id": "C041_VS_C022_ARREST_S_KEYWORD",
+   "en": "Uh-oh! You're wide open!",
+   "pt": "Opa! Você tá totalmente exposta!"
+  },
+  {
+   "id": "C041_VS_C022_ARREST_P_KEYWORD",
+   "en": "What's wrong? You're stronger than that!",
+   "pt": "Qual o problema? Você é mais forte que isso!"
+  },
+  {
+   "id": "C041_VS_C022_ARREST_G_KEYWORD",
+   "en": "Quit talking. Warriors don't need words!",
+   "pt": "Pare de falar. Guerreiros não precisam de palavras!"
+  },
+  {
+   "id": "C041_VS_C031_ARREST_S_KEYWORD",
+   "en": "God, would you shut up already!",
+   "pt": "Porra, cala a boca de uma vez!"
+  },
+  {
+   "id": "C041_VS_C031_ARREST_P_KEYWORD",
+   "en": "That sucked. Try again!",
+   "pt": "Isso foi uma bosta. Tente de novo!"
+  },
+  {
+   "id": "C041_VS_C031_ARREST_G_KEYWORD",
+   "en": "So what? Do I look like I care?!",
+   "pt": "E daí? Parece que eu ligo?!"
+  },
+  {
+   "id": "C041_VS_C041_ARREST_S_KEYWORD",
+   "en": "God, would you shut up already!",
+   "pt": "Porra, cala a boca de uma vez!"
+  },
+  {
+   "id": "C041_VS_C041_ARREST_P_KEYWORD",
+   "en": "That sucked. Try again!",
+   "pt": "Isso foi uma bosta. Tente de novo!"
+  },
+  {
+   "id": "C041_VS_C041_ARREST_G_KEYWORD",
+   "en": "So what? Do I look like I care?!",
+   "pt": "E daí? Parece que eu ligo?!"
+  },
+  {
+   "id": "C041_VS_C051_ARREST_S_KEYWORD",
+   "en": "God, would you shut up already!",
+   "pt": "Porra, cala a boca de uma vez!"
+  },
+  {
+   "id": "C041_VS_C051_ARREST_P_KEYWORD",
+   "en": "That sucked. Try again!",
+   "pt": "Isso foi uma bosta. Tente de novo!"
+  },
+  {
+   "id": "C041_VS_C051_ARREST_G_KEYWORD",
+   "en": "So what? Do I look like I care?!",
+   "pt": "E daí? Parece que eu ligo?!"
+  },
+  {
+   "id": "C041_VS_C061_ARREST_S_KEYWORD",
+   "en": "God, would you shut up already!",
+   "pt": "Porra, cala a boca de uma vez!"
+  },
+  {
+   "id": "C041_VS_C061_ARREST_P_KEYWORD",
+   "en": "That sucked. Try again!",
+   "pt": "Isso foi uma bosta. Tente de novo!"
+  },
+  {
+   "id": "C041_VS_C061_ARREST_G_KEYWORD",
+   "en": "So what? Do I look like I care?!",
+   "pt": "E daí? Parece que eu ligo?!"
+  },
+  {
+   "id": "C041_VS_C071_ARREST_S_KEYWORD",
+   "en": "What's wrong?  After all that talk, this isn't the only thing you've got to show, is it?",
+   "pt": "Qual o problema?  Depois de falar tanto, isso não é a única coisa que tem pra mostrar, é?"
+  },
+  {
+   "id": "C041_VS_C071_ARREST_P_KEYWORD",
+   "en": "You're too weak to beat me! Might as well give up!",
+   "pt": "Você é muito fraca pra me vencer! É melhor desistir logo!"
+  },
+  {
+   "id": "C041_VS_C071_ARREST_G_KEYWORD",
+   "en": "Your pride's gonna destroy you some day! Don't say I didn't warn you!",
+   "pt": "Seu orgulho vai te destruir algum dia! Não diga que não avisei!"
+  },
+  {
+   "id": "C041_VS_C081_ARREST_S_KEYWORD",
+   "en": "Oh, come on! After all that talk, that's the best you can do?!",
+   "pt": "Ah, qual é! Depois de falar tanto, é o melhor que pode fazer?!"
+  },
+  {
+   "id": "C041_VS_C081_ARREST_P_KEYWORD",
+   "en": "You can't beat me! You're too weak!",
+   "pt": "Você não pode me vencer! Você é muito fraca!"
+  },
+  {
+   "id": "C041_VS_C081_ARREST_G_KEYWORD",
+   "en": "Yo, that pride of yours is gonna destroy you one day.",
+   "pt": "Ei, esse seu orgulho vai te destruir um dia."
+  },
+  {
+   "id": "C041_VS_C141_ARREST_S_KEYWORD",
+   "en": "Don't think 'cuz you got some power now, you can kick my ass!\nYou got a long way to go!",
+   "pt": "Não pense que só porque conseguiu um pouco de poder, você pode chutar meu traseiro!\nVocê ainda tem muito que aprender!"
+  },
+  {
+   "id": "C041_VS_C141_ARREST_P_KEYWORD",
+   "en": "God, you're so annoying! Stop talking and start fighting!",
+   "pt": "Porra, você é muito irritante! Pare de falar e comece a lutar!"
+  },
+  {
+   "id": "C041_VS_C141_ARREST_G_KEYWORD",
+   "en": "It's great you're all fired up, but that won't help you!",
+   "pt": "Que bom que você tá toda animada, mas isso não vai te ajudar!"
+  },
+  {
+   "id": "C041_VS_C151_ARREST_S_KEYWORD",
+   "en": "Give it up already. As long as I'm around you can't do jack!",
+   "pt": "Desistam logo. Enquanto eu estiver aqui, vocês não podem fazer bosta nenhuma!"
+  },
+  {
+   "id": "C041_VS_C151_ARREST_P_KEYWORD",
+   "en": "Ewww! Get away from me, you pervs!",
+   "pt": "Eca! Fiquem longe de mim, seus tarados!"
+  },
+  {
+   "id": "C041_VS_C151_ARREST_G_KEYWORD",
+   "en": "You thought you could beat us with that?!\nWhat a couple of dumb-asses!",
+   "pt": "Vocês acharam que podiam nos vencer com isso?!\nQue bando de imbecis!"
+  },
+  {
+   "id": "C041_VS_S030_ARREST_S_KEYWORD",
+   "en": "Grgh. Nrrggh...",
+   "pt": "Grgh. Nrrggh..."
+  },
+  {
+   "id": "C041_VS_S030_ARREST_P_KEYWORD",
+   "en": "Daaagh...",
+   "pt": "Daaagh..."
+  },
+  {
+   "id": "C041_VS_S030_ARREST_G_KEYWORD",
+   "en": "Eyaaah!",
+   "pt": "Eyaaah!"
+  },
+  {
+   "id": "C041_VS_R040_ARREST_S_KEYWORD",
+   "en": "Grgh. Nrrggh...",
+   "pt": "Grgh. Nrrggh..."
+  },
+  {
+   "id": "C041_VS_R040_ARREST_P_KEYWORD",
+   "en": "Daaagh...",
+   "pt": "Daaagh..."
+  },
+  {
+   "id": "C041_VS_R040_ARREST_G_KEYWORD",
+   "en": "Eyaaah!",
+   "pt": "Eyaaah!"
+  },
+  {
+   "id": "C041_FINISHARTS_01_KEYWORD",
+   "en": "Too late!",
+   "pt": "Muito tarde!"
+  },
+  {
+   "id": "C041_FINISHARTS_02_KEYWORD",
+   "en": "I see all your moves!",
+   "pt": "Eu vejo todos os seus movimentos!"
+  },
+  {
+   "id": "C041_FINISHARTS_03_KEYWORD",
+   "en": "What a pathetic end.",
+   "pt": "Que fim patético."
+  },
+  {
+   "id": "C041_FINISHARTS_04_KEYWORD",
+   "en": "Let's end this.",
+   "pt": "Vamos acabar com isso."
+  },
+  {
+   "id": "C041_FINISHARTS_05_KEYWORD",
+   "en": "End of the line!",
+   "pt": "Fim da linha!"
+  },
+  {
+   "id": "C041_FINISHARTS_06_KEYWORD",
+   "en": "I told you. I see everything.",
+   "pt": "Eu te disse. Eu vejo tudo."
+  },
+  {
+   "id": "C041_FINISHARTS_07_KEYWORD",
+   "en": "This match is over. LOSER!",
+   "pt": "Esta partida acabou. PERDEDOR!"
+  },
+  {
+   "id": "C041_FINISHARTS_08_KEYWORD",
+   "en": "I knew you'd lose!",
+   "pt": "Eu sabia que você ia perder!"
+  },
+  {
+   "id": "C041_FINISHARTS_09_KEYWORD",
+   "en": "Guess that's it, huh!",
+   "pt": "Acho que é isso, hein!"
+  },
+  {
+   "id": "C041_FINISHARTS_10_KEYWORD",
+   "en": "Men!",
+   "pt": "Men!"
+  },
+  {
+   "id": "C041_FINISHARTS_11_KEYWORD",
+   "en": "Dou!",
+   "pt": "Dou!"
+  },
+  {
+   "id": "C041_FINISHARTS_12_KEYWORD",
+   "en": "Kote!",
+   "pt": "Kote!"
+  },
+  {
+   "id": "C041_FINISHARTS_13_KEYWORD",
+   "en": "Men!!",
+   "pt": "Men!!"
+  },
+  {
+   "id": "C041_DEFEAT_01_KEYWORD",
+   "en": "I failed...!",
+   "pt": "Eu falhei...!"
+  },
+  {
+   "id": "C041_DEFEAT_02_KEYWORD",
+   "en": "What-?! Time over?!",
+   "pt": "O que-?! Fim de tempo?!"
+  },
+  {
+   "id": "C041_VS_C011_VICTORY_01_KEYWORD",
+   "en": "Born in North Kanto, raised on Konnyaku!",
+   "pt": "Nascido no Norte de Kanto, criado a base de Konnyaku!"
+  },
+  {
+   "id": "C041_VS_C011_VICTORY_02_KEYWORD",
+   "en": "I don't care who you are, babe. You can't escape my sword!",
+   "pt": "Não me importa quem você seja, gata. Você não escapa da minha espada!"
+  },
+  {
+   "id": "C041_VS_C011_VICTORY_03_KEYWORD",
+   "en": "I thought you'd be tougher than that. I'm disappointed, Matoi!",
+   "pt": "Achei que fosse mais durona que isso. Estou decepcionado, Matoi!"
+  },
+  {
+   "id": "C041_VS_C012_VICTORY_01_KEYWORD",
+   "en": "Born in North Kanto, raised on Konnyaku!",
+   "pt": "Nascido no Norte de Kanto, criado a base de Konnyaku!"
+  },
+  {
+   "id": "C041_VS_C012_VICTORY_02_KEYWORD",
+   "en": "I don't care who you are, babe. You can't escape my sword!",
+   "pt": "Não me importa quem você seja, gata. Você não escapa da minha espada!"
+  },
+  {
+   "id": "C041_VS_C012_VICTORY_03_KEYWORD",
+   "en": "I thought you'd be tougher than that. I'm disappointed, Matoi!",
+   "pt": "Achei que fosse mais durona que isso. Estou decepcionado, Matoi!"
+  },
+  {
+   "id": "C041_VS_C021_VICTORY_01_KEYWORD",
+   "en": "Looks like I win this time, Lady Satsuki.",
+   "pt": "Parece que eu venci desta vez, Senhorita Satsuki."
+  },
+  {
+   "id": "C041_VS_C021_VICTORY_02_KEYWORD",
+   "en": "Thanks for the match.",
+   "pt": "Obrigado pela partida."
+  },
+  {
+   "id": "C041_VS_C021_VICTORY_03_KEYWORD",
+   "en": "Don't feel bad. The heavens must have blessed me this time around.",
+   "pt": "Não se sinta mal. Os céus devem ter me abençoado desta vez."
+  },
+  {
+   "id": "C041_VS_C022_VICTORY_01_KEYWORD",
+   "en": "Looks like I win this time, Lady Satsuki.",
+   "pt": "Parece que eu venci desta vez, Senhorita Satsuki."
+  },
+  {
+   "id": "C041_VS_C022_VICTORY_02_KEYWORD",
+   "en": "Thanks for the match.",
+   "pt": "Obrigado pela partida."
+  },
+  {
+   "id": "C041_VS_C022_VICTORY_03_KEYWORD",
+   "en": "Don't feel bad. The heavens must have blessed me this time around.",
+   "pt": "Não se sinta mal. Os céus devem ter me abençoado desta vez."
+  },
+  {
+   "id": "C041_VS_C031_VICTORY_01_KEYWORD",
+   "en": "Looks like your shield couldn't hold up against my sword.",
+   "pt": "Parece que seu escudo não aguentou contra minha espada."
+  },
+  {
+   "id": "C041_VS_C031_VICTORY_02_KEYWORD",
+   "en": "Tough luck, Gamagoori. I guess I was the better man today.",
+   "pt": "Que azar, Gamagoori. Acho que eu fui o melhor homem hoje."
+  },
+  {
+   "id": "C041_VS_C031_VICTORY_03_KEYWORD",
+   "en": "You can't be Lady Satsuki's shield if you let me punch through you!",
+   "pt": "Você não pode ser o escudo da Senhorita Satsuki se deixar que eu te fure assim!"
+  },
+  {
+   "id": "C041_VS_C041_VICTORY_01_KEYWORD",
+   "en": "I know my strengths and my weaknesses.\nI got your number, buddy! Big time!",
+   "pt": "Eu conheço meus pontos fortes e meus pontos fracos.\nEu te saquei, colega! Muito bem!"
+  },
+  {
+   "id": "C041_VS_C041_VICTORY_02_KEYWORD",
+   "en": "I can see everything. I'm not gonna let a fake me beat me!",
+   "pt": "Eu consigo ver tudo. Não vou deixar que um falso eu me derrote!"
+  },
+  {
+   "id": "C041_VS_C041_VICTORY_03_KEYWORD",
+   "en": "I don't know where you came from, but there's no way you're gonna win!",
+   "pt": "Não sei de onde você veio, mas não tem como você vencer!"
+  },
+  {
+   "id": "C041_VS_C051_VICTORY_01_KEYWORD",
+   "en": "You can make me deaf with your noise, but you can't blind my Shingan!",
+   "pt": "Você pode me deixar surdo com seu barulho, mas não pode cegar meu Shingantsu!"
+  },
+  {
+   "id": "C041_VS_C051_VICTORY_02_KEYWORD",
+   "en": "That was a short performance!\nWhat's the matter? Run out of notes?",
+   "pt": "Essa foi uma apresentação curta!\nQual o problema? Ficou sem notas?"
+  },
+  {
+   "id": "C041_VS_C051_VICTORY_03_KEYWORD",
+   "en": "I don't wanna hear any more of your sucky music.",
+   "pt": "Não quero ouvir mais da sua música bosta."
+  },
+  {
+   "id": "C041_VS_C061_VICTORY_01_KEYWORD",
+   "en": "All I did was beat your lousy data. That's all on you.",
+   "pt": "Tudo que fiz foi derrotar seus dados fajutos. A culpa é toda sua."
+  },
+  {
+   "id": "C041_VS_C061_VICTORY_02_KEYWORD",
+   "en": "Your calculations weren't very well calculated. Wait, what?",
+   "pt": "Seus cálculos não foram muito bem calculados. Espera, o quê?"
+  },
+  {
+   "id": "C041_VS_C061_VICTORY_03_KEYWORD",
+   "en": "Dude, you geek out way too much on data. You need to train more!",
+   "pt": "Cara, você foca demais em dados. Você precisa treinar mais!"
+  },
+  {
+   "id": "C041_VS_C071_VICTORY_01_KEYWORD",
+   "en": "That was close... I never knew the Director was that strong.",
+   "pt": "Essa foi quase... Nunca soube que a Diretora era tão forte."
+  },
+  {
+   "id": "C041_VS_C071_VICTORY_02_KEYWORD",
+   "en": "She's a beast. I can't believe Lady Satsuki's her daughter. I mean, dayum.",
+   "pt": "Ela é um monstro. Não acredito que a Senhorita Satsuki é filha dela. Quer dizer, caramba."
+  },
+  {
+   "id": "C041_VS_C071_VICTORY_03_KEYWORD",
+   "en": "I won... and that's that.",
+   "pt": "Eu venci... e é isso."
+  },
+  {
+   "id": "C041_VS_C081_VICTORY_01_KEYWORD",
+   "en": "I heard you were a threat to Lady Satsuki, but... man! What a let down.",
+   "pt": "Ouvi dizer que você era uma ameaça pra Senhorita Satsuki, mas... cara! Que decepção."
+  },
+  {
+   "id": "C041_VS_C081_VICTORY_02_KEYWORD",
+   "en": "I paid my dues! And punched your ticket!",
+   "pt": "Paguei meus tributos! E rasguei sua passagem!"
+  },
+  {
+   "id": "C041_VS_C081_VICTORY_03_KEYWORD",
+   "en": "You might look like a monster, but you're still a human.\nOf course I beat you!",
+   "pt": "Pode parecer um monstro, mas você ainda é humana.\nÉ claro que eu te derrotei!"
+  },
+  {
+   "id": "C041_VS_C141_VICTORY_01_KEYWORD",
+   "en": "Your form was a mess... but you didn't do half bad.",
+   "pt": "Sua forma era uma bagunça... mas você não foi de todo mal."
+  },
+  {
+   "id": "C041_VS_C141_VICTORY_02_KEYWORD",
+   "en": "You're a brave chick, Mankanshoku.\nBut in the end, you need more experience to fight me.",
+   "pt": "Você é uma garota corajosa, Mankanshoku.\nMas, no fim das contas, você precisa de mais experiência pra me enfrentar."
+  },
+  {
+   "id": "C041_VS_C141_VICTORY_03_KEYWORD",
+   "en": "Thanks for showing me what a No-Star's capable of.",
+   "pt": "Obrigado por me mostrar do que uma Sem Estrela é capaz."
+  },
+  {
+   "id": "C041_VS_C151_VICTORY_01_KEYWORD",
+   "en": "You guys thought you could beat me? In that?! You're a joke!",
+   "pt": "Vocês acharam que podiam me vencer? Nisso?! Vocês são uma piada!"
+  },
+  {
+   "id": "C041_VS_C151_VICTORY_02_KEYWORD",
+   "en": "Looks like that dumb ass mech you're so proud of was just for show.",
+   "pt": "Parece que esse mecha idiota que vocês têm tanto orgulho era só de enfeite."
+  },
+  {
+   "id": "C041_VS_C151_VICTORY_03_KEYWORD",
+   "en": "I don't care what kind of kinky shit you're into, don't screw with us Elites!",
+   "pt": "Não me importa em que tipo de putaria vocês tão metidos, não fodam com a Elite!"
+  },
+  {
+   "id": "C041_KACHINUKI_START_01_KEYWORD",
+   "en": "Run all you want. But you can't escape my sword! ",
+   "pt": "Corra o quanto quiser. Mas não pode escapar da minha espada! "
+  },
+  {
+   "id": "C041_KACHINUKI_START_02_KEYWORD",
+   "en": "All right... Who's next?",
+   "pt": "Certo... Quem é o próximo?"
+  },
+  {
+   "id": "C041_KACHINUKI_START_03_KEYWORD",
+   "en": "It doesn't matter who I'm up against, I fight fair and square!",
+   "pt": "Não importa contra quem eu esteja, eu luto limpo e justo!"
+  },
+  {
+   "id": "C041_KACHINUKI_FINISH_EXCELLENT_01_KEYWORD",
+   "en": "Yeah, I'm not surprised. It pays to train my ass off.",
+   "pt": "É, não estou surpreso. Vale a pena treinar pra caralho."
+  },
+  {
+   "id": "C041_KACHINUKI_FINISH_EXCELLENT_02_KEYWORD",
+   "en": "I don't mean to brag, but this is a piece of cake for me. ",
+   "pt": "Não quero me gabar, mas isso é moleza pra mim. "
+  },
+  {
+   "id": "C041_KACHINUKI_FINISH_GREAT_01_KEYWORD",
+   "en": "Hm. Not bad.",
+   "pt": "Hm. Nada mal."
+  },
+  {
+   "id": "C041_KACHINUKI_FINISH_GREAT_02_KEYWORD",
+   "en": "Oh, c'mon! I was just getting warmed up over here!",
+   "pt": "Ah, qual é! Eu tava só me aquecendo por aqui!"
+  },
+  {
+   "id": "C041_KACHINUKI_FINISH_GOOD_01_KEYWORD",
+   "en": "I guess that does it.",
+   "pt": "Acho que isso resolve."
+  },
+  {
+   "id": "C041_KACHINUKI_FINISH_GOOD_02_KEYWORD",
+   "en": "A passing grade, nothing special.\nNext time, I'll be more on point.",
+   "pt": "Uma nota pra passar de ano, nada de especial.\nDa próxima vez, serei mais preciso."
+  },
+  {
+   "id": "C041_KACHINUKI_FINISH_PASS_01_KEYWORD",
+   "en": "Dammit. I need to train more.",
+   "pt": "Maldição. Preciso treinar mais."
+  },
+  {
+   "id": "C041_KACHINUKI_FINISH_PASS_02_KEYWORD",
+   "en": "I guess I still got a long way to go.",
+   "pt": "Acho que ainda tenho um longo caminho pela frente."
+  },
+  {
+   "id": "C041_KACHINUKI_FINISH_BAD_01_KEYWORD",
+   "en": "That's such B.S.! But it is what it is.",
+   "pt": "Isso é pura merda! Mas é o que é."
+  },
+  {
+   "id": "C041_KACHINUKI_FINISH_BAD_02_KEYWORD",
+   "en": "Kgh... Dammit.",
+   "pt": "Kgh... Maldição."
+  },
+  {
+   "id": "C041_COVERS_START_01_KEYWORD",
+   "en": "I'll cut you all up into itty-bitty pieces!",
+   "pt": "Vou cortar todos vocês em pedacinhos minúsculos!"
+  },
+  {
+   "id": "C041_COVERS_START_02_KEYWORD",
+   "en": "Ha! Go ahead, call all your pals! You don't scare me! ",
+   "pt": "Ha! Vão em frente, chamem todos os seus amiguinhos! Vocês não me assustam! "
+  },
+  {
+   "id": "C041_COVERS_START_03_KEYWORD",
+   "en": "Now that I got my Shingantsu, you scraps of cloth are dead!",
+   "pt": "Agora que tenho meu Shingantsu, seus retalhos de pano estão mortos!"
+  },
+  {
+   "id": "C041_COVERS_FINISH_EXCELLENT_01_KEYWORD",
+   "en": "Any of you that gets in my way's goin' down!",
+   "pt": "Qualquer um de vocês que entrar no meu caminho vai cair!"
+  },
+  {
+   "id": "C041_COVERS_FINISH_EXCELLENT_02_KEYWORD",
+   "en": "I'll make paper screens out of you with my Blade Regalia Mark Two!",
+   "pt": "Vou fazer telas de papel com vocês com meu Blade Regalia Mark Dois!"
+  },
+  {
+   "id": "C041_COVERS_FINISH_GREAT_01_KEYWORD",
+   "en": "I'll never give in to a bunch of dirty old rags!",
+   "pt": "Eu nunca vou me render pra um bando de trapos velhos e sujos!"
+  },
+  {
+   "id": "C041_COVERS_FINISH_GREAT_02_KEYWORD",
+   "en": "So, that's what you're gonna do...?\nGang up on me? Man, you guys are lame!",
+   "pt": "Então, é isso que vocês vão fazer...?\nSe juntar contra mim? Cara, vocês são patéticos!"
+  },
+  {
+   "id": "C041_COVERS_FINISH_GREAT_03_KEYWORD",
+   "en": "Compared to Lady Satsuki, fighting scraps like you's a breeze!",
+   "pt": "Comparado à Senhorita Satsuki, lutar contra retalhos como vocês é moleza!"
+  },
+  {
+   "id": "C041_COVERS_FINISH_GOOD_01_KEYWORD",
+   "en": "I guess that does it.",
+   "pt": "Acho que isso resolve."
+  },
+  {
+   "id": "C041_COVERS_FINISH_GOOD_02_KEYWORD",
+   "en": "I wish I did better. But that's cool for now.",
+   "pt": "Queria ter ido melhor. Mas tá bom por agora."
+  },
+  {
+   "id": "C041_COVERS_FINISH_GOOD_03_KEYWORD",
+   "en": "Hah! You tagged me. Not bad.",
+   "pt": "Hah! Você me pegou. Nada mal."
+  },
+  {
+   "id": "C041_COVERS_FINISH_PASS_01_KEYWORD",
+   "en": "Heh! If the others saw that, they'd laugh their asses off.",
+   "pt": "Heh! Se os outros vissem isso, iam rir pra caralho."
+  },
+  {
+   "id": "C041_COVERS_FINISH_PASS_02_KEYWORD",
+   "en": "The results are what they are. I'll do better next time.",
+   "pt": "Os resultados são o que são. Vou me sair melhor da próxima vez."
+  },
+  {
+   "id": "C041_COVERS_FINISH_PASS_03_KEYWORD",
+   "en": "If I'm struggling against these guys, I'm gonna need to train way more.",
+   "pt": "Se tô sofrendo contra esses caras, vou precisar treinar muito mais."
+  },
+  {
+   "id": "C041_COVERS_FINISH_BAD_01_KEYWORD",
+   "en": "What?! You gotta be kidding!",
+   "pt": "O quê?! Você só pode estar de brincadeira!"
+  },
+  {
+   "id": "C041_COVERS_FINISH_BAD_02_KEYWORD",
+   "en": "Dammit. I better work on my technique some more.",
+   "pt": "Maldição. É melhor eu trabalhar mais na minha técnica."
+  },
+  {
+   "id": "C041_COVERS_FINISH_BAD_03_KEYWORD",
+   "en": "I can't believe I did that bad. ",
+   "pt": "Não acredito que fui tão mal. "
+  }
+ ]
+}

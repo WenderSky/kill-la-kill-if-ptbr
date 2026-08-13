@@ -1,0 +1,298 @@
+{
+ "origem": "KlkResources/S701_MES/MES_072_RAG_ACT",
+ "conteudo": "Falas em batalha - Ragyo",
+ "parte": "1/1",
+ "instrucoes": "Traduza o campo 'en' para portugues do Brasil e escreva o resultado em 'pt'. Nao altere 'id'. Mantenha intactos os codigos entre chaves ({CA}, {LA}, {BR}, {JU}, {SP}, {GD}, {LS}, {L1}, {R1}, setas), os marcadores de formato (%d, %l, %ls, %hs) e as quebras de linha \\n. Se uma linha nao precisar de traducao, deixe 'pt' vazio.",
+ "linhas": [
+  {
+   "id": "C072_SP_NEAR_01_KEYWORD",
+   "en": "Buahaha, you can't even lift a finger!",
+   "pt": "Buahaha, você não consegue nem levantar um dedo!"
+  },
+  {
+   "id": "C072_SP_NEAR_02_KEYWORD",
+   "en": "What's wrong?! Is that all you got?!",
+   "pt": "Qual o problema?! É só isso que você tem?!"
+  },
+  {
+   "id": "C072_SP_NEAR_03_KEYWORD",
+   "en": "You're finished, now!",
+   "pt": "Você já era!"
+  },
+  {
+   "id": "C072_SP_NEAR_04_KEYWORD",
+   "en": "Say your prayers!",
+   "pt": "Faça suas preces!"
+  },
+  {
+   "id": "C072_SP_NEAR_05_KEYWORD",
+   "en": "Ha! Laughable.",
+   "pt": "Ha! Patético."
+  },
+  {
+   "id": "C072_SP_BREAK_01_KEYWORD",
+   "en": "This is the difference in our strength!",
+   "pt": "Esta é a diferença na nossa força!"
+  },
+  {
+   "id": "C072_SP_BREAK_02_KEYWORD",
+   "en": "Behold the power of the true Kamui!",
+   "pt": "Contemple o poder do verdadeiro Kamui!"
+  },
+  {
+   "id": "C072_SP_BREAK_03_KEYWORD",
+   "en": "Huhahaha! You can't run from this!",
+   "pt": "Huhahaha! Você não pode fugir disso!"
+  },
+  {
+   "id": "C072_SP_BREAK_04_KEYWORD",
+   "en": "Buahaha! Keep struggling!",
+   "pt": "Buahaha! Continue se debatendo!"
+  },
+  {
+   "id": "C072_SP_FAR_01_KEYWORD",
+   "en": "I'll show you something special!",
+   "pt": "Vou te mostrar algo especial!"
+  },
+  {
+   "id": "C072_SP_FAR_02_KEYWORD",
+   "en": "Here's a parting gift.",
+   "pt": "Aqui está um presente de despedida."
+  },
+  {
+   "id": "C072_SP_FAR_03_KEYWORD",
+   "en": "Be grateful!",
+   "pt": "Agradeça!"
+  },
+  {
+   "id": "C072_SP_FAR_04_KEYWORD",
+   "en": "Be thankful!",
+   "pt": "Mostre gratidão!"
+  },
+  {
+   "id": "C072_VS_C011_ARREST_S_KEYWORD",
+   "en": "How foolish! Stay out of this!",
+   "pt": "Que tolice! Fique fora disso!"
+  },
+  {
+   "id": "C072_VS_C011_ARREST_P_KEYWORD",
+   "en": "What's wrong?\nFeel free to die any time!",
+   "pt": "Qual o problema?\nSinta-se livre para morrer a qualquer momento!"
+  },
+  {
+   "id": "C072_VS_C011_ARREST_G_KEYWORD",
+   "en": "Absurd. Do you know who you're talking to?!",
+   "pt": "Absurdo. Você sabe com quem está falando?!"
+  },
+  {
+   "id": "C072_VS_C012_ARREST_S_KEYWORD",
+   "en": "How foolish! Stay out of this!",
+   "pt": "Que tolice! Fique fora disso!"
+  },
+  {
+   "id": "C072_VS_C012_ARREST_P_KEYWORD",
+   "en": "What's wrong?\nFeel free to die any time!",
+   "pt": "Qual o problema?\nSinta-se livre para morrer a qualquer momento!"
+  },
+  {
+   "id": "C072_VS_C012_ARREST_G_KEYWORD",
+   "en": "Absurd. Do you know who you're talking to?!",
+   "pt": "Absurdo. Você sabe com quem está falando?!"
+  },
+  {
+   "id": "C072_VS_C021_ARREST_S_KEYWORD",
+   "en": "Face it. You are useless and weak!",
+   "pt": "Aceite. Você é inútil e fraca!"
+  },
+  {
+   "id": "C072_VS_C021_ARREST_P_KEYWORD",
+   "en": "Do you speak to your mother that way?",
+   "pt": "É assim que você fala com a sua mãe?"
+  },
+  {
+   "id": "C072_VS_C021_ARREST_G_KEYWORD",
+   "en": "Fool. You are aware of the difference in power between us.. Yes?",
+   "pt": "Tola. Você tem consciência da diferença de poder entre nós... não é?"
+  },
+  {
+   "id": "C072_VS_C022_ARREST_S_KEYWORD",
+   "en": "Face it. You are useless and weak!",
+   "pt": "Aceite. Você é inútil e fraca!"
+  },
+  {
+   "id": "C072_VS_C022_ARREST_P_KEYWORD",
+   "en": "Do you speak to your mother that way?",
+   "pt": "É assim que você fala com a sua mãe?"
+  },
+  {
+   "id": "C072_VS_C022_ARREST_G_KEYWORD",
+   "en": "Fool. You are aware of the difference in power between us.. Yes?",
+   "pt": "Tola. Você tem consciência da diferença de poder entre nós... não é?"
+  },
+  {
+   "id": "C072_VS_C031_ARREST_S_KEYWORD",
+   "en": "How foolish! Stay out of this!",
+   "pt": "Que tolice! Fique fora disso!"
+  },
+  {
+   "id": "C072_VS_C031_ARREST_P_KEYWORD",
+   "en": "You livestock have quite the nerve!",
+   "pt": "Vocês, gado, têm muita ousadia!"
+  },
+  {
+   "id": "C072_VS_C031_ARREST_G_KEYWORD",
+   "en": "Absurd. Do you know who you're talking to?!",
+   "pt": "Absurdo. Você sabe com quem está falando?!"
+  },
+  {
+   "id": "C072_VS_C041_ARREST_S_KEYWORD",
+   "en": "How foolish! Stay out of this!",
+   "pt": "Que tolice! Fique fora disso!"
+  },
+  {
+   "id": "C072_VS_C041_ARREST_P_KEYWORD",
+   "en": "You livestock have quite the nerve!",
+   "pt": "Vocês, gado, têm muita ousadia!"
+  },
+  {
+   "id": "C072_VS_C041_ARREST_G_KEYWORD",
+   "en": "Absurd. Do you know who you're talking to?!",
+   "pt": "Absurdo. Você sabe com quem está falando?!"
+  },
+  {
+   "id": "C072_VS_C051_ARREST_S_KEYWORD",
+   "en": "How foolish! Stay out of this!",
+   "pt": "Que tolice! Fique fora disso!"
+  },
+  {
+   "id": "C072_VS_C051_ARREST_P_KEYWORD",
+   "en": "You livestock have quite the nerve!",
+   "pt": "Vocês, gado, têm muita ousadia!"
+  },
+  {
+   "id": "C072_VS_C051_ARREST_G_KEYWORD",
+   "en": "Absurd. Do you know who you're talking to?!",
+   "pt": "Absurdo. Você sabe com quem está falando?!"
+  },
+  {
+   "id": "C072_VS_C061_ARREST_S_KEYWORD",
+   "en": "How foolish! Stay out of this!",
+   "pt": "Que tolice! Fique fora disso!"
+  },
+  {
+   "id": "C072_VS_C061_ARREST_P_KEYWORD",
+   "en": "You livestock have quite the nerve!",
+   "pt": "Vocês, gado, têm muita ousadia!"
+  },
+  {
+   "id": "C072_VS_C061_ARREST_G_KEYWORD",
+   "en": "Absurd. Do you know who you're talking to?!",
+   "pt": "Absurdo. Você sabe com quem está falando?!"
+  },
+  {
+   "id": "C072_VS_C071_ARREST_S_KEYWORD",
+   "en": "How foolish! Stay out of this!",
+   "pt": "Que tolice! Fique fora disso!"
+  },
+  {
+   "id": "C072_VS_C071_ARREST_P_KEYWORD",
+   "en": "You livestock have quite the nerve!",
+   "pt": "Vocês, gado, têm muita ousadia!"
+  },
+  {
+   "id": "C072_VS_C071_ARREST_G_KEYWORD",
+   "en": "Absurd. Do you know who you're talking to?!",
+   "pt": "Absurdo. Você sabe com quem está falando?!"
+  },
+  {
+   "id": "C072_VS_C081_ARREST_S_KEYWORD",
+   "en": "What's wrong? Is that all you've got?",
+   "pt": "Qual o problema? É só isso que você tem?"
+  },
+  {
+   "id": "C072_VS_C081_ARREST_P_KEYWORD",
+   "en": "Fool. You know you can't win against me.",
+   "pt": "Tola. Você sabe que não pode vencer contra mim."
+  },
+  {
+   "id": "C072_VS_C081_ARREST_G_KEYWORD",
+   "en": "It's like I'm fighting air.\nCan't you give me more of a challenge?",
+   "pt": "É como se eu estivesse lutando contra o ar.\nVocê não pode me dar um desafio maior?"
+  },
+  {
+   "id": "C072_VS_C141_ARREST_S_KEYWORD",
+   "en": "How foolish! Stay out of this!",
+   "pt": "Que tolice! Fique fora disso!"
+  },
+  {
+   "id": "C072_VS_C141_ARREST_P_KEYWORD",
+   "en": "You livestock have quite the nerve!",
+   "pt": "Vocês, gado, têm muita ousadia!"
+  },
+  {
+   "id": "C072_VS_C141_ARREST_G_KEYWORD",
+   "en": "Absurd. Do you know who you're talking to?!",
+   "pt": "Absurdo. Você sabe com quem está falando?!"
+  },
+  {
+   "id": "C072_VS_C151_ARREST_S_KEYWORD",
+   "en": "Naked apes! Know your place!",
+   "pt": "Macacos pelados! Conheçam o seu lugar!"
+  },
+  {
+   "id": "C072_VS_C151_ARREST_P_KEYWORD",
+   "en": "You dare challenge us with that?\nYou make me laugh!",
+   "pt": "Vocês ousam nos desafiar com isso?\nVocês me fazem rir!"
+  },
+  {
+   "id": "C072_VS_C151_ARREST_G_KEYWORD",
+   "en": "Stop this futile resistance!\nAccept your fate as our food!",
+   "pt": "Parem com essa resistência fútil!\nAceitem o seu destino como nossa comida!"
+  },
+  {
+   "id": "C072_FINISHARTS_01_KEYWORD",
+   "en": "Bow down!",
+   "pt": "Curve-se!"
+  },
+  {
+   "id": "C072_FINISHARTS_02_KEYWORD",
+   "en": "Bend the knee to my glory!",
+   "pt": "Ajoelhe-se diante da minha glória!"
+  },
+  {
+   "id": "C072_FINISHARTS_03_KEYWORD",
+   "en": "Devote yourself to clothes and you shall gain great power.",
+   "pt": "Devote-se às roupas e você ganhará um grande poder."
+  },
+  {
+   "id": "C072_FINISHARTS_04_KEYWORD",
+   "en": "The moment of truth has come for the fools who dare point their blades at the Life Fibers. ",
+   "pt": "O momento da verdade chegou para os tolos que ousam apontar suas lâminas para as Fibras de Vida. "
+  },
+  {
+   "id": "C072_FINISHARTS_05_KEYWORD",
+   "en": "Get off the stage, extra.",
+   "pt": "Saia do palco, figurante."
+  },
+  {
+   "id": "C072_FINISHARTS_06_KEYWORD",
+   "en": "Your sins shall be purged along with your pathetic body!",
+   "pt": "Seus pecados serão expurgados junto com o seu corpo patético!"
+  },
+  {
+   "id": "C072_FINISHARTS_07_KEYWORD",
+   "en": "The fools who point their blades at the Life Fibers. ",
+   "pt": "Os tolos que apontam suas lâminas para as Fibras de Vida. "
+  },
+  {
+   "id": "C072_DEFEAT_01_KEYWORD",
+   "en": "How could I be defeated by a human...!",
+   "pt": "Como pude ser derrotada por um humano...!"
+  },
+  {
+   "id": "C072_DEFEAT_02_KEYWORD",
+   "en": "Human trash, and yet you dare...!",
+   "pt": "Lixo humano, e mesmo assim você ousa...!"
+  }
+ ]
+}

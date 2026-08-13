@@ -1,0 +1,903 @@
+{
+ "origem": "KlkResources/S701_MES/MES_051_JYA_ACT",
+ "conteudo": "Falas em batalha - Jakuzure",
+ "parte": "3/3",
+ "instrucoes": "Traduza o campo 'en' para portugues do Brasil e escreva o resultado em 'pt'. Nao altere 'id'. Mantenha intactos os codigos entre chaves ({CA}, {LA}, {BR}, {JU}, {SP}, {GD}, {LS}, {L1}, {R1}, setas), os marcadores de formato (%d, %l, %ls, %hs) e as quebras de linha \\n. Se uma linha nao precisar de traducao, deixe 'pt' vazio.",
+ "linhas": [
+  {
+   "id": "C051_VS_C082_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "Thanks for your performance, but I've enjoyed enough of your screams for one day.",
+   "pt": "Valeu pela sua performance, mas já curti o suficiente dos seus gritos por hoje."
+  },
+  {
+   "id": "C051_VS_C082_DECISION2_G_LOWER_KEYWORD",
+   "en": "Now get off the stage!",
+   "pt": "Agora saia do palco!"
+  },
+  {
+   "id": "C051_VS_C141_DECISION0_S_UPPER_KEYWORD",
+   "en": "Quiet! My solo performance is starting!",
+   "pt": "Silêncio! Minha performance solo vai começar!"
+  },
+  {
+   "id": "C051_VS_C141_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "I'll take you down cheerfully, jauntily and convincingly!",
+   "pt": "Vou te derrubar de forma alegre, saltitante e convincente!"
+  },
+  {
+   "id": "C051_VS_C141_DECISION0_S_LOWER_KEYWORD",
+   "en": "Geeeeet ready!",
+   "pt": "Preeeeepare-se!"
+  },
+  {
+   "id": "C051_VS_C141_DECISION0_P_UPPER_KEYWORD",
+   "en": "Silence! Chatting during a performance is rude!",
+   "pt": "Silêncio! Tagarelar durante uma performance é falta de educação!"
+  },
+  {
+   "id": "C051_VS_C141_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "Get on your hands and knees like a good lil' audience and listen to my performance!",
+   "pt": "Fique de joelhos como um bom público e ouça a minha performance!"
+  },
+  {
+   "id": "C051_VS_C141_DECISION0_P_LOWER_KEYWORD",
+   "en": "Listen to the sound of pain!",
+   "pt": "Ouça o som da dor!"
+  },
+  {
+   "id": "C051_VS_C141_DECISION0_G_UPPER_KEYWORD",
+   "en": "Hmmm... there's something missing from this piece.",
+   "pt": "Hmmm... tem algo faltando nesta peça."
+  },
+  {
+   "id": "C051_VS_C141_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "Oh, I know what's missing!\nTHE SWEET SOUND OF YOUR SCREAMS!",
+   "pt": "Ah, já sei o que falta!\nO DOCE SOM DOS SEUS GRITOS!"
+  },
+  {
+   "id": "C051_VS_C141_DECISION0_G_LOWER_KEYWORD",
+   "en": "Now.... let's hear you scream!",
+   "pt": "Agora.... vamos ouvir você gritar!"
+  },
+  {
+   "id": "C051_VS_C141_DECISION1_S_UPPER_KEYWORD",
+   "en": "Gimmie all you got, but it won't work!",
+   "pt": "Me dê tudo o que você tem, mas não vai funcionar!"
+  },
+  {
+   "id": "C051_VS_C141_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "Go ahead and run if you want. You can't escape my performance!",
+   "pt": "Vá em frente e fuja se quiser. Você não pode escapar da minha performance!"
+  },
+  {
+   "id": "C051_VS_C141_DECISION1_S_LOWER_KEYWORD",
+   "en": "Get on your knees and listen to your doom!",
+   "pt": "Ajoelhe-se e ouça a sua perdição!"
+  },
+  {
+   "id": "C051_VS_C141_DECISION1_P_UPPER_KEYWORD",
+   "en": "God, you're so annoying. Get lost!",
+   "pt": "Deus, você é tão irritante. Dá o fora!"
+  },
+  {
+   "id": "C051_VS_C141_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "Your life is like dissonance in a classical composition. USELESS!",
+   "pt": "Sua vida é como uma dissonância numa composição clássica. INÚTIL!"
+  },
+  {
+   "id": "C051_VS_C141_DECISION1_P_LOWER_KEYWORD",
+   "en": "I'll blast you out of here in a jiffy!",
+   "pt": "Vou te explodir daqui num instante!"
+  },
+  {
+   "id": "C051_VS_C141_DECISION1_G_UPPER_KEYWORD",
+   "en": "Okay. I'll make you dance some more!",
+   "pt": "Beleza. Vou fazer você dançar mais um pouco!"
+  },
+  {
+   "id": "C051_VS_C141_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "Ha ha! You look so funny right now! And pathetic!",
+   "pt": "Haha! Você tá tão engraçada agora! E patética!"
+  },
+  {
+   "id": "C051_VS_C141_DECISION1_G_LOWER_KEYWORD",
+   "en": "I'm gonna make you cry even harder!",
+   "pt": "Vou fazer você chorar ainda mais forte!"
+  },
+  {
+   "id": "C051_VS_C141_DECISION2_S_UPPER_KEYWORD",
+   "en": "Unfortunately, the performance is about to end.",
+   "pt": "Infelizmente, a performance está prestes a acabar."
+  },
+  {
+   "id": "C051_VS_C141_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "It's time for this song's finale!\nALONG WITH YOURS.",
+   "pt": "É hora do gran finale desta música!\nJUNTO COM O SEU."
+  },
+  {
+   "id": "C051_VS_C141_DECISION2_S_LOWER_KEYWORD",
+   "en": "Now, get down and stay down!",
+   "pt": "Agora, vá pro chão e fique aí!"
+  },
+  {
+   "id": "C051_VS_C141_DECISION2_P_UPPER_KEYWORD",
+   "en": "I'm sooooo tired of that sound!",
+   "pt": "Eu tô tãããão cansada desse som!"
+  },
+  {
+   "id": "C051_VS_C141_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "I'll edit you out of the composition! Listen and tremble!",
+   "pt": "Vou editar você para fora da composição! Ouça e trema!"
+  },
+  {
+   "id": "C051_VS_C141_DECISION2_P_LOWER_KEYWORD",
+   "en": "This is your requiem!",
+   "pt": "Este é o seu réquiem!"
+  },
+  {
+   "id": "C051_VS_C141_DECISION2_G_UPPER_KEYWORD",
+   "en": "This is the finale!",
+   "pt": "Este é o gran finale!"
+  },
+  {
+   "id": "C051_VS_C141_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "Thanks for your performance, but I've enjoyed enough of your screams for one day.",
+   "pt": "Valeu pela sua performance, mas já curti o suficiente dos seus gritos por hoje."
+  },
+  {
+   "id": "C051_VS_C141_DECISION2_G_LOWER_KEYWORD",
+   "en": "Now get off the stage!",
+   "pt": "Agora saia do palco!"
+  },
+  {
+   "id": "C051_VS_C151_DECISION0_S_UPPER_KEYWORD",
+   "en": "Quiet! My solo performance is starting!",
+   "pt": "Silêncio! Minha performance solo vai começar!"
+  },
+  {
+   "id": "C051_VS_C151_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "I'll take you down cheerfully, jauntily and convincingly!",
+   "pt": "Vou te derrubar de forma alegre, saltitante e convincente!"
+  },
+  {
+   "id": "C051_VS_C151_DECISION0_S_LOWER_KEYWORD",
+   "en": "Geeeeet ready!",
+   "pt": "Preeeeepare-se!"
+  },
+  {
+   "id": "C051_VS_C151_DECISION0_P_UPPER_KEYWORD",
+   "en": "Silence! Chatting during a performance is rude!",
+   "pt": "Silêncio! Tagarelar durante uma performance é falta de educação!"
+  },
+  {
+   "id": "C051_VS_C151_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "Get on your hands and knees like a good lil' audience and listen to my performance!",
+   "pt": "Fique de joelhos como um bom público e ouça a minha performance!"
+  },
+  {
+   "id": "C051_VS_C151_DECISION0_P_LOWER_KEYWORD",
+   "en": "Listen to the sound of pain!",
+   "pt": "Ouça o som da dor!"
+  },
+  {
+   "id": "C051_VS_C151_DECISION0_G_UPPER_KEYWORD",
+   "en": "Hmmm... there's something missing from this piece.",
+   "pt": "Hmmm... tem algo faltando nesta peça."
+  },
+  {
+   "id": "C051_VS_C151_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "Oh, silly me! That's what's missing! The sweet sounds of your screams!",
+   "pt": "Ah, que boba eu sou! É isso o que falta! Os doces sons dos seus gritos!"
+  },
+  {
+   "id": "C051_VS_C151_DECISION0_G_LOWER_KEYWORD",
+   "en": "Now.... let's hear you scream!",
+   "pt": "Agora.... vamos ouvir você gritar!"
+  },
+  {
+   "id": "C051_VS_C151_DECISION1_S_UPPER_KEYWORD",
+   "en": "Gimmie all you got, but it won't work!",
+   "pt": "Me dê tudo o que você tem, mas não vai funcionar!"
+  },
+  {
+   "id": "C051_VS_C151_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "Go ahead and run if you want. You can't escape my performance!",
+   "pt": "Vá em frente e fuja se quiser. Você não pode escapar da minha performance!"
+  },
+  {
+   "id": "C051_VS_C151_DECISION1_S_LOWER_KEYWORD",
+   "en": "Get on your knees and listen to your doom!",
+   "pt": "Ajoelhe-se e ouça a sua perdição!"
+  },
+  {
+   "id": "C051_VS_C151_DECISION1_P_UPPER_KEYWORD",
+   "en": "God, you're so annoying. Get lost!",
+   "pt": "Deus, você é tão irritante. Dá o fora!"
+  },
+  {
+   "id": "C051_VS_C151_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "Your life is like dissonance in a classical composition. USELESS!",
+   "pt": "Sua vida é como uma dissonância numa composição clássica. INÚTIL!"
+  },
+  {
+   "id": "C051_VS_C151_DECISION1_P_LOWER_KEYWORD",
+   "en": "I'll blast you out of here in a jiffy!",
+   "pt": "Vou te explodir daqui num instante!"
+  },
+  {
+   "id": "C051_VS_C151_DECISION1_G_UPPER_KEYWORD",
+   "en": "Okay. I'll make you dance some more!",
+   "pt": "Beleza. Vou fazer você dançar mais um pouco!"
+  },
+  {
+   "id": "C051_VS_C151_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "Ha ha! You look so funny right now! And pathetic!",
+   "pt": "Haha! Você tá tão engraçada agora! E patética!"
+  },
+  {
+   "id": "C051_VS_C151_DECISION1_G_LOWER_KEYWORD",
+   "en": "I'm gonna make you cry even harder!",
+   "pt": "Vou fazer você chorar ainda mais forte!"
+  },
+  {
+   "id": "C051_VS_C151_DECISION2_S_UPPER_KEYWORD",
+   "en": "Unfortunately, the performance is about to end.",
+   "pt": "Infelizmente, a performance está prestes a acabar."
+  },
+  {
+   "id": "C051_VS_C151_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "It's time for this song's finale!\nALONG WITH YOURS.",
+   "pt": "É hora do gran finale desta música!\nJUNTO COM O SEU."
+  },
+  {
+   "id": "C051_VS_C151_DECISION2_S_LOWER_KEYWORD",
+   "en": "Now, get down and stay down!",
+   "pt": "Agora, vá pro chão e fique aí!"
+  },
+  {
+   "id": "C051_VS_C151_DECISION2_P_UPPER_KEYWORD",
+   "en": "I'm sooooo tired of that sound!",
+   "pt": "Eu tô tãããão cansada desse som!"
+  },
+  {
+   "id": "C051_VS_C151_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "I'll edit you out of the composition! Listen and tremble!",
+   "pt": "Vou editar você para fora da composição! Ouça e trema!"
+  },
+  {
+   "id": "C051_VS_C151_DECISION2_P_LOWER_KEYWORD",
+   "en": "This is your requiem!",
+   "pt": "Este é o seu réquiem!"
+  },
+  {
+   "id": "C051_VS_C151_DECISION2_G_UPPER_KEYWORD",
+   "en": "This is the finale!",
+   "pt": "Este é o gran finale!"
+  },
+  {
+   "id": "C051_VS_C151_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "Thanks for your performance, but I've enjoyed enough of your screams for one day.",
+   "pt": "Valeu pela sua performance, mas já curti o suficiente dos seus gritos por hoje."
+  },
+  {
+   "id": "C051_VS_C151_DECISION2_G_LOWER_KEYWORD",
+   "en": "Now get off the stage!",
+   "pt": "Agora saia do palco!"
+  },
+  {
+   "id": "C051_VS_C011_ARREST_S_KEYWORD",
+   "en": "Shut up, you! No chatting!",
+   "pt": "Cale a boca, você! Sem tagarelar!"
+  },
+  {
+   "id": "C051_VS_C011_ARREST_P_KEYWORD",
+   "en": "You make me sick! Get lost!",
+   "pt": "Você me dá nojo! Dá o fora!"
+  },
+  {
+   "id": "C051_VS_C011_ARREST_G_KEYWORD",
+   "en": "Don't get cocky, new girl!",
+   "pt": "Não fique se achando, garota nova!"
+  },
+  {
+   "id": "C051_VS_C012_ARREST_S_KEYWORD",
+   "en": "Shut up, you! No chatting!",
+   "pt": "Cale a boca, você! Sem tagarelar!"
+  },
+  {
+   "id": "C051_VS_C012_ARREST_P_KEYWORD",
+   "en": "You make me sick! Get lost!",
+   "pt": "Você me dá nojo! Dá o fora!"
+  },
+  {
+   "id": "C051_VS_C012_ARREST_G_KEYWORD",
+   "en": "Don't get cocky, new girl!",
+   "pt": "Não fique se achando, garota nova!"
+  },
+  {
+   "id": "C051_VS_C021_ARREST_S_KEYWORD",
+   "en": "If you let your guard down, you'll be sorry!",
+   "pt": "Se você baixar a guarda, vai se arrepender!"
+  },
+  {
+   "id": "C051_VS_C021_ARREST_P_KEYWORD",
+   "en": "What's wrong?\nI know you can do way better than that!",
+   "pt": "O que foi?\nEu sei que você consegue fazer bem melhor que isso!"
+  },
+  {
+   "id": "C051_VS_C021_ARREST_G_KEYWORD",
+   "en": "I'm your opponent now.\nSo you don't have to pull your punches!",
+   "pt": "Sou sua oponente agora.\nEntão não precisa pegar leve!"
+  },
+  {
+   "id": "C051_VS_C022_ARREST_S_KEYWORD",
+   "en": "If you let your guard down, you'll be sorry!",
+   "pt": "Se você baixar a guarda, vai se arrepender!"
+  },
+  {
+   "id": "C051_VS_C022_ARREST_P_KEYWORD",
+   "en": "What's wrong?\nI know you can do way better than that!",
+   "pt": "O que foi?\nEu sei que você consegue fazer bem melhor que isso!"
+  },
+  {
+   "id": "C051_VS_C022_ARREST_G_KEYWORD",
+   "en": "I'm your opponent now.\nSo you don't have to pull your punches!",
+   "pt": "Sou sua oponente agora.\nEntão não precisa pegar leve!"
+  },
+  {
+   "id": "C051_VS_C031_ARREST_S_KEYWORD",
+   "en": "Nice try! But you'll never catch me!",
+   "pt": "Bela tentativa! Mas você nunca vai me pegar!"
+  },
+  {
+   "id": "C051_VS_C031_ARREST_P_KEYWORD",
+   "en": "Aww, is something wrong?\nYou fizzled out way too fast there.",
+   "pt": "Awn, tem algo errado?\nVocê perdeu o gás muito rápido aí."
+  },
+  {
+   "id": "C051_VS_C031_ARREST_G_KEYWORD",
+   "en": "Go back to the gym!\nYou're not strong enough to protect Lady Satsuki! ",
+   "pt": "Volte pra academia!\nVocê não é forte o suficiente para proteger a Senhorita Satsuki!"
+  },
+  {
+   "id": "C051_VS_C041_ARREST_S_KEYWORD",
+   "en": "Nice try! But you'll never catch me!",
+   "pt": "Bela tentativa! Mas você nunca vai me pegar!"
+  },
+  {
+   "id": "C051_VS_C041_ARREST_P_KEYWORD",
+   "en": "Aww, is something wrong?\nYou fizzled out way too fast there.",
+   "pt": "Awn, tem algo errado?\nVocê perdeu o gás muito rápido aí."
+  },
+  {
+   "id": "C051_VS_C041_ARREST_G_KEYWORD",
+   "en": "Go back to the gym!\nYou're not strong enough to protect Lady Satsuki! ",
+   "pt": "Volte pra academia!\nVocê não é forte o suficiente para proteger a Senhorita Satsuki!"
+  },
+  {
+   "id": "C051_VS_C051_ARREST_S_KEYWORD",
+   "en": "Nice try! But you'll never catch me!",
+   "pt": "Bela tentativa! Mas você nunca vai me pegar!"
+  },
+  {
+   "id": "C051_VS_C051_ARREST_P_KEYWORD",
+   "en": "Aww, is something wrong?\nYou fizzled out way too fast there.",
+   "pt": "Awn, tem algo errado?\nVocê perdeu o gás muito rápido aí."
+  },
+  {
+   "id": "C051_VS_C051_ARREST_G_KEYWORD",
+   "en": "Go back to the gym!\nYou're not strong enough to protect Lady Satsuki! ",
+   "pt": "Volte pra academia!\nVocê não é forte o suficiente para proteger a Senhorita Satsuki!"
+  },
+  {
+   "id": "C051_VS_C061_ARREST_S_KEYWORD",
+   "en": "Nice try! But you'll never catch me!",
+   "pt": "Bela tentativa! Mas você nunca vai me pegar!"
+  },
+  {
+   "id": "C051_VS_C061_ARREST_P_KEYWORD",
+   "en": "Aww, is something wrong?\nYou fizzled out way too fast there.",
+   "pt": "Awn, tem algo errado?\nVocê perdeu o gás muito rápido aí."
+  },
+  {
+   "id": "C051_VS_C061_ARREST_G_KEYWORD",
+   "en": "Go back to the gym!\nYou're not strong enough to protect Lady Satsuki! ",
+   "pt": "Volte pra academia!\nVocê não é forte o suficiente para proteger a Senhorita Satsuki!"
+  },
+  {
+   "id": "C051_VS_C071_ARREST_S_KEYWORD",
+   "en": "If you underestimate me, you'll be sorry!",
+   "pt": "Se você me subestimar, vai se arrepender!"
+  },
+  {
+   "id": "C051_VS_C071_ARREST_P_KEYWORD",
+   "en": "What’s the matter?\nThat's hardly what I'd call a good opener!",
+   "pt": "Qual o problema?\nIsso mal é o que eu chamaria de uma boa abertura!"
+  },
+  {
+   "id": "C051_VS_C071_ARREST_G_KEYWORD",
+   "en": "Uh-oh, someone's losing their cool!\nNot very graceful!",
+   "pt": "Uh-oh, alguém tá perdendo a calma!\nNada gracioso!"
+  },
+  {
+   "id": "C051_VS_C081_ARREST_S_KEYWORD",
+   "en": "Shut up, you! No chatting!",
+   "pt": "Cale a boca, você! Sem tagarelar!"
+  },
+  {
+   "id": "C051_VS_C081_ARREST_P_KEYWORD",
+   "en": "You make me sick! Get lost!",
+   "pt": "Você me dá nojo! Dá o fora!"
+  },
+  {
+   "id": "C051_VS_C081_ARREST_G_KEYWORD",
+   "en": "Don't get cocky, new girl!",
+   "pt": "Não fique se achando, garota nova!"
+  },
+  {
+   "id": "C051_VS_C141_ARREST_S_KEYWORD",
+   "en": "What're you getting worked up for, you No-Star loser!",
+   "pt": "Tá se estressando por quê, sua perdedora Sem Estrela!"
+  },
+  {
+   "id": "C051_VS_C141_ARREST_P_KEYWORD",
+   "en": "You can't stop me, slacken-stein!\nDon't even try!",
+   "pt": "Você não pode me parar, sua preguiçosa!\nNem tente!"
+  },
+  {
+   "id": "C051_VS_C141_ARREST_G_KEYWORD",
+   "en": "Oh, shut up!\nI have no idea what you're talking about!",
+   "pt": "Ah, cala a boca!\nNão tenho ideia do que você tá falando!"
+  },
+  {
+   "id": "C051_VS_C151_ARREST_S_KEYWORD",
+   "en": "Dream on!\nWe'll never get beaten by goofballs like you!",
+   "pt": "Continue sonhando!\nNós nunca seremos derrotados por uns patetas como vocês!"
+  },
+  {
+   "id": "C051_VS_C151_ARREST_P_KEYWORD",
+   "en": "I can't stop laughing at you!\nHow pathetic! ",
+   "pt": "Eu não consigo parar de rir de vocês!\nQue patético!"
+  },
+  {
+   "id": "C051_VS_C151_ARREST_G_KEYWORD",
+   "en": "If you think you have the strength to stop us, you're dumber than you look!",
+   "pt": "Se acham que têm força para nos parar, são mais burros do que parecem!"
+  },
+  {
+   "id": "C051_VS_S030_ARREST_S_KEYWORD",
+   "en": "Ugh... Kgghh...",
+   "pt": "Ugh... Kgghh..."
+  },
+  {
+   "id": "C051_VS_S030_ARREST_P_KEYWORD",
+   "en": "Gh... Satsuki...",
+   "pt": "Gh... Satsuki..."
+  },
+  {
+   "id": "C051_VS_S030_ARREST_G_KEYWORD",
+   "en": "Haaah!",
+   "pt": "Haaah!"
+  },
+  {
+   "id": "C051_VS_R040_ARREST_S_KEYWORD",
+   "en": "Ugh... Kgghh...",
+   "pt": "Ugh... Kgghh..."
+  },
+  {
+   "id": "C051_VS_R040_ARREST_P_KEYWORD",
+   "en": "Hmph!",
+   "pt": "Hmph!"
+  },
+  {
+   "id": "C051_VS_R040_ARREST_G_KEYWORD",
+   "en": "Haaah!",
+   "pt": "Haaah!"
+  },
+  {
+   "id": "C051_FINISHARTS_01_KEYWORD",
+   "en": "This is the finale!",
+   "pt": "Este é o gran finale!"
+  },
+  {
+   "id": "C051_FINISHARTS_02_KEYWORD",
+   "en": "Listen with your heart!",
+   "pt": "Ouça com o coração!"
+  },
+  {
+   "id": "C051_FINISHARTS_03_KEYWORD",
+   "en": "Time to bring down the curtain!",
+   "pt": "Hora de baixar as cortinas!"
+  },
+  {
+   "id": "C051_FINISHARTS_04_KEYWORD",
+   "en": "The performance is over. Now get out of here!",
+   "pt": "A performance acabou. Agora saiam daqui!"
+  },
+  {
+   "id": "C051_FINISHARTS_05_KEYWORD",
+   "en": "I'll send you a requiem!",
+   "pt": "Vou te mandar um réquiem!"
+  },
+  {
+   "id": "C051_FINISHARTS_06_KEYWORD",
+   "en": "This is my stage!",
+   "pt": "Este é o meu palco!"
+  },
+  {
+   "id": "C051_FINISHARTS_07_KEYWORD",
+   "en": "Symphony Regalia, full blast!",
+   "pt": "Symphony Regalia, força total!"
+  },
+  {
+   "id": "C051_FINISHARTS_08_KEYWORD",
+   "en": "Savor it all!",
+   "pt": "Saboreie tudo!"
+  },
+  {
+   "id": "C051_FINISHARTS_09_KEYWORD",
+   "en": "I saved the best for last!",
+   "pt": "Eu guardei o melhor para o final!"
+  },
+  {
+   "id": "C051_DEFEAT_01_KEYWORD",
+   "en": "Impossible...!",
+   "pt": "Impossível...!"
+  },
+  {
+   "id": "C051_DEFEAT_02_KEYWORD",
+   "en": "No, you're joking!",
+   "pt": "Não, tá brincando!"
+  },
+  {
+   "id": "C051_DEFEAT_03_KEYWORD",
+   "en": "Damniiiit!",
+   "pt": "Maldiçããão!"
+  },
+  {
+   "id": "C051_DEFEAT_04_KEYWORD",
+   "en": "How unsatisfying.",
+   "pt": "Que insatisfatório."
+  },
+  {
+   "id": "C051_DEFEAT_05_KEYWORD",
+   "en": "How could it end like this...!",
+   "pt": "Como isso foi terminar assim...!"
+  },
+  {
+   "id": "C051_DEFEAT_06_KEYWORD",
+   "en": "Ugh, I've had enough!",
+   "pt": "Ugh, eu já cansei!"
+  },
+  {
+   "id": "C051_VS_C011_VICTORY_01_KEYWORD",
+   "en": "Welp, new girl... looks like it's the end for you!",
+   "pt": "Bom, garota nova... parece que é o fim para você!"
+  },
+  {
+   "id": "C051_VS_C011_VICTORY_02_KEYWORD",
+   "en": "I loved the sounds of your screaming. Bravissimo!",
+   "pt": "Eu amei os sons dos seus gritos. Bravíssimo!"
+  },
+  {
+   "id": "C051_VS_C011_VICTORY_03_KEYWORD",
+   "en": "Honestly...? You weren't nearly as tough as I thought\nyou'd be.",
+   "pt": "Sinceramente...? Você não era nem de longe tão durona\nquanto eu achei que fosse."
+  },
+  {
+   "id": "C051_VS_C012_VICTORY_01_KEYWORD",
+   "en": "Welp, new girl... looks like it's the end for you!",
+   "pt": "Bom, garota nova... parece que é o fim para você!"
+  },
+  {
+   "id": "C051_VS_C012_VICTORY_02_KEYWORD",
+   "en": "I loved the sounds of your screaming. Bravissimo!",
+   "pt": "Eu amei os sons dos seus gritos. Bravíssimo!"
+  },
+  {
+   "id": "C051_VS_C012_VICTORY_03_KEYWORD",
+   "en": "Honestly...? You weren't nearly as tough as I thought\nyou'd be.",
+   "pt": "Sinceramente...? Você não era nem de longe tão durona\nquanto eu achei que fosse."
+  },
+  {
+   "id": "C051_VS_C021_VICTORY_01_KEYWORD",
+   "en": "Welp! Looks like I won this time, Satsuki.",
+   "pt": "Bom! Parece que eu venci dessa vez, Satsuki."
+  },
+  {
+   "id": "C051_VS_C021_VICTORY_02_KEYWORD",
+   "en": "How did you like my performance? Did it rock you?",
+   "pt": "Como você gostou da minha performance? Te abalou?"
+  },
+  {
+   "id": "C051_VS_C021_VICTORY_03_KEYWORD",
+   "en": "I improved a whole bunch. Don't you agreeeee?",
+   "pt": "Eu melhorei um monte. Você não concorrdaaaaa?"
+  },
+  {
+   "id": "C051_VS_C022_VICTORY_01_KEYWORD",
+   "en": "Welp! Looks like I won this time, Satsuki.",
+   "pt": "Bom! Parece que eu venci dessa vez, Satsuki."
+  },
+  {
+   "id": "C051_VS_C022_VICTORY_02_KEYWORD",
+   "en": "How did you like my performance? Did it rock you?",
+   "pt": "Como você gostou da minha performance? Te abalou?"
+  },
+  {
+   "id": "C051_VS_C022_VICTORY_03_KEYWORD",
+   "en": "I improved a whole bunch. Don't you agreeeee?",
+   "pt": "Eu melhorei um monte. Você não concorrdaaaaa?"
+  },
+  {
+   "id": "C051_VS_C031_VICTORY_01_KEYWORD",
+   "en": "It's funny you call yourself Satsuki's shield...\nwhat with that blubbery bod of yours!",
+   "pt": "É engraçado você se chamar de escudo da Satsuki...\ncom esse seu corpo rechonchudo!"
+  },
+  {
+   "id": "C051_VS_C031_VICTORY_02_KEYWORD",
+   "en": "Did you enjoy my performance, Gama? Did it rock your world?",
+   "pt": "Você curtiu minha performance, Gama? Abalou o seu mundo?"
+  },
+  {
+   "id": "C051_VS_C031_VICTORY_03_KEYWORD",
+   "en": "I'm afraid you're just not good enough to stand beside Satsuki.",
+   "pt": "Temo que você não é bom o suficiente para estar ao lado da Satsuki."
+  },
+  {
+   "id": "C051_VS_C041_VICTORY_01_KEYWORD",
+   "en": "Sit there and stay quiet, you backwoods monkey. \nIt's rude to talk during a performance.",
+   "pt": "Sente-se e fique quieto, seu macaco caipira.\nÉ falta de educação falar durante uma performance."
+  },
+  {
+   "id": "C051_VS_C041_VICTORY_02_KEYWORD",
+   "en": "After all that, I hope you understand the value of my performance.",
+   "pt": "Depois de tudo isso, espero que entenda o valor da minha performance."
+  },
+  {
+   "id": "C051_VS_C041_VICTORY_03_KEYWORD",
+   "en": "Too bad! That's what you get for dissing my performance!",
+   "pt": "Pena! Isso que dá por desrespeitar a minha performance!"
+  },
+  {
+   "id": "C051_VS_C051_VICTORY_01_KEYWORD",
+   "en": "You might look like me, but you'll never come close to topping me!",
+   "pt": "Você pode parecer comigo, mas nunca vai chegar perto de me superar!"
+  },
+  {
+   "id": "C051_VS_C051_VICTORY_02_KEYWORD",
+   "en": "You're nothing compared to the real deal. In the end, you're just a fake. ",
+   "pt": "Você não é nada comparada à verdadeira. No final, você é só uma falsificação."
+  },
+  {
+   "id": "C051_VS_C051_VICTORY_03_KEYWORD",
+   "en": "An impostor who can only read the notes can never beat me.",
+   "pt": "Uma impostora que só consegue ler as notas nunca poderá me vencer."
+  },
+  {
+   "id": "C051_VS_C061_VICTORY_01_KEYWORD",
+   "en": "That'll teach you, Inu. The greatness of my art can't be measured.",
+   "pt": "Isso vai te ensinar, Inu. A grandeza da minha arte não pode ser medida."
+  },
+  {
+   "id": "C051_VS_C061_VICTORY_02_KEYWORD",
+   "en": "Seems like my music was a little too intense for you, uber-nerd.",
+   "pt": "Parece que minha música foi um pouco intensa demais para você, supernerd."
+  },
+  {
+   "id": "C051_VS_C061_VICTORY_03_KEYWORD",
+   "en": "I guess in the end, that big ol' techie brain of yours couldn't appreciate my performance.",
+   "pt": "Acho que no final, esse seu grande cérebro de nerd da tecnologia não soube apreciar minha performance."
+  },
+  {
+   "id": "C051_VS_C071_VICTORY_01_KEYWORD",
+   "en": "I win this battle, Auntie Ragyo.",
+   "pt": "Eu venci esta batalha, Titia Ragyo."
+  },
+  {
+   "id": "C051_VS_C071_VICTORY_02_KEYWORD",
+   "en": "I guess I got so strong, no one can beat me. Not even you, Auntie Ragyo.",
+   "pt": "Acho que fiquei tão forte que ninguém pode me vencer. Nem mesmo você, Titia Ragyo."
+  },
+  {
+   "id": "C051_VS_C071_VICTORY_03_KEYWORD",
+   "en": "How was I? I've improved a lot since you last saw me, don't you think?",
+   "pt": "Como me saí? Melhorei muito desde a última vez que me viu, não acha?"
+  },
+  {
+   "id": "C051_VS_C081_VICTORY_01_KEYWORD",
+   "en": "Nice try. But that's what happens when you get in our way.",
+   "pt": "Bela tentativa. Mas é isso o que acontece quando você entra no nosso caminho."
+  },
+  {
+   "id": "C051_VS_C081_VICTORY_02_KEYWORD",
+   "en": "Lady Satsuki's such a worry wart. There was no need to freak out about this kid.",
+   "pt": "A Senhorita Satsuki se preocupa demais. Não precisava surtar por causa dessa criança."
+  },
+  {
+   "id": "C051_VS_C081_VICTORY_03_KEYWORD",
+   "en": "Thought you could get close to Satsuki without dealing with me first?\nNot in a trillion years.",
+   "pt": "Achou que poderia se aproximar da Satsuki sem lidar comigo primeiro?\nNem num trilhão de anos."
+  },
+  {
+   "id": "C051_VS_C141_VICTORY_01_KEYWORD",
+   "en": "That's what happens when failures like you get too proud.",
+   "pt": "É isso o que acontece quando fracassos como você ficam muito orgulhosos."
+  },
+  {
+   "id": "C051_VS_C141_VICTORY_02_KEYWORD",
+   "en": "I mean... a loser like you could never stand a chance against me! Obviously!",
+   "pt": "Quer dizer... uma perdedora como você nunca teria chance contra mim! Óbvio!"
+  },
+  {
+   "id": "C051_VS_C141_VICTORY_03_KEYWORD",
+   "en": "A doofus like you is no match for me! Next time, try a little harder!",
+   "pt": "Uma pateta como você não é páreo para mim! Da próxima vez, tente um pouquinho mais!"
+  },
+  {
+   "id": "C051_VS_C151_VICTORY_01_KEYWORD",
+   "en": "Would you guys put some clothes on already.",
+   "pt": "Vocês já podiam colocar umas roupas."
+  },
+  {
+   "id": "C051_VS_C151_VICTORY_02_KEYWORD",
+   "en": " Go away! I don't want to listen to a couple of naked jerks sing.",
+   "pt": "Vão embora! Não quero escutar dois idiotas pelados cantarem."
+  },
+  {
+   "id": "C051_VS_C151_VICTORY_03_KEYWORD",
+   "en": "I doubt you'd even beat a Two-Star in that. Come back when you're\nready to fight.",
+   "pt": "Duvido que vocês venceriam até um Duas Estrelas com isso. Voltem quando estiverem\nprontos para lutar."
+  },
+  {
+   "id": "C051_KACHINUKI_START_01_KEYWORD",
+   "en": "It doesn't matter who my opponent is.\nThis battle is gonna be handled gracefully and one-sidedly!",
+   "pt": "Não importa quem seja o meu oponente.\nEsta batalha será lidada graciosamente e de um lado só!"
+  },
+  {
+   "id": "C051_KACHINUKI_START_02_KEYWORD",
+   "en": "I don't know where you came from, but FYI... it won't be easy to beat me.",
+   "pt": "Não sei de onde você veio, mas para sua informação... não será fácil me derrotar."
+  },
+  {
+   "id": "C051_KACHINUKI_START_03_KEYWORD",
+   "en": "No matter who you are, I won't hold back! So c'mon! Let's fight!!",
+   "pt": "Não importa quem você seja, não vou me segurar! Então venha! Vamos lutar!!"
+  },
+  {
+   "id": "C051_KACHINUKI_FINISH_EXCELLENT_01_KEYWORD",
+   "en": "Welp... That was easy.",
+   "pt": "Bom... Isso foi fácil."
+  },
+  {
+   "id": "C051_KACHINUKI_FINISH_EXCELLENT_02_KEYWORD",
+   "en": "Uh-huh. Yup. I expected as much.",
+   "pt": "Aham. Sim. Eu já esperava isso."
+  },
+  {
+   "id": "C051_KACHINUKI_FINISH_GREAT_01_KEYWORD",
+   "en": "The result is obvious!",
+   "pt": "O resultado é óbvio!"
+  },
+  {
+   "id": "C051_KACHINUKI_FINISH_GREAT_02_KEYWORD",
+   "en": "That wasn't half bad.",
+   "pt": "Isso não foi nada mal."
+  },
+  {
+   "id": "C051_KACHINUKI_FINISH_GOOD_01_KEYWORD",
+   "en": "That was alright.",
+   "pt": "Isso foi de boa."
+  },
+  {
+   "id": "C051_KACHINUKI_FINISH_GOOD_02_KEYWORD",
+   "en": "It was disappointing, but... I'll give you a pass.",
+   "pt": "Foi decepcionante, mas... vou te dar um desconto."
+  },
+  {
+   "id": "C051_KACHINUKI_FINISH_PASS_01_KEYWORD",
+   "en": "Not yet. Next time I'll do even better!",
+   "pt": "Ainda não. Na próxima eu vou mandar ainda melhor!"
+  },
+  {
+   "id": "C051_KACHINUKI_FINISH_PASS_02_KEYWORD",
+   "en": "That'll do for today.",
+   "pt": "Isso vai bastar por hoje."
+  },
+  {
+   "id": "C051_KACHINUKI_FINISH_BAD_01_KEYWORD",
+   "en": "Grrr! I won't forget this!",
+   "pt": "Grrr! Não vou me esquecer disso!"
+  },
+  {
+   "id": "C051_KACHINUKI_FINISH_BAD_02_KEYWORD",
+   "en": "Next time, you won't get away with this!",
+   "pt": "Da próxima vez, você não vai se safar dessa!"
+  },
+  {
+   "id": "C051_COVERS_START_01_KEYWORD",
+   "en": "Bring it on you scraps. I'll take you on all at once!",
+   "pt": "Podem vir seus lixos. Eu encaro todos vocês de uma vez!"
+  },
+  {
+   "id": "C051_COVERS_START_02_KEYWORD",
+   "en": "I don't need any help with you! I'll mop the floor with you all!",
+   "pt": "Não preciso de ajuda com vocês! Vou esfregar o chão com todos vocês!"
+  },
+  {
+   "id": "C051_COVERS_START_03_KEYWORD",
+   "en": "It doesn't matter if you guys gang up! I'll just toss you in the trash!",
+   "pt": "Não importa se vocês se juntarem! Só vou jogar vocês no lixo!"
+  },
+  {
+   "id": "C051_COVERS_FINISH_EXCELLENT_01_KEYWORD",
+   "en": "Hahaha! This is no big deal for me!",
+   "pt": "Hahaha! Isso não é grande coisa para mim!"
+  },
+  {
+   "id": "C051_COVERS_FINISH_EXCELLENT_02_KEYWORD",
+   "en": "Have I purged all the crappy leisure suits yet?",
+   "pt": "Já purifiquei todos os Casulos de merda?"
+  },
+  {
+   "id": "C051_COVERS_FINISH_GREAT_01_KEYWORD",
+   "en": "None of you fast-fashion cheapos can handle me!",
+   "pt": "Nenhum de vocês, Casulos baratos, consegue lidar comigo!"
+  },
+  {
+   "id": "C051_COVERS_FINISH_GREAT_02_KEYWORD",
+   "en": "I took care of things. So be grateful, dammit.",
+   "pt": "Eu cuidei das coisas. Então agradeçam, porra."
+  },
+  {
+   "id": "C051_COVERS_FINISH_GREAT_03_KEYWORD",
+   "en": "You dummies. That's what you get for ganging up on me!",
+   "pt": "Seus imbecis. Isso que dá por se juntarem contra mim!"
+  },
+  {
+   "id": "C051_COVERS_FINISH_GOOD_01_KEYWORD",
+   "en": "Well, that should do the trick.",
+   "pt": "Bem, isso deve resolver o problema."
+  },
+  {
+   "id": "C051_COVERS_FINISH_GOOD_02_KEYWORD",
+   "en": "Yeah, that wasn't bad.",
+   "pt": "É, não foi ruim."
+  },
+  {
+   "id": "C051_COVERS_FINISH_GOOD_03_KEYWORD",
+   "en": "That was okay. But next time, you won't get away with it!",
+   "pt": "Isso foi okay. Mas na próxima, vocês não vão escapar!"
+  },
+  {
+   "id": "C051_COVERS_FINISH_PASS_01_KEYWORD",
+   "en": "Hmph! I just wasn't feeling it today!",
+   "pt": "Hmph! Eu só não tava no clima hoje!"
+  },
+  {
+   "id": "C051_COVERS_FINISH_PASS_02_KEYWORD",
+   "en": "Tch, I can't believe I'm having trouble with these things.",
+   "pt": "Tsc, não acredito que tô tendo problemas com essas coisas."
+  },
+  {
+   "id": "C051_COVERS_FINISH_PASS_03_KEYWORD",
+   "en": "Dang it. The notes didn't come out right that time.",
+   "pt": "Que droga. As notas não saíram direito dessa vez."
+  },
+  {
+   "id": "C051_COVERS_FINISH_BAD_01_KEYWORD",
+   "en": "Dammit! You jerkwads...",
+   "pt": "Maldição! Seus idiotas..."
+  },
+  {
+   "id": "C051_COVERS_FINISH_BAD_02_KEYWORD",
+   "en": "Kgh, what am I gonna say to Satsuki now...?",
+   "pt": "Kgh, o que eu vou dizer para a Senhorita Satsuki agora...?"
+  },
+  {
+   "id": "C051_COVERS_FINISH_BAD_03_KEYWORD",
+   "en": "Tch, you rotten scraps! You better watch your backs!",
+   "pt": "Tsc, seus lixos podres! É melhor ficarem espertos!"
+  }
+ ]
+}

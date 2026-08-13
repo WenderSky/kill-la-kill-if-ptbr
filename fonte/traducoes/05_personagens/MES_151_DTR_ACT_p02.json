@@ -1,0 +1,1008 @@
+{
+ "origem": "KlkResources/S701_MES/MES_151_DTR_ACT",
+ "conteudo": "Falas em batalha - DTR",
+ "parte": "2/4",
+ "instrucoes": "Traduza o campo 'en' para portugues do Brasil e escreva o resultado em 'pt'. Nao altere 'id'. Mantenha intactos os codigos entre chaves ({CA}, {LA}, {BR}, {JU}, {SP}, {GD}, {LS}, {L1}, {R1}, setas), os marcadores de formato (%d, %l, %ls, %hs) e as quebras de linha \\n. Se uma linha nao precisar de traducao, deixe 'pt' vazio.",
+ "linhas": [
+  {
+   "id": "C151_VS_C021_DECISION2_P_LOWER_KEYWORD",
+   "en": "We'll strip you completely!",
+   "pt": "Vamos despir você completamente!"
+  },
+  {
+   "id": "C151_VS_C021_DECISION2_G_UPPER_KEYWORD",
+   "en": "I'm stripping you down. All the way down!",
+   "pt": "Vou te despir. Até não sobrar nada!"
+  },
+  {
+   "id": "C151_VS_C021_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "Your chances of winning are less than zero.\nThis match... is over.",
+   "pt": "Suas chances de vencer são menores que zero.\nEsta luta... acabou."
+  },
+  {
+   "id": "C151_VS_C021_DECISION2_G_LOWER_KEYWORD",
+   "en": "No mercy for clothes! That's a nudist's battle cry!",
+   "pt": "Sem piedade para as roupas! Esse é o grito de guerra nudista!"
+  },
+  {
+   "id": "C151_VS_C022_DECISION0_S_UPPER_KEYWORD",
+   "en": "Sorry, but today's not your lucky day!",
+   "pt": "Foi mal, mas hoje não é o seu dia de sorte!"
+  },
+  {
+   "id": "C151_VS_C022_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "I told you before, stay out of my way!",
+   "pt": "Eu já te disse, saia do meu caminho!"
+  },
+  {
+   "id": "C151_VS_C022_DECISION0_S_LOWER_KEYWORD",
+   "en": "I'll strip all who stand in my way!",
+   "pt": "Vou despir todos que entrarem no meu caminho!"
+  },
+  {
+   "id": "C151_VS_C022_DECISION0_P_UPPER_KEYWORD",
+   "en": "Didn't I tell you to stay out of my way before?",
+   "pt": "Eu não te falei para sair do meu caminho antes?"
+  },
+  {
+   "id": "C151_VS_C022_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "I don't care who you are, if you get in my way... you'll get no mercy.",
+   "pt": "Não me importa quem você seja, se entrar no meu caminho... não terei piedade."
+  },
+  {
+   "id": "C151_VS_C022_DECISION0_P_LOWER_KEYWORD",
+   "en": "WE! Are the last hope for humanity!",
+   "pt": "NÓS! Somos a última esperança da humanidade!"
+  },
+  {
+   "id": "C151_VS_C022_DECISION0_G_UPPER_KEYWORD",
+   "en": "We are the buck-naked protectors of humanity!",
+   "pt": "Nós somos os protetores completamente nus da humanidade!"
+  },
+  {
+   "id": "C151_VS_C022_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "We strip ourselves and others for the sake of humankind.\nWe are... Nudist Beach!",
+   "pt": "Nós nos despimos e despimos os outros pelo bem da humanidade.\nNós somos a... Nudist Beach!"
+  },
+  {
+   "id": "C151_VS_C022_DECISION0_G_LOWER_KEYWORD",
+   "en": "We'll stop you cold with our Ultimate Double Naked DTR!",
+   "pt": "Vamos acabar com você com nosso DTR Duplo Nu Supremo!"
+  },
+  {
+   "id": "C151_VS_C022_DECISION1_S_UPPER_KEYWORD",
+   "en": "There are two things you need to know...",
+   "pt": "Tem duas coisas que você precisa saber..."
+  },
+  {
+   "id": "C151_VS_C022_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "One! If you get in our way, you're our enemy.\nTwo! Our enemies get no mercy!",
+   "pt": "Primeira! Se entrar no nosso caminho, você é nosso inimigo.\nSegunda! Não temos piedade com nossos inimigos!"
+  },
+  {
+   "id": "C151_VS_C022_DECISION1_S_LOWER_KEYWORD",
+   "en": "You're going down HARD!",
+   "pt": "Você vai cair FEIO!"
+  },
+  {
+   "id": "C151_VS_C022_DECISION1_P_UPPER_KEYWORD",
+   "en": "I'll strut my stuff on the runway of battle!",
+   "pt": "Vou desfilar na passarela da batalha!"
+  },
+  {
+   "id": "C151_VS_C022_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "It don't matter how much power you get from the Life Fibers.\nYou're still gonna get purged!",
+   "pt": "Não importa quanto poder você ganhe das Fibras de Vida.\nVocê ainda vai ser expurgado!"
+  },
+  {
+   "id": "C151_VS_C022_DECISION1_P_LOWER_KEYWORD",
+   "en": "Time to settle this once and for all!",
+   "pt": "Hora de resolver isso de uma vez por todas!"
+  },
+  {
+   "id": "C151_VS_C022_DECISION1_G_UPPER_KEYWORD",
+   "en": "Bare naked humans are beautiful!",
+   "pt": "Humanos completamente nus são lindos!"
+  },
+  {
+   "id": "C151_VS_C022_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "We're gonna liberate the human race from the scourge of the Life Fibers!",
+   "pt": "Nós vamos libertar a raça humana do flagelo das Fibras de Vida!"
+  },
+  {
+   "id": "C151_VS_C022_DECISION1_G_LOWER_KEYWORD",
+   "en": "You can try, but you won't defeat us!",
+   "pt": "Pode tentar, mas não vai nos derrotar!"
+  },
+  {
+   "id": "C151_VS_C022_DECISION2_S_UPPER_KEYWORD",
+   "en": "Are my eyes playing tricks on me, or are you getting slower?",
+   "pt": "Meus olhos estão me enganando ou você está ficando mais lento?"
+  },
+  {
+   "id": "C151_VS_C022_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "Pathetic. You got all those powers and here you are...\ntrapped like a rat.",
+   "pt": "Patético. Você conseguiu todos esses poderes e aqui está...\npreso como um rato."
+  },
+  {
+   "id": "C151_VS_C022_DECISION2_S_LOWER_KEYWORD",
+   "en": "We warned you! If we see you again, you'll be sorry!",
+   "pt": "Nós avisamos! Se te virmos de novo, você vai se arrepender!"
+  },
+  {
+   "id": "C151_VS_C022_DECISION2_P_UPPER_KEYWORD",
+   "en": "I know what you're problem is. My beauty's too distracting.",
+   "pt": "Eu sei qual é o seu problema. Minha beleza distrai demais."
+  },
+  {
+   "id": "C151_VS_C022_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "We got the spirit of the nudist in us! That's why you'll never win!",
+   "pt": "Temos o espírito nudista em nós! É por isso que você nunca vai vencer!"
+  },
+  {
+   "id": "C151_VS_C022_DECISION2_P_LOWER_KEYWORD",
+   "en": "We'll strip you completely!",
+   "pt": "Vamos despir você completamente!"
+  },
+  {
+   "id": "C151_VS_C022_DECISION2_G_UPPER_KEYWORD",
+   "en": "I'm stripping you down. All the way down!",
+   "pt": "Vou te despir. Até não sobrar nada!"
+  },
+  {
+   "id": "C151_VS_C022_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "Your chances of winning are less than zero.\nThis match... is over.",
+   "pt": "Suas chances de vencer são menores que zero.\nEsta luta... acabou."
+  },
+  {
+   "id": "C151_VS_C022_DECISION2_G_LOWER_KEYWORD",
+   "en": "No mercy for clothes! That's a nudist's battle cry!",
+   "pt": "Sem piedade para as roupas! Esse é o grito de guerra nudista!"
+  },
+  {
+   "id": "C151_VS_C031_DECISION0_S_UPPER_KEYWORD",
+   "en": "Sorry, but today's not your lucky day!",
+   "pt": "Foi mal, mas hoje não é o seu dia de sorte!"
+  },
+  {
+   "id": "C151_VS_C031_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "I told you before, stay out of my way!",
+   "pt": "Eu já te disse, saia do meu caminho!"
+  },
+  {
+   "id": "C151_VS_C031_DECISION0_S_LOWER_KEYWORD",
+   "en": "I'll strip all who stand in my way!",
+   "pt": "Vou despir todos que entrarem no meu caminho!"
+  },
+  {
+   "id": "C151_VS_C031_DECISION0_P_UPPER_KEYWORD",
+   "en": "Didn't I tell you to stay out of my way before?",
+   "pt": "Eu não te falei para sair do meu caminho antes?"
+  },
+  {
+   "id": "C151_VS_C031_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "I don't care who you are, if you get in my way... you'll get no mercy.",
+   "pt": "Não me importa quem você seja, se entrar no meu caminho... não terei piedade."
+  },
+  {
+   "id": "C151_VS_C031_DECISION0_P_LOWER_KEYWORD",
+   "en": "WE! Are the last hope for humanity!",
+   "pt": "NÓS! Somos a última esperança da humanidade!"
+  },
+  {
+   "id": "C151_VS_C031_DECISION0_G_UPPER_KEYWORD",
+   "en": "We are the buck-naked protectors of humanity!",
+   "pt": "Nós somos os protetores completamente nus da humanidade!"
+  },
+  {
+   "id": "C151_VS_C031_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "We strip ourselves and others for the sake of humankind.\nWe are... Nudist Beach!",
+   "pt": "Nós nos despimos e despimos os outros pelo bem da humanidade.\nNós somos a... Nudist Beach!"
+  },
+  {
+   "id": "C151_VS_C031_DECISION0_G_LOWER_KEYWORD",
+   "en": "We'll stop you cold with our Ultimate Double Naked DTR!",
+   "pt": "Vamos acabar com você com nosso DTR Duplo Nu Supremo!"
+  },
+  {
+   "id": "C151_VS_C031_DECISION1_S_UPPER_KEYWORD",
+   "en": "There are two things you need to know...",
+   "pt": "Tem duas coisas que você precisa saber..."
+  },
+  {
+   "id": "C151_VS_C031_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "One! If you get in our way, you're our enemy.\nTwo! Our enemies get no mercy!",
+   "pt": "Primeira! Se entrar no nosso caminho, você é nosso inimigo.\nSegunda! Não temos piedade com nossos inimigos!"
+  },
+  {
+   "id": "C151_VS_C031_DECISION1_S_LOWER_KEYWORD",
+   "en": "You're going down HARD!",
+   "pt": "Você vai cair FEIO!"
+  },
+  {
+   "id": "C151_VS_C031_DECISION1_P_UPPER_KEYWORD",
+   "en": "I'll strut my stuff on the runway of battle!",
+   "pt": "Vou desfilar na passarela da batalha!"
+  },
+  {
+   "id": "C151_VS_C031_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "It don't matter how much power you get from the Life Fibers.\nYou're still gonna get purged!",
+   "pt": "Não importa quanto poder você ganhe das Fibras de Vida.\nVocê ainda vai ser expurgado!"
+  },
+  {
+   "id": "C151_VS_C031_DECISION1_P_LOWER_KEYWORD",
+   "en": "Time to settle this once and for all!",
+   "pt": "Hora de resolver isso de uma vez por todas!"
+  },
+  {
+   "id": "C151_VS_C031_DECISION1_G_UPPER_KEYWORD",
+   "en": "Bare naked humans are beautiful!",
+   "pt": "Humanos completamente nus são lindos!"
+  },
+  {
+   "id": "C151_VS_C031_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "We're gonna liberate the human race from the scourge of the Life Fibers!",
+   "pt": "Nós vamos libertar a raça humana do flagelo das Fibras de Vida!"
+  },
+  {
+   "id": "C151_VS_C031_DECISION1_G_LOWER_KEYWORD",
+   "en": "You can try, but you won't defeat us!",
+   "pt": "Pode tentar, mas não vai nos derrotar!"
+  },
+  {
+   "id": "C151_VS_C031_DECISION2_S_UPPER_KEYWORD",
+   "en": "Are my eyes playing tricks on me, or are you getting slower?",
+   "pt": "Meus olhos estão me enganando ou você está ficando mais lento?"
+  },
+  {
+   "id": "C151_VS_C031_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "Pathetic. You got all those powers and here you are...\ntrapped like a rat.",
+   "pt": "Patético. Você conseguiu todos esses poderes e aqui está...\npreso como um rato."
+  },
+  {
+   "id": "C151_VS_C031_DECISION2_S_LOWER_KEYWORD",
+   "en": "We warned you! If we see you again, you'll be sorry!",
+   "pt": "Nós avisamos! Se te virmos de novo, você vai se arrepender!"
+  },
+  {
+   "id": "C151_VS_C031_DECISION2_P_UPPER_KEYWORD",
+   "en": "I know what you're problem is. My beauty's too distracting.",
+   "pt": "Eu sei qual é o seu problema. Minha beleza distrai demais."
+  },
+  {
+   "id": "C151_VS_C031_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "We got the spirit of the nudist in us! That's why you'll never win!",
+   "pt": "Temos o espírito nudista em nós! É por isso que você nunca vai vencer!"
+  },
+  {
+   "id": "C151_VS_C031_DECISION2_P_LOWER_KEYWORD",
+   "en": "We'll strip you completely!",
+   "pt": "Vamos despir você completamente!"
+  },
+  {
+   "id": "C151_VS_C031_DECISION2_G_UPPER_KEYWORD",
+   "en": "I'm stripping you down. All the way down!",
+   "pt": "Vou te despir. Até não sobrar nada!"
+  },
+  {
+   "id": "C151_VS_C031_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "Your chances of winning are less than zero.\nThis match... is over.",
+   "pt": "Suas chances de vencer são menores que zero.\nEsta luta... acabou."
+  },
+  {
+   "id": "C151_VS_C031_DECISION2_G_LOWER_KEYWORD",
+   "en": "No mercy for clothes! That's a nudist's battle cry!",
+   "pt": "Sem piedade para as roupas! Esse é o grito de guerra nudista!"
+  },
+  {
+   "id": "C151_VS_C041_DECISION0_S_UPPER_KEYWORD",
+   "en": "Sorry, but today's not your lucky day!",
+   "pt": "Foi mal, mas hoje não é o seu dia de sorte!"
+  },
+  {
+   "id": "C151_VS_C041_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "I told you before, stay out of my way!",
+   "pt": "Eu já te disse, saia do meu caminho!"
+  },
+  {
+   "id": "C151_VS_C041_DECISION0_S_LOWER_KEYWORD",
+   "en": "I'll strip all who stand in my way!",
+   "pt": "Vou despir todos que entrarem no meu caminho!"
+  },
+  {
+   "id": "C151_VS_C041_DECISION0_P_UPPER_KEYWORD",
+   "en": "Didn't I tell you to stay out of my way before?",
+   "pt": "Eu não te falei para sair do meu caminho antes?"
+  },
+  {
+   "id": "C151_VS_C041_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "I don't care who you are, if you get in my way... you'll get no mercy.",
+   "pt": "Não me importa quem você seja, se entrar no meu caminho... não terei piedade."
+  },
+  {
+   "id": "C151_VS_C041_DECISION0_P_LOWER_KEYWORD",
+   "en": "WE! Are the last hope for humanity!",
+   "pt": "NÓS! Somos a última esperança da humanidade!"
+  },
+  {
+   "id": "C151_VS_C041_DECISION0_G_UPPER_KEYWORD",
+   "en": "We are the buck-naked protectors of humanity!",
+   "pt": "Nós somos os protetores completamente nus da humanidade!"
+  },
+  {
+   "id": "C151_VS_C041_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "We strip ourselves and others for the sake of humankind.\nWe are... Nudist Beach!",
+   "pt": "Nós nos despimos e despimos os outros pelo bem da humanidade.\nNós somos a... Nudist Beach!"
+  },
+  {
+   "id": "C151_VS_C041_DECISION0_G_LOWER_KEYWORD",
+   "en": "We'll stop you cold with our Ultimate Double Naked DTR!",
+   "pt": "Vamos acabar com você com nosso DTR Duplo Nu Supremo!"
+  },
+  {
+   "id": "C151_VS_C041_DECISION1_S_UPPER_KEYWORD",
+   "en": "There are two things you need to know...",
+   "pt": "Tem duas coisas que você precisa saber..."
+  },
+  {
+   "id": "C151_VS_C041_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "One! If you get in our way, you're our enemy.\nTwo! Our enemies get no mercy!",
+   "pt": "Primeira! Se entrar no nosso caminho, você é nosso inimigo.\nSegunda! Não temos piedade com nossos inimigos!"
+  },
+  {
+   "id": "C151_VS_C041_DECISION1_S_LOWER_KEYWORD",
+   "en": "You're going down HARD!",
+   "pt": "Você vai cair FEIO!"
+  },
+  {
+   "id": "C151_VS_C041_DECISION1_P_UPPER_KEYWORD",
+   "en": "I'll strut my stuff on the runway of battle!",
+   "pt": "Vou desfilar na passarela da batalha!"
+  },
+  {
+   "id": "C151_VS_C041_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "It don't matter how much power you get from the Life Fibers.\nYou're still gonna get purged!",
+   "pt": "Não importa quanto poder você ganhe das Fibras de Vida.\nVocê ainda vai ser expurgado!"
+  },
+  {
+   "id": "C151_VS_C041_DECISION1_P_LOWER_KEYWORD",
+   "en": "Time to settle this once and for all!",
+   "pt": "Hora de resolver isso de uma vez por todas!"
+  },
+  {
+   "id": "C151_VS_C041_DECISION1_G_UPPER_KEYWORD",
+   "en": "Bare naked humans are beautiful!",
+   "pt": "Humanos completamente nus são lindos!"
+  },
+  {
+   "id": "C151_VS_C041_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "We're gonna liberate the human race from the scourge of the Life Fibers!",
+   "pt": "Nós vamos libertar a raça humana do flagelo das Fibras de Vida!"
+  },
+  {
+   "id": "C151_VS_C041_DECISION1_G_LOWER_KEYWORD",
+   "en": "You can try, but you won't defeat us!",
+   "pt": "Pode tentar, mas não vai nos derrotar!"
+  },
+  {
+   "id": "C151_VS_C041_DECISION2_S_UPPER_KEYWORD",
+   "en": "Are my eyes playing tricks on me, or are you getting slower?",
+   "pt": "Meus olhos estão me enganando ou você está ficando mais lento?"
+  },
+  {
+   "id": "C151_VS_C041_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "Pathetic. You got all those powers and here you are...\ntrapped like a rat.",
+   "pt": "Patético. Você conseguiu todos esses poderes e aqui está...\npreso como um rato."
+  },
+  {
+   "id": "C151_VS_C041_DECISION2_S_LOWER_KEYWORD",
+   "en": "We warned you! If we see you again, you'll be sorry!",
+   "pt": "Nós avisamos! Se te virmos de novo, você vai se arrepender!"
+  },
+  {
+   "id": "C151_VS_C041_DECISION2_P_UPPER_KEYWORD",
+   "en": "I know what you're problem is. My beauty's too distracting.",
+   "pt": "Eu sei qual é o seu problema. Minha beleza distrai demais."
+  },
+  {
+   "id": "C151_VS_C041_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "We got the spirit of the nudist in us! That's why you'll never win!",
+   "pt": "Temos o espírito nudista em nós! É por isso que você nunca vai vencer!"
+  },
+  {
+   "id": "C151_VS_C041_DECISION2_P_LOWER_KEYWORD",
+   "en": "We'll strip you completely!",
+   "pt": "Vamos despir você completamente!"
+  },
+  {
+   "id": "C151_VS_C041_DECISION2_G_UPPER_KEYWORD",
+   "en": "I'm stripping you down. All the way down!",
+   "pt": "Vou te despir. Até não sobrar nada!"
+  },
+  {
+   "id": "C151_VS_C041_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "Your chances of winning are less than zero.\nThis match... is over.",
+   "pt": "Suas chances de vencer são menores que zero.\nEsta luta... acabou."
+  },
+  {
+   "id": "C151_VS_C041_DECISION2_G_LOWER_KEYWORD",
+   "en": "No mercy for clothes! That's a nudist's battle cry!",
+   "pt": "Sem piedade para as roupas! Esse é o grito de guerra nudista!"
+  },
+  {
+   "id": "C151_VS_C051_DECISION0_S_UPPER_KEYWORD",
+   "en": "Sorry, but today's not your lucky day!",
+   "pt": "Foi mal, mas hoje não é o seu dia de sorte!"
+  },
+  {
+   "id": "C151_VS_C051_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "I told you before, stay out of my way!",
+   "pt": "Eu já te disse, saia do meu caminho!"
+  },
+  {
+   "id": "C151_VS_C051_DECISION0_S_LOWER_KEYWORD",
+   "en": "I'll strip all who stand in my way!",
+   "pt": "Vou despir todos que entrarem no meu caminho!"
+  },
+  {
+   "id": "C151_VS_C051_DECISION0_P_UPPER_KEYWORD",
+   "en": "Didn't I tell you to stay out of my way before?",
+   "pt": "Eu não te falei para sair do meu caminho antes?"
+  },
+  {
+   "id": "C151_VS_C051_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "I don't care who you are, if you get in my way... you'll get no mercy.",
+   "pt": "Não me importa quem você seja, se entrar no meu caminho... não terei piedade."
+  },
+  {
+   "id": "C151_VS_C051_DECISION0_P_LOWER_KEYWORD",
+   "en": "WE! Are the last hope for humanity!",
+   "pt": "NÓS! Somos a última esperança da humanidade!"
+  },
+  {
+   "id": "C151_VS_C051_DECISION0_G_UPPER_KEYWORD",
+   "en": "We are the buck-naked protectors of humanity!",
+   "pt": "Nós somos os protetores completamente nus da humanidade!"
+  },
+  {
+   "id": "C151_VS_C051_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "We strip ourselves and others for the sake of humankind.\nWe are... Nudist Beach!",
+   "pt": "Nós nos despimos e despimos os outros pelo bem da humanidade.\nNós somos a... Nudist Beach!"
+  },
+  {
+   "id": "C151_VS_C051_DECISION0_G_LOWER_KEYWORD",
+   "en": "We'll stop you cold with our Ultimate Double Naked DTR!",
+   "pt": "Vamos acabar com você com nosso DTR Duplo Nu Supremo!"
+  },
+  {
+   "id": "C151_VS_C051_DECISION1_S_UPPER_KEYWORD",
+   "en": "There are two things you need to know...",
+   "pt": "Tem duas coisas que você precisa saber..."
+  },
+  {
+   "id": "C151_VS_C051_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "One! If you get in our way, you're our enemy.\nTwo! Our enemies get no mercy!",
+   "pt": "Primeira! Se entrar no nosso caminho, você é nosso inimigo.\nSegunda! Não temos piedade com nossos inimigos!"
+  },
+  {
+   "id": "C151_VS_C051_DECISION1_S_LOWER_KEYWORD",
+   "en": "You're going down HARD!",
+   "pt": "Você vai cair FEIO!"
+  },
+  {
+   "id": "C151_VS_C051_DECISION1_P_UPPER_KEYWORD",
+   "en": "I'll strut my stuff on the runway of battle!",
+   "pt": "Vou desfilar na passarela da batalha!"
+  },
+  {
+   "id": "C151_VS_C051_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "It don't matter how much power you get from the Life Fibers.\nYou're still gonna get purged!",
+   "pt": "Não importa quanto poder você ganhe das Fibras de Vida.\nVocê ainda vai ser expurgado!"
+  },
+  {
+   "id": "C151_VS_C051_DECISION1_P_LOWER_KEYWORD",
+   "en": "Time to settle this once and for all!",
+   "pt": "Hora de resolver isso de uma vez por todas!"
+  },
+  {
+   "id": "C151_VS_C051_DECISION1_G_UPPER_KEYWORD",
+   "en": "Bare naked humans are beautiful!",
+   "pt": "Humanos completamente nus são lindos!"
+  },
+  {
+   "id": "C151_VS_C051_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "We're gonna liberate the human race from the scourge of the Life Fibers!",
+   "pt": "Nós vamos libertar a raça humana do flagelo das Fibras de Vida!"
+  },
+  {
+   "id": "C151_VS_C051_DECISION1_G_LOWER_KEYWORD",
+   "en": "You can try, but you won't defeat us!",
+   "pt": "Pode tentar, mas não vai nos derrotar!"
+  },
+  {
+   "id": "C151_VS_C051_DECISION2_S_UPPER_KEYWORD",
+   "en": "Are my eyes playing tricks on me, or are you getting slower?",
+   "pt": "Meus olhos estão me enganando ou você está ficando mais lento?"
+  },
+  {
+   "id": "C151_VS_C051_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "Pathetic. You got all those powers and here you are...\ntrapped like a rat.",
+   "pt": "Patético. Você conseguiu todos esses poderes e aqui está...\npreso como um rato."
+  },
+  {
+   "id": "C151_VS_C051_DECISION2_S_LOWER_KEYWORD",
+   "en": "We warned you! If we see you again, you'll be sorry!",
+   "pt": "Nós avisamos! Se te virmos de novo, você vai se arrepender!"
+  },
+  {
+   "id": "C151_VS_C051_DECISION2_P_UPPER_KEYWORD",
+   "en": "I know what you're problem is. My beauty's too distracting.",
+   "pt": "Eu sei qual é o seu problema. Minha beleza distrai demais."
+  },
+  {
+   "id": "C151_VS_C051_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "We got the spirit of the nudist in us! That's why you'll never win!",
+   "pt": "Temos o espírito nudista em nós! É por isso que você nunca vai vencer!"
+  },
+  {
+   "id": "C151_VS_C051_DECISION2_P_LOWER_KEYWORD",
+   "en": "We'll strip you completely!",
+   "pt": "Vamos despir você completamente!"
+  },
+  {
+   "id": "C151_VS_C051_DECISION2_G_UPPER_KEYWORD",
+   "en": "I'm stripping you down. All the way down!",
+   "pt": "Vou te despir. Até não sobrar nada!"
+  },
+  {
+   "id": "C151_VS_C051_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "Your chances of winning are less than zero.\nThis match... is over.",
+   "pt": "Suas chances de vencer são menores que zero.\nEsta luta... acabou."
+  },
+  {
+   "id": "C151_VS_C051_DECISION2_G_LOWER_KEYWORD",
+   "en": "No mercy for clothes! That's a nudist's battle cry!",
+   "pt": "Sem piedade para as roupas! Esse é o grito de guerra nudista!"
+  },
+  {
+   "id": "C151_VS_C061_DECISION0_S_UPPER_KEYWORD",
+   "en": "Sorry, but today's not your lucky day!",
+   "pt": "Foi mal, mas hoje não é o seu dia de sorte!"
+  },
+  {
+   "id": "C151_VS_C061_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "I told you before, stay out of my way!",
+   "pt": "Eu já te disse, saia do meu caminho!"
+  },
+  {
+   "id": "C151_VS_C061_DECISION0_S_LOWER_KEYWORD",
+   "en": "I'll strip all who stand in my way!",
+   "pt": "Vou despir todos que entrarem no meu caminho!"
+  },
+  {
+   "id": "C151_VS_C061_DECISION0_P_UPPER_KEYWORD",
+   "en": "Didn't I tell you to stay out of my way before?",
+   "pt": "Eu não te falei para sair do meu caminho antes?"
+  },
+  {
+   "id": "C151_VS_C061_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "I don't care who you are, if you get in my way... you'll get no mercy.",
+   "pt": "Não me importa quem você seja, se entrar no meu caminho... não terei piedade."
+  },
+  {
+   "id": "C151_VS_C061_DECISION0_P_LOWER_KEYWORD",
+   "en": "WE! Are the last hope for humanity!",
+   "pt": "NÓS! Somos a última esperança da humanidade!"
+  },
+  {
+   "id": "C151_VS_C061_DECISION0_G_UPPER_KEYWORD",
+   "en": "We are the buck-naked protectors of humanity!",
+   "pt": "Nós somos os protetores completamente nus da humanidade!"
+  },
+  {
+   "id": "C151_VS_C061_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "We strip ourselves and others for the sake of humankind.\nWe are... Nudist Beach!",
+   "pt": "Nós nos despimos e despimos os outros pelo bem da humanidade.\nNós somos a... Nudist Beach!"
+  },
+  {
+   "id": "C151_VS_C061_DECISION0_G_LOWER_KEYWORD",
+   "en": "We'll stop you cold with our Ultimate Double Naked DTR!",
+   "pt": "Vamos acabar com você com nosso DTR Duplo Nu Supremo!"
+  },
+  {
+   "id": "C151_VS_C061_DECISION1_S_UPPER_KEYWORD",
+   "en": "There are two things you need to know...",
+   "pt": "Tem duas coisas que você precisa saber..."
+  },
+  {
+   "id": "C151_VS_C061_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "One! If you get in our way, you're our enemy.\nTwo! Our enemies get no mercy!",
+   "pt": "Primeira! Se entrar no nosso caminho, você é nosso inimigo.\nSegunda! Não temos piedade com nossos inimigos!"
+  },
+  {
+   "id": "C151_VS_C061_DECISION1_S_LOWER_KEYWORD",
+   "en": "You're going down HARD!",
+   "pt": "Você vai cair FEIO!"
+  },
+  {
+   "id": "C151_VS_C061_DECISION1_P_UPPER_KEYWORD",
+   "en": "I'll strut my stuff on the runway of battle!",
+   "pt": "Vou desfilar na passarela da batalha!"
+  },
+  {
+   "id": "C151_VS_C061_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "It don't matter how much power you get from the Life Fibers.\nYou're still gonna get purged!",
+   "pt": "Não importa quanto poder você ganhe das Fibras de Vida.\nVocê ainda vai ser expurgado!"
+  },
+  {
+   "id": "C151_VS_C061_DECISION1_P_LOWER_KEYWORD",
+   "en": "Time to settle this once and for all!",
+   "pt": "Hora de resolver isso de uma vez por todas!"
+  },
+  {
+   "id": "C151_VS_C061_DECISION1_G_UPPER_KEYWORD",
+   "en": "Bare naked humans are beautiful!",
+   "pt": "Humanos completamente nus são lindos!"
+  },
+  {
+   "id": "C151_VS_C061_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "We're gonna liberate the human race from the scourge of the Life Fibers!",
+   "pt": "Nós vamos libertar a raça humana do flagelo das Fibras de Vida!"
+  },
+  {
+   "id": "C151_VS_C061_DECISION1_G_LOWER_KEYWORD",
+   "en": "You can try, but you won't defeat us!",
+   "pt": "Pode tentar, mas não vai nos derrotar!"
+  },
+  {
+   "id": "C151_VS_C061_DECISION2_S_UPPER_KEYWORD",
+   "en": "Are my eyes playing tricks on me, or are you getting slower?",
+   "pt": "Meus olhos estão me enganando ou você está ficando mais lento?"
+  },
+  {
+   "id": "C151_VS_C061_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "Pathetic. You got all those powers and here you are...\ntrapped like a rat.",
+   "pt": "Patético. Você conseguiu todos esses poderes e aqui está...\npreso como um rato."
+  },
+  {
+   "id": "C151_VS_C061_DECISION2_S_LOWER_KEYWORD",
+   "en": "We warned you! If we see you again, you'll be sorry!",
+   "pt": "Nós avisamos! Se te virmos de novo, você vai se arrepender!"
+  },
+  {
+   "id": "C151_VS_C061_DECISION2_P_UPPER_KEYWORD",
+   "en": "I know what you're problem is. My beauty's too distracting.",
+   "pt": "Eu sei qual é o seu problema. Minha beleza distrai demais."
+  },
+  {
+   "id": "C151_VS_C061_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "We got the spirit of the nudist in us! That's why you'll never win!",
+   "pt": "Temos o espírito nudista em nós! É por isso que você nunca vai vencer!"
+  },
+  {
+   "id": "C151_VS_C061_DECISION2_P_LOWER_KEYWORD",
+   "en": "We'll strip you completely!",
+   "pt": "Vamos despir você completamente!"
+  },
+  {
+   "id": "C151_VS_C061_DECISION2_G_UPPER_KEYWORD",
+   "en": "I'm stripping you down. All the way down!",
+   "pt": "Vou te despir. Até não sobrar nada!"
+  },
+  {
+   "id": "C151_VS_C061_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "Your chances of winning are less than zero.\nThis match... is over.",
+   "pt": "Suas chances de vencer são menores que zero.\nEsta luta... acabou."
+  },
+  {
+   "id": "C151_VS_C061_DECISION2_G_LOWER_KEYWORD",
+   "en": "No mercy for clothes! That's a nudist's battle cry!",
+   "pt": "Sem piedade para as roupas! Esse é o grito de guerra nudista!"
+  },
+  {
+   "id": "C151_VS_C071_DECISION0_S_UPPER_KEYWORD",
+   "en": "Sorry, but today's not your lucky day!",
+   "pt": "Foi mal, mas hoje não é o seu dia de sorte!"
+  },
+  {
+   "id": "C151_VS_C071_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "I told you before, stay out of my way!",
+   "pt": "Eu já te disse, saia do meu caminho!"
+  },
+  {
+   "id": "C151_VS_C071_DECISION0_S_LOWER_KEYWORD",
+   "en": "I'll strip all who stand in my way!",
+   "pt": "Vou despir todos que entrarem no meu caminho!"
+  },
+  {
+   "id": "C151_VS_C071_DECISION0_P_UPPER_KEYWORD",
+   "en": "Didn't I tell you to stay out of my way before?",
+   "pt": "Eu não te falei para sair do meu caminho antes?"
+  },
+  {
+   "id": "C151_VS_C071_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "I don't care who you are, if you get in my way... you'll get no mercy.",
+   "pt": "Não me importa quem você seja, se entrar no meu caminho... não terei piedade."
+  },
+  {
+   "id": "C151_VS_C071_DECISION0_P_LOWER_KEYWORD",
+   "en": "WE! Are the last hope for humanity!",
+   "pt": "NÓS! Somos a última esperança da humanidade!"
+  },
+  {
+   "id": "C151_VS_C071_DECISION0_G_UPPER_KEYWORD",
+   "en": "We are the buck-naked protectors of humanity!",
+   "pt": "Nós somos os protetores completamente nus da humanidade!"
+  },
+  {
+   "id": "C151_VS_C071_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "We strip ourselves and others for the sake of humankind.\nWe are... Nudist Beach!",
+   "pt": "Nós nos despimos e despimos os outros pelo bem da humanidade.\nNós somos a... Nudist Beach!"
+  },
+  {
+   "id": "C151_VS_C071_DECISION0_G_LOWER_KEYWORD",
+   "en": "We'll stop you cold with our Ultimate Double Naked DTR!",
+   "pt": "Vamos acabar com você com nosso DTR Duplo Nu Supremo!"
+  },
+  {
+   "id": "C151_VS_C071_DECISION1_S_UPPER_KEYWORD",
+   "en": "There are two things you need to know...",
+   "pt": "Tem duas coisas que você precisa saber..."
+  },
+  {
+   "id": "C151_VS_C071_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "One! If you get in our way, you're our enemy.\nTwo! Our enemies get no mercy!",
+   "pt": "Primeira! Se entrar no nosso caminho, você é nosso inimigo.\nSegunda! Não temos piedade com nossos inimigos!"
+  },
+  {
+   "id": "C151_VS_C071_DECISION1_S_LOWER_KEYWORD",
+   "en": "You're going down HARD!",
+   "pt": "Você vai cair FEIO!"
+  },
+  {
+   "id": "C151_VS_C071_DECISION1_P_UPPER_KEYWORD",
+   "en": "I'll strut my stuff on the runway of battle!",
+   "pt": "Vou desfilar na passarela da batalha!"
+  },
+  {
+   "id": "C151_VS_C071_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "It don't matter how much power you get from the Life Fibers.\nYou're still gonna get purged!",
+   "pt": "Não importa quanto poder você ganhe das Fibras de Vida.\nVocê ainda vai ser expurgado!"
+  },
+  {
+   "id": "C151_VS_C071_DECISION1_P_LOWER_KEYWORD",
+   "en": "Time to settle this once and for all!",
+   "pt": "Hora de resolver isso de uma vez por todas!"
+  },
+  {
+   "id": "C151_VS_C071_DECISION1_G_UPPER_KEYWORD",
+   "en": "Bare naked humans are beautiful!",
+   "pt": "Humanos completamente nus são lindos!"
+  },
+  {
+   "id": "C151_VS_C071_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "We're gonna liberate the human race from the scourge of the Life Fibers!",
+   "pt": "Nós vamos libertar a raça humana do flagelo das Fibras de Vida!"
+  },
+  {
+   "id": "C151_VS_C071_DECISION1_G_LOWER_KEYWORD",
+   "en": "You can try, but you won't defeat us!",
+   "pt": "Pode tentar, mas não vai nos derrotar!"
+  },
+  {
+   "id": "C151_VS_C071_DECISION2_S_UPPER_KEYWORD",
+   "en": "Are my eyes playing tricks on me, or are you getting slower?",
+   "pt": "Meus olhos estão me enganando ou você está ficando mais lento?"
+  },
+  {
+   "id": "C151_VS_C071_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "Pathetic. You got all those powers and here you are...\ntrapped like a rat.",
+   "pt": "Patético. Você conseguiu todos esses poderes e aqui está...\npreso como um rato."
+  },
+  {
+   "id": "C151_VS_C071_DECISION2_S_LOWER_KEYWORD",
+   "en": "We warned you! If we see you again, you'll be sorry!",
+   "pt": "Nós avisamos! Se te virmos de novo, você vai se arrepender!"
+  },
+  {
+   "id": "C151_VS_C071_DECISION2_P_UPPER_KEYWORD",
+   "en": "I know what you're problem is. My beauty's too distracting.",
+   "pt": "Eu sei qual é o seu problema. Minha beleza distrai demais."
+  },
+  {
+   "id": "C151_VS_C071_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "We got the spirit of the nudist in us! That's why you'll never win!",
+   "pt": "Temos o espírito nudista em nós! É por isso que você nunca vai vencer!"
+  },
+  {
+   "id": "C151_VS_C071_DECISION2_P_LOWER_KEYWORD",
+   "en": "We'll strip you completely!",
+   "pt": "Vamos despir você completamente!"
+  },
+  {
+   "id": "C151_VS_C071_DECISION2_G_UPPER_KEYWORD",
+   "en": "I'm stripping you down. All the way down!",
+   "pt": "Vou te despir. Até não sobrar nada!"
+  },
+  {
+   "id": "C151_VS_C071_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "Your chances of winning are less than zero.\nThis match... is over.",
+   "pt": "Suas chances de vencer são menores que zero.\nEsta luta... acabou."
+  },
+  {
+   "id": "C151_VS_C071_DECISION2_G_LOWER_KEYWORD",
+   "en": "No mercy for clothes! That's a nudist's battle cry!",
+   "pt": "Sem piedade para as roupas! Esse é o grito de guerra nudista!"
+  },
+  {
+   "id": "C151_VS_C072_DECISION0_S_UPPER_KEYWORD",
+   "en": "Sorry, but today's not your lucky day!",
+   "pt": "Foi mal, mas hoje não é o seu dia de sorte!"
+  },
+  {
+   "id": "C151_VS_C072_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "I told you before, stay out of my way!",
+   "pt": "Eu já te disse, saia do meu caminho!"
+  },
+  {
+   "id": "C151_VS_C072_DECISION0_S_LOWER_KEYWORD",
+   "en": "I'll strip all who stand in my way!",
+   "pt": "Vou despir todos que entrarem no meu caminho!"
+  },
+  {
+   "id": "C151_VS_C072_DECISION0_P_UPPER_KEYWORD",
+   "en": "Didn't I tell you to stay out of my way before?",
+   "pt": "Eu não te falei para sair do meu caminho antes?"
+  },
+  {
+   "id": "C151_VS_C072_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "I don't care who you are, if you get in my way... you'll get no mercy.",
+   "pt": "Não me importa quem você seja, se entrar no meu caminho... não terei piedade."
+  },
+  {
+   "id": "C151_VS_C072_DECISION0_P_LOWER_KEYWORD",
+   "en": "WE! Are the last hope for humanity!",
+   "pt": "NÓS! Somos a última esperança da humanidade!"
+  },
+  {
+   "id": "C151_VS_C072_DECISION0_G_UPPER_KEYWORD",
+   "en": "We are the buck-naked protectors of humanity!",
+   "pt": "Nós somos os protetores completamente nus da humanidade!"
+  },
+  {
+   "id": "C151_VS_C072_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "We strip ourselves and others for the sake of humankind.\nWe are... Nudist Beach!",
+   "pt": "Nós nos despimos e despimos os outros pelo bem da humanidade.\nNós somos a... Nudist Beach!"
+  },
+  {
+   "id": "C151_VS_C072_DECISION0_G_LOWER_KEYWORD",
+   "en": "We'll stop you cold with our Ultimate Double Naked DTR!",
+   "pt": "Vamos acabar com você com nosso DTR Duplo Nu Supremo!"
+  },
+  {
+   "id": "C151_VS_C072_DECISION1_S_UPPER_KEYWORD",
+   "en": "There are two things you need to know...",
+   "pt": "Tem duas coisas que você precisa saber..."
+  },
+  {
+   "id": "C151_VS_C072_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "One! If you get in our way, you're our enemy.\nTwo! Our enemies get no mercy!",
+   "pt": "Primeira! Se entrar no nosso caminho, você é nosso inimigo.\nSegunda! Não temos piedade com nossos inimigos!"
+  },
+  {
+   "id": "C151_VS_C072_DECISION1_S_LOWER_KEYWORD",
+   "en": "You're going down HARD!",
+   "pt": "Você vai cair FEIO!"
+  },
+  {
+   "id": "C151_VS_C072_DECISION1_P_UPPER_KEYWORD",
+   "en": "I'll strut my stuff on the runway of battle!",
+   "pt": "Vou desfilar na passarela da batalha!"
+  },
+  {
+   "id": "C151_VS_C072_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "It don't matter how much power you get from the Life Fibers.\nYou're still gonna get purged!",
+   "pt": "Não importa quanto poder você ganhe das Fibras de Vida.\nVocê ainda vai ser expurgado!"
+  },
+  {
+   "id": "C151_VS_C072_DECISION1_P_LOWER_KEYWORD",
+   "en": "Time to settle this once and for all!",
+   "pt": "Hora de resolver isso de uma vez por todas!"
+  },
+  {
+   "id": "C151_VS_C072_DECISION1_G_UPPER_KEYWORD",
+   "en": "Bare naked humans are beautiful!",
+   "pt": "Humanos completamente nus são lindos!"
+  },
+  {
+   "id": "C151_VS_C072_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "We're gonna liberate the human race from the scourge of the Life Fibers!",
+   "pt": "Nós vamos libertar a raça humana do flagelo das Fibras de Vida!"
+  },
+  {
+   "id": "C151_VS_C072_DECISION1_G_LOWER_KEYWORD",
+   "en": "You can try, but you won't defeat us!",
+   "pt": "Pode tentar, mas não vai nos derrotar!"
+  },
+  {
+   "id": "C151_VS_C072_DECISION2_S_UPPER_KEYWORD",
+   "en": "Are my eyes playing tricks on me, or are you getting slower?",
+   "pt": "Meus olhos estão me enganando ou você está ficando mais lento?"
+  },
+  {
+   "id": "C151_VS_C072_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "Pathetic. You got all those powers and here you are...\ntrapped like a rat.",
+   "pt": "Patético. Você conseguiu todos esses poderes e aqui está...\npreso como um rato."
+  },
+  {
+   "id": "C151_VS_C072_DECISION2_S_LOWER_KEYWORD",
+   "en": "We warned you! If we see you again, you'll be sorry!",
+   "pt": "Nós avisamos! Se te virmos de novo, você vai se arrepender!"
+  },
+  {
+   "id": "C151_VS_C072_DECISION2_P_UPPER_KEYWORD",
+   "en": "I know what you're problem is. My beauty's too distracting.",
+   "pt": "Eu sei qual é o seu problema. Minha beleza distrai demais."
+  },
+  {
+   "id": "C151_VS_C072_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "We got the spirit of the nudist in us! That's why you'll never win!",
+   "pt": "Temos o espírito nudista em nós! É por isso que você nunca vai vencer!"
+  },
+  {
+   "id": "C151_VS_C072_DECISION2_P_LOWER_KEYWORD",
+   "en": "We'll strip you completely!",
+   "pt": "Vamos despir você completamente!"
+  },
+  {
+   "id": "C151_VS_C072_DECISION2_G_UPPER_KEYWORD",
+   "en": "I'm stripping you down. All the way down!",
+   "pt": "Vou te despir. Até não sobrar nada!"
+  },
+  {
+   "id": "C151_VS_C072_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "Your chances of winning are less than zero.\nThis match... is over.",
+   "pt": "Suas chances de vencer são menores que zero.\nEsta luta... acabou."
+  },
+  {
+   "id": "C151_VS_C072_DECISION2_G_LOWER_KEYWORD",
+   "en": "No mercy for clothes! That's a nudist's battle cry!",
+   "pt": "Sem piedade para as roupas! Esse é o grito de guerra nudista!"
+  },
+  {
+   "id": "C151_VS_C081_DECISION0_S_UPPER_KEYWORD",
+   "en": "Sorry, but today's not your lucky day!",
+   "pt": "Foi mal, mas hoje não é o seu dia de sorte!"
+  },
+  {
+   "id": "C151_VS_C081_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "I told you before, stay out of my way!",
+   "pt": "Eu já te disse, saia do meu caminho!"
+  },
+  {
+   "id": "C151_VS_C081_DECISION0_S_LOWER_KEYWORD",
+   "en": "I'll strip all who stand in my way!",
+   "pt": "Vou despir todos que entrarem no meu caminho!"
+  },
+  {
+   "id": "C151_VS_C081_DECISION0_P_UPPER_KEYWORD",
+   "en": "Didn't I tell you to stay out of my way before?",
+   "pt": "Eu não te falei para sair do meu caminho antes?"
+  },
+  {
+   "id": "C151_VS_C081_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "I don't care who you are, if you get in my way... you'll get no mercy.",
+   "pt": "Não me importa quem você seja, se entrar no meu caminho... não terei piedade."
+  },
+  {
+   "id": "C151_VS_C081_DECISION0_P_LOWER_KEYWORD",
+   "en": "WE! Are the last hope for humanity!",
+   "pt": "NÓS! Somos a última esperança da humanidade!"
+  },
+  {
+   "id": "C151_VS_C081_DECISION0_G_UPPER_KEYWORD",
+   "en": "We are the buck-naked protectors of humanity!",
+   "pt": "Nós somos os protetores completamente nus da humanidade!"
+  }
+ ]
+}

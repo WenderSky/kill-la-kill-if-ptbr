@@ -1,0 +1,1008 @@
+{
+ "origem": "KlkResources/S701_MES/MES_021_SAT_ACT",
+ "conteudo": "Falas em batalha - Satsuki",
+ "parte": "2/4",
+ "instrucoes": "Traduza o campo 'en' para portugues do Brasil e escreva o resultado em 'pt'. Nao altere 'id'. Mantenha intactos os codigos entre chaves ({CA}, {LA}, {BR}, {JU}, {SP}, {GD}, {LS}, {L1}, {R1}, setas), os marcadores de formato (%d, %l, %ls, %hs) e as quebras de linha \\n. Se uma linha nao precisar de traducao, deixe 'pt' vazio.",
+ "linhas": [
+  {
+   "id": "C021_VS_C031_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "Come back in a hundred years! Maybe then, you'll give me a fight worth having!",
+   "pt": "Volte daqui a cem anos! Talvez então, você me ofereça uma luta digna!"
+  },
+  {
+   "id": "C021_VS_C031_DECISION2_P_LOWER_KEYWORD",
+   "en": "You'll regret your foolish hopes soon enough!",
+   "pt": "Você logo se arrependerá das suas esperanças tolas!"
+  },
+  {
+   "id": "C021_VS_C031_DECISION2_G_UPPER_KEYWORD",
+   "en": "I'll be happy to give you a taste of cruel reality!",
+   "pt": "Ficarei feliz em lhe dar um gostinho da cruel realidade!"
+  },
+  {
+   "id": "C021_VS_C031_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "Your weakness is proof you lack conviction! You are less than nothing!",
+   "pt": "Sua fraqueza é a prova de que lhe falta convicção! Você é menos que o nada!"
+  },
+  {
+   "id": "C021_VS_C031_DECISION2_G_LOWER_KEYWORD",
+   "en": "You are a complete disappointment!",
+   "pt": "Você é uma completa decepção!"
+  },
+  {
+   "id": "C021_VS_C041_DECISION0_S_UPPER_KEYWORD",
+   "en": "Listen up, you pigs in human clothing!",
+   "pt": "Escutem bem, seus porcos vestidos de humanos!"
+  },
+  {
+   "id": "C021_VS_C041_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "Fear is freedom! Subjugation is liberation! Contradiction is truth!\nThose are the facts of this world!",
+   "pt": "O medo é a liberdade! A subjugação é a libertação! A contradição é a verdade!\nEsses são os fatos deste mundo!"
+  },
+  {
+   "id": "C021_VS_C041_DECISION0_S_LOWER_KEYWORD",
+   "en": "You will all surrender to them!",
+   "pt": "Todos vocês se renderão a eles!"
+  },
+  {
+   "id": "C021_VS_C041_DECISION0_P_UPPER_KEYWORD",
+   "en": "Resistance is futile!",
+   "pt": "A resistência é inútil!"
+  },
+  {
+   "id": "C021_VS_C041_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "Your actions are worthless and lack resolve!",
+   "pt": "Suas ações são inúteis e carecem de determinação!"
+  },
+  {
+   "id": "C021_VS_C041_DECISION0_P_LOWER_KEYWORD",
+   "en": "You will never surpass me!",
+   "pt": "Você nunca me superará!"
+  },
+  {
+   "id": "C021_VS_C041_DECISION0_G_UPPER_KEYWORD",
+   "en": "Stand down, fool!",
+   "pt": "Recue, tolo!"
+  },
+  {
+   "id": "C021_VS_C041_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "All of you are merely pigs in human clothing!\nWho would listen to livestock like you?!",
+   "pt": "Todos vocês são meros porcos vestidos de humanos!\nQuem daria ouvidos a gado como vocês?!"
+  },
+  {
+   "id": "C021_VS_C041_DECISION0_G_LOWER_KEYWORD",
+   "en": "Know your place... pig!",
+   "pt": "Ponha-se no seu lugar... porco!"
+  },
+  {
+   "id": "C021_VS_C041_DECISION1_S_UPPER_KEYWORD",
+   "en": "Listen to me, you fools!",
+   "pt": "Escutem-me, seus tolos!"
+  },
+  {
+   "id": "C021_VS_C041_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "You are all pigs being used by system you cannot comprehend!",
+   "pt": "Todos vocês são porcos sendo usados por um sistema que não conseguem compreender!"
+  },
+  {
+   "id": "C021_VS_C041_DECISION1_S_LOWER_KEYWORD",
+   "en": "Useless beings that deserve to be enslaved!",
+   "pt": "Seres inúteis que merecem ser escravizados!"
+  },
+  {
+   "id": "C021_VS_C041_DECISION1_P_UPPER_KEYWORD",
+   "en": "How dare you mock me!",
+   "pt": "Como ousa zombar de mim!"
+  },
+  {
+   "id": "C021_VS_C041_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "If you challenge me, you are a fool!\nI do not hesitate and I will show no mercy!",
+   "pt": "Se me desafia, você é um tolo!\nEu não hesito e não demonstrarei misericórdia!"
+  },
+  {
+   "id": "C021_VS_C041_DECISION1_P_LOWER_KEYWORD",
+   "en": "You are weak and worthless!",
+   "pt": "Você é fraco e inútil!"
+  },
+  {
+   "id": "C021_VS_C041_DECISION1_G_UPPER_KEYWORD",
+   "en": "Humans are pigs wearing clothes!",
+   "pt": "Humanos são porcos vestindo roupas!"
+  },
+  {
+   "id": "C021_VS_C041_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "I shall stand firm and fight to rebuild this entire world!",
+   "pt": "Eu me manterei firme e lutarei para reconstruir este mundo inteiro!"
+  },
+  {
+   "id": "C021_VS_C041_DECISION1_G_LOWER_KEYWORD",
+   "en": "And you shall serve as their food!",
+   "pt": "E vocês servirão de comida para eles!"
+  },
+  {
+   "id": "C021_VS_C041_DECISION2_S_UPPER_KEYWORD",
+   "en": "You'll understand soon enough!",
+   "pt": "Você entenderá logo!"
+  },
+  {
+   "id": "C021_VS_C041_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "Anyone who dares to stand against me, will be crushed under my heel!",
+   "pt": "Qualquer um que ouse se opor a mim, será esmagado sob meu calcanhar!"
+  },
+  {
+   "id": "C021_VS_C041_DECISION2_S_LOWER_KEYWORD",
+   "en": "Remember this pain!",
+   "pt": "Lembre-se desta dor!"
+  },
+  {
+   "id": "C021_VS_C041_DECISION2_P_UPPER_KEYWORD",
+   "en": "Really? Is that your best?!",
+   "pt": "Sério? Esse é o seu melhor?!"
+  },
+  {
+   "id": "C021_VS_C041_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "Come back in a hundred years! Maybe then, you'll give me a fight worth having!",
+   "pt": "Volte daqui a cem anos! Talvez então, você me ofereça uma luta digna!"
+  },
+  {
+   "id": "C021_VS_C041_DECISION2_P_LOWER_KEYWORD",
+   "en": "You'll regret your foolish hopes soon enough!",
+   "pt": "Você logo se arrependerá das suas esperanças tolas!"
+  },
+  {
+   "id": "C021_VS_C041_DECISION2_G_UPPER_KEYWORD",
+   "en": "I'll be happy to give you a taste of cruel reality!",
+   "pt": "Ficarei feliz em lhe dar um gostinho da cruel realidade!"
+  },
+  {
+   "id": "C021_VS_C041_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "Your weakness is proof you lack conviction! You are less than nothing!",
+   "pt": "Sua fraqueza é a prova de que lhe falta convicção! Você é menos que o nada!"
+  },
+  {
+   "id": "C021_VS_C041_DECISION2_G_LOWER_KEYWORD",
+   "en": "You are a complete disappointment!",
+   "pt": "Você é uma completa decepção!"
+  },
+  {
+   "id": "C021_VS_C051_DECISION0_S_UPPER_KEYWORD",
+   "en": "Listen up, you pigs in human clothing!",
+   "pt": "Escutem bem, seus porcos vestidos de humanos!"
+  },
+  {
+   "id": "C021_VS_C051_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "Fear is freedom! Subjugation is liberation! Contradiction is truth!\nThose are the facts of this world!",
+   "pt": "O medo é a liberdade! A subjugação é a libertação! A contradição é a verdade!\nEsses são os fatos deste mundo!"
+  },
+  {
+   "id": "C021_VS_C051_DECISION0_S_LOWER_KEYWORD",
+   "en": "You will all surrender to them!",
+   "pt": "Todos vocês se renderão a eles!"
+  },
+  {
+   "id": "C021_VS_C051_DECISION0_P_UPPER_KEYWORD",
+   "en": "Resistance is futile!",
+   "pt": "A resistência é inútil!"
+  },
+  {
+   "id": "C021_VS_C051_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "Your actions are worthless and lack resolve!",
+   "pt": "Suas ações são inúteis e carecem de determinação!"
+  },
+  {
+   "id": "C021_VS_C051_DECISION0_P_LOWER_KEYWORD",
+   "en": "You will never surpass me!",
+   "pt": "Você nunca me superará!"
+  },
+  {
+   "id": "C021_VS_C051_DECISION0_G_UPPER_KEYWORD",
+   "en": "Stand down, fool!",
+   "pt": "Recue, tolo!"
+  },
+  {
+   "id": "C021_VS_C051_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "All of you are merely pigs in human clothing!\nWho would listen to livestock like you?!",
+   "pt": "Todos vocês são meros porcos vestidos de humanos!\nQuem daria ouvidos a gado como vocês?!"
+  },
+  {
+   "id": "C021_VS_C051_DECISION0_G_LOWER_KEYWORD",
+   "en": "Know your place... pig!",
+   "pt": "Ponha-se no seu lugar... porco!"
+  },
+  {
+   "id": "C021_VS_C051_DECISION1_S_UPPER_KEYWORD",
+   "en": "Listen to me, you fools!",
+   "pt": "Escutem-me, seus tolos!"
+  },
+  {
+   "id": "C021_VS_C051_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "You are all pigs being used by system you cannot comprehend!",
+   "pt": "Todos vocês são porcos sendo usados por um sistema que não conseguem compreender!"
+  },
+  {
+   "id": "C021_VS_C051_DECISION1_S_LOWER_KEYWORD",
+   "en": "Useless beings that deserve to be enslaved!",
+   "pt": "Seres inúteis que merecem ser escravizados!"
+  },
+  {
+   "id": "C021_VS_C051_DECISION1_P_UPPER_KEYWORD",
+   "en": "How dare you mock me!",
+   "pt": "Como ousa zombar de mim!"
+  },
+  {
+   "id": "C021_VS_C051_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "If you challenge me, you are a fool!\nI do not hesitate and I will show no mercy!",
+   "pt": "Se me desafia, você é um tolo!\nEu não hesito e não demonstrarei misericórdia!"
+  },
+  {
+   "id": "C021_VS_C051_DECISION1_P_LOWER_KEYWORD",
+   "en": "You are weak and worthless!",
+   "pt": "Você é fraco e inútil!"
+  },
+  {
+   "id": "C021_VS_C051_DECISION1_G_UPPER_KEYWORD",
+   "en": "Humans are pigs wearing clothes!",
+   "pt": "Humanos são porcos vestindo roupas!"
+  },
+  {
+   "id": "C021_VS_C051_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "I shall stand firm and fight to rebuild this entire world!",
+   "pt": "Eu me manterei firme e lutarei para reconstruir este mundo inteiro!"
+  },
+  {
+   "id": "C021_VS_C051_DECISION1_G_LOWER_KEYWORD",
+   "en": "And you shall serve as their food!",
+   "pt": "E vocês servirão de comida para eles!"
+  },
+  {
+   "id": "C021_VS_C051_DECISION2_S_UPPER_KEYWORD",
+   "en": "You'll understand soon enough!",
+   "pt": "Você entenderá logo!"
+  },
+  {
+   "id": "C021_VS_C051_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "Anyone who dares to stand against me, will be crushed under my heel!",
+   "pt": "Qualquer um que ouse se opor a mim, será esmagado sob meu calcanhar!"
+  },
+  {
+   "id": "C021_VS_C051_DECISION2_S_LOWER_KEYWORD",
+   "en": "Remember this pain!",
+   "pt": "Lembre-se desta dor!"
+  },
+  {
+   "id": "C021_VS_C051_DECISION2_P_UPPER_KEYWORD",
+   "en": "Really? Is that your best?!",
+   "pt": "Sério? Esse é o seu melhor?!"
+  },
+  {
+   "id": "C021_VS_C051_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "Come back in a hundred years! Maybe then, you'll give me a fight worth having!",
+   "pt": "Volte daqui a cem anos! Talvez então, você me ofereça uma luta digna!"
+  },
+  {
+   "id": "C021_VS_C051_DECISION2_P_LOWER_KEYWORD",
+   "en": "You'll regret your foolish hopes soon enough!",
+   "pt": "Você logo se arrependerá das suas esperanças tolas!"
+  },
+  {
+   "id": "C021_VS_C051_DECISION2_G_UPPER_KEYWORD",
+   "en": "I'll be happy to give you a taste of cruel reality!",
+   "pt": "Ficarei feliz em lhe dar um gostinho da cruel realidade!"
+  },
+  {
+   "id": "C021_VS_C051_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "Your weakness is proof you lack conviction! You are less than nothing!",
+   "pt": "Sua fraqueza é a prova de que lhe falta convicção! Você é menos que o nada!"
+  },
+  {
+   "id": "C021_VS_C051_DECISION2_G_LOWER_KEYWORD",
+   "en": "You are a complete disappointment!",
+   "pt": "Você é uma completa decepção!"
+  },
+  {
+   "id": "C021_VS_C061_DECISION0_S_UPPER_KEYWORD",
+   "en": "Listen up, you pigs in human clothing!",
+   "pt": "Escutem bem, seus porcos vestidos de humanos!"
+  },
+  {
+   "id": "C021_VS_C061_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "Fear is freedom! Subjugation is liberation! Contradiction is truth!\nThose are the facts of this world!",
+   "pt": "O medo é a liberdade! A subjugação é a libertação! A contradição é a verdade!\nEsses são os fatos deste mundo!"
+  },
+  {
+   "id": "C021_VS_C061_DECISION0_S_LOWER_KEYWORD",
+   "en": "You will all surrender to them!",
+   "pt": "Todos vocês se renderão a eles!"
+  },
+  {
+   "id": "C021_VS_C061_DECISION0_P_UPPER_KEYWORD",
+   "en": "Resistance is futile!",
+   "pt": "A resistência é inútil!"
+  },
+  {
+   "id": "C021_VS_C061_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "Your actions are worthless and lack resolve!",
+   "pt": "Suas ações são inúteis e carecem de determinação!"
+  },
+  {
+   "id": "C021_VS_C061_DECISION0_P_LOWER_KEYWORD",
+   "en": "You will never surpass me!",
+   "pt": "Você nunca me superará!"
+  },
+  {
+   "id": "C021_VS_C061_DECISION0_G_UPPER_KEYWORD",
+   "en": "Stand down, fool!",
+   "pt": "Recue, tolo!"
+  },
+  {
+   "id": "C021_VS_C061_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "All of you are merely pigs in human clothing!\nWho would listen to livestock like you?!",
+   "pt": "Todos vocês são meros porcos vestidos de humanos!\nQuem daria ouvidos a gado como vocês?!"
+  },
+  {
+   "id": "C021_VS_C061_DECISION0_G_LOWER_KEYWORD",
+   "en": "Know your place... pig!",
+   "pt": "Ponha-se no seu lugar... porco!"
+  },
+  {
+   "id": "C021_VS_C061_DECISION1_S_UPPER_KEYWORD",
+   "en": "Listen to me, you fools!",
+   "pt": "Escutem-me, seus tolos!"
+  },
+  {
+   "id": "C021_VS_C061_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "You are all pigs being used by system you cannot comprehend!",
+   "pt": "Todos vocês são porcos sendo usados por um sistema que não conseguem compreender!"
+  },
+  {
+   "id": "C021_VS_C061_DECISION1_S_LOWER_KEYWORD",
+   "en": "Useless beings that deserve to be enslaved!",
+   "pt": "Seres inúteis que merecem ser escravizados!"
+  },
+  {
+   "id": "C021_VS_C061_DECISION1_P_UPPER_KEYWORD",
+   "en": "How dare you mock me!",
+   "pt": "Como ousa zombar de mim!"
+  },
+  {
+   "id": "C021_VS_C061_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "If you challenge me, you are a fool!\nI do not hesitate and I will show no mercy!",
+   "pt": "Se me desafia, você é um tolo!\nEu não hesito e não demonstrarei misericórdia!"
+  },
+  {
+   "id": "C021_VS_C061_DECISION1_P_LOWER_KEYWORD",
+   "en": "You are weak and worthless!",
+   "pt": "Você é fraco e inútil!"
+  },
+  {
+   "id": "C021_VS_C061_DECISION1_G_UPPER_KEYWORD",
+   "en": "Humans are pigs wearing clothes!",
+   "pt": "Humanos são porcos vestindo roupas!"
+  },
+  {
+   "id": "C021_VS_C061_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "I shall stand firm and fight to rebuild this entire world!",
+   "pt": "Eu me manterei firme e lutarei para reconstruir este mundo inteiro!"
+  },
+  {
+   "id": "C021_VS_C061_DECISION1_G_LOWER_KEYWORD",
+   "en": "And you shall serve as their food!",
+   "pt": "E vocês servirão de comida para eles!"
+  },
+  {
+   "id": "C021_VS_C061_DECISION2_S_UPPER_KEYWORD",
+   "en": "You'll understand soon enough!",
+   "pt": "Você entenderá logo!"
+  },
+  {
+   "id": "C021_VS_C061_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "Anyone who dares to stand against me, will be crushed under my heel!",
+   "pt": "Qualquer um que ouse se opor a mim, será esmagado sob meu calcanhar!"
+  },
+  {
+   "id": "C021_VS_C061_DECISION2_S_LOWER_KEYWORD",
+   "en": "Remember this pain!",
+   "pt": "Lembre-se desta dor!"
+  },
+  {
+   "id": "C021_VS_C061_DECISION2_P_UPPER_KEYWORD",
+   "en": "Really? Is that your best?!",
+   "pt": "Sério? Esse é o seu melhor?!"
+  },
+  {
+   "id": "C021_VS_C061_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "Come back in a hundred years! Maybe then, you'll give me a fight worth having!",
+   "pt": "Volte daqui a cem anos! Talvez então, você me ofereça uma luta digna!"
+  },
+  {
+   "id": "C021_VS_C061_DECISION2_P_LOWER_KEYWORD",
+   "en": "You'll regret your foolish hopes soon enough!",
+   "pt": "Você logo se arrependerá das suas esperanças tolas!"
+  },
+  {
+   "id": "C021_VS_C061_DECISION2_G_UPPER_KEYWORD",
+   "en": "I'll be happy to give you a taste of cruel reality!",
+   "pt": "Ficarei feliz em lhe dar um gostinho da cruel realidade!"
+  },
+  {
+   "id": "C021_VS_C061_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "Your weakness is proof you lack conviction! You are less than nothing!",
+   "pt": "Sua fraqueza é a prova de que lhe falta convicção! Você é menos que o nada!"
+  },
+  {
+   "id": "C021_VS_C061_DECISION2_G_LOWER_KEYWORD",
+   "en": "You are a complete disappointment!",
+   "pt": "Você é uma completa decepção!"
+  },
+  {
+   "id": "C021_VS_C071_DECISION0_S_UPPER_KEYWORD",
+   "en": "Listen up, you pigs in human clothing!",
+   "pt": "Escutem bem, seus porcos vestidos de humanos!"
+  },
+  {
+   "id": "C021_VS_C071_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "Fear is freedom! Subjugation is liberation! Contradiction is truth!\nThose are the facts of this world!",
+   "pt": "O medo é a liberdade! A subjugação é a libertação! A contradição é a verdade!\nEsses são os fatos deste mundo!"
+  },
+  {
+   "id": "C021_VS_C071_DECISION0_S_LOWER_KEYWORD",
+   "en": "You will all surrender to them!",
+   "pt": "Todos vocês se renderão a eles!"
+  },
+  {
+   "id": "C021_VS_C071_DECISION0_P_UPPER_KEYWORD",
+   "en": "Resistance is futile!",
+   "pt": "A resistência é inútil!"
+  },
+  {
+   "id": "C021_VS_C071_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "Your actions are worthless and lack resolve!",
+   "pt": "Suas ações são inúteis e carecem de determinação!"
+  },
+  {
+   "id": "C021_VS_C071_DECISION0_P_LOWER_KEYWORD",
+   "en": "You will never surpass me!",
+   "pt": "Você nunca me superará!"
+  },
+  {
+   "id": "C021_VS_C071_DECISION0_G_UPPER_KEYWORD",
+   "en": "Stand down, fool!",
+   "pt": "Recue, tolo!"
+  },
+  {
+   "id": "C021_VS_C071_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "All of you are merely pigs in human clothing!\nWho would listen to livestock like you?!",
+   "pt": "Todos vocês são meros porcos vestidos de humanos!\nQuem daria ouvidos a gado como vocês?!"
+  },
+  {
+   "id": "C021_VS_C071_DECISION0_G_LOWER_KEYWORD",
+   "en": "Know your place... pig!",
+   "pt": "Ponha-se no seu lugar... porco!"
+  },
+  {
+   "id": "C021_VS_C071_DECISION1_S_UPPER_KEYWORD",
+   "en": "Listen to me, you fools!",
+   "pt": "Escutem-me, seus tolos!"
+  },
+  {
+   "id": "C021_VS_C071_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "You are all pigs being used by system you cannot comprehend!",
+   "pt": "Todos vocês são porcos sendo usados por um sistema que não conseguem compreender!"
+  },
+  {
+   "id": "C021_VS_C071_DECISION1_S_LOWER_KEYWORD",
+   "en": "Useless beings that deserve to be enslaved!",
+   "pt": "Seres inúteis que merecem ser escravizados!"
+  },
+  {
+   "id": "C021_VS_C071_DECISION1_P_UPPER_KEYWORD",
+   "en": "How dare you mock me!",
+   "pt": "Como ousa zombar de mim!"
+  },
+  {
+   "id": "C021_VS_C071_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "If you challenge me, you are a fool!\nI do not hesitate and I will show no mercy!",
+   "pt": "Se me desafia, você é um tolo!\nEu não hesito e não demonstrarei misericórdia!"
+  },
+  {
+   "id": "C021_VS_C071_DECISION1_P_LOWER_KEYWORD",
+   "en": "You are weak and worthless!",
+   "pt": "Você é fraco e inútil!"
+  },
+  {
+   "id": "C021_VS_C071_DECISION1_G_UPPER_KEYWORD",
+   "en": "Humans are pigs wearing clothes!",
+   "pt": "Humanos são porcos vestindo roupas!"
+  },
+  {
+   "id": "C021_VS_C071_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "I shall stand firm and fight to rebuild this entire world!",
+   "pt": "Eu me manterei firme e lutarei para reconstruir este mundo inteiro!"
+  },
+  {
+   "id": "C021_VS_C071_DECISION1_G_LOWER_KEYWORD",
+   "en": "And you shall serve as their food!",
+   "pt": "E vocês servirão de comida para eles!"
+  },
+  {
+   "id": "C021_VS_C071_DECISION2_S_UPPER_KEYWORD",
+   "en": "You'll understand soon enough!",
+   "pt": "Você entenderá logo!"
+  },
+  {
+   "id": "C021_VS_C071_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "Anyone who dares to stand against me, will be crushed under my heel!",
+   "pt": "Qualquer um que ouse se opor a mim, será esmagado sob meu calcanhar!"
+  },
+  {
+   "id": "C021_VS_C071_DECISION2_S_LOWER_KEYWORD",
+   "en": "Remember this pain!",
+   "pt": "Lembre-se desta dor!"
+  },
+  {
+   "id": "C021_VS_C071_DECISION2_P_UPPER_KEYWORD",
+   "en": "How absurd! Who do you think you are?!",
+   "pt": "Que absurdo! Quem você acha que é?!"
+  },
+  {
+   "id": "C021_VS_C071_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "It would take you a century to block my will and even then, you will most likely fail!",
+   "pt": "Levaria um século para você deter a minha vontade e, mesmo assim, você muito provavelmente falharia!"
+  },
+  {
+   "id": "C021_VS_C071_DECISION2_P_LOWER_KEYWORD",
+   "en": "You'll regret your foolish hopes soon enough!",
+   "pt": "Você logo se arrependerá das suas esperanças tolas!"
+  },
+  {
+   "id": "C021_VS_C071_DECISION2_G_UPPER_KEYWORD",
+   "en": "I'll be happy to give you a taste of cruel reality!",
+   "pt": "Ficarei feliz em lhe dar um gostinho da cruel realidade!"
+  },
+  {
+   "id": "C021_VS_C071_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "Your weakness is proof you lack conviction! You are less than nothing!",
+   "pt": "Sua fraqueza é a prova de que lhe falta convicção! Você é menos que o nada!"
+  },
+  {
+   "id": "C021_VS_C071_DECISION2_G_LOWER_KEYWORD",
+   "en": "You are a complete disappointment!",
+   "pt": "Você é uma completa decepção!"
+  },
+  {
+   "id": "C021_VS_C072_DECISION0_S_UPPER_KEYWORD",
+   "en": "Listen up, you pigs in human clothing!",
+   "pt": "Escutem bem, seus porcos vestidos de humanos!"
+  },
+  {
+   "id": "C021_VS_C072_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "Fear is freedom! Subjugation is liberation! Contradiction is truth!\nThose are the facts of this world!",
+   "pt": "O medo é a liberdade! A subjugação é a libertação! A contradição é a verdade!\nEsses são os fatos deste mundo!"
+  },
+  {
+   "id": "C021_VS_C072_DECISION0_S_LOWER_KEYWORD",
+   "en": "You will all surrender to them!",
+   "pt": "Todos vocês se renderão a eles!"
+  },
+  {
+   "id": "C021_VS_C072_DECISION0_P_UPPER_KEYWORD",
+   "en": "Resistance is futile!",
+   "pt": "A resistência é inútil!"
+  },
+  {
+   "id": "C021_VS_C072_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "Your actions are worthless and lack resolve!",
+   "pt": "Suas ações são inúteis e carecem de determinação!"
+  },
+  {
+   "id": "C021_VS_C072_DECISION0_P_LOWER_KEYWORD",
+   "en": "You will never surpass me!",
+   "pt": "Você nunca me superará!"
+  },
+  {
+   "id": "C021_VS_C072_DECISION0_G_UPPER_KEYWORD",
+   "en": "Stand down, fool!",
+   "pt": "Recue, tolo!"
+  },
+  {
+   "id": "C021_VS_C072_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "All of you are merely pigs in human clothing!\nWho would listen to livestock like you?!",
+   "pt": "Todos vocês são meros porcos vestidos de humanos!\nQuem daria ouvidos a gado como vocês?!"
+  },
+  {
+   "id": "C021_VS_C072_DECISION0_G_LOWER_KEYWORD",
+   "en": "Know your place... pig!",
+   "pt": "Ponha-se no seu lugar... porco!"
+  },
+  {
+   "id": "C021_VS_C072_DECISION1_S_UPPER_KEYWORD",
+   "en": "Listen to me, you fools!",
+   "pt": "Escutem-me, seus tolos!"
+  },
+  {
+   "id": "C021_VS_C072_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "You are all pigs being used by system you cannot comprehend!",
+   "pt": "Todos vocês são porcos sendo usados por um sistema que não conseguem compreender!"
+  },
+  {
+   "id": "C021_VS_C072_DECISION1_S_LOWER_KEYWORD",
+   "en": "Useless beings that deserve to be enslaved!",
+   "pt": "Seres inúteis que merecem ser escravizados!"
+  },
+  {
+   "id": "C021_VS_C072_DECISION1_P_UPPER_KEYWORD",
+   "en": "How dare you mock me!",
+   "pt": "Como ousa zombar de mim!"
+  },
+  {
+   "id": "C021_VS_C072_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "If you challenge me, you are a fool!\nI do not hesitate and I will show no mercy!",
+   "pt": "Se me desafia, você é um tolo!\nEu não hesito e não demonstrarei misericórdia!"
+  },
+  {
+   "id": "C021_VS_C072_DECISION1_P_LOWER_KEYWORD",
+   "en": "You are weak and worthless!",
+   "pt": "Você é fraco e inútil!"
+  },
+  {
+   "id": "C021_VS_C072_DECISION1_G_UPPER_KEYWORD",
+   "en": "Humans are pigs wearing clothes!",
+   "pt": "Humanos são porcos vestindo roupas!"
+  },
+  {
+   "id": "C021_VS_C072_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "I shall stand firm and fight to rebuild this entire world!",
+   "pt": "Eu me manterei firme e lutarei para reconstruir este mundo inteiro!"
+  },
+  {
+   "id": "C021_VS_C072_DECISION1_G_LOWER_KEYWORD",
+   "en": "And you shall serve as their food!",
+   "pt": "E vocês servirão de comida para eles!"
+  },
+  {
+   "id": "C021_VS_C072_DECISION2_S_UPPER_KEYWORD",
+   "en": "You'll understand soon enough!",
+   "pt": "Você entenderá logo!"
+  },
+  {
+   "id": "C021_VS_C072_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "Anyone who dares to stand against me, will be crushed under my heel!",
+   "pt": "Qualquer um que ouse se opor a mim, será esmagado sob meu calcanhar!"
+  },
+  {
+   "id": "C021_VS_C072_DECISION2_S_LOWER_KEYWORD",
+   "en": "Remember this pain!",
+   "pt": "Lembre-se desta dor!"
+  },
+  {
+   "id": "C021_VS_C072_DECISION2_P_UPPER_KEYWORD",
+   "en": "How absurd! Who do you think you are?!",
+   "pt": "Que absurdo! Quem você acha que é?!"
+  },
+  {
+   "id": "C021_VS_C072_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "It would take you a century to block my will and even then, you will most likely fail!",
+   "pt": "Levaria um século para você deter a minha vontade e, mesmo assim, você muito provavelmente falharia!"
+  },
+  {
+   "id": "C021_VS_C072_DECISION2_P_LOWER_KEYWORD",
+   "en": "You'll regret your foolish hopes soon enough!",
+   "pt": "Você logo se arrependerá das suas esperanças tolas!"
+  },
+  {
+   "id": "C021_VS_C072_DECISION2_G_UPPER_KEYWORD",
+   "en": "I'll be happy to give you a taste of cruel reality!",
+   "pt": "Ficarei feliz em lhe dar um gostinho da cruel realidade!"
+  },
+  {
+   "id": "C021_VS_C072_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "Your weakness is proof you lack conviction! You are less than nothing!",
+   "pt": "Sua fraqueza é a prova de que lhe falta convicção! Você é menos que o nada!"
+  },
+  {
+   "id": "C021_VS_C072_DECISION2_G_LOWER_KEYWORD",
+   "en": "You are a complete disappointment!",
+   "pt": "Você é uma completa decepção!"
+  },
+  {
+   "id": "C021_VS_C081_DECISION0_S_UPPER_KEYWORD",
+   "en": "Listen up, you pigs in human clothing!",
+   "pt": "Escutem bem, seus porcos vestidos de humanos!"
+  },
+  {
+   "id": "C021_VS_C081_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "Fear is freedom! Subjugation is liberation! Contradiction is truth!\nThose are the facts of this world!",
+   "pt": "O medo é a liberdade! A subjugação é a libertação! A contradição é a verdade!\nEsses são os fatos deste mundo!"
+  },
+  {
+   "id": "C021_VS_C081_DECISION0_S_LOWER_KEYWORD",
+   "en": "You will all surrender to them!",
+   "pt": "Todos vocês se renderão a eles!"
+  },
+  {
+   "id": "C021_VS_C081_DECISION0_P_UPPER_KEYWORD",
+   "en": "Resistance is futile!",
+   "pt": "A resistência é inútil!"
+  },
+  {
+   "id": "C021_VS_C081_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "Your actions are worthless and lack resolve!",
+   "pt": "Suas ações são inúteis e carecem de determinação!"
+  },
+  {
+   "id": "C021_VS_C081_DECISION0_P_LOWER_KEYWORD",
+   "en": "You will never surpass me!",
+   "pt": "Você nunca me superará!"
+  },
+  {
+   "id": "C021_VS_C081_DECISION0_G_UPPER_KEYWORD",
+   "en": "Stand down, fool!",
+   "pt": "Recue, tolo!"
+  },
+  {
+   "id": "C021_VS_C081_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "All of you are merely pigs in human clothing!\nWho would listen to livestock like you?!",
+   "pt": "Todos vocês são meros porcos vestidos de humanos!\nQuem daria ouvidos a gado como vocês?!"
+  },
+  {
+   "id": "C021_VS_C081_DECISION0_G_LOWER_KEYWORD",
+   "en": "Know your place... pig!",
+   "pt": "Ponha-se no seu lugar... porco!"
+  },
+  {
+   "id": "C021_VS_C081_DECISION1_S_UPPER_KEYWORD",
+   "en": "Listen to me, you fools!",
+   "pt": "Escutem-me, seus tolos!"
+  },
+  {
+   "id": "C021_VS_C081_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "You are all pigs being used by system you cannot comprehend!",
+   "pt": "Todos vocês são porcos sendo usados por um sistema que não conseguem compreender!"
+  },
+  {
+   "id": "C021_VS_C081_DECISION1_S_LOWER_KEYWORD",
+   "en": "Useless beings that deserve to be enslaved!",
+   "pt": "Seres inúteis que merecem ser escravizados!"
+  },
+  {
+   "id": "C021_VS_C081_DECISION1_P_UPPER_KEYWORD",
+   "en": "How dare you mock me!",
+   "pt": "Como ousa zombar de mim!"
+  },
+  {
+   "id": "C021_VS_C081_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "If you challenge me, you are a fool!\nI do not hesitate and I will show no mercy!",
+   "pt": "Se me desafia, você é um tolo!\nEu não hesito e não demonstrarei misericórdia!"
+  },
+  {
+   "id": "C021_VS_C081_DECISION1_P_LOWER_KEYWORD",
+   "en": "You are weak and worthless!",
+   "pt": "Você é fraco e inútil!"
+  },
+  {
+   "id": "C021_VS_C081_DECISION1_G_UPPER_KEYWORD",
+   "en": "Humans are pigs wearing clothes!",
+   "pt": "Humanos são porcos vestindo roupas!"
+  },
+  {
+   "id": "C021_VS_C081_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "I shall stand firm and fight to rebuild this entire world!",
+   "pt": "Eu me manterei firme e lutarei para reconstruir este mundo inteiro!"
+  },
+  {
+   "id": "C021_VS_C081_DECISION1_G_LOWER_KEYWORD",
+   "en": "And you shall serve as their food!",
+   "pt": "E vocês servirão de comida para eles!"
+  },
+  {
+   "id": "C021_VS_C081_DECISION2_S_UPPER_KEYWORD",
+   "en": "You'll understand soon enough!",
+   "pt": "Você entenderá logo!"
+  },
+  {
+   "id": "C021_VS_C081_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "Anyone who dares to stand against me, will be crushed under my heel!",
+   "pt": "Qualquer um que ouse se opor a mim, será esmagado sob meu calcanhar!"
+  },
+  {
+   "id": "C021_VS_C081_DECISION2_S_LOWER_KEYWORD",
+   "en": "Remember this pain!",
+   "pt": "Lembre-se desta dor!"
+  },
+  {
+   "id": "C021_VS_C081_DECISION2_P_UPPER_KEYWORD",
+   "en": "How absurd! Who do you think you are?!",
+   "pt": "Que absurdo! Quem você acha que é?!"
+  },
+  {
+   "id": "C021_VS_C081_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "It would take you a century to block my will and even then, you will most likely fail!",
+   "pt": "Levaria um século para você deter a minha vontade e, mesmo assim, você muito provavelmente falharia!"
+  },
+  {
+   "id": "C021_VS_C081_DECISION2_P_LOWER_KEYWORD",
+   "en": "You'll regret your foolish hopes soon enough!",
+   "pt": "Você logo se arrependerá das suas esperanças tolas!"
+  },
+  {
+   "id": "C021_VS_C081_DECISION2_G_UPPER_KEYWORD",
+   "en": "I'll be happy to give you a taste of cruel reality!",
+   "pt": "Ficarei feliz em lhe dar um gostinho da cruel realidade!"
+  },
+  {
+   "id": "C021_VS_C081_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "Your weakness is proof you lack conviction! You are less than nothing!",
+   "pt": "Sua fraqueza é a prova de que lhe falta convicção! Você é menos que o nada!"
+  },
+  {
+   "id": "C021_VS_C081_DECISION2_G_LOWER_KEYWORD",
+   "en": "You are a complete disappointment!",
+   "pt": "Você é uma completa decepção!"
+  },
+  {
+   "id": "C021_VS_C082_DECISION0_S_UPPER_KEYWORD",
+   "en": "Listen up, you pigs in human clothing!",
+   "pt": "Escutem bem, seus porcos vestidos de humanos!"
+  },
+  {
+   "id": "C021_VS_C082_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "Fear is freedom! Subjugation is liberation! Contradiction is truth!\nThose are the facts of this world!",
+   "pt": "O medo é a liberdade! A subjugação é a libertação! A contradição é a verdade!\nEsses são os fatos deste mundo!"
+  },
+  {
+   "id": "C021_VS_C082_DECISION0_S_LOWER_KEYWORD",
+   "en": "You will all surrender to them!",
+   "pt": "Todos vocês se renderão a eles!"
+  },
+  {
+   "id": "C021_VS_C082_DECISION0_P_UPPER_KEYWORD",
+   "en": "Resistance is futile!",
+   "pt": "A resistência é inútil!"
+  },
+  {
+   "id": "C021_VS_C082_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "Your actions are worthless and lack resolve!",
+   "pt": "Suas ações são inúteis e carecem de determinação!"
+  },
+  {
+   "id": "C021_VS_C082_DECISION0_P_LOWER_KEYWORD",
+   "en": "You will never surpass me!",
+   "pt": "Você nunca me superará!"
+  },
+  {
+   "id": "C021_VS_C082_DECISION0_G_UPPER_KEYWORD",
+   "en": "Stand down, fool!",
+   "pt": "Recue, tolo!"
+  },
+  {
+   "id": "C021_VS_C082_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "All of you are merely pigs in human clothing!\nWho would listen to livestock like you?!",
+   "pt": "Todos vocês são meros porcos vestidos de humanos!\nQuem daria ouvidos a gado como vocês?!"
+  },
+  {
+   "id": "C021_VS_C082_DECISION0_G_LOWER_KEYWORD",
+   "en": "Know your place... pig!",
+   "pt": "Ponha-se no seu lugar... porco!"
+  },
+  {
+   "id": "C021_VS_C082_DECISION1_S_UPPER_KEYWORD",
+   "en": "Listen to me, you fools!",
+   "pt": "Escutem-me, seus tolos!"
+  },
+  {
+   "id": "C021_VS_C082_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "You are all pigs being used by system you cannot comprehend!",
+   "pt": "Todos vocês são porcos sendo usados por um sistema que não conseguem compreender!"
+  },
+  {
+   "id": "C021_VS_C082_DECISION1_S_LOWER_KEYWORD",
+   "en": "Useless beings that deserve to be enslaved!",
+   "pt": "Seres inúteis que merecem ser escravizados!"
+  },
+  {
+   "id": "C021_VS_C082_DECISION1_P_UPPER_KEYWORD",
+   "en": "How dare you mock me!",
+   "pt": "Como ousa zombar de mim!"
+  },
+  {
+   "id": "C021_VS_C082_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "If you challenge me, you are a fool!\nI do not hesitate and I will show no mercy!",
+   "pt": "Se me desafia, você é um tolo!\nEu não hesito e não demonstrarei misericórdia!"
+  },
+  {
+   "id": "C021_VS_C082_DECISION1_P_LOWER_KEYWORD",
+   "en": "You are weak and worthless!",
+   "pt": "Você é fraco e inútil!"
+  },
+  {
+   "id": "C021_VS_C082_DECISION1_G_UPPER_KEYWORD",
+   "en": "Humans are pigs wearing clothes!",
+   "pt": "Humanos são porcos vestindo roupas!"
+  },
+  {
+   "id": "C021_VS_C082_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "I shall stand firm and fight to rebuild this entire world!",
+   "pt": "Eu me manterei firme e lutarei para reconstruir este mundo inteiro!"
+  },
+  {
+   "id": "C021_VS_C082_DECISION1_G_LOWER_KEYWORD",
+   "en": "And you shall serve as their food!",
+   "pt": "E vocês servirão de comida para eles!"
+  },
+  {
+   "id": "C021_VS_C082_DECISION2_S_UPPER_KEYWORD",
+   "en": "You'll understand soon enough!",
+   "pt": "Você entenderá logo!"
+  },
+  {
+   "id": "C021_VS_C082_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "Anyone who dares to stand against me, will be crushed under my heel!",
+   "pt": "Qualquer um que ouse se opor a mim, será esmagado sob meu calcanhar!"
+  },
+  {
+   "id": "C021_VS_C082_DECISION2_S_LOWER_KEYWORD",
+   "en": "Remember this pain!",
+   "pt": "Lembre-se desta dor!"
+  },
+  {
+   "id": "C021_VS_C082_DECISION2_P_UPPER_KEYWORD",
+   "en": "How absurd! Who do you think you are?!",
+   "pt": "Que absurdo! Quem você acha que é?!"
+  },
+  {
+   "id": "C021_VS_C082_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "It would take you a century to block my will and even then, you will most likely fail!",
+   "pt": "Levaria um século para você deter a minha vontade e, mesmo assim, você muito provavelmente falharia!"
+  },
+  {
+   "id": "C021_VS_C082_DECISION2_P_LOWER_KEYWORD",
+   "en": "You'll regret your foolish hopes soon enough!",
+   "pt": "Você logo se arrependerá das suas esperanças tolas!"
+  },
+  {
+   "id": "C021_VS_C082_DECISION2_G_UPPER_KEYWORD",
+   "en": "I'll be happy to give you a taste of cruel reality!",
+   "pt": "Ficarei feliz em lhe dar um gostinho da cruel realidade!"
+  },
+  {
+   "id": "C021_VS_C082_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "Your weakness is proof you lack conviction! You are less than nothing!",
+   "pt": "Sua fraqueza é a prova de que lhe falta convicção! Você é menos que o nada!"
+  },
+  {
+   "id": "C021_VS_C082_DECISION2_G_LOWER_KEYWORD",
+   "en": "You are a complete disappointment!",
+   "pt": "Você é uma completa decepção!"
+  },
+  {
+   "id": "C021_VS_C141_DECISION0_S_UPPER_KEYWORD",
+   "en": "Listen up, you pigs in human clothing!",
+   "pt": "Escutem bem, seus porcos vestidos de humanos!"
+  },
+  {
+   "id": "C021_VS_C141_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "Fear is freedom! Subjugation is liberation! Contradiction is truth!\nThose are the facts of this world!",
+   "pt": "O medo é a liberdade! A subjugação é a libertação! A contradição é a verdade!\nEsses são os fatos deste mundo!"
+  },
+  {
+   "id": "C021_VS_C141_DECISION0_S_LOWER_KEYWORD",
+   "en": "You will all surrender to them!",
+   "pt": "Todos vocês se renderão a eles!"
+  },
+  {
+   "id": "C021_VS_C141_DECISION0_P_UPPER_KEYWORD",
+   "en": "Resistance is futile!",
+   "pt": "A resistência é inútil!"
+  },
+  {
+   "id": "C021_VS_C141_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "Your actions are worthless and lack resolve!",
+   "pt": "Suas ações são inúteis e carecem de determinação!"
+  },
+  {
+   "id": "C021_VS_C141_DECISION0_P_LOWER_KEYWORD",
+   "en": "You will never surpass me!",
+   "pt": "Você nunca me superará!"
+  }
+ ]
+}

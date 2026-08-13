@@ -1,0 +1,648 @@
+{
+ "origem": "message/MES_CHAT",
+ "conteudo": "Falas rapidas / chat online",
+ "parte": "3/3",
+ "instrucoes": "Traduza o campo 'en' para portugues do Brasil e escreva o resultado em 'pt'. Nao altere 'id'. Mantenha intactos os codigos entre chaves ({CA}, {LA}, {BR}, {JU}, {SP}, {GD}, {LS}, {L1}, {R1}, setas), os marcadores de formato (%d, %l, %ls, %hs) e as quebras de linha \\n. Se uma linha nao precisar de traducao, deixe 'pt' vazio.",
+ "linhas": [
+  {
+   "id": "CHAT_C08_02_02",
+   "en": "I'm not gonna\nleave defeated.\nFight me again!",
+   "pt": "Não vou sair\nderrotada.\nLute comigo de novo!"
+  },
+  {
+   "id": "CHAT_C08_02_03",
+   "en": "Add me as a\nfriend so we can\nplay again!",
+   "pt": "Me adiciona como\namiga para a gente\njogar de novo!"
+  },
+  {
+   "id": "CHAT_C08_02_04",
+   "en": "This is the\nlast battle!",
+   "pt": "Essa é a\núltima batalha!"
+  },
+  {
+   "id": "CHAT_C08_03_00",
+   "en": "I'll be back.",
+   "pt": "Eu volto já."
+  },
+  {
+   "id": "CHAT_C08_03_01",
+   "en": "Just give me\na little more\ntime!",
+   "pt": "Só me dá\nmais um\ntempinho!"
+  },
+  {
+   "id": "CHAT_C08_03_02",
+   "en": "Time for supper!\nYou should also\ngo eat.",
+   "pt": "Hora da janta!\nVocê também\ndevia ir comer."
+  },
+  {
+   "id": "CHAT_C08_03_03",
+   "en": "I'm gonna go home\nand take a bath!",
+   "pt": "Vou pra casa\ntomar um banho!"
+  },
+  {
+   "id": "CHAT_C08_03_04",
+   "en": "I'm tired so\nI'm going to sleep.",
+   "pt": "Tô cansada, então\nvou dormir."
+  },
+  {
+   "id": "CHAT_C08_03_05",
+   "en": "We're disbanding\nfor today. Until\nnext time!",
+   "pt": "Estamos encerrando\npor hoje. Até a\npróxima!"
+  },
+  {
+   "id": "CHAT_C08_03_06",
+   "en": "I'm leaving!\nLet’s play again\nsoon!",
+   "pt": "Tô indo!\nVamos jogar de novo\nem breve!"
+  },
+  {
+   "id": "CHAT_C08_04_00",
+   "en": "Wooow!",
+   "pt": "Uaaau!"
+  },
+  {
+   "id": "CHAT_C08_04_01",
+   "en": "You're pretty good!",
+   "pt": "Você é bem forte!"
+  },
+  {
+   "id": "CHAT_C08_04_02",
+   "en": "That was lots\nof fun!",
+   "pt": "Isso foi muito\ndivertido!"
+  },
+  {
+   "id": "CHAT_C08_04_03",
+   "en": "Maybe I should\nstart getting\nserious.",
+   "pt": "Talvez eu devesse\ncomeçar a levar\na sério."
+  },
+  {
+   "id": "CHAT_C08_04_04",
+   "en": "Good game! You\nwere on the right\ntrack, too!",
+   "pt": "Bom jogo! Você\ntambém tava no\ncaminho certo!"
+  },
+  {
+   "id": "CHAT_C08_04_05",
+   "en": "Let's play again!",
+   "pt": "Vamos jogar de novo!"
+  },
+  {
+   "id": "CHAT_C08_05_00",
+   "en": "It’s getting a\nlittle boring. You\ncan raise the\nhandicap!",
+   "pt": "Tá ficando um\npouco chato. Você\npode aumentar a\nvantagem!"
+  },
+  {
+   "id": "CHAT_C08_05_01",
+   "en": "I think you can\nlower the\nhandicap now.",
+   "pt": "Acho que já pode\ndiminuir a\nvantagem agora."
+  },
+  {
+   "id": "CHAT_C08_05_02",
+   "en": "Gimme a little bit\nof a handicap,\nplease!",
+   "pt": "Me dá um pouquinho\nde vantagem,\npor favor!"
+  },
+  {
+   "id": "CHAT_C08_05_03",
+   "en": "Let's remove\nhandicaps so we\ncan play normally\nnow!",
+   "pt": "Vamos tirar as\nvantagens para\njogar normalmente\nagora!"
+  },
+  {
+   "id": "CHAT_C08_05_04",
+   "en": "Let's change the\nstage and switch\nthings up a bit!",
+   "pt": "Vamos mudar de\nestágio e variar\num pouco as coisas!"
+  },
+  {
+   "id": "CHAT_C08_05_05",
+   "en": "I think the time\nlimit is a little\ntoo short. Can you\nextend it?",
+   "pt": "Acho que o limite\nde tempo tá muito\ncurto. Dá para\nestender?"
+  },
+  {
+   "id": "CHAT_C08_05_06",
+   "en": "The time limit\nis too long.\nReduce it!",
+   "pt": "O limite de tempo\ntá longo demais.\nDiminui!"
+  },
+  {
+   "id": "CHAT_C08_05_07",
+   "en": "Enable the SHARE\nfunction. Fights are\nmore fun with a\ncrowd, right?",
+   "pt": "Ativa a função\nSHARE. As lutas são\nmais legais com\npúblico, né?"
+  },
+  {
+   "id": "CHAT_C08_10_00",
+   "en": "Great job.",
+   "pt": "Ótimo trabalho."
+  },
+  {
+   "id": "CHAT_C08_10_01",
+   "en": "Wow, you're good!",
+   "pt": "Uau, você é bom!"
+  },
+  {
+   "id": "CHAT_C08_10_02",
+   "en": "Good game! You\nwere on the right \ntrack, too!",
+   "pt": "Bom jogo! Você\ntambém tava no\ncaminho certo!"
+  },
+  {
+   "id": "CHAT_C08_10_03",
+   "en": "Let's play again!",
+   "pt": "Vamos jogar de novo!"
+  },
+  {
+   "id": "CHAT_C08_11_00",
+   "en": "That was fun!\nThanks!",
+   "pt": "Isso foi divertido!\nValeu!"
+  },
+  {
+   "id": "CHAT_C08_11_01",
+   "en": "How can a mere human\nexert this\nmuch power?!",
+   "pt": "Como um mero humano\nconsegue exercer\ntanto poder?!"
+  },
+  {
+   "id": "CHAT_C08_11_02",
+   "en": "Yeah! Good game.",
+   "pt": "É! Bom jogo."
+  },
+  {
+   "id": "CHAT_C08_11_03",
+   "en": "Awesome! Congrats!",
+   "pt": "Incrível! Parabéns!"
+  },
+  {
+   "id": "CHAT_C14_00_00",
+   "en": "Good morning!",
+   "pt": "Bom dia!"
+  },
+  {
+   "id": "CHAT_C14_00_01",
+   "en": "Hello! It's noon!\nLunch time!\nI can't wait!",
+   "pt": "Oi! É meio-dia!\nHora do almoço!\nMal posso esperar!"
+  },
+  {
+   "id": "CHAT_C14_00_02",
+   "en": "Good evening!\nTime for dinner!",
+   "pt": "Boa noite!\nHora de jantar!"
+  },
+  {
+   "id": "CHAT_C14_00_03",
+   "en": "Good meeting you!",
+   "pt": "Prazer em conhecer!"
+  },
+  {
+   "id": "CHAT_C14_00_04",
+   "en": "Sorry,\ndid you wait long?!",
+   "pt": "Desculpa,\nvocê esperou muito?!"
+  },
+  {
+   "id": "CHAT_C14_00_05",
+   "en": "Thank you!",
+   "pt": "Obrigada!"
+  },
+  {
+   "id": "CHAT_C14_00_06",
+   "en": "Sorry!\nPlease forgive me,\nplease!",
+   "pt": "Desculpa!\nPor favor, me perdoa,\npor favorzinho!"
+  },
+  {
+   "id": "CHAT_C14_00_07",
+   "en": "Good work!",
+   "pt": "Bom trabalho!"
+  },
+  {
+   "id": "CHAT_C14_00_08",
+   "en": "Bye bye!",
+   "pt": "Tchau, tchau!"
+  },
+  {
+   "id": "CHAT_C14_00_09",
+   "en": "Good night... \nZzz... Oh!\nWas I sleeping?",
+   "pt": "Boa noite...\nZzz... Ah!\nEu tava dormindo?"
+  },
+  {
+   "id": "CHAT_C14_00_10",
+   "en": "Congratulations,\nI'm happy for you!",
+   "pt": "Parabéns,\ntô feliz por você!"
+  },
+  {
+   "id": "CHAT_C14_01_00",
+   "en": "Sure,\nno problems at all!",
+   "pt": "Claro,\nsem problema nenhum!"
+  },
+  {
+   "id": "CHAT_C14_01_01",
+   "en": "The answer is no. \nI cannot accept \nthat!",
+   "pt": "A resposta é não.\nEu não posso aceitar\nisso!"
+  },
+  {
+   "id": "CHAT_C14_01_02",
+   "en": "Okay, I'm in!",
+   "pt": "Beleza, tô dentro!"
+  },
+  {
+   "id": "CHAT_C14_02_00",
+   "en": "Are you ready?\nOkay, ready, \nset...Go!",
+   "pt": "Tá pronto?\nBeleza, preparar,\napontar... Vai!"
+  },
+  {
+   "id": "CHAT_C14_02_01",
+   "en": "Please!\nOne more match,\njust one more!",
+   "pt": "Por favor!\nSó mais uma partida,\nsó mais uma!"
+  },
+  {
+   "id": "CHAT_C14_02_02",
+   "en": "Alright,\nI'm not gonna lose\nthis time!\nBetter be ready!",
+   "pt": "Certo,\neu não vou perder\ndessa vez!\nÉ melhor se preparar!"
+  },
+  {
+   "id": "CHAT_C14_02_03",
+   "en": "Add me as a friend,\nso you can be\nmy friend that lives\noutside my head!",
+   "pt": "Me adiciona como\namigo, assim você\npode ser meu amigo\nfora da minha cabeça!"
+  },
+  {
+   "id": "CHAT_C14_02_04",
+   "en": "I think this is\ngonna be my last \nmatch.\nIs that okay?",
+   "pt": "Acho que essa\nvai ser a minha\núltima partida.\nTudo bem?"
+  },
+  {
+   "id": "CHAT_C14_03_00",
+   "en": "I'll be right back!",
+   "pt": "Volto já!"
+  },
+  {
+   "id": "CHAT_C14_03_01",
+   "en": "Wait, waaaait!",
+   "pt": "Espera, espeeeera!"
+  },
+  {
+   "id": "CHAT_C14_03_02",
+   "en": "Oh, it's time \nfor supper!\nI gotta go eat!",
+   "pt": "Ah, tá na hora\nda janta!\nTenho que ir comer!"
+  },
+  {
+   "id": "CHAT_C14_03_03",
+   "en": "I'm gonna go take a\nbath! Our bathtub's\ngot direct heating!",
+   "pt": "Vou tomar um\nbanho! A nossa\nbanheira tem\naquecimento direto!"
+  },
+  {
+   "id": "CHAT_C14_03_04",
+   "en": "I'm going to bed!\nGood night!",
+   "pt": "Vou pra cama!\nBoa noite!"
+  },
+  {
+   "id": "CHAT_C14_03_05",
+   "en": "I'm going to disband\nthe room now!\nSee you later!",
+   "pt": "Vou fechar\na sala agora!\nAté mais tarde!"
+  },
+  {
+   "id": "CHAT_C14_03_06",
+   "en": "I'm leaving now.\nSee you later!",
+   "pt": "Tô indo agora.\nAté mais tarde!"
+  },
+  {
+   "id": "CHAT_C14_04_00",
+   "en": "Nice one!",
+   "pt": "Boa!"
+  },
+  {
+   "id": "CHAT_C14_04_01",
+   "en": "You're super strong!\nI gotta catch up\nto you!",
+   "pt": "Você é super forte!\nTenho que te\nalcançar!"
+  },
+  {
+   "id": "CHAT_C14_04_02",
+   "en": "That was fun. \nThanks!",
+   "pt": "Isso foi divertido.\nValeu!"
+  },
+  {
+   "id": "CHAT_C14_04_03",
+   "en": "I'm about to get\nserious. Get ready!",
+   "pt": "Tô prestes a levar\na sério. Prepara!"
+  },
+  {
+   "id": "CHAT_C14_04_04",
+   "en": "Good game!\nI'm not too bad \neither, am I?",
+   "pt": "Bom jogo!\nEu não sou tão ruim\nassim, né?"
+  },
+  {
+   "id": "CHAT_C14_04_05",
+   "en": "Let's meet again!\nI'll work hard\nuntil then!",
+   "pt": "Vamos nos ver de novo!\nVou treinar duro\naté lá!"
+  },
+  {
+   "id": "CHAT_C14_05_00",
+   "en": "I'm getting pretty\nused to this now,\nso you can raise\nthe handicap!",
+   "pt": "Tô ficando bem\nacostumada com isso,\nentão você pode\naumentar a vantagem!"
+  },
+  {
+   "id": "CHAT_C14_05_01",
+   "en": "It's so hard!\nOh so very tough!\nLower the handicap!",
+   "pt": "É muito difícil!\nAh, que complicado!\nDiminui a vantagem!"
+  },
+  {
+   "id": "CHAT_C14_05_02",
+   "en": "I'm not that strong,\nso I need an \nadvantage!",
+   "pt": "Não sou tão forte,\nentão eu preciso de\numa vantagem!"
+  },
+  {
+   "id": "CHAT_C14_05_03",
+   "en": "Let's fight for\nreal now. \nNo more handicaps!",
+   "pt": "Vamos lutar pra\nvaler agora.\nChega de vantagens!"
+  },
+  {
+   "id": "CHAT_C14_05_04",
+   "en": "Let's go somewhere\nelse! I'm tired of\nthis place!",
+   "pt": "Vamos pra outro\nlugar! Já cansei\ndesse aqui!"
+  },
+  {
+   "id": "CHAT_C14_05_05",
+   "en": "That's not enough \ntime! Extend the \ntime limit!",
+   "pt": "Não tem tempo\nsuficiente! Aumenta\no limite de tempo!"
+  },
+  {
+   "id": "CHAT_C14_05_06",
+   "en": "That's too much \ntime! Shorten the\ntime limit!",
+   "pt": "É tempo demais!\nDiminui o limite\nde tempo!"
+  },
+  {
+   "id": "CHAT_C14_05_07",
+   "en": "Enable the SHARE\nfunction!\nIt's better with\nan audience!",
+   "pt": "Ativa a função\nSHARE!\nÉ melhor com\numa plateia!"
+  },
+  {
+   "id": "CHAT_C14_10_00",
+   "en": "Good job!\nI bet you're hungry!",
+   "pt": "Bom trabalho!\nAposto que tá com fome!"
+  },
+  {
+   "id": "CHAT_C14_10_01",
+   "en": "Nice one!",
+   "pt": "Boa!"
+  },
+  {
+   "id": "CHAT_C14_10_02",
+   "en": "Good game!\nYou're pretty good!",
+   "pt": "Bom jogo!\nVocê é bem forte!"
+  },
+  {
+   "id": "CHAT_C14_10_03",
+   "en": "Let's fight again!\nI'll practice a\nwhole bunch!",
+   "pt": "Vamos lutar de novo!\nVou praticar\num montão!"
+  },
+  {
+   "id": "CHAT_C14_11_00",
+   "en": "That was fun. \nThanks!",
+   "pt": "Isso foi divertido.\nValeu!"
+  },
+  {
+   "id": "CHAT_C14_11_01",
+   "en": "You're uber strong!",
+   "pt": "Você é muito forte!"
+  },
+  {
+   "id": "CHAT_C14_11_02",
+   "en": "That was a good\ngame!",
+   "pt": "Esse foi um bom\njogo!"
+  },
+  {
+   "id": "CHAT_C14_11_03",
+   "en": "I don't know what's\ngoing on, but that\nwas impressive!",
+   "pt": "Não sei o que tá\nacontecendo, mas\nisso foi impressionante!"
+  },
+  {
+   "id": "CHAT_C15_00_00",
+   "en": "Hey, good morning.\nThe perfectmorning\nfor training.",
+   "pt": "Ei, bom dia.\nA manhã perfeita\npara treinar."
+  },
+  {
+   "id": "CHAT_C15_00_01",
+   "en": "Yo. \nHello. Seems like\nthe perfect time \nto strip!",
+   "pt": "E aí.\nOlá. Parece\na hora perfeita\npara ficar pelado!"
+  },
+  {
+   "id": "CHAT_C15_00_02",
+   "en": "Good evening.\nTraining this late\nat night? I like it.\nLet me join in.",
+   "pt": "Boa noite.\nTreinando tão tarde\nda noite? Gostei.\nDeixa eu participar."
+  },
+  {
+   "id": "CHAT_C15_00_03",
+   "en": "A pleasure.\nI'll show you the \npower of us nudists!",
+   "pt": "Um prazer.\nVou te mostrar o\npoder dos nudistas!"
+  },
+  {
+   "id": "CHAT_C15_00_04",
+   "en": "Sorry for the wait.\nLet's go.",
+   "pt": "Desculpe a demora.\nVamos lá."
+  },
+  {
+   "id": "CHAT_C15_00_05",
+   "en": "Thank you.\nI owe you one.",
+   "pt": "Obrigado.\nTe devo uma."
+  },
+  {
+   "id": "CHAT_C15_00_06",
+   "en": "Forgive me.\nSorry about that.",
+   "pt": "Me perdoe.\nFoi mal por isso."
+  },
+  {
+   "id": "CHAT_C15_00_07",
+   "en": "Nice work.\nWorked up quite a\nsweat, didn't we?",
+   "pt": "Bom trabalho.\nSuamos bastante,\nnão acha?"
+  },
+  {
+   "id": "CHAT_C15_00_08",
+   "en": "I'm leaving\nLater.",
+   "pt": "Estou de saída.\nAté mais."
+  },
+  {
+   "id": "CHAT_C15_00_09",
+   "en": "Have a good evening.\nBye.",
+   "pt": "Tenha uma boa noite.\nTchau."
+  },
+  {
+   "id": "CHAT_C15_00_10",
+   "en": "Congratulations.\nI'm happy for you.\nYeah, agreed.",
+   "pt": "Parabéns.\nFico feliz por você.\nÉ, concordo."
+  },
+  {
+   "id": "CHAT_C15_01_00",
+   "en": "Roger that. I don't \nmind. I've no \nobjections either.",
+   "pt": "Entendido. Eu não\nligo. Também não\ntenho objeções."
+  },
+  {
+   "id": "CHAT_C15_01_01",
+   "en": "Absolutely not.\nSorry about that.",
+   "pt": "Absolutamente não.\nFoi mal por isso."
+  },
+  {
+   "id": "CHAT_C15_01_02",
+   "en": "No problem.\nOkay, let's do that.",
+   "pt": "Sem problemas.\nCerto, vamos fazer isso."
+  },
+  {
+   "id": "CHAT_C15_02_00",
+   "en": "Preparations \ncomplete.\nAre you ready?",
+   "pt": "Preparações\nconcluídas.\nVocê está pronto?"
+  },
+  {
+   "id": "CHAT_C15_02_01",
+   "en": "Can we have another\nmatch? Practice\nmakes perfect.",
+   "pt": "Podemos jogar mais\numa partida? A prática\nleva à perfeição."
+  },
+  {
+   "id": "CHAT_C15_02_02",
+   "en": "Let's do one more \nround. I've yet to \nlet it all hang out!\nCool with that?",
+   "pt": "Vamos fazer mais\num round. Eu ainda nem\nmostrei tudo o que tenho!\nTudo bem por você?"
+  },
+  {
+   "id": "CHAT_C15_02_03",
+   "en": "Add me as a friend.\nYou should become\na nudist, too!",
+   "pt": "Me adicione como amigo.\nVocê deveria virar\num nudista também!"
+  },
+  {
+   "id": "CHAT_C15_02_04",
+   "en": "Shall we make this\nour last match?\nDon't hold your \npunches.",
+   "pt": "Vamos fazer dessa\na nossa última\npartida? Não\npegue leve."
+  },
+  {
+   "id": "CHAT_C15_03_00",
+   "en": "We're leaving\nfor a bit.\nBe back soon.",
+   "pt": "Vamos sair\npor um tempo.\nVoltamos logo."
+  },
+  {
+   "id": "CHAT_C15_03_01",
+   "en": "Wait a minute.\nWe need time to \nstrip!",
+   "pt": "Espera um pouco.\nPrecisamos de tempo\npara nos despir!"
+  },
+  {
+   "id": "CHAT_C15_03_02",
+   "en": "Time to eat.\nYep. Where should\nwe go drinking \ntoday...",
+   "pt": "Hora de comer.\nÉ. Onde devemos\nir beber\nhoje..."
+  },
+  {
+   "id": "CHAT_C15_03_03",
+   "en": "I'm taking a bath.\nFine, you can take\na bath first, \nTsumugu.",
+   "pt": "Vou tomar um banho.\nTudo bem, você pode\ntomar banho primeiro,\nTsumugu."
+  },
+  {
+   "id": "CHAT_C15_03_04",
+   "en": "Look at the time.\nI'm going to bed.\nYou should get some\nrest while you can.",
+   "pt": "Olha a hora.\nVou pra cama.\nVocê deveria descansar\nenquanto pode."
+  },
+  {
+   "id": "CHAT_C15_03_05",
+   "en": "That's it for this \nroom. \nI'll be leaving now.",
+   "pt": "Chega por hoje\nnessa sala.\nEstou saindo agora."
+  },
+  {
+   "id": "CHAT_C15_03_06",
+   "en": "I'm leaving.\nI'm sure\nwe'll meet again.",
+   "pt": "Estou saindo.\nTenho certeza que\nnos veremos de novo."
+  },
+  {
+   "id": "CHAT_C15_04_00",
+   "en": "You're not bad.\nHehehe, you exceeded\nmy expectations.",
+   "pt": "Você não é ruim.\nHehehe, superou\nas minhas expectativas."
+  },
+  {
+   "id": "CHAT_C15_04_01",
+   "en": "Your powers are far\nbeyond what I \nexpected. Yeah, \nmakes it all the \nmore worthwhile.",
+   "pt": "Seus poderes vão muito\nalém do que eu\nesperava. É, torna\nisso ainda mais\ninteressante."
+  },
+  {
+   "id": "CHAT_C15_04_02",
+   "en": "Whew, I had fun\nfighting you.\nLet's fight again.",
+   "pt": "Ufa, me diverti\nlutando com você.\nVamos lutar de novo."
+  },
+  {
+   "id": "CHAT_C15_04_03",
+   "en": "Time to get serious.\nWell, well. Never \nthought I'd end up\nletting it all\nhang out.",
+   "pt": "Hora de levar a sério.\nOra, ora. Nunca\npensei que acabaria\nmostrando\ntudo o que tenho."
+  },
+  {
+   "id": "CHAT_C15_04_04",
+   "en": "Good game.\nI don't dislike\nskilled people.",
+   "pt": "Bom jogo.\nNão desgosto de\npessoas habilidosas."
+  },
+  {
+   "id": "CHAT_C15_04_05",
+   "en": "Fight us again.\nWe'll be sure to\npolish our skills\nbefore then.",
+   "pt": "Lute conosco de novo.\nVamos garantir que\nnossas habilidades sejam\naprimoradas até lá."
+  },
+  {
+   "id": "CHAT_C15_05_00",
+   "en": "Raise the handicap.\nI need more \nexcitement. It\ndoesn't sound right\nwhen you say it...",
+   "pt": "Aumente a vantagem.\nEu preciso de mais\nemoção. Não soa\nmuito bem quando\nvocê diz isso..."
+  },
+  {
+   "id": "CHAT_C15_05_01",
+   "en": "Lower the handicap.\nYeah, we can't give\nwhat we don't have!",
+   "pt": "Diminua a vantagem.\nÉ, não podemos dar\no que não temos!"
+  },
+  {
+   "id": "CHAT_C15_05_02",
+   "en": "Umm, could you give\nus a little \nadvantage? Please.",
+   "pt": "Hum, você poderia\nnos dar uma pequena\nvantagem? Por favor."
+  },
+  {
+   "id": "CHAT_C15_05_03",
+   "en": "Level the handicap.\nI'll take you on \nfair and square this\ntime.",
+   "pt": "Nivele a vantagem.\nVou lutar com você\nde forma justa dessa\nvez."
+  },
+  {
+   "id": "CHAT_C15_05_04",
+   "en": "Change the stage.\nI don't feel\nlike stripping here.",
+   "pt": "Mude de estágio.\nNão tô a fim de\nficar pelado aqui."
+  },
+  {
+   "id": "CHAT_C15_05_05",
+   "en": "Extend the time \nlimit. Yeah, better \nto take time\nstripping.",
+   "pt": "Aumente o limite\nde tempo. É, melhor\nlevar mais tempo\nse despindo."
+  },
+  {
+   "id": "CHAT_C15_05_06",
+   "en": "Shorten the time \nlimit. We'll end it\nin an instant.",
+   "pt": "Diminua o limite\nde tempo. Vamos acabar\ncom isso num instante."
+  },
+  {
+   "id": "CHAT_C15_05_07",
+   "en": "Change the SHARE\nfunction settings.\nIt's better to be\nseen by lots of \npeople.",
+   "pt": "Mude os ajustes da\nfunção SHARE. É\nmelhor ser visto\npor muita\ngente."
+  },
+  {
+   "id": "CHAT_C15_10_00",
+   "en": "Good work.\nThat felt really\ngood. Thanks.",
+   "pt": "Bom trabalho.\nIsso foi muito\nbom. Obrigado."
+  },
+  {
+   "id": "CHAT_C15_10_01",
+   "en": "Hmmm, you're pretty\ngood. Yeah, I'll be\nsure to remember\nyour name.",
+   "pt": "Hmmm, você é muito\nbom. É, eu vou\nlembrar o\nseu nome."
+  },
+  {
+   "id": "CHAT_C15_10_02",
+   "en": "Isn't competition\na beautiful thing?\nYeah, good.\nReal good indeed...",
+   "pt": "A competição não é\numa coisa linda?\nÉ, boa.\nMuito boa mesmo..."
+  },
+  {
+   "id": "CHAT_C15_10_03",
+   "en": "Farewell.\nWe shall meet again!",
+   "pt": "Adeus.\nNos encontraremos de novo!"
+  },
+  {
+   "id": "CHAT_C15_11_00",
+   "en": "Thank you.\nThat was quite \nentertaining.",
+   "pt": "Obrigado.\nIsso foi bem\ndivertido."
+  },
+  {
+   "id": "CHAT_C15_11_01",
+   "en": "You're strong...\nDon't worry,\nI promise to pay you\nback for that.",
+   "pt": "Você é forte...\nNão se preocupe,\neu prometo te\ndar o troco."
+  },
+  {
+   "id": "CHAT_C15_11_02",
+   "en": "Looks like you're\nquite skilled.\nHehehe, I like \nhaving a challenge \nto overcome.",
+   "pt": "Parece que você é\nbem habilidoso.\nHehehe, eu gosto de\nter um desafio\npara superar."
+  },
+  {
+   "id": "CHAT_C15_11_03",
+   "en": "Good going.\nYeah, congrats.",
+   "pt": "Muito bem.\nÉ, parabéns."
+  }
+ ]
+}

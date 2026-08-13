@@ -1,0 +1,1008 @@
+{
+ "origem": "KlkResources/S701_MES/MES_051_JYA_ACT",
+ "conteudo": "Falas em batalha - Jakuzure",
+ "parte": "2/3",
+ "instrucoes": "Traduza o campo 'en' para portugues do Brasil e escreva o resultado em 'pt'. Nao altere 'id'. Mantenha intactos os codigos entre chaves ({CA}, {LA}, {BR}, {JU}, {SP}, {GD}, {LS}, {L1}, {R1}, setas), os marcadores de formato (%d, %l, %ls, %hs) e as quebras de linha \\n. Se uma linha nao precisar de traducao, deixe 'pt' vazio.",
+ "linhas": [
+  {
+   "id": "C051_VS_C031_DECISION1_P_LOWER_KEYWORD",
+   "en": "I'll blast you out of here in a jiffy!",
+   "pt": "Vou varrer você daqui num piscar de olhos!"
+  },
+  {
+   "id": "C051_VS_C031_DECISION1_G_UPPER_KEYWORD",
+   "en": "Okay. I'll make you dance some more!",
+   "pt": "Certo. Vou fazer você dançar mais um pouco!"
+  },
+  {
+   "id": "C051_VS_C031_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "Ha ha! You look so funny right now! And pathetic!",
+   "pt": "Ha ha! Você tá com uma cara tão engraçada agora! E patética!"
+  },
+  {
+   "id": "C051_VS_C031_DECISION1_G_LOWER_KEYWORD",
+   "en": "I'm gonna make you cry even harder!",
+   "pt": "Eu vou fazer você chorar ainda mais!"
+  },
+  {
+   "id": "C051_VS_C031_DECISION2_S_UPPER_KEYWORD",
+   "en": "Unfortunately, the performance is about to end.",
+   "pt": "Infelizmente, a apresentação está para acabar."
+  },
+  {
+   "id": "C051_VS_C031_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "It's time for this song's finale!\nALONG WITH YOURS.",
+   "pt": "É hora do gran finale desta música!\nJUNTO COM O SEU."
+  },
+  {
+   "id": "C051_VS_C031_DECISION2_S_LOWER_KEYWORD",
+   "en": "Now, get down and stay down!",
+   "pt": "Agora, caia e fique no chão!"
+  },
+  {
+   "id": "C051_VS_C031_DECISION2_P_UPPER_KEYWORD",
+   "en": "I'm sooooo tired of that sound!",
+   "pt": "Eu tô tããão cansada desse som!"
+  },
+  {
+   "id": "C051_VS_C031_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "I'll edit you out of the composition! Listen and tremble!",
+   "pt": "Vou apagar você da composição! Ouça e trema!"
+  },
+  {
+   "id": "C051_VS_C031_DECISION2_P_LOWER_KEYWORD",
+   "en": "This is your requiem!",
+   "pt": "Este é o seu réquiem!"
+  },
+  {
+   "id": "C051_VS_C031_DECISION2_G_UPPER_KEYWORD",
+   "en": "This is the finale!",
+   "pt": "Este é o gran finale!"
+  },
+  {
+   "id": "C051_VS_C031_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "Thanks for your performance, but I've enjoyed enough of your screams for one day.",
+   "pt": "Obrigada pela sua performance, mas já curti seus gritos o bastante por hoje."
+  },
+  {
+   "id": "C051_VS_C031_DECISION2_G_LOWER_KEYWORD",
+   "en": "Now get off the stage!",
+   "pt": "Agora saia do palco!"
+  },
+  {
+   "id": "C051_VS_C041_DECISION0_S_UPPER_KEYWORD",
+   "en": "Quiet! My solo performance is starting!",
+   "pt": "Silêncio! Meu solo está começando!"
+  },
+  {
+   "id": "C051_VS_C041_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "I'll take you down cheerfully, jauntily and convincingly!",
+   "pt": "Vou acabar com você de forma alegre, elegante e convincente!"
+  },
+  {
+   "id": "C051_VS_C041_DECISION0_S_LOWER_KEYWORD",
+   "en": "Geeeeet ready!",
+   "pt": "Preeeeepare-se!"
+  },
+  {
+   "id": "C051_VS_C041_DECISION0_P_UPPER_KEYWORD",
+   "en": "Silence! Chatting during a performance is rude!",
+   "pt": "Silêncio! Conversar durante a apresentação é falta de educação!"
+  },
+  {
+   "id": "C051_VS_C041_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "Get on your hands and knees like a good lil' audience and listen to my performance!",
+   "pt": "Fique de joelhos como uma boa plateia e ouça minha apresentação!"
+  },
+  {
+   "id": "C051_VS_C041_DECISION0_P_LOWER_KEYWORD",
+   "en": "Listen to the sound of pain!",
+   "pt": "Ouça o som da dor!"
+  },
+  {
+   "id": "C051_VS_C041_DECISION0_G_UPPER_KEYWORD",
+   "en": "Hmmm... there's something missing from this piece.",
+   "pt": "Hmmm... está faltando algo nessa peça."
+  },
+  {
+   "id": "C051_VS_C041_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "Oh, I know what's missing!\nTHE SWEET SOUND OF YOUR SCREAMS!",
+   "pt": "Ah, já sei o que falta!\nO DOCE SOM DOS SEUS GRITOS!"
+  },
+  {
+   "id": "C051_VS_C041_DECISION0_G_LOWER_KEYWORD",
+   "en": "Now.... let's hear you scream!",
+   "pt": "Agora... deixe-me ouvir você gritar!"
+  },
+  {
+   "id": "C051_VS_C041_DECISION1_S_UPPER_KEYWORD",
+   "en": "Gimmie all you got, but it won't work!",
+   "pt": "Dê tudo de si, mas não vai funcionar!"
+  },
+  {
+   "id": "C051_VS_C041_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "Go ahead and run if you want. You can't escape my performance!",
+   "pt": "Pode fugir se quiser. Não dá para escapar da minha apresentação!"
+  },
+  {
+   "id": "C051_VS_C041_DECISION1_S_LOWER_KEYWORD",
+   "en": "Get on your knees and listen to your doom!",
+   "pt": "Fique de joelhos e ouça sua ruína!"
+  },
+  {
+   "id": "C051_VS_C041_DECISION1_P_UPPER_KEYWORD",
+   "en": "God, you're so annoying. Get lost!",
+   "pt": "Nossa, como você é irritante. Cai fora!"
+  },
+  {
+   "id": "C051_VS_C041_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "Your life is like dissonance in a classical composition. USELESS!",
+   "pt": "Sua vida é como uma dissonância numa composição clássica. INÚTIL!"
+  },
+  {
+   "id": "C051_VS_C041_DECISION1_P_LOWER_KEYWORD",
+   "en": "I'll blast you out of here in a jiffy!",
+   "pt": "Vou varrer você daqui num piscar de olhos!"
+  },
+  {
+   "id": "C051_VS_C041_DECISION1_G_UPPER_KEYWORD",
+   "en": "Okay. I'll make you dance some more!",
+   "pt": "Certo. Vou fazer você dançar mais um pouco!"
+  },
+  {
+   "id": "C051_VS_C041_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "Ha ha! You look so funny right now! And pathetic!",
+   "pt": "Ha ha! Você tá com uma cara tão engraçada agora! E patética!"
+  },
+  {
+   "id": "C051_VS_C041_DECISION1_G_LOWER_KEYWORD",
+   "en": "I'm gonna make you cry even harder!",
+   "pt": "Eu vou fazer você chorar ainda mais!"
+  },
+  {
+   "id": "C051_VS_C041_DECISION2_S_UPPER_KEYWORD",
+   "en": "Unfortunately, the performance is about to end.",
+   "pt": "Infelizmente, a apresentação está para acabar."
+  },
+  {
+   "id": "C051_VS_C041_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "It's time for this song's finale!\nALONG WITH YOURS.",
+   "pt": "É hora do gran finale desta música!\nJUNTO COM O SEU."
+  },
+  {
+   "id": "C051_VS_C041_DECISION2_S_LOWER_KEYWORD",
+   "en": "Now, get down and stay down!",
+   "pt": "Agora, caia e fique no chão!"
+  },
+  {
+   "id": "C051_VS_C041_DECISION2_P_UPPER_KEYWORD",
+   "en": "I'm sooooo tired of that sound!",
+   "pt": "Eu tô tããão cansada desse som!"
+  },
+  {
+   "id": "C051_VS_C041_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "I'll edit you out of the composition! Listen and tremble!",
+   "pt": "Vou apagar você da composição! Ouça e trema!"
+  },
+  {
+   "id": "C051_VS_C041_DECISION2_P_LOWER_KEYWORD",
+   "en": "This is your requiem!",
+   "pt": "Este é o seu réquiem!"
+  },
+  {
+   "id": "C051_VS_C041_DECISION2_G_UPPER_KEYWORD",
+   "en": "This is the finale!",
+   "pt": "Este é o gran finale!"
+  },
+  {
+   "id": "C051_VS_C041_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "Thanks for your performance, but I've enjoyed enough of your screams for one day.",
+   "pt": "Obrigada pela sua performance, mas já curti seus gritos o bastante por hoje."
+  },
+  {
+   "id": "C051_VS_C041_DECISION2_G_LOWER_KEYWORD",
+   "en": "Now get off the stage!",
+   "pt": "Agora saia do palco!"
+  },
+  {
+   "id": "C051_VS_C051_DECISION0_S_UPPER_KEYWORD",
+   "en": "Quiet! My solo performance is starting!",
+   "pt": "Silêncio! Meu solo está começando!"
+  },
+  {
+   "id": "C051_VS_C051_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "I'll take you down cheerfully, jauntily and convincingly!",
+   "pt": "Vou acabar com você de forma alegre, elegante e convincente!"
+  },
+  {
+   "id": "C051_VS_C051_DECISION0_S_LOWER_KEYWORD",
+   "en": "Geeeeet ready!",
+   "pt": "Preeeeepare-se!"
+  },
+  {
+   "id": "C051_VS_C051_DECISION0_P_UPPER_KEYWORD",
+   "en": "Silence! Chatting during a performance is rude!",
+   "pt": "Silêncio! Conversar durante a apresentação é falta de educação!"
+  },
+  {
+   "id": "C051_VS_C051_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "Get on your hands and knees like a good lil' audience and listen to my performance!",
+   "pt": "Fique de joelhos como uma boa plateia e ouça minha apresentação!"
+  },
+  {
+   "id": "C051_VS_C051_DECISION0_P_LOWER_KEYWORD",
+   "en": "Listen to the sound of pain!",
+   "pt": "Ouça o som da dor!"
+  },
+  {
+   "id": "C051_VS_C051_DECISION0_G_UPPER_KEYWORD",
+   "en": "Hmmm... there's something missing from this piece.",
+   "pt": "Hmmm... está faltando algo nessa peça."
+  },
+  {
+   "id": "C051_VS_C051_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "Oh, I know what's missing!\nTHE SWEET SOUND OF YOUR SCREAMS!",
+   "pt": "Ah, já sei o que falta!\nO DOCE SOM DOS SEUS GRITOS!"
+  },
+  {
+   "id": "C051_VS_C051_DECISION0_G_LOWER_KEYWORD",
+   "en": "Now.... let's hear you scream!",
+   "pt": "Agora... deixe-me ouvir você gritar!"
+  },
+  {
+   "id": "C051_VS_C051_DECISION1_S_UPPER_KEYWORD",
+   "en": "Gimmie all you got, but it won't work!",
+   "pt": "Dê tudo de si, mas não vai funcionar!"
+  },
+  {
+   "id": "C051_VS_C051_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "Go ahead and run if you want. You can't escape my performance!",
+   "pt": "Pode fugir se quiser. Não dá para escapar da minha apresentação!"
+  },
+  {
+   "id": "C051_VS_C051_DECISION1_S_LOWER_KEYWORD",
+   "en": "Get on your knees and listen to your doom!",
+   "pt": "Fique de joelhos e ouça sua ruína!"
+  },
+  {
+   "id": "C051_VS_C051_DECISION1_P_UPPER_KEYWORD",
+   "en": "God, you're so annoying. Get lost!",
+   "pt": "Nossa, como você é irritante. Cai fora!"
+  },
+  {
+   "id": "C051_VS_C051_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "Your life is like dissonance in a classical composition. USELESS!",
+   "pt": "Sua vida é como uma dissonância numa composição clássica. INÚTIL!"
+  },
+  {
+   "id": "C051_VS_C051_DECISION1_P_LOWER_KEYWORD",
+   "en": "I'll blast you out of here in a jiffy!",
+   "pt": "Vou varrer você daqui num piscar de olhos!"
+  },
+  {
+   "id": "C051_VS_C051_DECISION1_G_UPPER_KEYWORD",
+   "en": "Okay. I'll make you dance some more!",
+   "pt": "Certo. Vou fazer você dançar mais um pouco!"
+  },
+  {
+   "id": "C051_VS_C051_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "Ha ha! You look so funny right now! And pathetic!",
+   "pt": "Ha ha! Você tá com uma cara tão engraçada agora! E patética!"
+  },
+  {
+   "id": "C051_VS_C051_DECISION1_G_LOWER_KEYWORD",
+   "en": "I'm gonna make you cry even harder!",
+   "pt": "Eu vou fazer você chorar ainda mais!"
+  },
+  {
+   "id": "C051_VS_C051_DECISION2_S_UPPER_KEYWORD",
+   "en": "Unfortunately, the performance is about to end.",
+   "pt": "Infelizmente, a apresentação está para acabar."
+  },
+  {
+   "id": "C051_VS_C051_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "It's time for this song's finale!\nALONG WITH YOURS.",
+   "pt": "É hora do gran finale desta música!\nJUNTO COM O SEU."
+  },
+  {
+   "id": "C051_VS_C051_DECISION2_S_LOWER_KEYWORD",
+   "en": "Now, get down and stay down!",
+   "pt": "Agora, caia e fique no chão!"
+  },
+  {
+   "id": "C051_VS_C051_DECISION2_P_UPPER_KEYWORD",
+   "en": "I'm sooooo tired of that sound!",
+   "pt": "Eu tô tããão cansada desse som!"
+  },
+  {
+   "id": "C051_VS_C051_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "I'll edit you out of the composition! Listen and tremble!",
+   "pt": "Vou apagar você da composição! Ouça e trema!"
+  },
+  {
+   "id": "C051_VS_C051_DECISION2_P_LOWER_KEYWORD",
+   "en": "This is your requiem!",
+   "pt": "Este é o seu réquiem!"
+  },
+  {
+   "id": "C051_VS_C051_DECISION2_G_UPPER_KEYWORD",
+   "en": "This is the finale!",
+   "pt": "Este é o gran finale!"
+  },
+  {
+   "id": "C051_VS_C051_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "Thanks for your performance, but I've enjoyed enough of your screams for one day.",
+   "pt": "Obrigada pela sua performance, mas já curti seus gritos o bastante por hoje."
+  },
+  {
+   "id": "C051_VS_C051_DECISION2_G_LOWER_KEYWORD",
+   "en": "Now get off the stage!",
+   "pt": "Agora saia do palco!"
+  },
+  {
+   "id": "C051_VS_C061_DECISION0_S_UPPER_KEYWORD",
+   "en": "Quiet! My solo performance is starting!",
+   "pt": "Silêncio! Meu solo está começando!"
+  },
+  {
+   "id": "C051_VS_C061_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "I'll take you down cheerfully, jauntily and convincingly!",
+   "pt": "Vou acabar com você de forma alegre, elegante e convincente!"
+  },
+  {
+   "id": "C051_VS_C061_DECISION0_S_LOWER_KEYWORD",
+   "en": "Geeeeet ready!",
+   "pt": "Preeeeepare-se!"
+  },
+  {
+   "id": "C051_VS_C061_DECISION0_P_UPPER_KEYWORD",
+   "en": "Silence! Chatting during a performance is rude!",
+   "pt": "Silêncio! Conversar durante a apresentação é falta de educação!"
+  },
+  {
+   "id": "C051_VS_C061_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "Get on your hands and knees like a good lil' audience and listen to my performance!",
+   "pt": "Fique de joelhos como uma boa plateia e ouça minha apresentação!"
+  },
+  {
+   "id": "C051_VS_C061_DECISION0_P_LOWER_KEYWORD",
+   "en": "Listen to the sound of pain!",
+   "pt": "Ouça o som da dor!"
+  },
+  {
+   "id": "C051_VS_C061_DECISION0_G_UPPER_KEYWORD",
+   "en": "Hmmm... there's something missing from this piece.",
+   "pt": "Hmmm... está faltando algo nessa peça."
+  },
+  {
+   "id": "C051_VS_C061_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "Oh, I know what's missing!\nTHE SWEET SOUND OF YOUR SCREAMS!",
+   "pt": "Ah, já sei o que falta!\nO DOCE SOM DOS SEUS GRITOS!"
+  },
+  {
+   "id": "C051_VS_C061_DECISION0_G_LOWER_KEYWORD",
+   "en": "Now.... let's hear you scream!",
+   "pt": "Agora... deixe-me ouvir você gritar!"
+  },
+  {
+   "id": "C051_VS_C061_DECISION1_S_UPPER_KEYWORD",
+   "en": "Gimmie all you got, but it won't work!",
+   "pt": "Dê tudo de si, mas não vai funcionar!"
+  },
+  {
+   "id": "C051_VS_C061_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "Go ahead and run if you want. You can't escape my performance!",
+   "pt": "Pode fugir se quiser. Não dá para escapar da minha apresentação!"
+  },
+  {
+   "id": "C051_VS_C061_DECISION1_S_LOWER_KEYWORD",
+   "en": "Get on your knees and listen to your doom!",
+   "pt": "Fique de joelhos e ouça sua ruína!"
+  },
+  {
+   "id": "C051_VS_C061_DECISION1_P_UPPER_KEYWORD",
+   "en": "God, you're so annoying. Get lost!",
+   "pt": "Nossa, como você é irritante. Cai fora!"
+  },
+  {
+   "id": "C051_VS_C061_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "Your life is like dissonance in a classical composition. USELESS!",
+   "pt": "Sua vida é como uma dissonância numa composição clássica. INÚTIL!"
+  },
+  {
+   "id": "C051_VS_C061_DECISION1_P_LOWER_KEYWORD",
+   "en": "I'll blast you out of here in a jiffy!",
+   "pt": "Vou varrer você daqui num piscar de olhos!"
+  },
+  {
+   "id": "C051_VS_C061_DECISION1_G_UPPER_KEYWORD",
+   "en": "Okay. I'll make you dance some more!",
+   "pt": "Certo. Vou fazer você dançar mais um pouco!"
+  },
+  {
+   "id": "C051_VS_C061_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "Ha ha! You look so funny right now! And pathetic!",
+   "pt": "Ha ha! Você tá com uma cara tão engraçada agora! E patética!"
+  },
+  {
+   "id": "C051_VS_C061_DECISION1_G_LOWER_KEYWORD",
+   "en": "I'm gonna make you cry even harder!",
+   "pt": "Eu vou fazer você chorar ainda mais!"
+  },
+  {
+   "id": "C051_VS_C061_DECISION2_S_UPPER_KEYWORD",
+   "en": "Unfortunately, the performance is about to end.",
+   "pt": "Infelizmente, a apresentação está para acabar."
+  },
+  {
+   "id": "C051_VS_C061_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "It's time for this song's finale!\nALONG WITH YOURS.",
+   "pt": "É hora do gran finale desta música!\nJUNTO COM O SEU."
+  },
+  {
+   "id": "C051_VS_C061_DECISION2_S_LOWER_KEYWORD",
+   "en": "Now, get down and stay down!",
+   "pt": "Agora, caia e fique no chão!"
+  },
+  {
+   "id": "C051_VS_C061_DECISION2_P_UPPER_KEYWORD",
+   "en": "I'm sooooo tired of that sound!",
+   "pt": "Eu tô tããão cansada desse som!"
+  },
+  {
+   "id": "C051_VS_C061_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "I'll edit you out of the composition! Listen and tremble!",
+   "pt": "Vou apagar você da composição! Ouça e trema!"
+  },
+  {
+   "id": "C051_VS_C061_DECISION2_P_LOWER_KEYWORD",
+   "en": "This is your requiem!",
+   "pt": "Este é o seu réquiem!"
+  },
+  {
+   "id": "C051_VS_C061_DECISION2_G_UPPER_KEYWORD",
+   "en": "This is the finale!",
+   "pt": "Este é o gran finale!"
+  },
+  {
+   "id": "C051_VS_C061_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "Thanks for your performance, but I've enjoyed enough of your screams for one day.",
+   "pt": "Obrigada pela sua performance, mas já curti seus gritos o bastante por hoje."
+  },
+  {
+   "id": "C051_VS_C061_DECISION2_G_LOWER_KEYWORD",
+   "en": "Now get off the stage!",
+   "pt": "Agora saia do palco!"
+  },
+  {
+   "id": "C051_VS_C071_DECISION0_S_UPPER_KEYWORD",
+   "en": "Your conductor, Nonon Jakuzure, will now take the stage!",
+   "pt": "Sua maestrina, Nonon Jakuzure, agora vai subir ao palco!"
+  },
+  {
+   "id": "C051_VS_C071_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "Now dance merrily, gracefully and painfully!",
+   "pt": "Agora dance de forma alegre, graciosa e dolorosa!"
+  },
+  {
+   "id": "C051_VS_C071_DECISION0_S_LOWER_KEYWORD",
+   "en": "Hope you enjoy the show!",
+   "pt": "Espero que goste do show!"
+  },
+  {
+   "id": "C051_VS_C071_DECISION0_P_UPPER_KEYWORD",
+   "en": "Mind the rules, Satsuki! No talking during the performance!",
+   "pt": "Siga as regras, Satsuki! Nada de conversas durante a apresentação!"
+  },
+  {
+   "id": "C051_VS_C071_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "Let my performance reverberate through your body!\nAND YOUR BONES.",
+   "pt": "Deixe que minha apresentação reverbere pelo seu corpo!\nE SEUS OSSOS."
+  },
+  {
+   "id": "C051_VS_C071_DECISION0_P_LOWER_KEYWORD",
+   "en": "Listen to the sound of pain!",
+   "pt": "Ouça o som da dor!"
+  },
+  {
+   "id": "C051_VS_C071_DECISION0_G_UPPER_KEYWORD",
+   "en": "Hmmm... there's something missing from this piece.",
+   "pt": "Hmmm... está faltando algo nessa peça."
+  },
+  {
+   "id": "C051_VS_C071_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "Oh, I know what's missing! The sweet sound of the audience screaming!\nTime to crank the volume of this performance!",
+   "pt": "Ah, já sei o que falta! O doce som dos gritos da plateia!\nHora de aumentar o volume desta apresentação!"
+  },
+  {
+   "id": "C051_VS_C071_DECISION0_G_LOWER_KEYWORD",
+   "en": "Open those ears holes and feel the BEAT!",
+   "pt": "Abra bem esses ouvidos e sinta a BATIDA!"
+  },
+  {
+   "id": "C051_VS_C071_DECISION1_S_UPPER_KEYWORD",
+   "en": "Not happening, Lady Satsuki.",
+   "pt": "Isso não vai rolar, Senhorita Satsuki."
+  },
+  {
+   "id": "C051_VS_C071_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "Go ahead and run if you want. You can't escape my performance!",
+   "pt": "Pode fugir se quiser. Não dá para escapar da minha apresentação!"
+  },
+  {
+   "id": "C051_VS_C071_DECISION1_S_LOWER_KEYWORD",
+   "en": "I'll show you an even better performance!",
+   "pt": "Eu vou te mostrar uma apresentação ainda melhor!"
+  },
+  {
+   "id": "C051_VS_C071_DECISION1_P_UPPER_KEYWORD",
+   "en": "No one disrupts my performance. Not even you.",
+   "pt": "Ninguém atrapalha a minha apresentação. Nem mesmo você."
+  },
+  {
+   "id": "C051_VS_C071_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "Only pleasant consonants are allowed in my tunes. Got it?",
+   "pt": "Apenas consoantes agradáveis são permitidas nas minhas músicas. Entendeu?"
+  },
+  {
+   "id": "C051_VS_C071_DECISION1_P_LOWER_KEYWORD",
+   "en": "Now let's play a tune with the RIGHT SOUNDS!",
+   "pt": "Agora vamos tocar uma música com os SONS CERTOS!"
+  },
+  {
+   "id": "C051_VS_C071_DECISION1_G_UPPER_KEYWORD",
+   "en": "Ooooo! That's a nice step you have there!",
+   "pt": "Ooooo! Que passo bonito esse seu!"
+  },
+  {
+   "id": "C051_VS_C071_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "Isn't it fun, moving to the beat of the music? C'mon, dance some more!",
+   "pt": "Não é divertido, se mexer no compasso da música? Vamos lá, dance mais um pouco!"
+  },
+  {
+   "id": "C051_VS_C071_DECISION1_G_LOWER_KEYWORD",
+   "en": "That's it! DANCE FOR ME!",
+   "pt": "Isso aí! DANCE PRA MIM!"
+  },
+  {
+   "id": "C051_VS_C071_DECISION2_S_UPPER_KEYWORD",
+   "en": "Unfortunately, the performance is about to end.",
+   "pt": "Infelizmente, a apresentação está para acabar."
+  },
+  {
+   "id": "C051_VS_C071_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "The finale will decide who wins this battle!",
+   "pt": "O gran finale decidirá quem vence essa batalha!"
+  },
+  {
+   "id": "C051_VS_C071_DECISION2_S_LOWER_KEYWORD",
+   "en": "Listen to the very end... and give me your honest opinion!",
+   "pt": "Ouça até o final... e me dê a sua opinião sincera!"
+  },
+  {
+   "id": "C051_VS_C071_DECISION2_P_UPPER_KEYWORD",
+   "en": "The performance is coming to a close. ",
+   "pt": "A apresentação está chegando ao fim. "
+  },
+  {
+   "id": "C051_VS_C071_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "But I'd be happy to include an encore for you, Satsuki!",
+   "pt": "Mas eu ficaria feliz em tocar um bis pra você, Satsuki!"
+  },
+  {
+   "id": "C051_VS_C071_DECISION2_P_LOWER_KEYWORD",
+   "en": "So how about it? WANT ONE?!",
+   "pt": "E aí, o que me diz? QUER UM?!"
+  },
+  {
+   "id": "C051_VS_C071_DECISION2_G_UPPER_KEYWORD",
+   "en": "This is the finale!",
+   "pt": "Este é o gran finale!"
+  },
+  {
+   "id": "C051_VS_C071_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "I loved hearing you scream, Satsuki! You have perfect pitch!",
+   "pt": "Adorei ouvir você gritar, Satsuki! Você tem uma afinação perfeita!"
+  },
+  {
+   "id": "C051_VS_C071_DECISION2_G_LOWER_KEYWORD",
+   "en": "But this scream is your last!",
+   "pt": "Mas esse grito é o seu último!"
+  },
+  {
+   "id": "C051_VS_C072_DECISION0_S_UPPER_KEYWORD",
+   "en": "Your conductor, Nonon Jakuzure, will now take the stage!",
+   "pt": "Sua maestrina, Nonon Jakuzure, agora vai subir ao palco!"
+  },
+  {
+   "id": "C051_VS_C072_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "Now dance merrily, gracefully and painfully!",
+   "pt": "Agora dance de forma alegre, graciosa e dolorosa!"
+  },
+  {
+   "id": "C051_VS_C072_DECISION0_S_LOWER_KEYWORD",
+   "en": "Hope you enjoy the show!",
+   "pt": "Espero que goste do show!"
+  },
+  {
+   "id": "C051_VS_C072_DECISION0_P_UPPER_KEYWORD",
+   "en": "Mind the rules, Auntie Ragyo! No talking during the performance!",
+   "pt": "Siga as regras, Tia Ragyo! Nada de conversas durante a apresentação!"
+  },
+  {
+   "id": "C051_VS_C072_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "Let my performance reverberate through your body!\nAND YOUR BONES.",
+   "pt": "Deixe que minha apresentação reverbere pelo seu corpo!\nE SEUS OSSOS."
+  },
+  {
+   "id": "C051_VS_C072_DECISION0_P_LOWER_KEYWORD",
+   "en": "Listen to the sound of pain!",
+   "pt": "Ouça o som da dor!"
+  },
+  {
+   "id": "C051_VS_C072_DECISION0_G_UPPER_KEYWORD",
+   "en": "Hmmm... there's something missing from this piece.",
+   "pt": "Hmmm... está faltando algo nessa peça."
+  },
+  {
+   "id": "C051_VS_C072_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "Oh, I know what's missing! The sweet sound of the audience screaming!\nTime to crank the volume of this performance!",
+   "pt": "Ah, já sei o que falta! O doce som dos gritos da plateia!\nHora de aumentar o volume desta apresentação!"
+  },
+  {
+   "id": "C051_VS_C072_DECISION0_G_LOWER_KEYWORD",
+   "en": "Open those ears holes and feel the BEAT!",
+   "pt": "Abra bem esses ouvidos e sinta a BATIDA!"
+  },
+  {
+   "id": "C051_VS_C072_DECISION1_S_UPPER_KEYWORD",
+   "en": "Not happening, Auntie Ragyo.",
+   "pt": "Isso não vai rolar, Tia Ragyo."
+  },
+  {
+   "id": "C051_VS_C072_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "Go ahead and run if you want. You can't escape my performance!",
+   "pt": "Pode fugir se quiser. Não dá para escapar da minha apresentação!"
+  },
+  {
+   "id": "C051_VS_C072_DECISION1_S_LOWER_KEYWORD",
+   "en": "I'll show you an even better performance!",
+   "pt": "Eu vou te mostrar uma apresentação ainda melhor!"
+  },
+  {
+   "id": "C051_VS_C072_DECISION1_P_UPPER_KEYWORD",
+   "en": "No one disrupts my performance. Not even you.",
+   "pt": "Ninguém atrapalha a minha apresentação. Nem mesmo você."
+  },
+  {
+   "id": "C051_VS_C072_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "Only pleasant consonants are allowed in my tunes. Got it?",
+   "pt": "Apenas consoantes agradáveis são permitidas nas minhas músicas. Entendeu?"
+  },
+  {
+   "id": "C051_VS_C072_DECISION1_P_LOWER_KEYWORD",
+   "en": "Now let's play a tune with the RIGHT SOUNDS!",
+   "pt": "Agora vamos tocar uma música com os SONS CERTOS!"
+  },
+  {
+   "id": "C051_VS_C072_DECISION1_G_UPPER_KEYWORD",
+   "en": "Ooooo! That's a nice step you have there!",
+   "pt": "Ooooo! Que passo bonito esse seu!"
+  },
+  {
+   "id": "C051_VS_C072_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "Isn't it fun, moving to the beat of the music? C'mon, dance some more!",
+   "pt": "Não é divertido, se mexer no compasso da música? Vamos lá, dance mais um pouco!"
+  },
+  {
+   "id": "C051_VS_C072_DECISION1_G_LOWER_KEYWORD",
+   "en": "That's it! DANCE FOR ME!",
+   "pt": "Isso aí! DANCE PRA MIM!"
+  },
+  {
+   "id": "C051_VS_C072_DECISION2_S_UPPER_KEYWORD",
+   "en": "Unfortunately, the performance is about to end.",
+   "pt": "Infelizmente, a apresentação está para acabar."
+  },
+  {
+   "id": "C051_VS_C072_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "The finale will decide who wins this battle!",
+   "pt": "O gran finale decidirá quem vence essa batalha!"
+  },
+  {
+   "id": "C051_VS_C072_DECISION2_S_LOWER_KEYWORD",
+   "en": "Listen to the very end... and give me your honest opinion!",
+   "pt": "Ouça até o final... e me dê a sua opinião sincera!"
+  },
+  {
+   "id": "C051_VS_C072_DECISION2_P_UPPER_KEYWORD",
+   "en": "The performance is coming to a close. ",
+   "pt": "A apresentação está chegando ao fim. "
+  },
+  {
+   "id": "C051_VS_C072_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "But I'd be happy to include an encore for you, Auntie Ragyo!",
+   "pt": "Mas eu ficaria feliz em tocar um bis pra você, Tia Ragyo!"
+  },
+  {
+   "id": "C051_VS_C072_DECISION2_P_LOWER_KEYWORD",
+   "en": "So how about it? WANT ONE?!",
+   "pt": "E aí, o que me diz? QUER UM?!"
+  },
+  {
+   "id": "C051_VS_C072_DECISION2_G_UPPER_KEYWORD",
+   "en": "The finale's coming up!",
+   "pt": "O gran finale está chegando!"
+  },
+  {
+   "id": "C051_VS_C072_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "I loved hearing you scream, Auntie Ragyo! You have nice resonance.",
+   "pt": "Adorei ouvir você gritar, Tia Ragyo! Você tem uma bela ressonância."
+  },
+  {
+   "id": "C051_VS_C072_DECISION2_G_LOWER_KEYWORD",
+   "en": "But this scream is your last!",
+   "pt": "Mas esse grito é o seu último!"
+  },
+  {
+   "id": "C051_VS_C081_DECISION0_S_UPPER_KEYWORD",
+   "en": "Quiet! My solo performance is starting!",
+   "pt": "Silêncio! Meu solo está começando!"
+  },
+  {
+   "id": "C051_VS_C081_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "I'll take you down cheerfully, jauntily and convincingly!",
+   "pt": "Vou acabar com você de forma alegre, elegante e convincente!"
+  },
+  {
+   "id": "C051_VS_C081_DECISION0_S_LOWER_KEYWORD",
+   "en": "Geeeeet ready!",
+   "pt": "Preeeeepare-se!"
+  },
+  {
+   "id": "C051_VS_C081_DECISION0_P_UPPER_KEYWORD",
+   "en": "Silence! Chatting during a performance is rude!",
+   "pt": "Silêncio! Conversar durante a apresentação é falta de educação!"
+  },
+  {
+   "id": "C051_VS_C081_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "Get on your hands and knees like a good lil' audience and listen to my performance!",
+   "pt": "Fique de joelhos como uma boa plateia e ouça minha apresentação!"
+  },
+  {
+   "id": "C051_VS_C081_DECISION0_P_LOWER_KEYWORD",
+   "en": "Listen to the sound of pain!",
+   "pt": "Ouça o som da dor!"
+  },
+  {
+   "id": "C051_VS_C081_DECISION0_G_UPPER_KEYWORD",
+   "en": "Hmmm... there's something missing from this piece.",
+   "pt": "Hmmm... está faltando algo nessa peça."
+  },
+  {
+   "id": "C051_VS_C081_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "Oh, I know what's missing!\nTHE SWEET SOUND OF YOUR SCREAMS!",
+   "pt": "Ah, já sei o que falta!\nO DOCE SOM DOS SEUS GRITOS!"
+  },
+  {
+   "id": "C051_VS_C081_DECISION0_G_LOWER_KEYWORD",
+   "en": "Now.... let's hear you scream!",
+   "pt": "Agora... deixe-me ouvir você gritar!"
+  },
+  {
+   "id": "C051_VS_C081_DECISION1_S_UPPER_KEYWORD",
+   "en": "Gimmie all you got, but it won't work!",
+   "pt": "Dê tudo de si, mas não vai funcionar!"
+  },
+  {
+   "id": "C051_VS_C081_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "Go ahead and run if you want. You can't escape my performance!",
+   "pt": "Pode fugir se quiser. Não dá para escapar da minha apresentação!"
+  },
+  {
+   "id": "C051_VS_C081_DECISION1_S_LOWER_KEYWORD",
+   "en": "Get on your knees and listen to your doom!",
+   "pt": "Fique de joelhos e ouça sua ruína!"
+  },
+  {
+   "id": "C051_VS_C081_DECISION1_P_UPPER_KEYWORD",
+   "en": "God, you're so annoying. Get lost!",
+   "pt": "Nossa, como você é irritante. Cai fora!"
+  },
+  {
+   "id": "C051_VS_C081_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "Your life is like dissonance in a classical composition. USELESS!",
+   "pt": "Sua vida é como uma dissonância numa composição clássica. INÚTIL!"
+  },
+  {
+   "id": "C051_VS_C081_DECISION1_P_LOWER_KEYWORD",
+   "en": "I'll blast you out of here in a jiffy!",
+   "pt": "Vou varrer você daqui num piscar de olhos!"
+  },
+  {
+   "id": "C051_VS_C081_DECISION1_G_UPPER_KEYWORD",
+   "en": "Okay. I'll make you dance some more!",
+   "pt": "Certo. Vou fazer você dançar mais um pouco!"
+  },
+  {
+   "id": "C051_VS_C081_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "Ha ha! You look so funny right now! And pathetic!",
+   "pt": "Ha ha! Você tá com uma cara tão engraçada agora! E patética!"
+  },
+  {
+   "id": "C051_VS_C081_DECISION1_G_LOWER_KEYWORD",
+   "en": "I'm gonna make you cry even harder!",
+   "pt": "Eu vou fazer você chorar ainda mais!"
+  },
+  {
+   "id": "C051_VS_C081_DECISION2_S_UPPER_KEYWORD",
+   "en": "Unfortunately, the performance is about to end.",
+   "pt": "Infelizmente, a apresentação está para acabar."
+  },
+  {
+   "id": "C051_VS_C081_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "It's time for this song's finale!\nALONG WITH YOURS.",
+   "pt": "É hora do gran finale desta música!\nJUNTO COM O SEU."
+  },
+  {
+   "id": "C051_VS_C081_DECISION2_S_LOWER_KEYWORD",
+   "en": "Now, get down and stay down!",
+   "pt": "Agora, caia e fique no chão!"
+  },
+  {
+   "id": "C051_VS_C081_DECISION2_P_UPPER_KEYWORD",
+   "en": "I'm sooooo tired of that sound!",
+   "pt": "Eu tô tããão cansada desse som!"
+  },
+  {
+   "id": "C051_VS_C081_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "I'll edit you out of the composition! Listen and tremble!",
+   "pt": "Vou apagar você da composição! Ouça e trema!"
+  },
+  {
+   "id": "C051_VS_C081_DECISION2_P_LOWER_KEYWORD",
+   "en": "This is your requiem!",
+   "pt": "Este é o seu réquiem!"
+  },
+  {
+   "id": "C051_VS_C081_DECISION2_G_UPPER_KEYWORD",
+   "en": "This is the finale!",
+   "pt": "Este é o gran finale!"
+  },
+  {
+   "id": "C051_VS_C081_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "Thanks for your performance, but I've enjoyed enough of your screams for one day.",
+   "pt": "Obrigada pela sua performance, mas já curti seus gritos o bastante por hoje."
+  },
+  {
+   "id": "C051_VS_C081_DECISION2_G_LOWER_KEYWORD",
+   "en": "Now get off the stage!",
+   "pt": "Agora saia do palco!"
+  },
+  {
+   "id": "C051_VS_C082_DECISION0_S_UPPER_KEYWORD",
+   "en": "Quiet! My solo performance is starting!",
+   "pt": "Silêncio! Meu solo está começando!"
+  },
+  {
+   "id": "C051_VS_C082_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "I'll take you down cheerfully, jauntily and convincingly!",
+   "pt": "Vou acabar com você de forma alegre, elegante e convincente!"
+  },
+  {
+   "id": "C051_VS_C082_DECISION0_S_LOWER_KEYWORD",
+   "en": "Geeeeet ready!",
+   "pt": "Preeeeepare-se!"
+  },
+  {
+   "id": "C051_VS_C082_DECISION0_P_UPPER_KEYWORD",
+   "en": "Silence! Chatting during a performance is rude!",
+   "pt": "Silêncio! Conversar durante a apresentação é falta de educação!"
+  },
+  {
+   "id": "C051_VS_C082_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "Get on your hands and knees like a good lil' audience and listen to my performance!",
+   "pt": "Fique de joelhos como uma boa plateia e ouça minha apresentação!"
+  },
+  {
+   "id": "C051_VS_C082_DECISION0_P_LOWER_KEYWORD",
+   "en": "Listen to the sound of pain!",
+   "pt": "Ouça o som da dor!"
+  },
+  {
+   "id": "C051_VS_C082_DECISION0_G_UPPER_KEYWORD",
+   "en": "Hmmm... there's something missing from this piece.",
+   "pt": "Hmmm... está faltando algo nessa peça."
+  },
+  {
+   "id": "C051_VS_C082_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "Oh, I know what's missing!\nTHE SWEET SOUND OF YOUR SCREAMS!",
+   "pt": "Ah, já sei o que falta!\nO DOCE SOM DOS SEUS GRITOS!"
+  },
+  {
+   "id": "C051_VS_C082_DECISION0_G_LOWER_KEYWORD",
+   "en": "Now.... let's hear you scream!",
+   "pt": "Agora... deixe-me ouvir você gritar!"
+  },
+  {
+   "id": "C051_VS_C082_DECISION1_S_UPPER_KEYWORD",
+   "en": "Gimmie all you got, but it won't work!",
+   "pt": "Dê tudo de si, mas não vai funcionar!"
+  },
+  {
+   "id": "C051_VS_C082_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "Go ahead and run if you want. You can't escape my performance!",
+   "pt": "Pode fugir se quiser. Não dá para escapar da minha apresentação!"
+  },
+  {
+   "id": "C051_VS_C082_DECISION1_S_LOWER_KEYWORD",
+   "en": "Get on your knees and listen to your doom!",
+   "pt": "Fique de joelhos e ouça sua ruína!"
+  },
+  {
+   "id": "C051_VS_C082_DECISION1_P_UPPER_KEYWORD",
+   "en": "God, you're so annoying. Get lost!",
+   "pt": "Nossa, como você é irritante. Cai fora!"
+  },
+  {
+   "id": "C051_VS_C082_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "Your life is like dissonance in a classical composition. USELESS!",
+   "pt": "Sua vida é como uma dissonância numa composição clássica. INÚTIL!"
+  },
+  {
+   "id": "C051_VS_C082_DECISION1_P_LOWER_KEYWORD",
+   "en": "I'll blast you out of here in a jiffy!",
+   "pt": "Vou varrer você daqui num piscar de olhos!"
+  },
+  {
+   "id": "C051_VS_C082_DECISION1_G_UPPER_KEYWORD",
+   "en": "Okay. I'll make you dance some more!",
+   "pt": "Certo. Vou fazer você dançar mais um pouco!"
+  },
+  {
+   "id": "C051_VS_C082_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "Ha ha! You look so funny right now! And pathetic!",
+   "pt": "Ha ha! Você tá com uma cara tão engraçada agora! E patética!"
+  },
+  {
+   "id": "C051_VS_C082_DECISION1_G_LOWER_KEYWORD",
+   "en": "I'm gonna make you cry even harder!",
+   "pt": "Eu vou fazer você chorar ainda mais!"
+  },
+  {
+   "id": "C051_VS_C082_DECISION2_S_UPPER_KEYWORD",
+   "en": "Unfortunately, the performance is about to end.",
+   "pt": "Infelizmente, a apresentação está para acabar."
+  },
+  {
+   "id": "C051_VS_C082_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "It's time for this song's finale!\nALONG WITH YOURS.",
+   "pt": "É hora do gran finale desta música!\nJUNTO COM O SEU."
+  },
+  {
+   "id": "C051_VS_C082_DECISION2_S_LOWER_KEYWORD",
+   "en": "Now, get down and stay down!",
+   "pt": "Agora, caia e fique no chão!"
+  },
+  {
+   "id": "C051_VS_C082_DECISION2_P_UPPER_KEYWORD",
+   "en": "I'm sooooo tired of that sound!",
+   "pt": "Eu tô tããão cansada desse som!"
+  },
+  {
+   "id": "C051_VS_C082_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "I'll edit you out of the composition! Listen and tremble!",
+   "pt": "Vou apagar você da composição! Ouça e trema!"
+  },
+  {
+   "id": "C051_VS_C082_DECISION2_P_LOWER_KEYWORD",
+   "en": "This is your requiem!",
+   "pt": "Este é o seu réquiem!"
+  },
+  {
+   "id": "C051_VS_C082_DECISION2_G_UPPER_KEYWORD",
+   "en": "This is the finale!",
+   "pt": "Este é o gran finale!"
+  }
+ ]
+}

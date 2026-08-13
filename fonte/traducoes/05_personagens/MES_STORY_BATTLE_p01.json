@@ -1,0 +1,303 @@
+{
+ "origem": "KlkResources/S701_MES/MES_STORY_BATTLE",
+ "conteudo": "Falas em batalha - MES_STORY_BATTLE",
+ "parte": "1/1",
+ "instrucoes": "Traduza o campo 'en' para portugues do Brasil e escreva o resultado em 'pt'. Nao altere 'id'. Mantenha intactos os codigos entre chaves ({CA}, {LA}, {BR}, {JU}, {SP}, {GD}, {LS}, {L1}, {R1}, setas), os marcadores de formato (%d, %l, %ls, %hs) e as quebras de linha \\n. Se uma linha nao precisar de traducao, deixe 'pt' vazio.",
+ "linhas": [
+  {
+   "id": "S030_STAGEIN_01_KEYWORD_01_C031",
+   "en": "Grrgh... I'm s-- sor...ry...",
+   "pt": "Grrgh... Me d-des...cul...pa..."
+  },
+  {
+   "id": "S030_STAGEIN_02_KEYWORD_01_C041",
+   "en": "Daaagh...",
+   "pt": "Daaagh..."
+  },
+  {
+   "id": "S030_STAGEIN_03_KEYWORD_01_C051",
+   "en": "Ugh... Kgghh...",
+   "pt": "Ugh... Kgghh..."
+  },
+  {
+   "id": "S030_STAGEIN_04_KEYWORD_01_C061",
+   "en": "Kgh, aaagh...",
+   "pt": "Kgh, aaagh..."
+  },
+  {
+   "id": "S030_STAGEIN_04_KEYWORD_02_C021",
+   "en": "I'll eliminate all who stand in my way. No exceptions.",
+   "pt": "Vou eliminar todos que ficarem no meu caminho. Sem exceções."
+  },
+  {
+   "id": "S070_STAGEIN_01_KEYWORD_01_C031",
+   "en": "I apologize for making you wait!",
+   "pt": "Peço desculpas por fazê-la esperar!"
+  },
+  {
+   "id": "S070_STAGEIN_01_KEYWORD_02_C021",
+   "en": "Nice timing. As expected of the Disciplinary Committee Chair.",
+   "pt": "Na hora certa. Como esperado do Presidente do Comitê Disciplinar."
+  },
+  {
+   "id": "S070_STAGEIN_02_KEYWORD_01_C041",
+   "en": "Lady Satsuki! We're here to help!",
+   "pt": "Senhorita Satsuki! Estamos aqui para ajudar!"
+  },
+  {
+   "id": "S070_STAGEIN_02_KEYWORD_02_C021",
+   "en": "I'm counting on you. Don't lose focus.",
+   "pt": "Estou contando com você. Não perca o foco."
+  },
+  {
+   "id": "S070_STAGEIN_03_KEYWORD_01_C051",
+   "en": "Nonon here! At your service!",
+   "pt": "Nonon aqui! Às suas ordens!"
+  },
+  {
+   "id": "S070_STAGEIN_03_KEYWORD_02_C021",
+   "en": "I'm counting on you, Nonon. Stay sharp out there.",
+   "pt": "Estou contando com você, Nonon. Fique alerta lá fora."
+  },
+  {
+   "id": "S070_STAGEIN_04_KEYWORD_01_C061",
+   "en": "Lady Satsuki...? Permission to join you!",
+   "pt": "Senhorita Satsuki...? Permissão para acompanhá-la!"
+  },
+  {
+   "id": "S070_STAGEIN_04_KEYWORD_02_C021",
+   "en": "Now is your chance to put your data-driven combat strategy to use.",
+   "pt": "Agora é sua chance de colocar sua estratégia de combate baseada em dados em uso."
+  },
+  {
+   "id": "S090_STAGEIN_01_KEYWORD_01_C012",
+   "en": "I don't usually stick my nose in other people's business. But since I'm here, eh whatevs. I'll help you out this once.",
+   "pt": "Eu não costumo meter o nariz nos negócios dos outros. Mas já que tô aqui, tanto faz. Vou te ajudar só dessa vez."
+  },
+  {
+   "id": "S090_STAGEIN_01_KEYWORD_02_C022",
+   "en": "I never thought we'd fight together, side by side.",
+   "pt": "Eu nunca pensei que lutaríamos juntas, lado a lado."
+  },
+  {
+   "id": "S090_STAGEIN_02_KEYWORD_01_C031",
+   "en": "I, Ira Gamagoori, shall crush all who stand in Lady Satsuki's path!",
+   "pt": "Eu, Ira Gamagoori, vou esmagar todos que ficarem no caminho da Senhorita Satsuki!"
+  },
+  {
+   "id": "S090_STAGEIN_02_KEYWORD_02_C022",
+   "en": "Let's go! Punish all the pigs who side with clothing!",
+   "pt": "Vamos! Puna todos os porcos que se aliaram às roupas!"
+  },
+  {
+   "id": "S090_STAGEIN_03_KEYWORD_01_C031",
+   "en": "Where ever you find Satsuki Kiryuin, you'll find me! As long as I live, you shall not lay a finger on her!",
+   "pt": "Onde quer que você encontre Satsuki Kiryuin, você vai me encontrar! Enquanto eu viver, você não encostará um dedo nela!"
+  },
+  {
+   "id": "S090_STAGEIN_03_KEYWORD_02_C022",
+   "en": "Heh! I'm counting on you, Gamagoori.",
+   "pt": "Heh! Estou contando com você, Gamagoori."
+  },
+  {
+   "id": "S090_STAGEIN_04_KEYWORD_01_C041",
+   "en": "Awwww yeah! Here I go! ",
+   "pt": "Aaaah sim! Aqui vou eu! "
+  },
+  {
+   "id": "S090_STAGEIN_04_KEYWORD_02_C022",
+   "en": "This is the moment of truth. Fight with all your heart!",
+   "pt": "Este é o momento da verdade. Lute com todo o seu coração!"
+  },
+  {
+   "id": "S090_STAGEIN_05_KEYWORD_01_C041",
+   "en": "For the sake of humanity, I'll cut you down right where you stand!",
+   "pt": "Pelo bem da humanidade, vou cortar você bem onde você está!"
+  },
+  {
+   "id": "S090_STAGEIN_05_KEYWORD_02_C022",
+   "en": "Indeed. As long as we let Ragyo live, humanity is doomed!",
+   "pt": "De fato. Enquanto deixarmos Ragyo viver, a humanidade está condenada!"
+  },
+  {
+   "id": "S090_STAGEIN_06_KEYWORD_01_C051",
+   "en": "Here I come, Auntie Ragyo!",
+   "pt": "Aí vou eu, Titia Ragyo!"
+  },
+  {
+   "id": "S090_STAGEIN_06_KEYWORD_02_C022",
+   "en": "Regardless of the circumstances, our opponent is a monster. Don't hold back!",
+   "pt": "Independentemente das circunstâncias, nossa oponente é um monstro. Não se segure!"
+  },
+  {
+   "id": "S090_STAGEIN_07_KEYWORD_01_C051",
+   "en": "I don't care who I have to fight, I won't let you get in Satsuki's way!",
+   "pt": "Eu não ligo contra quem eu tenha que lutar, não vou deixar você ficar no caminho da Satsuki!"
+  },
+  {
+   "id": "S090_STAGEIN_07_KEYWORD_02_C022",
+   "en": "It's time to settle this, Nonon! Let's go!",
+   "pt": "É hora de resolvermos isso, Nonon! Vamos!"
+  },
+  {
+   "id": "S090_STAGEIN_08_KEYWORD_01_C061",
+   "en": "It's time to show you our power... Director!",
+   "pt": "É hora de te mostrar nosso poder... Diretora!"
+  },
+  {
+   "id": "S090_STAGEIN_08_KEYWORD_02_C022",
+   "en": "That's right. It's time for them to experience the full scope of our power!",
+   "pt": "Isso mesmo. É hora deles sentirem toda a extensão do nosso poder!"
+  },
+  {
+   "id": "S090_STAGEIN_09_KEYWORD_01_C061",
+   "en": "The time has come to realize our ambitions.",
+   "pt": "Chegou a hora de realizar nossas ambições."
+  },
+  {
+   "id": "S090_STAGEIN_09_KEYWORD_02_C022",
+   "en": "Yes. But Ragyo isn't the last of them, I'm afraid. Stay focused!",
+   "pt": "Sim. Mas Ragyo não é a última deles, eu temo. Fique focado!"
+  },
+  {
+   "id": "R040_STAGEIN_01_KEYWORD_01_C031",
+   "en": "Gh... Nrrrgghh...",
+   "pt": "Gh... Nrrrgghh..."
+  },
+  {
+   "id": "R040_STAGEIN_01_KEYWORD_02_C011",
+   "en": "Uch. That's not how the Disciplinary Committee Chair's supposed to act. Don't worry, I'll whip you back into shape!",
+   "pt": "Urgh. Não é assim que o Presidente do Comitê Disciplinar devia agir. Relaxa, eu vou te botar na linha na porrada!"
+  },
+  {
+   "id": "R040_STAGEIN_02_KEYWORD_01_C061",
+   "en": "Gh... Agh...",
+   "pt": "Gh... Agh..."
+  },
+  {
+   "id": "R040_STAGEIN_02_KEYWORD_02_C011",
+   "en": "Don't come cryin' to me if I break your fancy keyboards, dork!",
+   "pt": "Não vem choramingar pra mim se eu quebrar a porra dos seus teclados de merda, seu nerdão!"
+  },
+  {
+   "id": "R040_STAGEIN_03_KEYWORD_01_C041",
+   "en": "Grgh. Nrrggh...",
+   "pt": "Grgh. Nrrggh..."
+  },
+  {
+   "id": "R040_STAGEIN_03_KEYWORD_02_C011",
+   "en": "Huh! Didn't expect to have a rematch with you so soon, Sanageyama!",
+   "pt": "Hã! Não esperava ter uma revanche com você tão cedo, Sanageyama!"
+  },
+  {
+   "id": "R040_STAGEIN_04_KEYWORD_01_C051",
+   "en": "Gh... Satsuki...",
+   "pt": "Gh... Satsuki..."
+  },
+  {
+   "id": "R040_STAGEIN_04_KEYWORD_02_C011",
+   "en": "Tch! I hope you're ready, 'cuz I'm about to blow your mind!",
+   "pt": "Tsc! Espero que esteja pronta, porque eu vou quebrar a porra da sua cara!"
+  },
+  {
+   "id": "R040_STAGEIN_05_KEYWORD_01_C021",
+   "en": "Not yet! I am not... done... Yet!",
+   "pt": "Ainda não! Eu não... terminei... Ainda!"
+  },
+  {
+   "id": "R040_STAGEIN_05_KEYWORD_02_C011",
+   "en": "I hate your big, fat ego, but you got guts. I'll give you that.",
+   "pt": "Eu odeio a porra desse seu ego inflado, mas você tem fibra. Tenho que admitir."
+  },
+  {
+   "id": "R060_STAGEIN_01_KEYWORD_01_C051",
+   "en": "Okay, I'll help. But you owe me one!",
+   "pt": "Beleza, eu ajudo. Mas você fica me devendo uma!"
+  },
+  {
+   "id": "R060_STAGEIN_01_KEYWORD_02_C012",
+   "en": "Uch, whatta brat. I saved her ass and she's still talkin' down to me!",
+   "pt": "Urgh, que vadiazinha. Eu salvei a porra da vida dela e ela ainda me olha de cima!"
+  },
+  {
+   "id": "R060_STAGEIN_02_KEYWORD_01_C061",
+   "en": "I'll help you, too. For Lady Satsuki. ",
+   "pt": "Vou ajudar você também. Pela Senhorita Satsuki. "
+  },
+  {
+   "id": "R060_STAGEIN_02_KEYWORD_02_C012",
+   "en": "So, that's her plan. She should mind her own friggin' business.",
+   "pt": "Então, esse é o plano dela. Ela devia cuidar da própria vida, caralho."
+  },
+  {
+   "id": "R060_STAGEIN_03_KEYWORD_01_C041",
+   "en": "We don't want you dyin' on us yet, Matoi.",
+   "pt": "Não queremos você morrendo agora, Matoi."
+  },
+  {
+   "id": "R060_STAGEIN_03_KEYWORD_02_C012",
+   "en": "I sure hope your pals don't kick your ass for comin' up short!",
+   "pt": "Espero que seus coleguinhas não te desçam a porrada por não dar conta do recado!"
+  },
+  {
+   "id": "R060_STAGEIN_04_KEYWORD_01_C031",
+   "en": "You seem to be having some trouble. I can help.",
+   "pt": "Você parece estar com problemas. Eu posso ajudar."
+  },
+  {
+   "id": "R060_STAGEIN_04_KEYWORD_02_C012",
+   "en": "Yeah, yeah.",
+   "pt": "Tá, tá."
+  },
+  {
+   "id": "R080_STAGEIN_01_KEYWORD_01_C061",
+   "en": "Given the circumstances, you'd be smart to listen to us!",
+   "pt": "Dadas as circunstâncias, seria inteligente nos escutar!"
+  },
+  {
+   "id": "R080_STAGEIN_01_KEYWORD_02_C012",
+   "en": "I guess at this point, there's no turning back. Okay, I'm in.",
+   "pt": "Acho que a essa altura, não tem mais volta. Beleza, tô dentro."
+  },
+  {
+   "id": "R080_STAGEIN_02_KEYWORD_01_C031",
+   "en": "This enemy's no joke! Stay sharp!",
+   "pt": "Esse inimigo não é brincadeira! Fique alerta!"
+  },
+  {
+   "id": "R080_STAGEIN_02_KEYWORD_02_C012",
+   "en": "Yeah, I know. This doesn't look like it's gonna be easy.",
+   "pt": "É, eu sei. Não parece que vai ser fácil, caralho."
+  },
+  {
+   "id": "R080_STAGEIN_03_KEYWORD_01_C041",
+   "en": "You and me are gonna cut a path for Lady Satsuki!",
+   "pt": "Você e eu vamos abrir um caminho para a Senhorita Satsuki!"
+  },
+  {
+   "id": "R080_STAGEIN_03_KEYWORD_02_C012",
+   "en": "I don't like bein' ordered around. I'll let this one slide.",
+   "pt": "Não gosto que me deem ordens, porra. Vou deixar passar dessa vez."
+  },
+  {
+   "id": "R080_STAGEIN_04_KEYWORD_01_C051",
+   "en": "You better not hold us back, new girl!",
+   "pt": "É bom você não nos atrasar, novata!"
+  },
+  {
+   "id": "R080_STAGEIN_04_KEYWORD_02_C012",
+   "en": "Hah! And you better not get in my way either!",
+   "pt": "Hah! E é bom você não entrar na minha frente também, caralho!"
+  },
+  {
+   "id": "R080_STAGEIN_05_KEYWORD_01_C022",
+   "en": "This is my problem. I will rid my family of its disgrace!",
+   "pt": "Isso é problema meu. Vou livrar minha família da sua desonra!"
+  },
+  {
+   "id": "R080_STAGEIN_05_KEYWORD_02_C012",
+   "en": "Ha! Says the chick who got me into this mess in the first place!",
+   "pt": "Hah! Diz a vadia que me meteu nessa merda pra começo de conversa!"
+  }
+ ]
+}

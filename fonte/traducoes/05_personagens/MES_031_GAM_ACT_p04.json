@@ -1,0 +1,28 @@
+{
+ "origem": "KlkResources/S701_MES/MES_031_GAM_ACT",
+ "conteudo": "Falas em batalha - Gamagoori",
+ "parte": "4/4",
+ "instrucoes": "Traduza o campo 'en' para portugues do Brasil e escreva o resultado em 'pt'. Nao altere 'id'. Mantenha intactos os codigos entre chaves ({CA}, {LA}, {BR}, {JU}, {SP}, {GD}, {LS}, {L1}, {R1}, setas), os marcadores de formato (%d, %l, %ls, %hs) e as quebras de linha \\n. Se uma linha nao precisar de traducao, deixe 'pt' vazio.",
+ "linhas": [
+  {
+   "id": "C031_COVERS_FINISH_PASS_03_KEYWORD",
+   "en": "With results like that, I'll never be worthy of Lady Satsuki!",
+   "pt": "Com resultados assim, nunca serei digno da Senhorita Satsuki!"
+  },
+  {
+   "id": "C031_COVERS_FINISH_BAD_01_KEYWORD",
+   "en": "I will not yield! I won't...!",
+   "pt": "Eu não vou ceder! Eu não vou...!"
+  },
+  {
+   "id": "C031_COVERS_FINISH_BAD_02_KEYWORD",
+   "en": "Look at me… Shameful!",
+   "pt": "Olhe para mim... Vergonhoso!"
+  },
+  {
+   "id": "C031_COVERS_FINISH_BAD_03_KEYWORD",
+   "en": "I'll be back to clear my name of this disgrace!",
+   "pt": "Voltarei para limpar meu nome desta desonra!"
+  }
+ ]
+}

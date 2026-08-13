@@ -1,0 +1,878 @@
+{
+ "origem": "KlkResources/S701_MES/MES_071_RAG_ACT",
+ "conteudo": "Falas em batalha - Ragyo",
+ "parte": "3/3",
+ "instrucoes": "Traduza o campo 'en' para portugues do Brasil e escreva o resultado em 'pt'. Nao altere 'id'. Mantenha intactos os codigos entre chaves ({CA}, {LA}, {BR}, {JU}, {SP}, {GD}, {LS}, {L1}, {R1}, setas), os marcadores de formato (%d, %l, %ls, %hs) e as quebras de linha \\n. Se uma linha nao precisar de traducao, deixe 'pt' vazio.",
+ "linhas": [
+  {
+   "id": "C071_VS_C082_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "Let us put an end to this farce, dear.",
+   "pt": "Vamos acabar com essa farsa, querida."
+  },
+  {
+   "id": "C071_VS_C082_DECISION2_P_LOWER_KEYWORD",
+   "en": "It is too, too late!",
+   "pt": "É tarde, tarde demais!"
+  },
+  {
+   "id": "C071_VS_C082_DECISION2_G_UPPER_KEYWORD",
+   "en": "You are aware of the difference between humans and clothing, are you not?",
+   "pt": "Você está ciente da diferença entre humanos e roupas, não está?"
+  },
+  {
+   "id": "C071_VS_C082_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "This is the power of the COVERS. And of our great will!",
+   "pt": "Este é o poder dos Casulos. E da nossa grande vontade!"
+  },
+  {
+   "id": "C071_VS_C082_DECISION2_G_LOWER_KEYWORD",
+   "en": "You will feel it to the bitter end!",
+   "pt": "Você vai sentir isso até o amargo fim!"
+  },
+  {
+   "id": "C071_VS_C141_DECISION0_S_UPPER_KEYWORD",
+   "en": "Behold, you foolish humans!",
+   "pt": "Contemplem, humanos tolos!"
+  },
+  {
+   "id": "C071_VS_C141_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "The Life Fibers are the rulers of this world.\nAnd you weak creatures shall be sacrificed to them!",
+   "pt": "As Fibras de Vida são as governantes deste mundo.\nE vocês, criaturas fracas, serão sacrificadas a elas!"
+  },
+  {
+   "id": "C071_VS_C141_DECISION0_S_LOWER_KEYWORD",
+   "en": "You should feel honored.",
+   "pt": "Vocês deveriam se sentir honrados."
+  },
+  {
+   "id": "C071_VS_C141_DECISION0_P_UPPER_KEYWORD",
+   "en": "I'm sorry. Are you mocking me?",
+   "pt": "Perdão. Você está zombando de mim?"
+  },
+  {
+   "id": "C071_VS_C141_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "Did you honestly think a human such as yourself could defeat me?",
+   "pt": "Você achou mesmo que um humano como você poderia me derrotar?"
+  },
+  {
+   "id": "C071_VS_C141_DECISION0_P_LOWER_KEYWORD",
+   "en": "Know your place!",
+   "pt": "Ponha-se no seu lugar!"
+  },
+  {
+   "id": "C071_VS_C141_DECISION0_G_UPPER_KEYWORD",
+   "en": "I'll be happy to show you how clothing rules over this planet!",
+   "pt": "Ficarei feliz em lhe mostrar como as roupas governam este planeta!"
+  },
+  {
+   "id": "C071_VS_C141_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "Your actions are an act of rebellion against the Life Fibers' will.",
+   "pt": "Suas ações são um ato de rebelião contra a vontade das Fibras de Vida."
+  },
+  {
+   "id": "C071_VS_C141_DECISION0_G_LOWER_KEYWORD",
+   "en": "You'll pay for your transgressions with your flesh!",
+   "pt": "Você pagará pelas suas transgressões com a sua carne!"
+  },
+  {
+   "id": "C071_VS_C141_DECISION1_S_UPPER_KEYWORD",
+   "en": "Have you not realized the difference in our powers yet?!",
+   "pt": "Você ainda não percebeu a diferença em nossos poderes?!"
+  },
+  {
+   "id": "C071_VS_C141_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "You humans are inferior beings who will submit to the Life Fibers!",
+   "pt": "Vocês humanos são seres inferiores que se submeterão às Fibras de Vida!"
+  },
+  {
+   "id": "C071_VS_C141_DECISION1_S_LOWER_KEYWORD",
+   "en": "Surrender to our glory!",
+   "pt": "Rendam-se à nossa glória!"
+  },
+  {
+   "id": "C071_VS_C141_DECISION1_P_UPPER_KEYWORD",
+   "en": "It's about time you gave up.",
+   "pt": "Já estava na hora de você desistir."
+  },
+  {
+   "id": "C071_VS_C141_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "Your strategy was amusing... but this is getting old.",
+   "pt": "Sua estratégia foi divertida... mas isso já está ficando chato."
+  },
+  {
+   "id": "C071_VS_C141_DECISION1_P_LOWER_KEYWORD",
+   "en": "I'll have you exit the stage!",
+   "pt": "Farei você sair do palco!"
+  },
+  {
+   "id": "C071_VS_C141_DECISION1_G_UPPER_KEYWORD",
+   "en": "I'll teach you that humans are nothing but pigs in clothing.",
+   "pt": "Vou lhe ensinar que humanos não passam de porcos em roupas."
+  },
+  {
+   "id": "C071_VS_C141_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "You are nothing but livestock for the Life Fibers to consume!",
+   "pt": "Vocês não passam de gado para as Fibras de Vida consumirem!"
+  },
+  {
+   "id": "C071_VS_C141_DECISION1_G_LOWER_KEYWORD",
+   "en": "Get in your pen, like the livestock you are!",
+   "pt": "Volte para o seu curral, como o gado que você é!"
+  },
+  {
+   "id": "C071_VS_C141_DECISION2_S_UPPER_KEYWORD",
+   "en": "Useless resistance only makes you look pathetic!",
+   "pt": "Resistência inútil apenas faz você parecer patético!"
+  },
+  {
+   "id": "C071_VS_C141_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "Humanity will be enveloped by the Life Fibers, uniting under one cloth.\nThis is the truth of the universe!",
+   "pt": "A humanidade será envolvida pelas Fibras de Vida, unindo-se sob um único tecido.\nEsta é a verdade do universo!"
+  },
+  {
+   "id": "C071_VS_C141_DECISION2_S_LOWER_KEYWORD",
+   "en": "There is no escape!",
+   "pt": "Não há escapatória!"
+  },
+  {
+   "id": "C071_VS_C141_DECISION2_P_UPPER_KEYWORD",
+   "en": "Your fate ends here.",
+   "pt": "Seu destino acaba aqui."
+  },
+  {
+   "id": "C071_VS_C141_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "Protest all you want, you cannot stop my grand ambitions!",
+   "pt": "Proteste o quanto quiser, você não pode deter minhas grandes ambições!"
+  },
+  {
+   "id": "C071_VS_C141_DECISION2_P_LOWER_KEYWORD",
+   "en": "It is too, too late!",
+   "pt": "É tarde, tarde demais!"
+  },
+  {
+   "id": "C071_VS_C141_DECISION2_G_UPPER_KEYWORD",
+   "en": "Even a fool like you should understand the difference between a human and clothing!",
+   "pt": "Até um tolo como você deveria entender a diferença entre um humano e uma roupa!"
+  },
+  {
+   "id": "C071_VS_C141_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "This is what you get for defying the COVERS... and our grand will!",
+   "pt": "Isto é o que você ganha por desafiar os Casulos... e nossa grande vontade!"
+  },
+  {
+   "id": "C071_VS_C141_DECISION2_G_LOWER_KEYWORD",
+   "en": "Resist! It will do you no good.",
+   "pt": "Resista! Não lhe servirá de nada."
+  },
+  {
+   "id": "C071_VS_C151_DECISION0_S_UPPER_KEYWORD",
+   "en": "Behold, you foolish humans!",
+   "pt": "Contemplem, humanos tolos!"
+  },
+  {
+   "id": "C071_VS_C151_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "The Life Fibers are the rulers of this world.\nAnd you weak creatures shall be sacrificed to them!",
+   "pt": "As Fibras de Vida são as governantes deste mundo.\nE vocês, criaturas fracas, serão sacrificadas a elas!"
+  },
+  {
+   "id": "C071_VS_C151_DECISION0_S_LOWER_KEYWORD",
+   "en": "You should feel honored.",
+   "pt": "Vocês deveriam se sentir honrados."
+  },
+  {
+   "id": "C071_VS_C151_DECISION0_P_UPPER_KEYWORD",
+   "en": "I'm sorry. Are you mocking me?",
+   "pt": "Perdão. Você está zombando de mim?"
+  },
+  {
+   "id": "C071_VS_C151_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "Did you honestly think a human such as yourself could defeat me?",
+   "pt": "Você achou mesmo que um humano como você poderia me derrotar?"
+  },
+  {
+   "id": "C071_VS_C151_DECISION0_P_LOWER_KEYWORD",
+   "en": "Know your place!",
+   "pt": "Ponha-se no seu lugar!"
+  },
+  {
+   "id": "C071_VS_C151_DECISION0_G_UPPER_KEYWORD",
+   "en": "I'll be happy to show you how clothing rules over this planet!",
+   "pt": "Ficarei feliz em lhe mostrar como as roupas governam este planeta!"
+  },
+  {
+   "id": "C071_VS_C151_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "Your actions are an act of rebellion against the Life Fibers' will.",
+   "pt": "Suas ações são um ato de rebelião contra a vontade das Fibras de Vida."
+  },
+  {
+   "id": "C071_VS_C151_DECISION0_G_LOWER_KEYWORD",
+   "en": "You'll pay for your transgressions with your flesh!",
+   "pt": "Você pagará pelas suas transgressões com a sua carne!"
+  },
+  {
+   "id": "C071_VS_C151_DECISION1_S_UPPER_KEYWORD",
+   "en": "Have you not realized the difference in our powers yet?!",
+   "pt": "Você ainda não percebeu a diferença em nossos poderes?!"
+  },
+  {
+   "id": "C071_VS_C151_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "You humans are inferior beings who will submit to the Life Fibers!",
+   "pt": "Vocês humanos são seres inferiores que se submeterão às Fibras de Vida!"
+  },
+  {
+   "id": "C071_VS_C151_DECISION1_S_LOWER_KEYWORD",
+   "en": "Surrender to our glory!",
+   "pt": "Rendam-se à nossa glória!"
+  },
+  {
+   "id": "C071_VS_C151_DECISION1_P_UPPER_KEYWORD",
+   "en": "It's about time you gave up.",
+   "pt": "Já estava na hora de você desistir."
+  },
+  {
+   "id": "C071_VS_C151_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "Your strategy was amusing... but this is getting old.",
+   "pt": "Sua estratégia foi divertida... mas isso já está ficando chato."
+  },
+  {
+   "id": "C071_VS_C151_DECISION1_P_LOWER_KEYWORD",
+   "en": "I'll have you exit the stage!",
+   "pt": "Farei você sair do palco!"
+  },
+  {
+   "id": "C071_VS_C151_DECISION1_G_UPPER_KEYWORD",
+   "en": "I'll teach you that humans are nothing but pigs in clothing.",
+   "pt": "Vou lhe ensinar que humanos não passam de porcos em roupas."
+  },
+  {
+   "id": "C071_VS_C151_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "You are nothing but livestock for the Life Fibers to consume!",
+   "pt": "Vocês não passam de gado para as Fibras de Vida consumirem!"
+  },
+  {
+   "id": "C071_VS_C151_DECISION1_G_LOWER_KEYWORD",
+   "en": "Get in your pen, like the livestock you are!",
+   "pt": "Volte para o seu curral, como o gado que você é!"
+  },
+  {
+   "id": "C071_VS_C151_DECISION2_S_UPPER_KEYWORD",
+   "en": "Useless resistance only makes you look pathetic!",
+   "pt": "Resistência inútil apenas faz você parecer patético!"
+  },
+  {
+   "id": "C071_VS_C151_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "Humanity will be enveloped by the Life Fibers, uniting under one cloth.\nThis is the truth of the universe!",
+   "pt": "A humanidade será envolvida pelas Fibras de Vida, unindo-se sob um único tecido.\nEsta é a verdade do universo!"
+  },
+  {
+   "id": "C071_VS_C151_DECISION2_S_LOWER_KEYWORD",
+   "en": "There is no escape!",
+   "pt": "Não há escapatória!"
+  },
+  {
+   "id": "C071_VS_C151_DECISION2_P_UPPER_KEYWORD",
+   "en": "Your fate ends here.",
+   "pt": "Seu destino acaba aqui."
+  },
+  {
+   "id": "C071_VS_C151_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "Protest all you want, you cannot stop my grand ambitions!",
+   "pt": "Proteste o quanto quiser, você não pode deter minhas grandes ambições!"
+  },
+  {
+   "id": "C071_VS_C151_DECISION2_P_LOWER_KEYWORD",
+   "en": "It is too, too late!",
+   "pt": "É tarde, tarde demais!"
+  },
+  {
+   "id": "C071_VS_C151_DECISION2_G_UPPER_KEYWORD",
+   "en": "Even a fool like you should understand the difference between a human and clothing!",
+   "pt": "Até um tolo como você deveria entender a diferença entre um humano e uma roupa!"
+  },
+  {
+   "id": "C071_VS_C151_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "This is what you get for defying the COVERS... and our grand will!",
+   "pt": "Isto é o que você ganha por desafiar os Casulos... e nossa grande vontade!"
+  },
+  {
+   "id": "C071_VS_C151_DECISION2_G_LOWER_KEYWORD",
+   "en": "Resist! It will do you no good.",
+   "pt": "Resista! Não lhe servirá de nada."
+  },
+  {
+   "id": "C071_VS_C011_ARREST_S_KEYWORD",
+   "en": "How foolish! Stay out of this!",
+   "pt": "Que tolice! Fique fora disso!"
+  },
+  {
+   "id": "C071_VS_C011_ARREST_P_KEYWORD",
+   "en": "What's wrong?\nFeel free to die any time!",
+   "pt": "Qual o problema?\nSinta-se à vontade para morrer a qualquer momento!"
+  },
+  {
+   "id": "C071_VS_C011_ARREST_G_KEYWORD",
+   "en": "Absurd. Do you know who you're talking to?!",
+   "pt": "Absurdo. Sabe com quem está falando?!"
+  },
+  {
+   "id": "C071_VS_C012_ARREST_S_KEYWORD",
+   "en": "How foolish! Stay out of this!",
+   "pt": "Que tolice! Fique fora disso!"
+  },
+  {
+   "id": "C071_VS_C012_ARREST_P_KEYWORD",
+   "en": "What's wrong?\nFeel free to die any time!",
+   "pt": "Qual o problema?\nSinta-se à vontade para morrer a qualquer momento!"
+  },
+  {
+   "id": "C071_VS_C012_ARREST_G_KEYWORD",
+   "en": "Absurd. Do you know who you're talking to?!",
+   "pt": "Absurdo. Sabe com quem está falando?!"
+  },
+  {
+   "id": "C071_VS_C021_ARREST_S_KEYWORD",
+   "en": "Face it. You are useless and weak!",
+   "pt": "Encare os fatos. Você é inútil e fraca!"
+  },
+  {
+   "id": "C071_VS_C021_ARREST_P_KEYWORD",
+   "en": "Do you speak to your mother that way?",
+   "pt": "É assim que você fala com a sua mãe?"
+  },
+  {
+   "id": "C071_VS_C021_ARREST_G_KEYWORD",
+   "en": "Fool. You are aware of the difference in power between us.. Yes?",
+   "pt": "Tola. Você está ciente da diferença de poder entre nós... Sim?"
+  },
+  {
+   "id": "C071_VS_C022_ARREST_S_KEYWORD",
+   "en": "Face it. You are useless and weak!",
+   "pt": "Encare os fatos. Você é inútil e fraca!"
+  },
+  {
+   "id": "C071_VS_C022_ARREST_P_KEYWORD",
+   "en": "Do you speak to your mother that way?",
+   "pt": "É assim que você fala com a sua mãe?"
+  },
+  {
+   "id": "C071_VS_C022_ARREST_G_KEYWORD",
+   "en": "Fool. You are aware of the difference in power between us.. Yes?",
+   "pt": "Tola. Você está ciente da diferença de poder entre nós... Sim?"
+  },
+  {
+   "id": "C071_VS_C031_ARREST_S_KEYWORD",
+   "en": "How foolish! Stay out of this!",
+   "pt": "Que tolice! Fique fora disso!"
+  },
+  {
+   "id": "C071_VS_C031_ARREST_P_KEYWORD",
+   "en": "You livestock have quite the nerve!",
+   "pt": "Gados como vocês têm muita ousadia!"
+  },
+  {
+   "id": "C071_VS_C031_ARREST_G_KEYWORD",
+   "en": "Absurd. Do you know who you're talking to?!",
+   "pt": "Absurdo. Sabe com quem está falando?!"
+  },
+  {
+   "id": "C071_VS_C041_ARREST_S_KEYWORD",
+   "en": "How foolish! Stay out of this!",
+   "pt": "Que tolice! Fique fora disso!"
+  },
+  {
+   "id": "C071_VS_C041_ARREST_P_KEYWORD",
+   "en": "You livestock have quite the nerve!",
+   "pt": "Gados como vocês têm muita ousadia!"
+  },
+  {
+   "id": "C071_VS_C041_ARREST_G_KEYWORD",
+   "en": "Absurd. Do you know who you're talking to?!",
+   "pt": "Absurdo. Sabe com quem está falando?!"
+  },
+  {
+   "id": "C071_VS_C051_ARREST_S_KEYWORD",
+   "en": "How foolish! Stay out of this!",
+   "pt": "Que tolice! Fique fora disso!"
+  },
+  {
+   "id": "C071_VS_C051_ARREST_P_KEYWORD",
+   "en": "You livestock have quite the nerve!",
+   "pt": "Gados como vocês têm muita ousadia!"
+  },
+  {
+   "id": "C071_VS_C051_ARREST_G_KEYWORD",
+   "en": "Absurd. Do you know who you're talking to?!",
+   "pt": "Absurdo. Sabe com quem está falando?!"
+  },
+  {
+   "id": "C071_VS_C061_ARREST_S_KEYWORD",
+   "en": "How foolish! Stay out of this!",
+   "pt": "Que tolice! Fique fora disso!"
+  },
+  {
+   "id": "C071_VS_C061_ARREST_P_KEYWORD",
+   "en": "You livestock have quite the nerve!",
+   "pt": "Gados como vocês têm muita ousadia!"
+  },
+  {
+   "id": "C071_VS_C061_ARREST_G_KEYWORD",
+   "en": "Absurd. Do you know who you're talking to?!",
+   "pt": "Absurdo. Sabe com quem está falando?!"
+  },
+  {
+   "id": "C071_VS_C071_ARREST_S_KEYWORD",
+   "en": "How foolish! Stay out of this!",
+   "pt": "Que tolice! Fique fora disso!"
+  },
+  {
+   "id": "C071_VS_C071_ARREST_P_KEYWORD",
+   "en": "You livestock have quite the nerve!",
+   "pt": "Gados como vocês têm muita ousadia!"
+  },
+  {
+   "id": "C071_VS_C071_ARREST_G_KEYWORD",
+   "en": "Absurd. Do you know who you're talking to?!",
+   "pt": "Absurdo. Sabe com quem está falando?!"
+  },
+  {
+   "id": "C071_VS_C081_ARREST_S_KEYWORD",
+   "en": "What's wrong? Is that all you've got?",
+   "pt": "O que foi? Isso é tudo que você tem?"
+  },
+  {
+   "id": "C071_VS_C081_ARREST_P_KEYWORD",
+   "en": "Fool. You know you can't win against me.",
+   "pt": "Tola. Sabe que não pode vencer de mim."
+  },
+  {
+   "id": "C071_VS_C081_ARREST_G_KEYWORD",
+   "en": "It's like I'm fighting air.\nCan't you give me more of a challenge?",
+   "pt": "É como se eu estivesse lutando contra o ar.\nVocê não consegue me dar um desafio melhor?"
+  },
+  {
+   "id": "C071_VS_C141_ARREST_S_KEYWORD",
+   "en": "How foolish! Stay out of this!",
+   "pt": "Que tolice! Fique fora disso!"
+  },
+  {
+   "id": "C071_VS_C141_ARREST_P_KEYWORD",
+   "en": "You livestock have quite the nerve!",
+   "pt": "Gados como vocês têm muita ousadia!"
+  },
+  {
+   "id": "C071_VS_C141_ARREST_G_KEYWORD",
+   "en": "Absurd. Do you know who you're talking to?!",
+   "pt": "Absurdo. Sabe com quem está falando?!"
+  },
+  {
+   "id": "C071_VS_C151_ARREST_S_KEYWORD",
+   "en": "Naked apes! Know your place!",
+   "pt": "Macacos pelados! Ponham-se no seu lugar!"
+  },
+  {
+   "id": "C071_VS_C151_ARREST_P_KEYWORD",
+   "en": "You dare challenge us with that?\nYou make me laugh!",
+   "pt": "Ousam nos desafiar com isso?\nVocês me fazem rir!"
+  },
+  {
+   "id": "C071_VS_C151_ARREST_G_KEYWORD",
+   "en": "Stop this futile resistance!\nAccept your fate as our food!",
+   "pt": "Parem com essa resistência fútil!\nAceitem o seu destino como nossa comida!"
+  },
+  {
+   "id": "C071_FINISHARTS_01_KEYWORD",
+   "en": "Bring down the curtain!",
+   "pt": "Desçam as cortinas!"
+  },
+  {
+   "id": "C071_FINISHARTS_02_KEYWORD",
+   "en": "I've no use for you now!",
+   "pt": "Você não tem mais utilidade para mim!"
+  },
+  {
+   "id": "C071_FINISHARTS_03_KEYWORD",
+   "en": "This shall be the end!",
+   "pt": "Este será o fim!"
+  },
+  {
+   "id": "C071_FINISHARTS_04_KEYWORD",
+   "en": "Your time has come.",
+   "pt": "Chegou a sua hora."
+  },
+  {
+   "id": "C071_FINISHARTS_05_KEYWORD",
+   "en": "You are no longer needed on my stage!",
+   "pt": "Você não é mais necessário no meu palco!"
+  },
+  {
+   "id": "C071_FINISHARTS_06_KEYWORD",
+   "en": "You've turned your back on the will of this world.",
+   "pt": "Você virou as costas para a vontade deste mundo."
+  },
+  {
+   "id": "C071_FINISHARTS_07_KEYWORD",
+   "en": "Rest in peace!",
+   "pt": "Descanse em paz!"
+  },
+  {
+   "id": "C071_FINISHARTS_08_KEYWORD",
+   "en": "Extras! Clear the stage!",
+   "pt": "Figurantes! Saiam do palco!"
+  },
+  {
+   "id": "C071_FINISHARTS_09_KEYWORD",
+   "en": "Your body shall repent for your sins!",
+   "pt": "Seu corpo vai se arrepender dos seus pecados!"
+  },
+  {
+   "id": "C071_FINISHARTS_10_KEYWORD",
+   "en": "Arrogant fool!",
+   "pt": "Tolo arrogante!"
+  },
+  {
+   "id": "C071_DEFEAT_01_KEYWORD",
+   "en": "Impossible! This can't be....",
+   "pt": "Impossível! Não pode ser..."
+  },
+  {
+   "id": "C071_DEFEAT_02_KEYWORD",
+   "en": "Victory is yours, this time...",
+   "pt": "A vitória é sua, desta vez..."
+  },
+  {
+   "id": "C071_DEFEAT_03_KEYWORD",
+   "en": "This can't be the will of the world....",
+   "pt": "Esta não pode ser a vontade do mundo..."
+  },
+  {
+   "id": "C071_VS_C011_VICTORY_01_KEYWORD",
+   "en": "This is the fate of those who who defy me. No, defy the Life Fibers.",
+   "pt": "Este é o destino daqueles que me desafiam. Não, que desafiam as Fibras de Vida."
+  },
+  {
+   "id": "C071_VS_C011_VICTORY_02_KEYWORD",
+   "en": "You may be wearing a Kamui, but that means little when the wearer is third rate.",
+   "pt": "Você pode estar vestindo um Kamui, mas isso significa pouco quando o usuário é de terceira categoria."
+  },
+  {
+   "id": "C071_VS_C011_VICTORY_03_KEYWORD",
+   "en": "The struggles of the last living Matoi... This was lovely to watch.",
+   "pt": "As lutas da última Matoi viva... Foi adorável de se assistir."
+  },
+  {
+   "id": "C071_VS_C012_VICTORY_01_KEYWORD",
+   "en": "This is the fate of those who who defy me. No, defy the Life Fibers.",
+   "pt": "Este é o destino daqueles que me desafiam. Não, que desafiam as Fibras de Vida."
+  },
+  {
+   "id": "C071_VS_C012_VICTORY_02_KEYWORD",
+   "en": "You may be wearing a Kamui, but that means little when the wearer is third rate.",
+   "pt": "Você pode estar vestindo um Kamui, mas isso significa pouco quando o usuário é de terceira categoria."
+  },
+  {
+   "id": "C071_VS_C012_VICTORY_03_KEYWORD",
+   "en": "The struggles of the last living Matoi... This was lovely to watch.",
+   "pt": "As lutas da última Matoi viva... Foi adorável de se assistir."
+  },
+  {
+   "id": "C071_VS_C021_VICTORY_01_KEYWORD",
+   "en": "You're pathetic, Satsuki. Now... grovel before me!",
+   "pt": "Você é patética, Satsuki. Agora... rasteje diante de mim!"
+  },
+  {
+   "id": "C071_VS_C021_VICTORY_02_KEYWORD",
+   "en": "You're still not truly wearing Junketsu, Satsuki.\nYou have only put your arms through the sleeves.",
+   "pt": "Você ainda não está realmente vestindo Junketsu, Satsuki.\nVocê só enfiou os braços nas mangas."
+  },
+  {
+   "id": "C071_VS_C021_VICTORY_03_KEYWORD",
+   "en": "Oh, Satsuki. I've enjoyed your little scheme so very much.",
+   "pt": "Ah, Satsuki. Eu me diverti tanto com o seu pequeno esquema."
+  },
+  {
+   "id": "C071_VS_C022_VICTORY_01_KEYWORD",
+   "en": "You're pathetic, Satsuki. Now... grovel before me!",
+   "pt": "Você é patética, Satsuki. Agora... rasteje diante de mim!"
+  },
+  {
+   "id": "C071_VS_C022_VICTORY_02_KEYWORD",
+   "en": "You're still not truly wearing Junketsu, Satsuki.\nYou have only put your arms through the sleeves.",
+   "pt": "Você ainda não está realmente vestindo Junketsu, Satsuki.\nVocê só enfiou os braços nas mangas."
+  },
+  {
+   "id": "C071_VS_C022_VICTORY_03_KEYWORD",
+   "en": "Oh, Satsuki. I've enjoyed your little scheme so very much.",
+   "pt": "Ah, Satsuki. Eu me diverti tanto com o seu pequeno esquema."
+  },
+  {
+   "id": "C071_VS_C031_VICTORY_01_KEYWORD",
+   "en": "Hmm. I see your value as a first-strike to eliminate the rebels.",
+   "pt": "Hmm. Eu vejo o seu valor como um ataque inicial para eliminar os rebeldes."
+  },
+  {
+   "id": "C071_VS_C031_VICTORY_02_KEYWORD",
+   "en": "You say you're tough and all, but you seem to be lacking in strength.",
+   "pt": "Você se diz durão e tudo mais, mas parece que lhe falta força."
+  },
+  {
+   "id": "C071_VS_C031_VICTORY_03_KEYWORD",
+   "en": "I suppose you're fairly tough for a human. You pass.",
+   "pt": "Eu suponho que você seja bastante durão para um humano. Você passa."
+  },
+  {
+   "id": "C071_VS_C041_VICTORY_01_KEYWORD",
+   "en": "I never knew one could enhance their senses so much using the Life Fibers.\nThat was quite intriguing.",
+   "pt": "Eu nunca soube que alguém pudesse aprimorar tanto os sentidos usando as Fibras de Vida.\nIsso foi bastante intrigante."
+  },
+  {
+   "id": "C071_VS_C041_VICTORY_02_KEYWORD",
+   "en": "This young man's synchronicity with the Life Fibers is remarkable.\nSatsuki is blessed to have such a talented devotee.",
+   "pt": "A Sincronização deste jovem com as Fibras de Vida é notável.\nSatsuki é abençoada por ter um devoto tão talentoso."
+  },
+  {
+   "id": "C071_VS_C041_VICTORY_03_KEYWORD",
+   "en": "I enjoyed watching the power of your Shingan.\nFor a human, it was most impressive indeed.",
+   "pt": "Eu gostei de assistir ao poder do seu Shingan.\nPara um humano, foi realmente muito impressionante."
+  },
+  {
+   "id": "C071_VS_C051_VICTORY_01_KEYWORD",
+   "en": "For a mere human, Nonon, you weren't half bad.",
+   "pt": "Para uma mera humana, Nonon, você não foi nada mal."
+  },
+  {
+   "id": "C071_VS_C051_VICTORY_02_KEYWORD",
+   "en": "You have my respect, Nonon.\nYou seem to be utilizing the Goku Uniform quite well.",
+   "pt": "Você tem o meu respeito, Nonon.\nParece que você está utilizando o Uniforme Goku muito bem."
+  },
+  {
+   "id": "C071_VS_C051_VICTORY_03_KEYWORD",
+   "en": "You've improved, Nonon. I quite enjoyed that.",
+   "pt": "Você melhorou, Nonon. Eu gostei bastante disso."
+  },
+  {
+   "id": "C071_VS_C061_VICTORY_01_KEYWORD",
+   "en": "Did you really think you'd have time to collect data while fighting me? Really!",
+   "pt": "Você achou mesmo que teria tempo para coletar dados enquanto lutava comigo? É sério!"
+  },
+  {
+   "id": "C071_VS_C061_VICTORY_02_KEYWORD",
+   "en": "You're using the power of the Life Fibers efficiently.\nAs expected of Satsuki's advisor.",
+   "pt": "Você está usando o poder das Fibras de Vida de forma eficiente.\nComo esperado do conselheiro da Satsuki."
+  },
+  {
+   "id": "C071_VS_C061_VICTORY_03_KEYWORD",
+   "en": "You did fine... but you need more training if you wish to stand on the frontline.",
+   "pt": "Você foi bem... mas precisa de mais treino se quiser ficar na linha de frente."
+  },
+  {
+   "id": "C071_VS_C071_VICTORY_01_KEYWORD",
+   "en": "So, you were a counterfeit after all. Weren't you.",
+   "pt": "Então, você era uma falsificação afinal de contas. Não é."
+  },
+  {
+   "id": "C071_VS_C071_VICTORY_02_KEYWORD",
+   "en": "There was no other way this could end.\nThere is only one Ragyo Kiryuin and that is I. ",
+   "pt": "Não havia outra maneira de isso acabar.\nExiste apenas uma Ragyo Kiryuin e sou eu."
+  },
+  {
+   "id": "C071_VS_C071_VICTORY_03_KEYWORD",
+   "en": "You dared to deceive me. Were you expecting a different result, perhaps?",
+   "pt": "Você ousou me enganar. Estava esperando um resultado diferente, talvez?"
+  },
+  {
+   "id": "C071_VS_C081_VICTORY_01_KEYWORD",
+   "en": "You entertained me, Nui. I've worked up quite a sweat.",
+   "pt": "Você me entreteve, Nui. Eu suei bastante."
+  },
+  {
+   "id": "C071_VS_C081_VICTORY_02_KEYWORD",
+   "en": "It's not like you to leave the last stitch loose. Mind your craft, Nui.",
+   "pt": "Não é do seu feitio deixar o último ponto solto. Cuidado com o seu trabalho, Nui."
+  },
+  {
+   "id": "C071_VS_C081_VICTORY_03_KEYWORD",
+   "en": "I forgot how entertaining it was to play with you, Nui. We should do this again.",
+   "pt": "Eu tinha me esquecido de como era divertido brincar com você, Nui. Deveríamos fazer isso de novo."
+  },
+  {
+   "id": "C071_VS_C141_VICTORY_01_KEYWORD",
+   "en": "How unexpected. I've never met a human with such high synchronicity with the Life Fibers.",
+   "pt": "Que inesperado. Nunca conheci um humano com uma Sincronização tão alta com as Fibras de Vida."
+  },
+  {
+   "id": "C071_VS_C141_VICTORY_02_KEYWORD",
+   "en": "For what you lack in intelligence, you more than make up for in power.\nYou have my respect.",
+   "pt": "O que lhe falta em inteligência, você compensa de sobra em poder.\nVocê tem o meu respeito."
+  },
+  {
+   "id": "C071_VS_C141_VICTORY_03_KEYWORD",
+   "en": "I knew our fight would end this way.\nA pipsqueak like you does not stand a chance against me!",
+   "pt": "Eu sabia que a nossa luta terminaria assim.\nUm nanico como você não tem chance contra mim!"
+  },
+  {
+   "id": "C071_VS_C151_VICTORY_01_KEYWORD",
+   "en": "I can't believe you publicly declared your intent to defeat me, given you're so weak.",
+   "pt": "Não acredito que declarou publicamente a sua intenção de me derrotar, sendo tão fraco."
+  },
+  {
+   "id": "C071_VS_C151_VICTORY_02_KEYWORD",
+   "en": "Your nudity is ugly. Feel the weight of your sins reverberate through your bones.",
+   "pt": "A sua nudez é feia. Sinta o peso dos seus pecados reverberar através dos seus ossos."
+  },
+  {
+   "id": "C071_VS_C151_VICTORY_03_KEYWORD",
+   "en": "You either surrender, or die. The choice is yours. Go on... pick. ",
+   "pt": "Ou você se rende, ou morre. A escolha é sua. Vá em frente... escolha."
+  },
+  {
+   "id": "C071_KACHINUKI_START_01_KEYWORD",
+   "en": "Who is the fool that wishes to challenge me... Ragyo Kiryuin?",
+   "pt": "Quem é o tolo que deseja desafiar a mim... Ragyo Kiryuin?"
+  },
+  {
+   "id": "C071_KACHINUKI_START_02_KEYWORD",
+   "en": "No matter who you are, the results will be the same. No one can defeat me!",
+   "pt": "Não importa quem você seja, os resultados serão os mesmos. Ninguém pode me derrotar!"
+  },
+  {
+   "id": "C071_KACHINUKI_START_03_KEYWORD",
+   "en": "I don’t know who you are or where you're from, but I'll gladly strike you down.",
+   "pt": "Não sei quem você é ou de onde vem, mas terei prazer em derrubá-lo."
+  },
+  {
+   "id": "C071_KACHINUKI_FINISH_EXCELLENT_01_KEYWORD",
+   "en": "Buahahaha! The obvious end result!",
+   "pt": "Buahahaha! O óbvio resultado final!"
+  },
+  {
+   "id": "C071_KACHINUKI_FINISH_EXCELLENT_02_KEYWORD",
+   "en": "A ruler shall always produce results!",
+   "pt": "Um governante sempre produzirá resultados!"
+  },
+  {
+   "id": "C071_KACHINUKI_FINISH_GREAT_01_KEYWORD",
+   "en": "That was entertaining.",
+   "pt": "Isso foi divertido."
+  },
+  {
+   "id": "C071_KACHINUKI_FINISH_GREAT_02_KEYWORD",
+   "en": "Hee hee, I had fun.",
+   "pt": "Hi hi, eu me diverti."
+  },
+  {
+   "id": "C071_KACHINUKI_FINISH_GOOD_01_KEYWORD",
+   "en": "Hmph, I was too easy on them.",
+   "pt": "Hmph, peguei leve demais com eles."
+  },
+  {
+   "id": "C071_KACHINUKI_FINISH_GOOD_02_KEYWORD",
+   "en": "A passable result.",
+   "pt": "Um resultado aceitável."
+  },
+  {
+   "id": "C071_KACHINUKI_FINISH_PASS_01_KEYWORD",
+   "en": "That'll do for today.",
+   "pt": "Isso servirá por hoje."
+  },
+  {
+   "id": "C071_KACHINUKI_FINISH_PASS_02_KEYWORD",
+   "en": "Kgh, what mediocre results...",
+   "pt": "Kgh, que resultados medíocres..."
+  },
+  {
+   "id": "C071_KACHINUKI_FINISH_BAD_01_KEYWORD",
+   "en": "How could someone like me fall to such small fry?!",
+   "pt": "Como alguém como eu pôde cair para uma ralé dessas?!"
+  },
+  {
+   "id": "C071_KACHINUKI_FINISH_BAD_02_KEYWORD",
+   "en": "Impossible! How can this be...?",
+   "pt": "Impossível! Como pode ser...?"
+  },
+  {
+   "id": "C071_COVERS_START_01_KEYWORD",
+   "en": "If this is the COVERS' will, then I shall accept it.",
+   "pt": "Se esta é a vontade dos Casulos, então eu a aceitarei."
+  },
+  {
+   "id": "C071_COVERS_START_02_KEYWORD",
+   "en": "You scraps are beyond worthless.\nOnly those I acknowledge, shall be deemed beautiful!",
+   "pt": "Vocês, trapos, não valem nada.\nApenas aqueles que eu reconhecer serão considerados belos!"
+  },
+  {
+   "id": "C071_COVERS_START_03_KEYWORD",
+   "en": "I shall examine your quality and discard those I deem flawed.",
+   "pt": "Examinarei a sua qualidade e descartarei aqueles que eu julgar defeituosos."
+  },
+  {
+   "id": "C071_COVERS_FINISH_EXCELLENT_01_KEYWORD",
+   "en": "Huhahaha! This is the difference in our strength! And quality!",
+   "pt": "Huhahaha! Esta é a diferença na nossa força! E qualidade!"
+  },
+  {
+   "id": "C071_COVERS_FINISH_EXCELLENT_02_KEYWORD",
+   "en": "Mass-produced goods such as yourselves, do not stand a chance against a couture ensemble!",
+   "pt": "Bens produzidos em massa como vocês não têm chance contra um conjunto de alta costura!"
+  },
+  {
+   "id": "C071_COVERS_FINISH_GREAT_01_KEYWORD",
+   "en": "Not too shabby. However... you don't compare to me. Don't even try.",
+   "pt": "Nada mau. No entanto... vocês não se comparam a mim. Nem tentem."
+  },
+  {
+   "id": "C071_COVERS_FINISH_GREAT_02_KEYWORD",
+   "en": "Pathetic! No matter how many of you there are, the results will be the same!",
+   "pt": "Patético! Não importa quantos de vocês existam, os resultados serão os mesmos!"
+  },
+  {
+   "id": "C071_COVERS_FINISH_GREAT_03_KEYWORD",
+   "en": "What's wrong? Your quality seems lacking!",
+   "pt": "O que há de errado? A qualidade de vocês parece estar em falta!"
+  },
+  {
+   "id": "C071_COVERS_FINISH_GOOD_01_KEYWORD",
+   "en": "Not bad. Not bad at all. This'll do for now.",
+   "pt": "Nada mal. Nada mal mesmo. Isso servirá por enquanto."
+  },
+  {
+   "id": "C071_COVERS_FINISH_GOOD_02_KEYWORD",
+   "en": "Hm. Honestly, I'm a little dissatisfied. ",
+   "pt": "Hm. Honestamente, estou um pouco insatisfeita."
+  },
+  {
+   "id": "C071_COVERS_FINISH_GOOD_03_KEYWORD",
+   "en": "This won't do you any good. Off with you. Go back to patterning. ",
+   "pt": "Isso não vai lhes fazer bem algum. Sumam. Voltem para a confecção de moldes."
+  },
+  {
+   "id": "C071_COVERS_FINISH_PASS_01_KEYWORD",
+   "en": "It seems I underestimated you. Next time, I won't.",
+   "pt": "Parece que eu os subestimei. Da próxima vez, não irei."
+  },
+  {
+   "id": "C071_COVERS_FINISH_PASS_02_KEYWORD",
+   "en": "Huh! It seems I haven't completely shed my humanity.",
+   "pt": "Huh! Parece que não perdi completamente a minha humanidade."
+  },
+  {
+   "id": "C071_COVERS_FINISH_PASS_03_KEYWORD",
+   "en": "Hmph. How dare you mass produced rags defy me.",
+   "pt": "Hmph. Como ousam me desafiar, trapos produzidos em massa."
+  },
+  {
+   "id": "C071_COVERS_FINISH_BAD_01_KEYWORD",
+   "en": "How could I stoop to such disgraceful behavior.",
+   "pt": "Como pude me rebaixar a um comportamento tão vergonhoso."
+  },
+  {
+   "id": "C071_COVERS_FINISH_BAD_02_KEYWORD",
+   "en": "I mustn't fall to these cheap, mass produced rags. Not me!",
+   "pt": "Eu não devo cair para estes trapos baratos e produzidos em massa. Não eu!"
+  },
+  {
+   "id": "C071_COVERS_FINISH_BAD_03_KEYWORD",
+   "en": "Kgh! How disgraceful.",
+   "pt": "Kgh! Que vergonha."
+  }
+ ]
+}

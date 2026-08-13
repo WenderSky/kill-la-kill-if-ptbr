@@ -1,0 +1,1008 @@
+{
+ "origem": "KlkResources/S701_MES/MES_021_SAT_ACT",
+ "conteudo": "Falas em batalha - Satsuki",
+ "parte": "3/4",
+ "instrucoes": "Traduza o campo 'en' para portugues do Brasil e escreva o resultado em 'pt'. Nao altere 'id'. Mantenha intactos os codigos entre chaves ({CA}, {LA}, {BR}, {JU}, {SP}, {GD}, {LS}, {L1}, {R1}, setas), os marcadores de formato (%d, %l, %ls, %hs) e as quebras de linha \\n. Se uma linha nao precisar de traducao, deixe 'pt' vazio.",
+ "linhas": [
+  {
+   "id": "C021_VS_C141_DECISION0_G_UPPER_KEYWORD",
+   "en": "Stand down, fool!",
+   "pt": "Renda-se, idiota!"
+  },
+  {
+   "id": "C021_VS_C141_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "All of you are merely pigs in human clothing!\nWho would listen to livestock like you?!",
+   "pt": "Todos vocês não passam de porcos em roupas de humanos!\nQuem daria ouvidos a gado como vocês?!"
+  },
+  {
+   "id": "C021_VS_C141_DECISION0_G_LOWER_KEYWORD",
+   "en": "Know your place... pig!",
+   "pt": "Ponha-se no seu lugar... porco!"
+  },
+  {
+   "id": "C021_VS_C141_DECISION1_S_UPPER_KEYWORD",
+   "en": "Listen to me, you fools!",
+   "pt": "Ouçam-me, seus idiotas!"
+  },
+  {
+   "id": "C021_VS_C141_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "You are all pigs being used by system you cannot comprehend!",
+   "pt": "Vocês todos são porcos sendo usados por um sistema que não conseguem compreender!"
+  },
+  {
+   "id": "C021_VS_C141_DECISION1_S_LOWER_KEYWORD",
+   "en": "Useless beings that deserve to be enslaved!",
+   "pt": "Seres inúteis que merecem ser escravizados!"
+  },
+  {
+   "id": "C021_VS_C141_DECISION1_P_UPPER_KEYWORD",
+   "en": "How dare you mock me!",
+   "pt": "Como ousa zombar de mim!"
+  },
+  {
+   "id": "C021_VS_C141_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "If you challenge me, you are a fool!\nI do not hesitate and I will show no mercy!",
+   "pt": "Se me desafiar, você é um idiota!\nNão hesitarei e não demonstrarei misericórdia!"
+  },
+  {
+   "id": "C021_VS_C141_DECISION1_P_LOWER_KEYWORD",
+   "en": "You are weak and worthless!",
+   "pt": "Você é fraco e inútil!"
+  },
+  {
+   "id": "C021_VS_C141_DECISION1_G_UPPER_KEYWORD",
+   "en": "Humans are pigs wearing clothes!",
+   "pt": "Humanos são porcos vestidos!"
+  },
+  {
+   "id": "C021_VS_C141_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "I shall stand firm and fight to rebuild this entire world!",
+   "pt": "Permanecerei firme e lutarei para reconstruir este mundo inteiro!"
+  },
+  {
+   "id": "C021_VS_C141_DECISION1_G_LOWER_KEYWORD",
+   "en": "And you shall serve as their food!",
+   "pt": "E você servirá como comida para eles!"
+  },
+  {
+   "id": "C021_VS_C141_DECISION2_S_UPPER_KEYWORD",
+   "en": "You'll understand soon enough!",
+   "pt": "Você entenderá em breve!"
+  },
+  {
+   "id": "C021_VS_C141_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "Anyone who dares to stand against me, will be crushed under my heel!",
+   "pt": "Qualquer um que ouse se opor a mim, será esmagado sob meu calcanhar!"
+  },
+  {
+   "id": "C021_VS_C141_DECISION2_S_LOWER_KEYWORD",
+   "en": "Remember this pain!",
+   "pt": "Lembre-se dessa dor!"
+  },
+  {
+   "id": "C021_VS_C141_DECISION2_P_UPPER_KEYWORD",
+   "en": "How absurd! Who do you think you are?!",
+   "pt": "Que absurdo! Quem você acha que é?!"
+  },
+  {
+   "id": "C021_VS_C141_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "It would take you a century to block my will and even then, you will most likely fail!",
+   "pt": "Levaria um século para você bloquear minha vontade e, mesmo assim, você muito provavelmente falharia!"
+  },
+  {
+   "id": "C021_VS_C141_DECISION2_P_LOWER_KEYWORD",
+   "en": "You'll regret your foolish hopes soon enough!",
+   "pt": "Você se arrependerá de suas falsas esperanças em breve!"
+  },
+  {
+   "id": "C021_VS_C141_DECISION2_G_UPPER_KEYWORD",
+   "en": "I'll be happy to give you a taste of cruel reality!",
+   "pt": "Terei o prazer de lhe dar um gosto da cruel realidade!"
+  },
+  {
+   "id": "C021_VS_C141_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "Your weakness is proof you lack conviction! You are less than nothing!",
+   "pt": "Sua fraqueza é a prova de que lhe falta convicção! Você é menos que nada!"
+  },
+  {
+   "id": "C021_VS_C141_DECISION2_G_LOWER_KEYWORD",
+   "en": "You are a complete disappointment!",
+   "pt": "Você é uma completa decepção!"
+  },
+  {
+   "id": "C021_VS_C151_DECISION0_S_UPPER_KEYWORD",
+   "en": "Listen up, you pigs in human clothing!",
+   "pt": "Ouçam bem, seus porcos em roupas de humanos!"
+  },
+  {
+   "id": "C021_VS_C151_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "Fear is freedom! Subjugation is liberation! Contradiction is truth!\nThose are the facts of this world!",
+   "pt": "O medo é a liberdade! A subjugação é a libertação! A contradição é a verdade!\nEsses são os fatos deste mundo!"
+  },
+  {
+   "id": "C021_VS_C151_DECISION0_S_LOWER_KEYWORD",
+   "en": "You will all surrender to them!",
+   "pt": "Todos vocês se renderão a eles!"
+  },
+  {
+   "id": "C021_VS_C151_DECISION0_P_UPPER_KEYWORD",
+   "en": "Resistance is futile!",
+   "pt": "A resistência é inútil!"
+  },
+  {
+   "id": "C021_VS_C151_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "Your actions are worthless and lack resolve!",
+   "pt": "Suas ações são inúteis e não têm determinação!"
+  },
+  {
+   "id": "C021_VS_C151_DECISION0_P_LOWER_KEYWORD",
+   "en": "You will never surpass me!",
+   "pt": "Você nunca me superará!"
+  },
+  {
+   "id": "C021_VS_C151_DECISION0_G_UPPER_KEYWORD",
+   "en": "Stand down, fool!",
+   "pt": "Renda-se, idiota!"
+  },
+  {
+   "id": "C021_VS_C151_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "All of you are merely pigs in human clothing!\nWho would listen to livestock like you?!",
+   "pt": "Todos vocês não passam de porcos em roupas de humanos!\nQuem daria ouvidos a gado como vocês?!"
+  },
+  {
+   "id": "C021_VS_C151_DECISION0_G_LOWER_KEYWORD",
+   "en": "Know your place... pig!",
+   "pt": "Ponha-se no seu lugar... porco!"
+  },
+  {
+   "id": "C021_VS_C151_DECISION1_S_UPPER_KEYWORD",
+   "en": "Listen to me, you fools!",
+   "pt": "Ouçam-me, seus idiotas!"
+  },
+  {
+   "id": "C021_VS_C151_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "You are all pigs being used by system you cannot comprehend!",
+   "pt": "Vocês todos são porcos sendo usados por um sistema que não conseguem compreender!"
+  },
+  {
+   "id": "C021_VS_C151_DECISION1_S_LOWER_KEYWORD",
+   "en": "Useless beings that deserve to be enslaved!",
+   "pt": "Seres inúteis que merecem ser escravizados!"
+  },
+  {
+   "id": "C021_VS_C151_DECISION1_P_UPPER_KEYWORD",
+   "en": "How dare you mock me!",
+   "pt": "Como ousa zombar de mim!"
+  },
+  {
+   "id": "C021_VS_C151_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "If you challenge me, you are a fool!\nI do not hesitate and I will show no mercy!",
+   "pt": "Se me desafiar, você é um idiota!\nNão hesitarei e não demonstrarei misericórdia!"
+  },
+  {
+   "id": "C021_VS_C151_DECISION1_P_LOWER_KEYWORD",
+   "en": "You are weak and worthless!",
+   "pt": "Você é fraco e inútil!"
+  },
+  {
+   "id": "C021_VS_C151_DECISION1_G_UPPER_KEYWORD",
+   "en": "Humans are pigs wearing clothes!",
+   "pt": "Humanos são porcos vestidos!"
+  },
+  {
+   "id": "C021_VS_C151_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "I shall stand firm and fight to rebuild this entire world!",
+   "pt": "Permanecerei firme e lutarei para reconstruir este mundo inteiro!"
+  },
+  {
+   "id": "C021_VS_C151_DECISION1_G_LOWER_KEYWORD",
+   "en": "And you shall serve as their food!",
+   "pt": "E você servirá como comida para eles!"
+  },
+  {
+   "id": "C021_VS_C151_DECISION2_S_UPPER_KEYWORD",
+   "en": "You'll understand soon enough!",
+   "pt": "Você entenderá em breve!"
+  },
+  {
+   "id": "C021_VS_C151_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "Anyone who dares to stand against me, will be crushed under my heel!",
+   "pt": "Qualquer um que ouse se opor a mim, será esmagado sob meu calcanhar!"
+  },
+  {
+   "id": "C021_VS_C151_DECISION2_S_LOWER_KEYWORD",
+   "en": "Remember this pain!",
+   "pt": "Lembre-se dessa dor!"
+  },
+  {
+   "id": "C021_VS_C151_DECISION2_P_UPPER_KEYWORD",
+   "en": "How absurd! Who do you think you are?!",
+   "pt": "Que absurdo! Quem você acha que é?!"
+  },
+  {
+   "id": "C021_VS_C151_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "Perhaps a hundred years from now, you just might deter my ambition! But not today!",
+   "pt": "Talvez daqui a cem anos, você consiga deter minha ambição! Mas não hoje!"
+  },
+  {
+   "id": "C021_VS_C151_DECISION2_P_LOWER_KEYWORD",
+   "en": "You'll regret your foolish hopes soon enough!",
+   "pt": "Você se arrependerá de suas falsas esperanças em breve!"
+  },
+  {
+   "id": "C021_VS_C151_DECISION2_G_UPPER_KEYWORD",
+   "en": "I'll give you naked fools a dose of reality!",
+   "pt": "Darei a vocês, idiotas pelados, uma dose de realidade!"
+  },
+  {
+   "id": "C021_VS_C151_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "Your weakness is proof you lack conviction! You are less than nothing!",
+   "pt": "Sua fraqueza é a prova de que lhe falta convicção! Você é menos que nada!"
+  },
+  {
+   "id": "C021_VS_C151_DECISION2_G_LOWER_KEYWORD",
+   "en": "As opponents, you were utterly disappointing!",
+   "pt": "Como oponentes, vocês foram uma completa decepção!"
+  },
+  {
+   "id": "C021_VS_S020_DECISION0_S_UPPER_KEYWORD",
+   "en": "I shall end my family's disgrace!",
+   "pt": "Porei um fim na desgraça da minha família!"
+  },
+  {
+   "id": "C021_VS_S020_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "I shall sever the ties between the Kiryuin family and the Life Fibers!",
+   "pt": "Cortarei os laços entre a família Kiryuin e as Fibras de Vida!"
+  },
+  {
+   "id": "C021_VS_S020_DECISION0_S_LOWER_KEYWORD",
+   "en": "I will not let you loose upon the world!",
+   "pt": "Não permitirei que fique solta pelo mundo!"
+  },
+  {
+   "id": "C021_VS_S020_DECISION0_P_UPPER_KEYWORD",
+   "en": "Listen up...! you pretentious hag!",
+   "pt": "Ouça bem...! sua bruxa pretensiosa!"
+  },
+  {
+   "id": "C021_VS_S020_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "We will defeat you and the Life Fibers and liberate humanity!",
+   "pt": "Nós derrotaremos você e as Fibras de Vida e libertaremos a humanidade!"
+  },
+  {
+   "id": "C021_VS_S020_DECISION0_P_LOWER_KEYWORD",
+   "en": "Those are my ambitions and I will have them!",
+   "pt": "Essas são minhas ambições e eu as alcançarei!"
+  },
+  {
+   "id": "C021_VS_S020_DECISION0_G_UPPER_KEYWORD",
+   "en": "I will never forgive you!",
+   "pt": "Eu nunca a perdoarei!"
+  },
+  {
+   "id": "C021_VS_S020_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "By ruining countless human lives, you deserve a thousand deaths!",
+   "pt": "Por arruinar inúmeras vidas humanas, você merece mil mortes!"
+  },
+  {
+   "id": "C021_VS_S020_DECISION0_G_LOWER_KEYWORD",
+   "en": "I will make you pay for it with your body!",
+   "pt": "Farei com que pague por isso com seu corpo!"
+  },
+  {
+   "id": "C021_VS_S020_DECISION1_S_UPPER_KEYWORD",
+   "en": "It would be wise not to underestimate us.",
+   "pt": "Seria sensato não nos subestimar."
+  },
+  {
+   "id": "C021_VS_S020_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "Unlike Life Fibers, who suffer from a hive mentality, humans have free will!",
+   "pt": "Diferente das Fibras de Vida, que sofrem de uma mentalidade de colmeia, os humanos têm livre arbítrio!"
+  },
+  {
+   "id": "C021_VS_S020_DECISION1_S_LOWER_KEYWORD",
+   "en": "You will not achieve your goals today!",
+   "pt": "Você não alcançará seus objetivos hoje!"
+  },
+  {
+   "id": "C021_VS_S020_DECISION1_P_UPPER_KEYWORD",
+   "en": "You disgust me!",
+   "pt": "Você me enoja!"
+  },
+  {
+   "id": "C021_VS_S020_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "I cringe at the thought of a weakling like you, pretending to rule over humanity!",
+   "pt": "Sinto calafrios só de pensar numa fracassada como você, fingindo governar a humanidade!"
+  },
+  {
+   "id": "C021_VS_S020_DECISION1_P_LOWER_KEYWORD",
+   "en": "You will pay for your transgression! Prepare to die!",
+   "pt": "Você pagará por sua transgressão! Prepare-se para morrer!"
+  },
+  {
+   "id": "C021_VS_S020_DECISION1_G_UPPER_KEYWORD",
+   "en": "I will strike down all Life Fibers!",
+   "pt": "Derrubarei todas as Fibras de Vida!"
+  },
+  {
+   "id": "C021_VS_S020_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "I will not allow you to turn humankind into your livestock!",
+   "pt": "Não permitirei que transforme a humanidade em seu gado!"
+  },
+  {
+   "id": "C021_VS_S020_DECISION1_G_LOWER_KEYWORD",
+   "en": "I shall destroy you all and end your savagery.",
+   "pt": "Destruirei todos vocês e porei fim à sua selvageria."
+  },
+  {
+   "id": "C021_VS_S020_DECISION2_S_UPPER_KEYWORD",
+   "en": "This outcome was inevitable!",
+   "pt": "Esse resultado era inevitável!"
+  },
+  {
+   "id": "C021_VS_S020_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "You look down on humanity, yet fail to see yourselves as the monsters you are!",
+   "pt": "Vocês menosprezam a humanidade, mas não conseguem se enxergar como os monstros que são!"
+  },
+  {
+   "id": "C021_VS_S020_DECISION2_S_LOWER_KEYWORD",
+   "en": "You will regret your conceit at the tip of my sword!",
+   "pt": "Você se arrependerá da sua presunção na ponta da minha espada!"
+  },
+  {
+   "id": "C021_VS_S020_DECISION2_P_UPPER_KEYWORD",
+   "en": "Now it is your turn!",
+   "pt": "Agora é a sua vez!"
+  },
+  {
+   "id": "C021_VS_S020_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "Even the powerful eventually fall. Today, it is your turn!",
+   "pt": "Até mesmo os poderosos caem eventualmente. Hoje, é a sua vez!"
+  },
+  {
+   "id": "C021_VS_S020_DECISION2_P_LOWER_KEYWORD",
+   "en": "Now die with grace!",
+   "pt": "Agora morra com graça!"
+  },
+  {
+   "id": "C021_VS_S020_DECISION2_G_UPPER_KEYWORD",
+   "en": "Humans do not live for the sake of clothing!",
+   "pt": "Humanos não vivem por causa de roupas!"
+  },
+  {
+   "id": "C021_VS_S020_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "I cannot stand by and watch you parasites devour humanity.",
+   "pt": "Não posso ficar parada assistindo vocês, parasitas, devorarem a humanidade."
+  },
+  {
+   "id": "C021_VS_S020_DECISION2_G_LOWER_KEYWORD",
+   "en": "I will erase you from existence!",
+   "pt": "Vou apagar você da existência!"
+  },
+  {
+   "id": "C021_VS_S030_DECISION0_S_UPPER_KEYWORD",
+   "en": "Your actions are pointless!",
+   "pt": "Suas ações são inúteis!"
+  },
+  {
+   "id": "C021_VS_S030_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "Hypnotizing others to turn against me won't change a thing, Nui Harime!",
+   "pt": "Hipnotizar os outros para se voltarem contra mim não vai mudar nada, Nui Harime!"
+  },
+  {
+   "id": "C021_VS_S030_DECISION0_S_LOWER_KEYWORD",
+   "en": "I won't be defeated by those without purpose!",
+   "pt": "Não serei derrotada por aqueles sem propósito!"
+  },
+  {
+   "id": "C021_VS_S030_DECISION0_P_UPPER_KEYWORD",
+   "en": "Yours are the tricks of a twisted mind.",
+   "pt": "Seus truques são de uma mente doentia."
+  },
+  {
+   "id": "C021_VS_S030_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "Did you think I would hesitate, because I am missing my allies?\nHow wrong you are!",
+   "pt": "Achou que eu hesitaria, por estar sem meus aliados?\nComo você está enganada!"
+  },
+  {
+   "id": "C021_VS_S030_DECISION0_P_LOWER_KEYWORD",
+   "en": "You've underestimated my resolve!",
+   "pt": "Você subestimou minha determinação!"
+  },
+  {
+   "id": "C021_VS_S030_DECISION0_G_UPPER_KEYWORD",
+   "en": "How could you side with the enemy?!",
+   "pt": "Como você pôde se aliar ao inimigo?!"
+  },
+  {
+   "id": "C021_VS_S030_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "You are responsible for the actions I am forced to take!",
+   "pt": "Você é responsável pelas atitudes que sou forçada a tomar!"
+  },
+  {
+   "id": "C021_VS_S030_DECISION0_G_LOWER_KEYWORD",
+   "en": "I shall beat you into submission and restore your decency!",
+   "pt": "Eu vou bater em você até que se submeta e restaurarei sua decência!"
+  },
+  {
+   "id": "C021_VS_S030_DECISION1_S_UPPER_KEYWORD",
+   "en": "Is there no end to your tricks?",
+   "pt": "Seus truques não têm fim?"
+  },
+  {
+   "id": "C021_VS_S030_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "You haven't even tapped a fraction of their true strength!",
+   "pt": "Você nem sequer acessou uma fração da verdadeira força deles!"
+  },
+  {
+   "id": "C021_VS_S030_DECISION1_S_LOWER_KEYWORD",
+   "en": "This is nowhere near their potential!",
+   "pt": "Isso não chega nem perto do potencial deles!"
+  },
+  {
+   "id": "C021_VS_S030_DECISION1_P_UPPER_KEYWORD",
+   "en": "So what if they are your hostages!",
+   "pt": "E daí se eles são seus reféns!"
+  },
+  {
+   "id": "C021_VS_S030_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "Anyone who defies me for any reason gets no mercy!",
+   "pt": "Qualquer um que me desafie por qualquer motivo não terá misericórdia!"
+  },
+  {
+   "id": "C021_VS_S030_DECISION1_P_LOWER_KEYWORD",
+   "en": "No one gets in the way of my ambition!",
+   "pt": "Ninguém entra no caminho da minha ambição!"
+  },
+  {
+   "id": "C021_VS_S030_DECISION1_G_UPPER_KEYWORD",
+   "en": "Enough, you fools!",
+   "pt": "Chega, seus idiotas!"
+  },
+  {
+   "id": "C021_VS_S030_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "Have you forgotten the consequences of opposing me?!",
+   "pt": "Esqueceram das consequências de se oporem a mim?!"
+  },
+  {
+   "id": "C021_VS_S030_DECISION1_G_LOWER_KEYWORD",
+   "en": "You will come to your senses at once!",
+   "pt": "Vocês vão recobrar o juízo imediatamente!"
+  },
+  {
+   "id": "C021_VS_S030_DECISION2_S_UPPER_KEYWORD",
+   "en": "You are pathetic. Absolutely pathetic!",
+   "pt": "Você é patética. Absolutamente patética!"
+  },
+  {
+   "id": "C021_VS_S030_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "How does it feel to play all by yourself? It must be lonely.",
+   "pt": "Como é a sensação de brincar sozinha? Deve ser solitário."
+  },
+  {
+   "id": "C021_VS_S030_DECISION2_S_LOWER_KEYWORD",
+   "en": "Your reaction time is pathetic!",
+   "pt": "Seu tempo de reação é patético!"
+  },
+  {
+   "id": "C021_VS_S030_DECISION2_P_UPPER_KEYWORD",
+   "en": "You couldn't be a bigger fool!",
+   "pt": "Você não poderia ser mais tola!"
+  },
+  {
+   "id": "C021_VS_S030_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "You thought I would hold back against my own people?!",
+   "pt": "Você achou que eu pegaria leve com o meu próprio povo?!"
+  },
+  {
+   "id": "C021_VS_S030_DECISION2_P_LOWER_KEYWORD",
+   "en": "If you take me lightly, you do so at your own peril!",
+   "pt": "Se você me subestimar, fará isso por sua própria conta e risco!"
+  },
+  {
+   "id": "C021_VS_S030_DECISION2_G_UPPER_KEYWORD",
+   "en": "You weak fool!",
+   "pt": "Seu idiota fraco!"
+  },
+  {
+   "id": "C021_VS_S030_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "How dare you call yourself one of my Elite Four?!",
+   "pt": "Como ousa se chamar de um dos meus Quatro Elites?!"
+  },
+  {
+   "id": "C021_VS_S030_DECISION2_G_LOWER_KEYWORD",
+   "en": "How dare you disappoint me!",
+   "pt": "Como ousa me decepcionar!"
+  },
+  {
+   "id": "C021_VS_S050_DECISION0_S_UPPER_KEYWORD",
+   "en": "I shall end my family's disgrace!",
+   "pt": "Porei um fim na desgraça da minha família!"
+  },
+  {
+   "id": "C021_VS_S050_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "I shall sever the ties between the Kiryuin family and the Life Fibers!",
+   "pt": "Cortarei os laços entre a família Kiryuin e as Fibras de Vida!"
+  },
+  {
+   "id": "C021_VS_S050_DECISION0_S_LOWER_KEYWORD",
+   "en": "I will not let you loose upon the world!",
+   "pt": "Não permitirei que fique solta pelo mundo!"
+  },
+  {
+   "id": "C021_VS_S050_DECISION0_P_UPPER_KEYWORD",
+   "en": "Listen up...! you pretentious hag!",
+   "pt": "Ouça bem...! sua bruxa pretensiosa!"
+  },
+  {
+   "id": "C021_VS_S050_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "We will defeat you and the Life Fibers and liberate humanity!",
+   "pt": "Nós derrotaremos você e as Fibras de Vida e libertaremos a humanidade!"
+  },
+  {
+   "id": "C021_VS_S050_DECISION0_P_LOWER_KEYWORD",
+   "en": "Those are my ambitions and I will have them!",
+   "pt": "Essas são minhas ambições e eu as alcançarei!"
+  },
+  {
+   "id": "C021_VS_S050_DECISION0_G_UPPER_KEYWORD",
+   "en": "I will never forgive you!",
+   "pt": "Eu nunca a perdoarei!"
+  },
+  {
+   "id": "C021_VS_S050_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "By ruining countless human lives, you deserve a thousand deaths!",
+   "pt": "Por arruinar inúmeras vidas humanas, você merece mil mortes!"
+  },
+  {
+   "id": "C021_VS_S050_DECISION0_G_LOWER_KEYWORD",
+   "en": "I will make you pay for it with your body!",
+   "pt": "Farei com que pague por isso com seu corpo!"
+  },
+  {
+   "id": "C021_VS_S050_DECISION1_S_UPPER_KEYWORD",
+   "en": "It would be wise not to underestimate us.",
+   "pt": "Seria sensato não nos subestimar."
+  },
+  {
+   "id": "C021_VS_S050_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "Unlike Life Fibers, who suffer from a hive mentality, humans have free will!",
+   "pt": "Diferente das Fibras de Vida, que sofrem de uma mentalidade de colmeia, os humanos têm livre arbítrio!"
+  },
+  {
+   "id": "C021_VS_S050_DECISION1_S_LOWER_KEYWORD",
+   "en": "You will not achieve your goals today!",
+   "pt": "Você não alcançará seus objetivos hoje!"
+  },
+  {
+   "id": "C021_VS_S050_DECISION1_P_UPPER_KEYWORD",
+   "en": "You disgust me!",
+   "pt": "Você me enoja!"
+  },
+  {
+   "id": "C021_VS_S050_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "I cringe at the thought of a weakling like you, pretending to rule over humanity!",
+   "pt": "Sinto calafrios só de pensar numa fracassada como você, fingindo governar a humanidade!"
+  },
+  {
+   "id": "C021_VS_S050_DECISION1_P_LOWER_KEYWORD",
+   "en": "You will pay for your transgression! Prepare to die!",
+   "pt": "Você pagará por sua transgressão! Prepare-se para morrer!"
+  },
+  {
+   "id": "C021_VS_S050_DECISION1_G_UPPER_KEYWORD",
+   "en": "I will strike down all Life Fibers!",
+   "pt": "Derrubarei todas as Fibras de Vida!"
+  },
+  {
+   "id": "C021_VS_S050_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "I will not allow you to turn humankind into your livestock!",
+   "pt": "Não permitirei que transforme a humanidade em seu gado!"
+  },
+  {
+   "id": "C021_VS_S050_DECISION1_G_LOWER_KEYWORD",
+   "en": "I shall destroy you all and end your savagery.",
+   "pt": "Destruirei todos vocês e porei fim à sua selvageria."
+  },
+  {
+   "id": "C021_VS_S050_DECISION2_S_UPPER_KEYWORD",
+   "en": "This outcome was inevitable!",
+   "pt": "Esse resultado era inevitável!"
+  },
+  {
+   "id": "C021_VS_S050_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "You look down on humanity, yet fail to see yourselves as the monsters you are!",
+   "pt": "Vocês menosprezam a humanidade, mas não conseguem se enxergar como os monstros que são!"
+  },
+  {
+   "id": "C021_VS_S050_DECISION2_S_LOWER_KEYWORD",
+   "en": "You will regret your conceit at the tip of my sword!",
+   "pt": "Você se arrependerá da sua presunção na ponta da minha espada!"
+  },
+  {
+   "id": "C021_VS_S050_DECISION2_P_UPPER_KEYWORD",
+   "en": "Now it is your turn!",
+   "pt": "Agora é a sua vez!"
+  },
+  {
+   "id": "C021_VS_S050_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "Even the powerful eventually fall. Today, it is your turn!",
+   "pt": "Até mesmo os poderosos caem eventualmente. Hoje, é a sua vez!"
+  },
+  {
+   "id": "C021_VS_S050_DECISION2_P_LOWER_KEYWORD",
+   "en": "Now die with grace!",
+   "pt": "Agora morra com graça!"
+  },
+  {
+   "id": "C021_VS_S050_DECISION2_G_UPPER_KEYWORD",
+   "en": "Humans do not live for the sake of clothing!",
+   "pt": "Humanos não vivem por causa de roupas!"
+  },
+  {
+   "id": "C021_VS_S050_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "I cannot stand by and watch you parasites devour humanity.",
+   "pt": "Não posso ficar parada assistindo vocês, parasitas, devorarem a humanidade."
+  },
+  {
+   "id": "C021_VS_S050_DECISION2_G_LOWER_KEYWORD",
+   "en": "I will erase you from existence!",
+   "pt": "Vou apagar você da existência!"
+  },
+  {
+   "id": "C021_VS_C011_ARREST_S_KEYWORD",
+   "en": "This is not all your strength! Show me the power of your Kamui!",
+   "pt": "Essa não é toda a sua força! Mostre-me o poder do seu Kamui!"
+  },
+  {
+   "id": "C021_VS_C011_ARREST_P_KEYWORD",
+   "en": "You are like a frog in a well. Your arrogance will be your undoing!",
+   "pt": "Você é como um sapo num poço. Sua arrogância será sua ruína!"
+  },
+  {
+   "id": "C021_VS_C011_ARREST_G_KEYWORD",
+   "en": "Get over yourself, slug. Know your place!",
+   "pt": "Se enxerga, lesma. Ponha-se no seu lugar!"
+  },
+  {
+   "id": "C021_VS_C012_ARREST_S_KEYWORD",
+   "en": "This is not all your strength! Show me the power of your Kamui!",
+   "pt": "Essa não é toda a sua força! Mostre-me o poder do seu Kamui!"
+  },
+  {
+   "id": "C021_VS_C012_ARREST_P_KEYWORD",
+   "en": "You are like a frog in a well. Your arrogance will be your undoing!",
+   "pt": "Você é como um sapo num poço. Sua arrogância será sua ruína!"
+  },
+  {
+   "id": "C021_VS_C012_ARREST_G_KEYWORD",
+   "en": "Get over yourself, slug. Know your place!",
+   "pt": "Se enxerga, lesma. Ponha-se no seu lugar!"
+  },
+  {
+   "id": "C021_VS_C021_ARREST_S_KEYWORD",
+   "en": "Know your place, you pigs in human clothing!",
+   "pt": "Ponham-se no seus lugares, seus porcos em roupas de humanos!"
+  },
+  {
+   "id": "C021_VS_C021_ARREST_P_KEYWORD",
+   "en": "Do not get cocky with me, fool!",
+   "pt": "Não fique se achando, idiota!"
+  },
+  {
+   "id": "C021_VS_C021_ARREST_G_KEYWORD",
+   "en": "I don't need to listen to your ridiculous drivel!",
+   "pt": "Não preciso ouvir suas baboseiras ridículas!"
+  },
+  {
+   "id": "C021_VS_C022_ARREST_S_KEYWORD",
+   "en": "Know your place, you pigs in human clothing!",
+   "pt": "Ponham-se no seus lugares, seus porcos em roupas de humanos!"
+  },
+  {
+   "id": "C021_VS_C022_ARREST_P_KEYWORD",
+   "en": "Do not get cocky with me, fool!",
+   "pt": "Não fique se achando, idiota!"
+  },
+  {
+   "id": "C021_VS_C022_ARREST_G_KEYWORD",
+   "en": "I don't need to listen to your ridiculous drivel!",
+   "pt": "Não preciso ouvir suas baboseiras ridículas!"
+  },
+  {
+   "id": "C021_VS_C031_ARREST_S_KEYWORD",
+   "en": "Back off, you fool!",
+   "pt": "Afaste-se, idiota!"
+  },
+  {
+   "id": "C021_VS_C031_ARREST_P_KEYWORD",
+   "en": "Stay down, idiot!",
+   "pt": "Fique no chão, idiota!"
+  },
+  {
+   "id": "C021_VS_C031_ARREST_G_KEYWORD",
+   "en": "Silence, you loudmouth!",
+   "pt": "Silêncio, seu falastrão!"
+  },
+  {
+   "id": "C021_VS_C041_ARREST_S_KEYWORD",
+   "en": "Back off, you fool!",
+   "pt": "Afaste-se, idiota!"
+  },
+  {
+   "id": "C021_VS_C041_ARREST_P_KEYWORD",
+   "en": "Stay down, idiot!",
+   "pt": "Fique no chão, idiota!"
+  },
+  {
+   "id": "C021_VS_C041_ARREST_G_KEYWORD",
+   "en": "Silence, you loudmouth!",
+   "pt": "Silêncio, seu falastrão!"
+  },
+  {
+   "id": "C021_VS_C051_ARREST_S_KEYWORD",
+   "en": "Back off, you fool!",
+   "pt": "Afaste-se, idiota!"
+  },
+  {
+   "id": "C021_VS_C051_ARREST_P_KEYWORD",
+   "en": "Stay down, idiot!",
+   "pt": "Fique no chão, idiota!"
+  },
+  {
+   "id": "C021_VS_C051_ARREST_G_KEYWORD",
+   "en": "Silence, you loudmouth!",
+   "pt": "Silêncio, seu falastrão!"
+  },
+  {
+   "id": "C021_VS_C061_ARREST_S_KEYWORD",
+   "en": "Back off, you fool!",
+   "pt": "Afaste-se, idiota!"
+  },
+  {
+   "id": "C021_VS_C061_ARREST_P_KEYWORD",
+   "en": "Stay down, idiot!",
+   "pt": "Fique no chão, idiota!"
+  },
+  {
+   "id": "C021_VS_C061_ARREST_G_KEYWORD",
+   "en": "Silence, you loudmouth!",
+   "pt": "Silêncio, seu falastrão!"
+  },
+  {
+   "id": "C021_VS_C071_ARREST_S_KEYWORD",
+   "en": "You vicious hag! I won't let you have your way! ",
+   "pt": "Sua bruxa cruel! Não vou deixar você fazer o que quer! "
+  },
+  {
+   "id": "C021_VS_C071_ARREST_P_KEYWORD",
+   "en": "Useless! Your ambitions will never come to fruition!",
+   "pt": "Inútil! Suas ambições nunca se concretizarão!"
+  },
+  {
+   "id": "C021_VS_C071_ARREST_G_KEYWORD",
+   "en": "Silence! Your blathering falls on deaf ears!",
+   "pt": "Silêncio! Suas baboseiras entram por um ouvido e saem pelo outro!"
+  },
+  {
+   "id": "C021_VS_C081_ARREST_S_KEYWORD",
+   "en": "You're out of breath! Don't tell me you're losing your confidence!",
+   "pt": "Você está ofegante! Não me diga que está perdendo a confiança!"
+  },
+  {
+   "id": "C021_VS_C081_ARREST_P_KEYWORD",
+   "en": "I'm warning you... If you oppose my will, you shall be purged!",
+   "pt": "Eu lhe aviso... Se se opuser à minha vontade, você será expurgado!"
+  },
+  {
+   "id": "C021_VS_C081_ARREST_G_KEYWORD",
+   "en": "How weak! I didn't think you were this fragile!",
+   "pt": "Que fraqueza! Não achei que você fosse tão frágil!"
+  },
+  {
+   "id": "C021_VS_C141_ARREST_S_KEYWORD",
+   "en": "It's no use. Your Goku Uniform will make no difference in the end!",
+   "pt": "É inútil. Seu Uniforme Goku não fará diferença no final!"
+  },
+  {
+   "id": "C021_VS_C141_ARREST_P_KEYWORD",
+   "en": "You're nowhere near my level. Come back when you're ready!",
+   "pt": "Você não chega nem perto do meu nível. Volte quando estiver preparado!"
+  },
+  {
+   "id": "C021_VS_C141_ARREST_G_KEYWORD",
+   "en": "You're so annoying! Stop spouting nonsense!",
+   "pt": "Você é tão irritante! Pare de falar besteiras!"
+  },
+  {
+   "id": "C021_VS_C151_ARREST_S_KEYWORD",
+   "en": "Amusing! You naked fools are no match for me!",
+   "pt": "Divertido! Vocês idiotas pelados não são páreos para mim!"
+  },
+  {
+   "id": "C021_VS_C151_ARREST_P_KEYWORD",
+   "en": "How dare you imbeciles mock me? I shall put you in your place!",
+   "pt": "Como ousam zombar de mim, imbecis? Eu vou colocá-los no seu lugar!"
+  },
+  {
+   "id": "C021_VS_C151_ARREST_G_KEYWORD",
+   "en": "Ridiculous! You can not stop me, you nudist cretins!",
+   "pt": "Ridículo! Vocês não podem me parar, seus cretinos nudistas!"
+  },
+  {
+   "id": "C021_VS_R040_ARREST_S_KEYWORD",
+   "en": "Zeeei!",
+   "pt": "Zeeei!"
+  },
+  {
+   "id": "C021_VS_R040_ARREST_P_KEYWORD",
+   "en": "Kgh... Grgh...",
+   "pt": "Kgh... Grgh..."
+  },
+  {
+   "id": "C021_VS_R040_ARREST_G_KEYWORD",
+   "en": "Oooh!",
+   "pt": "Oooh!"
+  },
+  {
+   "id": "C021_FINISHARTS_01_KEYWORD",
+   "en": "Time to bring the curtain down!",
+   "pt": "É hora de fechar as cortinas!"
+  },
+  {
+   "id": "C021_FINISHARTS_02_KEYWORD",
+   "en": "This match is settled.",
+   "pt": "Esta luta está decidida."
+  },
+  {
+   "id": "C021_FINISHARTS_03_KEYWORD",
+   "en": "Your weakness is your curse!",
+   "pt": "Sua fraqueza é a sua maldição!"
+  },
+  {
+   "id": "C021_FINISHARTS_04_KEYWORD",
+   "en": "Carve it into your soul!",
+   "pt": "Grave isso na sua alma!"
+  },
+  {
+   "id": "C021_FINISHARTS_05_KEYWORD",
+   "en": "This is the difference in our strengths!",
+   "pt": "Esta é a diferença de nossas forças!"
+  },
+  {
+   "id": "C021_FINISHARTS_06_KEYWORD",
+   "en": "Yield!",
+   "pt": "Renda-se!"
+  },
+  {
+   "id": "C021_FINISHARTS_07_KEYWORD",
+   "en": "Your luck ends here.",
+   "pt": "Sua sorte acaba aqui."
+  },
+  {
+   "id": "C021_FINISHARTS_08_KEYWORD",
+   "en": "You shall accept the truth!",
+   "pt": "Você aceitará a verdade!"
+  },
+  {
+   "id": "C021_FINISHARTS_09_KEYWORD",
+   "en": "Stay down!",
+   "pt": "Fique no chão!"
+  },
+  {
+   "id": "C021_FINISHARTS_10_KEYWORD",
+   "en": "You are worthless!",
+   "pt": "Você é inútil!"
+  },
+  {
+   "id": "C021_FINISHARTS_11_KEYWORD",
+   "en": "Zeeeei!",
+   "pt": "Zeeeei!"
+  },
+  {
+   "id": "C021_FINISHARTS_12_KEYWORD",
+   "en": "Final strike!",
+   "pt": "Golpe final!"
+  },
+  {
+   "id": "C021_DEFEAT_01_KEYWORD",
+   "en": "This is not the end...",
+   "pt": "Este não é o fim..."
+  },
+  {
+   "id": "C021_DEFEAT_02_KEYWORD",
+   "en": "Kgh, is this it...?",
+   "pt": "Kgh, é só isso...?"
+  },
+  {
+   "id": "C021_VS_C011_VICTORY_01_KEYWORD",
+   "en": "The weak shall be weeded out by the strong.\nThey lack the power to change anything.",
+   "pt": "Os fracos serão eliminados pelos fortes.\nEles não têm o poder de mudar nada."
+  },
+  {
+   "id": "C021_VS_C011_VICTORY_02_KEYWORD",
+   "en": "You're just a girl being worn by her Kamui. This is as far as you go.",
+   "pt": "Você é só uma garota sendo vestida pelo seu Kamui. Você só chega até aqui."
+  },
+  {
+   "id": "C021_VS_C011_VICTORY_03_KEYWORD",
+   "en": "This outcome was obvious.\nYou should be ashamed of your weakness.",
+   "pt": "Esse resultado era óbvio.\nVocê deveria se envergonhar da sua fraqueza."
+  },
+  {
+   "id": "C021_VS_C011_VICTORY_04_KEYWORD",
+   "en": "Is that all you have after obtaining the Kamui's power?\nYou disappoint me, Matoi!",
+   "pt": "É só isso que você tem depois de obter o poder do Kamui?\nVocê me decepciona, Matoi!"
+  },
+  {
+   "id": "C021_VS_C012_VICTORY_01_KEYWORD",
+   "en": "The weak shall be weeded out by the strong.\nThey lack the power to change anything.",
+   "pt": "Os fracos serão eliminados pelos fortes.\nEles não têm o poder de mudar nada."
+  },
+  {
+   "id": "C021_VS_C012_VICTORY_02_KEYWORD",
+   "en": "You're just a girl being worn by her Kamui. This is as far as you go.",
+   "pt": "Você é só uma garota sendo vestida pelo seu Kamui. Você só chega até aqui."
+  },
+  {
+   "id": "C021_VS_C012_VICTORY_03_KEYWORD",
+   "en": "This outcome was obvious.\nYou should be ashamed of your weakness.",
+   "pt": "Esse resultado era óbvio.\nVocê deveria se envergonhar da sua fraqueza."
+  },
+  {
+   "id": "C021_VS_C021_VICTORY_01_KEYWORD",
+   "en": "This was inevitable. Fate is predetermined for those who stand against me.",
+   "pt": "Isso era inevitável. O destino está predeterminado para os que se opõem a mim."
+  },
+  {
+   "id": "C021_VS_C021_VICTORY_02_KEYWORD",
+   "en": "Hmph. A counterfeit does not stand a chance against the real thing!",
+   "pt": "Hmph. Uma falsificação não tem chance contra o original!"
+  },
+  {
+   "id": "C021_VS_C021_VICTORY_03_KEYWORD",
+   "en": "Worthless. An utter waste of my time.",
+   "pt": "Inútil. Um completo desperdício do meu tempo."
+  },
+  {
+   "id": "C021_VS_C022_VICTORY_01_KEYWORD",
+   "en": "This was inevitable. Fate is predetermined for those who stand against me.",
+   "pt": "Isso era inevitável. O destino está predeterminado para os que se opõem a mim."
+  },
+  {
+   "id": "C021_VS_C022_VICTORY_02_KEYWORD",
+   "en": "Hmph. A counterfeit does not stand a chance against the real thing!",
+   "pt": "Hmph. Uma falsificação não tem chance contra o original!"
+  },
+  {
+   "id": "C021_VS_C022_VICTORY_03_KEYWORD",
+   "en": "Worthless. An utter waste of my time.",
+   "pt": "Inútil. Um completo desperdício do meu tempo."
+  },
+  {
+   "id": "C021_VS_C031_VICTORY_01_KEYWORD",
+   "en": "Become obsessed with resolve and it will turn into arrogance.",
+   "pt": "Fique obcecado com a determinação e ela se transformará em arrogância."
+  },
+  {
+   "id": "C021_VS_C031_VICTORY_02_KEYWORD",
+   "en": "Wipe your tears, Gamagoori. It's too early to kneel in defeat.",
+   "pt": "Enxugue suas lágrimas, Gamagoori. É cedo demais para se ajoelhar em derrota."
+  },
+  {
+   "id": "C021_VS_C031_VICTORY_03_KEYWORD",
+   "en": "You dared to stand against me. Be grateful that I let you live.",
+   "pt": "Você ousou se opor a mim. Agradeça por eu deixar você viver."
+  },
+  {
+   "id": "C021_VS_C041_VICTORY_01_KEYWORD",
+   "en": "Finished already, Sanageyama? No need to hold back.",
+   "pt": "Já terminou, Sanageyama? Não precisa se segurar."
+  },
+  {
+   "id": "C021_VS_C041_VICTORY_02_KEYWORD",
+   "en": "Even in your dreams, you'll never be able to defeat me at your current level.",
+   "pt": "Nem nos seus sonhos você conseguirá me derrotar no seu nível atual."
+  }
+ ]
+}

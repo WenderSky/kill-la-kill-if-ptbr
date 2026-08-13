@@ -1,0 +1,1008 @@
+{
+ "origem": "KlkResources/S701_MES/MES_141_MAK_ACT",
+ "conteudo": "Falas em batalha - Mako",
+ "parte": "1/3",
+ "instrucoes": "Traduza o campo 'en' para portugues do Brasil e escreva o resultado em 'pt'. Nao altere 'id'. Mantenha intactos os codigos entre chaves ({CA}, {LA}, {BR}, {JU}, {SP}, {GD}, {LS}, {L1}, {R1}, setas), os marcadores de formato (%d, %l, %ls, %hs) e as quebras de linha \\n. Se uma linha nao precisar de traducao, deixe 'pt' vazio.",
+ "linhas": [
+  {
+   "id": "C141_VS_C011_ENTRY_1P_01_KEYWORD",
+   "en": "Friendship's all about butting heads... So let's go, Ryuko!",
+   "pt": "A amizade é sobre bater cabeças... Então vamos nessa, Ryuko!"
+  },
+  {
+   "id": "C141_VS_C011_ENTRY_1P_02_KEYWORD",
+   "en": "Let's go Ryuko. I'll take you on! Don't be shy and come get some!",
+   "pt": "Vamos lá, Ryuko. Eu te encaro! Não seja tímida, vem pro pau!"
+  },
+  {
+   "id": "C141_VS_C011_ENTRY_2P_01_KEYWORD",
+   "en": "Alright, Ryuko! Come at me like you mean it!",
+   "pt": "Beleza, Ryuko! Vem pra cima com tudo!"
+  },
+  {
+   "id": "C141_VS_C011_ENTRY_2P_02_KEYWORD",
+   "en": "There's totes a reason! Best friends fight each other\nby the river and in the rain and stuff! I saw it on TV!",
+   "pt": "Com certeza tem um motivo! Melhores amigas brigam\nna beira do rio, na chuva e essas coisas! Eu vi na TV!"
+  },
+  {
+   "id": "C141_VS_C012_ENTRY_1P_01_KEYWORD",
+   "en": "Friendship's all about butting heads... So let's go, Ryuko!",
+   "pt": "A amizade é sobre bater cabeças... Então vamos nessa, Ryuko!"
+  },
+  {
+   "id": "C141_VS_C012_ENTRY_1P_02_KEYWORD",
+   "en": "Let's go Ryuko. I'll take you on! Don't be shy and come get some!",
+   "pt": "Vamos lá, Ryuko. Eu te encaro! Não seja tímida, vem pro pau!"
+  },
+  {
+   "id": "C141_VS_C012_ENTRY_2P_01_KEYWORD",
+   "en": "There's totes a reason! Best friends fight each other\nby the river and in the rain and stuff! I saw it on TV!",
+   "pt": "Com certeza tem um motivo! Melhores amigas brigam\nna beira do rio, na chuva e essas coisas! Eu vi na TV!"
+  },
+  {
+   "id": "C141_VS_C012_ENTRY_2P_02_KEYWORD",
+   "en": "Alright, Ryuko! Come at me like you mean it!",
+   "pt": "Beleza, Ryuko! Vem pra cima com tudo!"
+  },
+  {
+   "id": "C141_VS_C021_ENTRY_1P_01_KEYWORD",
+   "en": "I can't believe I'm about to fight Lady Satsuki!\nOh no, my knees are shaking so hard that they're about to pop off!",
+   "pt": "Não acredito que vou lutar com a Senhorita Satsuki!\nAi não, meus joelhos tão tremendo tanto que vão pular fora!"
+  },
+  {
+   "id": "C141_VS_C021_ENTRY_1P_02_KEYWORD",
+   "en": "I can do it if I try! Lady Satsuki, let's battle!",
+   "pt": "Eu consigo se eu tentar! Senhorita Satsuki, vamos batalhar!"
+  },
+  {
+   "id": "C141_VS_C021_ENTRY_2P_01_KEYWORD",
+   "en": "Even I won't back down, Lady Satsuki!",
+   "pt": "Nem eu vou recuar, Senhorita Satsuki!"
+  },
+  {
+   "id": "C141_VS_C021_ENTRY_2P_02_KEYWORD",
+   "en": "I'll show you what a No-Star is made of, Lady Satsuki!",
+   "pt": "Vou te mostrar do que uma Sem Estrela é feita, Senhorita Satsuki!"
+  },
+  {
+   "id": "C141_VS_C022_ENTRY_1P_01_KEYWORD",
+   "en": "I can't believe I'm about to fight Lady Satsuki!\nOh no, my knees are shaking so hard that they're about to pop off!",
+   "pt": "Não acredito que vou lutar com a Senhorita Satsuki!\nAi não, meus joelhos tão tremendo tanto que vão pular fora!"
+  },
+  {
+   "id": "C141_VS_C022_ENTRY_1P_02_KEYWORD",
+   "en": "I can do it if I try! Lady Satsuki, let's battle!",
+   "pt": "Eu consigo se eu tentar! Senhorita Satsuki, vamos batalhar!"
+  },
+  {
+   "id": "C141_VS_C022_ENTRY_2P_01_KEYWORD",
+   "en": "Even I won't back down, Lady Satsuki!",
+   "pt": "Nem eu vou recuar, Senhorita Satsuki!"
+  },
+  {
+   "id": "C141_VS_C022_ENTRY_2P_02_KEYWORD",
+   "en": "I'll show you what a No-Star is made of, Lady Satsuki!",
+   "pt": "Vou te mostrar do que uma Sem Estrela é feita, Senhorita Satsuki!"
+  },
+  {
+   "id": "C141_VS_C031_ENTRY_1P_01_KEYWORD",
+   "en": "To restore discipline to Honnouji Academy,\nI will straighten out your BDSM kinks, Gamagoori-senpai!",
+   "pt": "Para restaurar a disciplina na Academia Honnouji,\neu vou endireitar esses seus fetiches BDSM, Gamagoori-senpai!"
+  },
+  {
+   "id": "C141_VS_C031_ENTRY_1P_02_KEYWORD",
+   "en": "Gamagoori-senpai, your pervy outfit's a threat to public decency!",
+   "pt": "Gamagoori-senpai, sua roupa pervertida é uma ameaça à decência pública!"
+  },
+  {
+   "id": "C141_VS_C031_ENTRY_2P_01_KEYWORD",
+   "en": "Nuhuh! And even if I do lose, I'll just get back up again!",
+   "pt": "Nananinanão! E mesmo se eu perder, eu vou levantar de novo!"
+  },
+  {
+   "id": "C141_VS_C031_ENTRY_2P_02_KEYWORD",
+   "en": "The traffic signal of my life is always yellow!\nMako Mankanshoku can't stop, won't stop, never stops!",
+   "pt": "O semáforo da minha vida tá sempre no amarelo!\nMako Mankanshoku não pode parar, não vai parar, nunca para!"
+  },
+  {
+   "id": "C141_VS_C041_ENTRY_1P_01_KEYWORD",
+   "en": "Let's fight fair and square, Sanageyama-senpai!\nI'll take you on from any angle!",
+   "pt": "Vamos lutar de forma limpa e justa, Sanageyama-senpai!\nEu te encaro de qualquer ângulo!"
+  },
+  {
+   "id": "C141_VS_C041_ENTRY_1P_02_KEYWORD",
+   "en": "You are mistaken, Sanageyama-senpai!\nBandanas aren't meant to be worn over the eyes!",
+   "pt": "Você está enganado, Sanageyama-senpai!\nBandanas não foram feitas para serem usadas sobre os olhos!"
+  },
+  {
+   "id": "C141_VS_C041_ENTRY_2P_01_KEYWORD",
+   "en": "The tennis club is just a cover!\nI am the Fight Club President, Mako Mankanshoku!",
+   "pt": "O clube de tênis é só fachada!\nEu sou a Presidente do Clube de Luta, Mako Mankanshoku!"
+  },
+  {
+   "id": "C141_VS_C041_ENTRY_2P_02_KEYWORD",
+   "en": "All have you know, I'm also a Three-star. I got a star named Ryuko in my heart!\nI also see stars when I get punched!",
+   "pt": "Fique sabendo que eu também sou uma Três Estrelas. Tenho uma estrela chamada Ryuko no coração!\nE eu também vejo estrelas quando levo soco!"
+  },
+  {
+   "id": "C141_VS_C051_ENTRY_1P_01_KEYWORD",
+   "en": "Let's hear you say my name, Jakuzure-senpai!\nMy name isn't failure, it's Mako Mankanshoku. I repeat: Mako Mankanshoku!",
+   "pt": "Quero ouvir você dizer o meu nome, Jakuzure-senpai!\nMeu nome não é fracassada, é Mako Mankanshoku. Repetindo: Mako Mankanshoku!"
+  },
+  {
+   "id": "C141_VS_C051_ENTRY_1P_02_KEYWORD",
+   "en": "Yippee! I'm so lucky to I get to hear Jakuzure-senpai's performance up close!\nWait, why am I fighting her again?",
+   "pt": "Iupi! Que sorte a minha de poder ouvir a apresentação da Jakuzure-senpai de pertinho!\nEspera, por que eu tô lutando com ela mesmo?"
+  },
+  {
+   "id": "C141_VS_C051_ENTRY_2P_01_KEYWORD",
+   "en": "Jakuzure-senpai! I know my grades are poopy and all,\nbut I do have a name! Mako Mankanshoku!",
+   "pt": "Jakuzure-senpai! Eu sei que minhas notas são uma bosta e tal,\nmas eu tenho um nome! Mako Mankanshoku!"
+  },
+  {
+   "id": "C141_VS_C051_ENTRY_2P_02_KEYWORD",
+   "en": "Being too early is Mako Mankanshoku's specialty! Early lunch, early bird, and early naps!\nI'm so early, you won't see me coming!",
+   "pt": "Ser adiantada é a especialidade de Mako Mankanshoku! Almoço adiantado, madrugadora e sonecas adiantadas!\nEu sou tão adiantada que você nem vai me ver chegar!"
+  },
+  {
+   "id": "C141_VS_C061_ENTRY_1P_01_KEYWORD",
+   "en": "Inumuta-senpai! You shouldn't chase girls around just because you want data!\nThat's what stalkers do! You're a stalking pervert, Inumuta-senpai!",
+   "pt": "Inumuta-senpai! Você não devia ficar correndo atrás de garotas só porque quer dados!\nÉ isso que stalkers fazem! Você é um stalker pervertido, Inumuta-senpai!"
+  },
+  {
+   "id": "C141_VS_C061_ENTRY_1P_02_KEYWORD",
+   "en": "Data collection... Are you saying you're a stalker?! Don't do it, Senpai!\nMy heart belongs to a girl named Ryuko!",
+   "pt": "Coleta de dados... Você tá dizendo que é um stalker?! Não faz isso, Senpai!\nMeu coração pertence a uma garota chamada Ryuko!"
+  },
+  {
+   "id": "C141_VS_C061_ENTRY_2P_01_KEYWORD",
+   "en": "Data collection...? Are you saying you're a stalker?!\nI'll stop you in your tracks, Inumuta-senpai!",
+   "pt": "Coleta de dados...? Você tá dizendo que é um stalker?!\nVou te parar agora mesmo, Inumuta-senpai!"
+  },
+  {
+   "id": "C141_VS_C061_ENTRY_2P_02_KEYWORD",
+   "en": "Data collection... Are you saying you're a stalker?!\nDon't do it, Senpai! My heart belongs to a girl named Ryuko!",
+   "pt": "Coleta de dados... Você tá dizendo que é um stalker?!\nNão faz isso, Senpai! Meu coração pertence a uma garota chamada Ryuko!"
+  },
+  {
+   "id": "C141_VS_C071_ENTRY_1P_01_KEYWORD",
+   "en": "Wow, Satsuki's mom is so shiny! Almost like the sign at our house!",
+   "pt": "Uau, a mãe da Satsuki é tão brilhante! Quase igual ao letreiro da nossa casa!"
+  },
+  {
+   "id": "C141_VS_C071_ENTRY_1P_02_KEYWORD",
+   "en": "Whoa, she's so bright! You're so shiny I can't even look straight at you!",
+   "pt": "Uou, ela é tão clara! Você é tão brilhante que não consigo nem olhar direto pra você!"
+  },
+  {
+   "id": "C141_VS_C071_ENTRY_2P_01_KEYWORD",
+   "en": "Wow, Satsuki's mom is so shiny! Almost like the sign at our house!",
+   "pt": "Uau, a mãe da Satsuki é tão brilhante! Quase igual ao letreiro da nossa casa!"
+  },
+  {
+   "id": "C141_VS_C071_ENTRY_2P_02_KEYWORD",
+   "en": "Whoa, she's so bright! You're so shiny I can't even look straight at you!",
+   "pt": "Uou, ela é tão clara! Você é tão brilhante que não consigo nem olhar direto pra você!"
+  },
+  {
+   "id": "C141_VS_C081_ENTRY_1P_01_KEYWORD",
+   "en": "Whoa, what a cute girl! What grade are you in? Are you a transfer student?",
+   "pt": "Uou, que garota fofa! Em que série você tá? Você é uma aluna transferida?"
+  },
+  {
+   "id": "C141_VS_C081_ENTRY_1P_02_KEYWORD",
+   "en": "Ryuko said those scissors are important to her. Do you mind giving them back?",
+   "pt": "A Ryuko disse que essa tesoura é importante pra ela. Você se importa em devolver?"
+  },
+  {
+   "id": "C141_VS_C081_ENTRY_2P_01_KEYWORD",
+   "en": "Whoa, what a cute girl! What grade are you in? Are you a transfer student?",
+   "pt": "Uou, que garota fofa! Em que série você tá? Você é uma aluna transferida?"
+  },
+  {
+   "id": "C141_VS_C081_ENTRY_2P_02_KEYWORD",
+   "en": "Excuse me?! I don't really get what's going on, but that girl\nseems super duper upset! Am I in big trouble?!",
+   "pt": "Com licença?! Eu não entendo direito o que tá acontecendo, mas essa garota\nparece super chateada! Eu tô numa grande enrascada?!"
+  },
+  {
+   "id": "C141_VS_C141_ENTRY_1P_01_KEYWORD",
+   "en": "Is this the me in my head?! Oh, no! I need to hurry and put her back inside!",
+   "pt": "Essa é a eu da minha cabeça?! Ai, não! Preciso me apressar e botar ela de volta lá dentro!"
+  },
+  {
+   "id": "C141_VS_C141_ENTRY_1P_02_KEYWORD",
+   "en": "There's a girl who looks and talks just like me! Life is so strange!",
+   "pt": "Tem uma garota que se parece e fala igualzinha a mim! A vida é tão estranha!"
+  },
+  {
+   "id": "C141_VS_C141_ENTRY_2P_01_KEYWORD",
+   "en": "Another me?! Wait, I'm the one inside my head and she's outside...\nUuugh! Let's just fight to decide who goes back inside!",
+   "pt": "Outra eu?! Espera, eu que tô dentro da minha cabeça e ela que tá fora...\nAaah! Vamos logo lutar pra decidir quem volta lá pra dentro!"
+  },
+  {
+   "id": "C141_VS_C141_ENTRY_2P_02_KEYWORD",
+   "en": "Is she a shadow clone? Oh my gosh! I didn't know I was a ninja!",
+   "pt": "Ela é um clone das sombras? Minha nossa! Eu não sabia que eu era ninja!"
+  },
+  {
+   "id": "C141_VS_C151_ENTRY_1P_01_KEYWORD",
+   "en": "Professor Mikisugi and Mr. Mohawk?! Shameless! So shameless!",
+   "pt": "Professor Mikisugi e Senhor Moicano?! Sem-vergonhas! Muito sem-vergonhas!"
+  },
+  {
+   "id": "C141_VS_C151_ENTRY_1P_02_KEYWORD",
+   "en": "Fight Club President, Mako Mankanshoku has arrived on the scene!!",
+   "pt": "A Presidente do Clube de Luta, Mako Mankanshoku, chegou na área!!"
+  },
+  {
+   "id": "C141_VS_C151_ENTRY_2P_01_KEYWORD",
+   "en": "Aah, so you were both exhibitionists...\nAs a student and daughter of a back-alley doctor, I gotta put you back to normal!",
+   "pt": "Aah, então vocês dois eram exibicionistas...\nComo aluna e filha de um médico de fundo de quintal, eu tenho que botar vocês de volta ao normal!"
+  },
+  {
+   "id": "C141_VS_C151_ENTRY_2P_02_KEYWORD",
+   "en": "How dare you try to strip a girl!\nIt's every girl's right to wear whatever she wants!",
+   "pt": "Como ousam tentar despir uma garota!\nÉ o direito de toda garota usar o que ela quiser!"
+  },
+  {
+   "id": "C141_SP_NEAR_01_KEYWORD",
+   "en": "Haaaa, eiyaaa!",
+   "pt": "Haaaa, eiyaaa!"
+  },
+  {
+   "id": "C141_SP_NEAR_02_KEYWORD",
+   "en": "Wata, wata, wata, wata!",
+   "pt": "Wata, wata, wata, wata!"
+  },
+  {
+   "id": "C141_SP_NEAR_03_KEYWORD",
+   "en": "Punch, punch, punch! How'd you like that?!",
+   "pt": "Soco, soco, soco! Gostou dessa?!"
+  },
+  {
+   "id": "C141_SP_NEAR_04_KEYWORD",
+   "en": "I'm super mad now!!",
+   "pt": "Eu tô super irritada agora!!"
+  },
+  {
+   "id": "C141_SP_NEAR_05_KEYWORD",
+   "en": "I can do this!",
+   "pt": "Eu consigo!"
+  },
+  {
+   "id": "C141_SP_FAR_01_KEYWORD",
+   "en": "Out with the evil!",
+   "pt": "Fora com o mal!"
+  },
+  {
+   "id": "C141_SP_FAR_02_KEYWORD",
+   "en": "Out with the missiles, too!",
+   "pt": "Fora com os mísseis também!"
+  },
+  {
+   "id": "C141_SP_FAR_03_KEYWORD",
+   "en": "Take that!",
+   "pt": "Toma essa!"
+  },
+  {
+   "id": "C141_SP_FAR_04_KEYWORD",
+   "en": "Spike Bat Missile!",
+   "pt": "Míssil de Taco de Prego!"
+  },
+  {
+   "id": "C141_SP_FAR_05_KEYWORD",
+   "en": "Got you locked down!",
+   "pt": "Te prendi!"
+  },
+  {
+   "id": "C141_SP_BREAK_01_KEYWORD",
+   "en": "Eat summa this!",
+   "pt": "Engole essa!"
+  },
+  {
+   "id": "C141_SP_BREAK_02_KEYWORD",
+   "en": "Dodge it if you can!",
+   "pt": "Desvia se puder!"
+  },
+  {
+   "id": "C141_SP_BREAK_03_KEYWORD",
+   "en": "I'll show you everything I got!",
+   "pt": "Vou te mostrar tudo que eu tenho!"
+  },
+  {
+   "id": "C141_SP_BREAK_04_KEYWORD",
+   "en": "Mako Mankanshoku, here I come!",
+   "pt": "Mako Mankanshoku, lá vou eu!"
+  },
+  {
+   "id": "C141_SP_BREAK_05_KEYWORD",
+   "en": "YOLO!",
+   "pt": "SÓ SE VIVE UMA VEZ!"
+  },
+  {
+   "id": "C141_SP_BREAK_06_KEYWORD",
+   "en": "This outfit gives me lots of strength!",
+   "pt": "Essa roupa me dá muita força!"
+  },
+  {
+   "id": "C141_SP_BREAK_07_KEYWORD",
+   "en": "Hard work is rarely recognized!",
+   "pt": "Trabalho duro raramente é reconhecido!"
+  },
+  {
+   "id": "C141_SP_BREAK_08_KEYWORD",
+   "en": "Mako Mankanshoku, here to rampage!",
+   "pt": "Mako Mankanshoku, pronta pra barbarizar!"
+  },
+  {
+   "id": "C141_SP_BREAK_09_KEYWORD",
+   "en": "Attention!",
+   "pt": "Atenção!"
+  },
+  {
+   "id": "C141_SP_BREAK_10_KEYWORD",
+   "en": "I'll settle the score!",
+   "pt": "Vou acertar as contas!"
+  },
+  {
+   "id": "C141_SSP_BREAK_01_KEYWORD",
+   "en": "Heeeeeyyaaagh!",
+   "pt": "Heeeeeyyaaagh!"
+  },
+  {
+   "id": "C141_SSP_BREAK_02_KEYWORD",
+   "en": "Daryaaaaagh!!",
+   "pt": "Daryaaaaagh!!"
+  },
+  {
+   "id": "C141_SSP_BREAK_03_KEYWORD",
+   "en": "Punch of all punches!!",
+   "pt": "O soco de todos os socos!!"
+  },
+  {
+   "id": "C141_SSP_BREAK_04_KEYWORD",
+   "en": "Humongous punch!",
+   "pt": "Soco gigantão!"
+  },
+  {
+   "id": "C141_VS_C011_DECISION0_S_UPPER_KEYWORD",
+   "en": "My No-Star ranking is just a cover!",
+   "pt": "Meu nível de Sem Estrela é só fachada!"
+  },
+  {
+   "id": "C141_VS_C011_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "I am Honnouji Academy's Fight Club President, Mako Mankanshoku!",
+   "pt": "Eu sou a Presidente do Clube de Luta da Academia Honnouji, Mako Mankanshoku!"
+  },
+  {
+   "id": "C141_VS_C011_DECISION0_S_LOWER_KEYWORD",
+   "en": "Now, let's fight fair and square!",
+   "pt": "Agora, vamos lutar de forma limpa e justa!"
+  },
+  {
+   "id": "C141_VS_C011_DECISION0_P_UPPER_KEYWORD",
+   "en": "Alright, I'm doing this!",
+   "pt": "Beleza, eu vou fazer isso!"
+  },
+  {
+   "id": "C141_VS_C011_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "How's that?! That's the power of my best outfit!",
+   "pt": "Que tal?! Esse é o poder da minha melhor roupa!"
+  },
+  {
+   "id": "C141_VS_C011_DECISION0_P_LOWER_KEYWORD",
+   "en": "No one can stop this momentum!",
+   "pt": "Ninguém pode parar esse meu pique!"
+  },
+  {
+   "id": "C141_VS_C011_DECISION0_G_UPPER_KEYWORD",
+   "en": "I won't let anybody stand in my way!",
+   "pt": "Não vou deixar ninguém ficar no meu caminho!"
+  },
+  {
+   "id": "C141_VS_C011_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "I just ate my mom's croquettes, so now I'm at one million horsepower!",
+   "pt": "Acabei de comer os croquetes da minha mãe, então agora eu tô com um milhão de cavalos de potência!"
+  },
+  {
+   "id": "C141_VS_C011_DECISION0_G_LOWER_KEYWORD",
+   "en": "Losing is out of the question!",
+   "pt": "Perder tá fora de cogitação!"
+  },
+  {
+   "id": "C141_VS_C011_DECISION1_S_UPPER_KEYWORD",
+   "en": "I'm taking this match!",
+   "pt": "Eu vou levar essa!"
+  },
+  {
+   "id": "C141_VS_C011_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "The Mako Mankanshoku you see before you is not the same as usual!",
+   "pt": "A Mako Mankanshoku que você vê diante de você não é a mesma de sempre!"
+  },
+  {
+   "id": "C141_VS_C011_DECISION1_S_LOWER_KEYWORD",
+   "en": "Give me all you got!",
+   "pt": "Manda ver com tudo!"
+  },
+  {
+   "id": "C141_VS_C011_DECISION1_P_UPPER_KEYWORD",
+   "en": "I feel really good. I'm doing great!",
+   "pt": "Eu tô me sentindo muito bem. Tô indo ótima!"
+  },
+  {
+   "id": "C141_VS_C011_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "No one can stop the unstoppable Mako Mankanshoku\nwhile she's riding this unstoppable momentum!",
+   "pt": "Ninguém pode parar a imparável Mako Mankanshoku\nenquanto ela tá surfando nesse pique imparável!"
+  },
+  {
+   "id": "C141_VS_C011_DECISION1_P_LOWER_KEYWORD",
+   "en": "Ride the wave!",
+   "pt": "Pega a onda!"
+  },
+  {
+   "id": "C141_VS_C011_DECISION1_G_UPPER_KEYWORD",
+   "en": "First rule about Fight Club: you can't stop me!",
+   "pt": "Primeira regra do Clube de Luta: vocês não podem me parar!"
+  },
+  {
+   "id": "C141_VS_C011_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "Stand in my way and I'll punch through you! That's the Fight Club way!",
+   "pt": "Fique no meu caminho e eu soco através de você! Esse é o jeito do Clube de Luta!"
+  },
+  {
+   "id": "C141_VS_C011_DECISION1_G_LOWER_KEYWORD",
+   "en": "Life is all about high risk, no return!\nA constant adolescence of life and death!",
+   "pt": "A vida é tudo sobre alto risco, sem retorno!\nUma adolescência constante de vida e morte!"
+  },
+  {
+   "id": "C141_VS_C011_DECISION2_S_UPPER_KEYWORD",
+   "en": "I won't have you mock Mako Mankanshoku!",
+   "pt": "Não vou deixar você tirar sarro da Mako Mankanshoku!"
+  },
+  {
+   "id": "C141_VS_C011_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "I might be a failure in school, but I still have my pride!",
+   "pt": "Eu posso ser uma fracassada na escola, mas eu ainda tenho meu orgulho!"
+  },
+  {
+   "id": "C141_VS_C011_DECISION2_S_LOWER_KEYWORD",
+   "en": "I'll show you the power of my rock bottom strength!",
+   "pt": "Vou te mostrar o poder da minha força do fundo do poço!"
+  },
+  {
+   "id": "C141_VS_C011_DECISION2_P_UPPER_KEYWORD",
+   "en": "I can't lose this battle!",
+   "pt": "Não posso perder essa batalha!"
+  },
+  {
+   "id": "C141_VS_C011_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "I gotta win, win again, and catch up to Ryuko!",
+   "pt": "Eu tenho que vencer, vencer de novo, e alcançar a Ryuko!"
+  },
+  {
+   "id": "C141_VS_C011_DECISION2_P_LOWER_KEYWORD",
+   "en": "Don't underestimate Mako Mankanshoku when she's got her eyes on her prey.",
+   "pt": "Não subestime Mako Mankanshoku quando ela tá de olho na sua presa."
+  },
+  {
+   "id": "C141_VS_C011_DECISION2_G_UPPER_KEYWORD",
+   "en": "Nobody can stop me now!",
+   "pt": "Ninguém pode me parar agora!"
+  },
+  {
+   "id": "C141_VS_C011_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "The Ryuko in my head is cheering me on, too!",
+   "pt": "A Ryuko na minha cabeça tá torcendo por mim também!"
+  },
+  {
+   "id": "C141_VS_C011_DECISION2_G_LOWER_KEYWORD",
+   "en": "Right, Ryuko!",
+   "pt": "Certo, Ryuko!"
+  },
+  {
+   "id": "C141_VS_C012_DECISION0_S_UPPER_KEYWORD",
+   "en": "My No-Star ranking is just a cover!",
+   "pt": "Meu nível de Sem Estrela é só fachada!"
+  },
+  {
+   "id": "C141_VS_C012_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "I am Honnouji Academy's Fight Club President, Mako Mankanshoku!",
+   "pt": "Eu sou a Presidente do Clube de Luta da Academia Honnouji, Mako Mankanshoku!"
+  },
+  {
+   "id": "C141_VS_C012_DECISION0_S_LOWER_KEYWORD",
+   "en": "Now, let's fight fair and square!",
+   "pt": "Agora, vamos lutar de forma limpa e justa!"
+  },
+  {
+   "id": "C141_VS_C012_DECISION0_P_UPPER_KEYWORD",
+   "en": "Alright, I'm doing this!",
+   "pt": "Beleza, eu vou fazer isso!"
+  },
+  {
+   "id": "C141_VS_C012_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "How's that?! That's the power of my best outfit!",
+   "pt": "Que tal?! Esse é o poder da minha melhor roupa!"
+  },
+  {
+   "id": "C141_VS_C012_DECISION0_P_LOWER_KEYWORD",
+   "en": "No one can stop this momentum!",
+   "pt": "Ninguém pode parar esse meu pique!"
+  },
+  {
+   "id": "C141_VS_C012_DECISION0_G_UPPER_KEYWORD",
+   "en": "I won't let anybody stand in my way!",
+   "pt": "Não vou deixar ninguém ficar no meu caminho!"
+  },
+  {
+   "id": "C141_VS_C012_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "I just ate my mom's croquettes, so now I'm at one million horsepower!",
+   "pt": "Acabei de comer os croquetes da minha mãe, então agora eu tô com um milhão de cavalos de potência!"
+  },
+  {
+   "id": "C141_VS_C012_DECISION0_G_LOWER_KEYWORD",
+   "en": "Losing is out of the question!",
+   "pt": "Perder tá fora de cogitação!"
+  },
+  {
+   "id": "C141_VS_C012_DECISION1_S_UPPER_KEYWORD",
+   "en": "I'm taking this match!",
+   "pt": "Eu vou levar essa!"
+  },
+  {
+   "id": "C141_VS_C012_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "The Mako Mankanshoku you see before you is not the same as usual!",
+   "pt": "A Mako Mankanshoku que você vê diante de você não é a mesma de sempre!"
+  },
+  {
+   "id": "C141_VS_C012_DECISION1_S_LOWER_KEYWORD",
+   "en": "Give me all you got!",
+   "pt": "Manda ver com tudo!"
+  },
+  {
+   "id": "C141_VS_C012_DECISION1_P_UPPER_KEYWORD",
+   "en": "I feel really good. I'm doing great!",
+   "pt": "Eu tô me sentindo muito bem. Tô indo ótima!"
+  },
+  {
+   "id": "C141_VS_C012_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "No one can stop the unstoppable Mako Mankanshoku\nwhile she's riding this unstoppable momentum!",
+   "pt": "Ninguém pode parar a imparável Mako Mankanshoku\nenquanto ela tá surfando nesse pique imparável!"
+  },
+  {
+   "id": "C141_VS_C012_DECISION1_P_LOWER_KEYWORD",
+   "en": "Ride the wave!",
+   "pt": "Pega a onda!"
+  },
+  {
+   "id": "C141_VS_C012_DECISION1_G_UPPER_KEYWORD",
+   "en": "First rule about Fight Club: you can't stop me!",
+   "pt": "Primeira regra do Clube de Luta: vocês não podem me parar!"
+  },
+  {
+   "id": "C141_VS_C012_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "Stand in my way and I'll punch through you! That's the Fight Club way!",
+   "pt": "Fique no meu caminho e eu soco através de você! Esse é o jeito do Clube de Luta!"
+  },
+  {
+   "id": "C141_VS_C012_DECISION1_G_LOWER_KEYWORD",
+   "en": "Life is all about high risk, no return!\nA constant adolescence of life and death!",
+   "pt": "A vida é tudo sobre alto risco, sem retorno!\nUma adolescência constante de vida e morte!"
+  },
+  {
+   "id": "C141_VS_C012_DECISION2_S_UPPER_KEYWORD",
+   "en": "I won't have you mock Mako Mankanshoku!",
+   "pt": "Não vou deixar você tirar sarro da Mako Mankanshoku!"
+  },
+  {
+   "id": "C141_VS_C012_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "I might be a failure in school, but I still have my pride!",
+   "pt": "Eu posso ser uma fracassada na escola, mas eu ainda tenho meu orgulho!"
+  },
+  {
+   "id": "C141_VS_C012_DECISION2_S_LOWER_KEYWORD",
+   "en": "I'll show you the power of my rock bottom strength!",
+   "pt": "Vou te mostrar o poder da minha força do fundo do poço!"
+  },
+  {
+   "id": "C141_VS_C012_DECISION2_P_UPPER_KEYWORD",
+   "en": "I can't lose this battle!",
+   "pt": "Não posso perder essa batalha!"
+  },
+  {
+   "id": "C141_VS_C012_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "I gotta win, win again, and catch up to Ryuko!",
+   "pt": "Eu tenho que vencer, vencer de novo, e alcançar a Ryuko!"
+  },
+  {
+   "id": "C141_VS_C012_DECISION2_P_LOWER_KEYWORD",
+   "en": "Don't underestimate Mako Mankanshoku when she's got her eyes on her prey.",
+   "pt": "Não subestime Mako Mankanshoku quando ela tá de olho na sua presa."
+  },
+  {
+   "id": "C141_VS_C012_DECISION2_G_UPPER_KEYWORD",
+   "en": "Nobody can stop me now!",
+   "pt": "Ninguém pode me parar agora!"
+  },
+  {
+   "id": "C141_VS_C012_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "The Ryuko in my head is cheering me on, too!",
+   "pt": "A Ryuko na minha cabeça tá torcendo por mim também!"
+  },
+  {
+   "id": "C141_VS_C012_DECISION2_G_LOWER_KEYWORD",
+   "en": "Right, Ryuko!",
+   "pt": "Certo, Ryuko!"
+  },
+  {
+   "id": "C141_VS_C021_DECISION0_S_UPPER_KEYWORD",
+   "en": "My No-Star ranking is just a cover!",
+   "pt": "Meu nível de Sem Estrela é só fachada!"
+  },
+  {
+   "id": "C141_VS_C021_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "I am Honnouji Academy's Fight Club President, Mako Mankanshoku!",
+   "pt": "Eu sou a Presidente do Clube de Luta da Academia Honnouji, Mako Mankanshoku!"
+  },
+  {
+   "id": "C141_VS_C021_DECISION0_S_LOWER_KEYWORD",
+   "en": "Now, let's fight fair and square!",
+   "pt": "Agora, vamos lutar de forma limpa e justa!"
+  },
+  {
+   "id": "C141_VS_C021_DECISION0_P_UPPER_KEYWORD",
+   "en": "Alright, I'm doing this!",
+   "pt": "Beleza, eu vou fazer isso!"
+  },
+  {
+   "id": "C141_VS_C021_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "How's that?! That's the power of my best outfit!",
+   "pt": "Que tal?! Esse é o poder da minha melhor roupa!"
+  },
+  {
+   "id": "C141_VS_C021_DECISION0_P_LOWER_KEYWORD",
+   "en": "No one can stop this momentum!",
+   "pt": "Ninguém pode parar esse meu pique!"
+  },
+  {
+   "id": "C141_VS_C021_DECISION0_G_UPPER_KEYWORD",
+   "en": "I won't let anybody stand in my way!",
+   "pt": "Não vou deixar ninguém ficar no meu caminho!"
+  },
+  {
+   "id": "C141_VS_C021_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "I just ate my mom's croquettes, so now I'm at one million horsepower!",
+   "pt": "Acabei de comer os croquetes da minha mãe, então agora eu tô com um milhão de cavalos de potência!"
+  },
+  {
+   "id": "C141_VS_C021_DECISION0_G_LOWER_KEYWORD",
+   "en": "Losing is out of the question!",
+   "pt": "Perder tá fora de cogitação!"
+  },
+  {
+   "id": "C141_VS_C021_DECISION1_S_UPPER_KEYWORD",
+   "en": "I'm taking this match!",
+   "pt": "Eu vou levar essa!"
+  },
+  {
+   "id": "C141_VS_C021_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "The Mako Mankanshoku you see before you is not the same as usual!",
+   "pt": "A Mako Mankanshoku que você vê diante de você não é a mesma de sempre!"
+  },
+  {
+   "id": "C141_VS_C021_DECISION1_S_LOWER_KEYWORD",
+   "en": "Give me all you got!",
+   "pt": "Manda ver com tudo!"
+  },
+  {
+   "id": "C141_VS_C021_DECISION1_P_UPPER_KEYWORD",
+   "en": "I feel really good. I'm doing great!",
+   "pt": "Eu tô me sentindo muito bem. Tô indo ótima!"
+  },
+  {
+   "id": "C141_VS_C021_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "No one can stop the unstoppable Mako Mankanshoku\nwhile she's riding this unstoppable momentum!",
+   "pt": "Ninguém pode parar a imparável Mako Mankanshoku\nenquanto ela tá surfando nesse pique imparável!"
+  },
+  {
+   "id": "C141_VS_C021_DECISION1_P_LOWER_KEYWORD",
+   "en": "Ride the wave!",
+   "pt": "Pega a onda!"
+  },
+  {
+   "id": "C141_VS_C021_DECISION1_G_UPPER_KEYWORD",
+   "en": "First rule about Fight Club: you can't stop me!",
+   "pt": "Primeira regra do Clube de Luta: vocês não podem me parar!"
+  },
+  {
+   "id": "C141_VS_C021_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "Stand in my way and I'll punch through you! That's the Fight Club way!",
+   "pt": "Fique no meu caminho e eu soco através de você! Esse é o jeito do Clube de Luta!"
+  },
+  {
+   "id": "C141_VS_C021_DECISION1_G_LOWER_KEYWORD",
+   "en": "Life is all about high risk, no return!\nA constant adolescence of life and death!",
+   "pt": "A vida é tudo sobre alto risco, sem retorno!\nUma adolescência constante de vida e morte!"
+  },
+  {
+   "id": "C141_VS_C021_DECISION2_S_UPPER_KEYWORD",
+   "en": "I won't have you mock Mako Mankanshoku!",
+   "pt": "Não vou deixar você tirar sarro da Mako Mankanshoku!"
+  },
+  {
+   "id": "C141_VS_C021_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "I might be a failure in school, but I still have my pride!",
+   "pt": "Eu posso ser uma fracassada na escola, mas eu ainda tenho meu orgulho!"
+  },
+  {
+   "id": "C141_VS_C021_DECISION2_S_LOWER_KEYWORD",
+   "en": "I'll show you the power of my rock bottom strength!",
+   "pt": "Vou te mostrar o poder da minha força do fundo do poço!"
+  },
+  {
+   "id": "C141_VS_C021_DECISION2_P_UPPER_KEYWORD",
+   "en": "I can't lose this battle!",
+   "pt": "Não posso perder essa batalha!"
+  },
+  {
+   "id": "C141_VS_C021_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "I gotta win, win again, and catch up to Ryuko!",
+   "pt": "Eu tenho que vencer, vencer de novo, e alcançar a Ryuko!"
+  },
+  {
+   "id": "C141_VS_C021_DECISION2_P_LOWER_KEYWORD",
+   "en": "Don't underestimate Mako Mankanshoku when she's got her eyes on her prey.",
+   "pt": "Não subestime Mako Mankanshoku quando ela tá de olho na sua presa."
+  },
+  {
+   "id": "C141_VS_C021_DECISION2_G_UPPER_KEYWORD",
+   "en": "Nobody can stop me now!",
+   "pt": "Ninguém pode me parar agora!"
+  },
+  {
+   "id": "C141_VS_C021_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "The Ryuko in my head is cheering me on, too!",
+   "pt": "A Ryuko na minha cabeça tá torcendo por mim também!"
+  },
+  {
+   "id": "C141_VS_C021_DECISION2_G_LOWER_KEYWORD",
+   "en": "I can't lose this for anything!",
+   "pt": "Não posso perder isso por nada nesse mundo!"
+  },
+  {
+   "id": "C141_VS_C022_DECISION0_S_UPPER_KEYWORD",
+   "en": "My No-Star ranking is just a cover!",
+   "pt": "Meu nível de Sem Estrela é só fachada!"
+  },
+  {
+   "id": "C141_VS_C022_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "I am Honnouji Academy's Fight Club President, Mako Mankanshoku!",
+   "pt": "Eu sou a Presidente do Clube de Luta da Academia Honnouji, Mako Mankanshoku!"
+  },
+  {
+   "id": "C141_VS_C022_DECISION0_S_LOWER_KEYWORD",
+   "en": "Now, let's fight fair and square!",
+   "pt": "Agora, vamos lutar de forma limpa e justa!"
+  },
+  {
+   "id": "C141_VS_C022_DECISION0_P_UPPER_KEYWORD",
+   "en": "Alright, I'm doing this!",
+   "pt": "Beleza, eu vou fazer isso!"
+  },
+  {
+   "id": "C141_VS_C022_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "How's that?! That's the power of my best outfit!",
+   "pt": "Que tal?! Esse é o poder da minha melhor roupa!"
+  },
+  {
+   "id": "C141_VS_C022_DECISION0_P_LOWER_KEYWORD",
+   "en": "No one can stop this momentum!",
+   "pt": "Ninguém pode parar esse meu pique!"
+  },
+  {
+   "id": "C141_VS_C022_DECISION0_G_UPPER_KEYWORD",
+   "en": "I won't let anybody stand in my way!",
+   "pt": "Não vou deixar ninguém ficar no meu caminho!"
+  },
+  {
+   "id": "C141_VS_C022_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "I just ate my mom's croquettes, so now I'm at one million horsepower!",
+   "pt": "Acabei de comer os croquetes da minha mãe, então agora eu tô com um milhão de cavalos de potência!"
+  },
+  {
+   "id": "C141_VS_C022_DECISION0_G_LOWER_KEYWORD",
+   "en": "Losing is out of the question!",
+   "pt": "Perder tá fora de cogitação!"
+  },
+  {
+   "id": "C141_VS_C022_DECISION1_S_UPPER_KEYWORD",
+   "en": "I'm taking this match!",
+   "pt": "Eu vou levar essa!"
+  },
+  {
+   "id": "C141_VS_C022_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "The Mako Mankanshoku you see before you is not the same as usual!",
+   "pt": "A Mako Mankanshoku que você vê diante de você não é a mesma de sempre!"
+  },
+  {
+   "id": "C141_VS_C022_DECISION1_S_LOWER_KEYWORD",
+   "en": "Give me all you got!",
+   "pt": "Manda ver com tudo!"
+  },
+  {
+   "id": "C141_VS_C022_DECISION1_P_UPPER_KEYWORD",
+   "en": "I feel really good. I'm doing great!",
+   "pt": "Eu tô me sentindo muito bem. Tô indo ótima!"
+  },
+  {
+   "id": "C141_VS_C022_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "No one can stop the unstoppable Mako Mankanshoku\nwhile she's riding this unstoppable momentum!",
+   "pt": "Ninguém pode parar a imparável Mako Mankanshoku\nenquanto ela tá surfando nesse pique imparável!"
+  },
+  {
+   "id": "C141_VS_C022_DECISION1_P_LOWER_KEYWORD",
+   "en": "Ride the wave!",
+   "pt": "Pega a onda!"
+  },
+  {
+   "id": "C141_VS_C022_DECISION1_G_UPPER_KEYWORD",
+   "en": "First rule about Fight Club: you can't stop me!",
+   "pt": "Primeira regra do Clube de Luta: vocês não podem me parar!"
+  },
+  {
+   "id": "C141_VS_C022_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "Stand in my way and I'll punch through you! That's the Fight Club way!",
+   "pt": "Fique no meu caminho e eu soco através de você! Esse é o jeito do Clube de Luta!"
+  },
+  {
+   "id": "C141_VS_C022_DECISION1_G_LOWER_KEYWORD",
+   "en": "Life is all about high risk, no return!\nA constant adolescence of life and death!",
+   "pt": "A vida é tudo sobre alto risco, sem retorno!\nUma adolescência constante de vida e morte!"
+  },
+  {
+   "id": "C141_VS_C022_DECISION2_S_UPPER_KEYWORD",
+   "en": "I won't have you mock Mako Mankanshoku!",
+   "pt": "Não vou deixar você tirar sarro da Mako Mankanshoku!"
+  },
+  {
+   "id": "C141_VS_C022_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "I might be a failure in school, but I still have my pride!",
+   "pt": "Eu posso ser uma fracassada na escola, mas eu ainda tenho meu orgulho!"
+  },
+  {
+   "id": "C141_VS_C022_DECISION2_S_LOWER_KEYWORD",
+   "en": "I'll show you the power of my rock bottom strength!",
+   "pt": "Vou te mostrar o poder da minha força do fundo do poço!"
+  },
+  {
+   "id": "C141_VS_C022_DECISION2_P_UPPER_KEYWORD",
+   "en": "I can't lose this battle!",
+   "pt": "Não posso perder essa batalha!"
+  },
+  {
+   "id": "C141_VS_C022_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "I gotta win, win again, and catch up to Ryuko!",
+   "pt": "Eu tenho que vencer, vencer de novo, e alcançar a Ryuko!"
+  },
+  {
+   "id": "C141_VS_C022_DECISION2_P_LOWER_KEYWORD",
+   "en": "Don't underestimate Mako Mankanshoku when she's got her eyes on her prey.",
+   "pt": "Não subestime Mako Mankanshoku quando ela tá de olho na sua presa."
+  },
+  {
+   "id": "C141_VS_C022_DECISION2_G_UPPER_KEYWORD",
+   "en": "Nobody can stop me now!",
+   "pt": "Ninguém pode me parar agora!"
+  },
+  {
+   "id": "C141_VS_C022_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "The Ryuko in my head is cheering me on, too!",
+   "pt": "A Ryuko na minha cabeça tá torcendo por mim também!"
+  },
+  {
+   "id": "C141_VS_C022_DECISION2_G_LOWER_KEYWORD",
+   "en": "I can't lose this for anything!",
+   "pt": "Não posso perder isso por nada nesse mundo!"
+  },
+  {
+   "id": "C141_VS_C031_DECISION0_S_UPPER_KEYWORD",
+   "en": "My No-Star ranking is just a cover!",
+   "pt": "Meu nível de Sem Estrela é só fachada!"
+  },
+  {
+   "id": "C141_VS_C031_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "I am Honnouji Academy's Fight Club President, Mako Mankanshoku!",
+   "pt": "Eu sou a Presidente do Clube de Luta da Academia Honnouji, Mako Mankanshoku!"
+  },
+  {
+   "id": "C141_VS_C031_DECISION0_S_LOWER_KEYWORD",
+   "en": "Now, let's fight fair and square!",
+   "pt": "Agora, vamos lutar de forma limpa e justa!"
+  },
+  {
+   "id": "C141_VS_C031_DECISION0_P_UPPER_KEYWORD",
+   "en": "Alright, I'm doing this!",
+   "pt": "Beleza, eu vou fazer isso!"
+  },
+  {
+   "id": "C141_VS_C031_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "How's that?! That's the power of my best outfit!",
+   "pt": "Que tal?! Esse é o poder da minha melhor roupa!"
+  },
+  {
+   "id": "C141_VS_C031_DECISION0_P_LOWER_KEYWORD",
+   "en": "No one can stop this momentum!",
+   "pt": "Ninguém pode parar esse meu pique!"
+  },
+  {
+   "id": "C141_VS_C031_DECISION0_G_UPPER_KEYWORD",
+   "en": "I won't let anybody stand in my way!",
+   "pt": "Não vou deixar ninguém ficar no meu caminho!"
+  },
+  {
+   "id": "C141_VS_C031_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "I just ate my mom's croquettes, so now I'm at one million horsepower!",
+   "pt": "Acabei de comer os croquetes da minha mãe, então agora eu tô com um milhão de cavalos de potência!"
+  },
+  {
+   "id": "C141_VS_C031_DECISION0_G_LOWER_KEYWORD",
+   "en": "Losing is out of the question!",
+   "pt": "Perder tá fora de cogitação!"
+  },
+  {
+   "id": "C141_VS_C031_DECISION1_S_UPPER_KEYWORD",
+   "en": "I'm taking this match!",
+   "pt": "Eu vou levar essa!"
+  },
+  {
+   "id": "C141_VS_C031_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "The Mako Mankanshoku you see before you is not the same as usual!",
+   "pt": "A Mako Mankanshoku que você vê diante de você não é a mesma de sempre!"
+  },
+  {
+   "id": "C141_VS_C031_DECISION1_S_LOWER_KEYWORD",
+   "en": "Give me all you got!",
+   "pt": "Manda ver com tudo!"
+  },
+  {
+   "id": "C141_VS_C031_DECISION1_P_UPPER_KEYWORD",
+   "en": "I feel really good. I'm doing great!",
+   "pt": "Eu tô me sentindo muito bem. Tô indo ótima!"
+  },
+  {
+   "id": "C141_VS_C031_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "No one can stop the unstoppable Mako Mankanshoku\nwhile she's riding this unstoppable momentum!",
+   "pt": "Ninguém pode parar a imparável Mako Mankanshoku\nenquanto ela tá surfando nesse pique imparável!"
+  },
+  {
+   "id": "C141_VS_C031_DECISION1_P_LOWER_KEYWORD",
+   "en": "Ride the wave!",
+   "pt": "Pega a onda!"
+  },
+  {
+   "id": "C141_VS_C031_DECISION1_G_UPPER_KEYWORD",
+   "en": "First rule about Fight Club: you can't stop me!",
+   "pt": "Primeira regra do Clube de Luta: vocês não podem me parar!"
+  },
+  {
+   "id": "C141_VS_C031_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "Stand in my way and I'll punch through you! That's the Fight Club way!",
+   "pt": "Fique no meu caminho e eu soco através de você! Esse é o jeito do Clube de Luta!"
+  },
+  {
+   "id": "C141_VS_C031_DECISION1_G_LOWER_KEYWORD",
+   "en": "Life is all about high risk, no return!\nA constant adolescence of life and death!",
+   "pt": "A vida é tudo sobre alto risco, sem retorno!\nUma adolescência constante de vida e morte!"
+  },
+  {
+   "id": "C141_VS_C031_DECISION2_S_UPPER_KEYWORD",
+   "en": "I won't have you mock Mako Mankanshoku!",
+   "pt": "Não vou deixar você tirar sarro da Mako Mankanshoku!"
+  },
+  {
+   "id": "C141_VS_C031_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "I might be a failure in school, but I still have my pride!",
+   "pt": "Eu posso ser uma fracassada na escola, mas eu ainda tenho meu orgulho!"
+  }
+ ]
+}

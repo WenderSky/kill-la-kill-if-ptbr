@@ -1,0 +1,1008 @@
+{
+ "origem": "message/MES_COMMON",
+ "conteudo": "Menus, sistema e avisos",
+ "parte": "1/8",
+ "instrucoes": "Traduza o campo 'en' para portugues do Brasil e escreva o resultado em 'pt'. Nao altere 'id'. Mantenha intactos os codigos entre chaves ({CA}, {LA}, {BR}, {JU}, {SP}, {GD}, {LS}, {L1}, {R1}, setas), os marcadores de formato (%d, %l, %ls, %hs) e as quebras de linha \\n. Se uma linha nao precisar de traducao, deixe 'pt' vazio.",
+ "linhas": [
+  {
+   "id": "NETWORK_ERROR_000",
+   "en": "No errors.",
+   "pt": "Sem erros."
+  },
+  {
+   "id": "NETWORK_ERROR_001",
+   "en": "An unknown network error has occurred.",
+   "pt": "Ocorreu um erro de rede desconhecido."
+  },
+  {
+   "id": "NETWORK_ERROR_002",
+   "en": "Not connected to the network.",
+   "pt": "Não conectado à rede."
+  },
+  {
+   "id": "NETWORK_ERROR_003",
+   "en": "The connection has been terminated.",
+   "pt": "A conexão foi encerrada."
+  },
+  {
+   "id": "NETWORK_ERROR_004",
+   "en": "Please sign in to PlayStation™Network.",
+   "pt": "Por favor, inicie a sessão na PlayStation™Network."
+  },
+  {
+   "id": "NETWORK_ERROR_004_STEAM",
+   "en": "Please sign in to your Steam account.",
+   "pt": "Por favor, inicie a sessão na sua conta Steam."
+  },
+  {
+   "id": "NETWORK_ERROR_005",
+   "en": "Server is currently under maintenance.",
+   "pt": "O servidor está em manutenção."
+  },
+  {
+   "id": "NETWORK_ERROR_006",
+   "en": "You are unable to use the network functions due to the age setting on your Account of PlayStation™Network.",
+   "pt": "Você não pode usar as funções de rede devido à configuração de idade na sua conta da PlayStation™Network."
+  },
+  {
+   "id": "NETWORK_ERROR_007",
+   "en": "You will need to enroll into PlayStation®Plus in order to use this function.",
+   "pt": "Você precisa assinar a PlayStation®Plus para usar esta função."
+  },
+  {
+   "id": "NETWORK_ERROR_008",
+   "en": "You are unable to use the network functions. A new version of the system software update exists. Please update your system software.",
+   "pt": "Você não pode usar as funções de rede. Há uma nova versão do software do sistema. Por favor, atualize o software do seu sistema."
+  },
+  {
+   "id": "NETWORK_ERROR_009",
+   "en": "You are unable to use the network functions. A new patch exists. Please install the latest patch.",
+   "pt": "Você não pode usar as funções de rede. Há um novo patch. Por favor, instale o patch mais recente."
+  },
+  {
+   "id": "NETWORK_ERROR_100",
+   "en": "The room is full.",
+   "pt": "A sala está cheia."
+  },
+  {
+   "id": "NETWORK_ERROR_101",
+   "en": "Disconnected from the room.",
+   "pt": "Desconectado da sala."
+  },
+  {
+   "id": "NETWORK_ERROR_102",
+   "en": "The opponent is not responding.",
+   "pt": "O oponente não está respondendo."
+  },
+  {
+   "id": "NETWORK_ERROR_103",
+   "en": "This room has been disbanded.",
+   "pt": "Esta sala foi desfeita."
+  },
+  {
+   "id": "NETWORK_ERROR_104",
+   "en": "Room not found. Please try again later or change your search conditions.",
+   "pt": "Sala não encontrada. Por favor, tente novamente mais tarde ou mude os critérios de busca."
+  },
+  {
+   "id": "NETWORK_ERROR_105",
+   "en": "The password is incorrect.",
+   "pt": "A senha está incorreta."
+  },
+  {
+   "id": "NETWORK_ERROR_200",
+   "en": "Failed to connect.",
+   "pt": "Falha ao conectar."
+  },
+  {
+   "id": "NETWORK_ERROR_201",
+   "en": "Failed to download.",
+   "pt": "Falha ao baixar."
+  },
+  {
+   "id": "NETWORK_ERROR_202",
+   "en": "Failed to upload.",
+   "pt": "Falha ao enviar."
+  },
+  {
+   "id": "NETWORK_ERROR_203",
+   "en": "Failed to delete.",
+   "pt": "Falha ao excluir."
+  },
+  {
+   "id": "NETWORK_ERROR_204",
+   "en": "Failed to retrieve data.",
+   "pt": "Falha ao recuperar dados."
+  },
+  {
+   "id": "NETWORK_ERROR_205",
+   "en": "The data is unregistered.",
+   "pt": "Os dados não estão registrados."
+  },
+  {
+   "id": "NETWORK_ERROR_206",
+   "en": "You can only save 100 replays.",
+   "pt": "Você só pode salvar 100 replays."
+  },
+  {
+   "id": "NETWORK_ERROR_300",
+   "en": "Failed to retrieve ranking score.",
+   "pt": "Falha ao recuperar pontuação no ranque."
+  },
+  {
+   "id": "NETWORK_ERROR_301",
+   "en": "Failed to register replay.",
+   "pt": "Falha ao registrar replay."
+  },
+  {
+   "id": "NETWORK_ERROR_302",
+   "en": "Failed to retrieve leaderboard data.",
+   "pt": "Falha ao recuperar dados do placar de líderes."
+  },
+  {
+   "id": "NETWORK_ERROR_303",
+   "en": "Failed to retrieve replay.",
+   "pt": "Falha ao recuperar replay."
+  },
+  {
+   "id": "NETWORK_ERROR_400",
+   "en": "This replay data cannot be deleted because it is protected.",
+   "pt": "Estes dados de replay não podem ser excluídos porque estão protegidos."
+  },
+  {
+   "id": "NETWORK_ERROR_401",
+   "en": "You can upload up to 3 replays to the network. You must delete one of your uploaded replays before uploading this one.",
+   "pt": "Você pode enviar até 3 replays para a rede. Você precisa excluir um dos seus replays enviados antes de enviar este."
+  },
+  {
+   "id": "NETWORK_ERROR_402",
+   "en": "The file is corrupted and cannot be read. Please try again or delete the file.",
+   "pt": "O arquivo está corrompido e não pode ser lido. Por favor, tente novamente ou exclua o arquivo."
+  },
+  {
+   "id": "NETWORK_ERROR_403",
+   "en": "The replay data was not found. Please try again or delete the file.",
+   "pt": "Os dados de replay não foram encontrados. Por favor, tente novamente ou exclua o arquivo."
+  },
+  {
+   "id": "NETWORK_ERROR_404",
+   "en": "Please connect to the network to delete an uploaded replay.",
+   "pt": "Por favor, conecte-se à rede para excluir um replay enviado."
+  },
+  {
+   "id": "NETWORK_ERROR_405",
+   "en": "The replay data in the selected slot does not exist. Please try reloading the list.",
+   "pt": "Os dados de replay no espaço selecionado não existem. Por favor, tente recarregar a lista."
+  },
+  {
+   "id": "NETWORK_ERROR_406",
+   "en": "The replay cannot be played because its game version does not match the current game version.",
+   "pt": "O replay não pode ser reproduzido porque a versão do jogo dele não corresponde à versão atual do jogo."
+  },
+  {
+   "id": "NETWORK_ERROR_407",
+   "en": "You may not save battles that exceed 180 seconds in length or those that prohibit the SHARE function.",
+   "pt": "Você não pode salvar batalhas que excedam 180 segundos de duração ou aquelas que proíbem a função SHARE."
+  },
+  {
+   "id": "NETWORK_ERROR_407_STEAM",
+   "en": "Battles lasting more than 180 seconds cannot be saved for replay.",
+   "pt": "Batalhas que duram mais de 180 segundos não podem ser salvas para replay."
+  },
+  {
+   "id": "NETWORK_ERROR_408",
+   "en": "You've already saved this data.",
+   "pt": "Você já salvou esses dados."
+  },
+  {
+   "id": "NETWORK_ERROR_900",
+   "en": "An unknown network error has occurred.",
+   "pt": "Ocorreu um erro de rede desconhecido."
+  },
+  {
+   "id": "NETWORK_ERROR_901",
+   "en": "The next screen is under maintenance. Returning to the previous screen.",
+   "pt": "A próxima tela está em manutenção. Retornando à tela anterior."
+  },
+  {
+   "id": "NETWORK_ERROR_902",
+   "en": "Since you are not connected to the network, dummy info will be used.",
+   "pt": "Como você não está conectado à rede, serão usadas informações fictícias."
+  },
+  {
+   "id": "BTN_ENTER_PS4",
+   "en": "○",
+   "pt": "○"
+  },
+  {
+   "id": "BTN_CANCEL_PS4",
+   "en": "×",
+   "pt": "×"
+  },
+  {
+   "id": "BTN_CIR_PS4",
+   "en": "○",
+   "pt": "○"
+  },
+  {
+   "id": "BTN_X_PS4",
+   "en": "×",
+   "pt": "×"
+  },
+  {
+   "id": "BTN_SQU_PS4",
+   "en": "□",
+   "pt": "□"
+  },
+  {
+   "id": "BTN_TRI_PS4",
+   "en": "△",
+   "pt": "△"
+  },
+  {
+   "id": "BTN_LEFT_PS4",
+   "en": "←",
+   "pt": "←"
+  },
+  {
+   "id": "BTN_RIGHT_PS4",
+   "en": "→",
+   "pt": "→"
+  },
+  {
+   "id": "BTN_UP_PS4",
+   "en": "↑",
+   "pt": "↑"
+  },
+  {
+   "id": "BTN_DOWN_PS4",
+   "en": "↓",
+   "pt": "↓"
+  },
+  {
+   "id": "BTN_L1_PS4",
+   "en": "L1",
+   "pt": "L1"
+  },
+  {
+   "id": "BTN_L2_PS4",
+   "en": "L2",
+   "pt": "L2"
+  },
+  {
+   "id": "BTN_L3_PS4",
+   "en": "L3",
+   "pt": "L3"
+  },
+  {
+   "id": "BTN_LSTICK_PS4",
+   "en": "Left Stick",
+   "pt": "Analógico Esquerdo"
+  },
+  {
+   "id": "BTN_R1_PS4",
+   "en": "R1",
+   "pt": "R1"
+  },
+  {
+   "id": "BTN_R2_PS4",
+   "en": "R2",
+   "pt": "R2"
+  },
+  {
+   "id": "BTN_R3_PS4",
+   "en": "R3",
+   "pt": "R3"
+  },
+  {
+   "id": "BTN_RSTICK_PS4",
+   "en": "Right Stick",
+   "pt": "Analógico Direito"
+  },
+  {
+   "id": "BTN_START_PS4",
+   "en": "OPTIONS",
+   "pt": "OPTIONS"
+  },
+  {
+   "id": "BTN_SELECT_PS4",
+   "en": "SHARE",
+   "pt": "SHARE"
+  },
+  {
+   "id": "BTN_LR_PS4",
+   "en": "←→",
+   "pt": "←→"
+  },
+  {
+   "id": "BTN_UD_PS4",
+   "en": "↑↓",
+   "pt": "↑↓"
+  },
+  {
+   "id": "BTN_RSTICK_LR_PS4",
+   "en": "Right Stick←→",
+   "pt": "Analógico Direito←→"
+  },
+  {
+   "id": "BTN_RSTICK_UD_PS4",
+   "en": "Right Stick↑↓",
+   "pt": "Analógico Direito↑↓"
+  },
+  {
+   "id": "BTN_L1_PLUS_RSTICK_UD_PS4",
+   "en": "L1+Right Stick↑↓",
+   "pt": "L1+Analógico Direito↑↓"
+  },
+  {
+   "id": "BTN_L2_OR_R2_PS4",
+   "en": "L2/R2",
+   "pt": "L2/R2"
+  },
+  {
+   "id": "BTN_CANCEL_PRESS_PS4",
+   "en": "Hold the × button",
+   "pt": "Segure o botão ×"
+  },
+  {
+   "id": "BTN_OPTION_PRESS_PS4",
+   "en": "Hold the △ button",
+   "pt": "Segure o botão △"
+  },
+  {
+   "id": "BTN_ENTER_XBOX",
+   "en": "B",
+   "pt": "B"
+  },
+  {
+   "id": "BTN_CANCEL_XBOX",
+   "en": "A",
+   "pt": "A"
+  },
+  {
+   "id": "BTN_CIR_XBOX",
+   "en": "B",
+   "pt": "B"
+  },
+  {
+   "id": "BTN_X_XBOX",
+   "en": "A",
+   "pt": "A"
+  },
+  {
+   "id": "BTN_SQU_XBOX",
+   "en": "X",
+   "pt": "X"
+  },
+  {
+   "id": "BTN_TRI_XBOX",
+   "en": "Y",
+   "pt": "Y"
+  },
+  {
+   "id": "BTN_LEFT_XBOX",
+   "en": "←",
+   "pt": "←"
+  },
+  {
+   "id": "BTN_RIGHT_XBOX",
+   "en": "→",
+   "pt": "→"
+  },
+  {
+   "id": "BTN_UP_XBOX",
+   "en": "↑",
+   "pt": "↑"
+  },
+  {
+   "id": "BTN_DOWN_XBOX",
+   "en": "↓",
+   "pt": "↓"
+  },
+  {
+   "id": "BTN_L1_XBOX",
+   "en": "LB",
+   "pt": "LB"
+  },
+  {
+   "id": "BTN_L2_XBOX",
+   "en": "LT",
+   "pt": "LT"
+  },
+  {
+   "id": "BTN_L3_XBOX",
+   "en": "L3",
+   "pt": "L3"
+  },
+  {
+   "id": "BTN_LSTICK_XBOX",
+   "en": "Left Stick",
+   "pt": "Analógico Esquerdo"
+  },
+  {
+   "id": "BTN_R1_XBOX",
+   "en": "RB",
+   "pt": "RB"
+  },
+  {
+   "id": "BTN_R2_XBOX",
+   "en": "RT",
+   "pt": "RT"
+  },
+  {
+   "id": "BTN_R3_XBOX",
+   "en": "R3",
+   "pt": "R3"
+  },
+  {
+   "id": "BTN_RSTICK_XBOX",
+   "en": "Right Stick",
+   "pt": "Analógico Direito"
+  },
+  {
+   "id": "BTN_START_XBOX",
+   "en": "START",
+   "pt": "START"
+  },
+  {
+   "id": "BTN_SELECT_XBOX",
+   "en": "BACK",
+   "pt": "BACK"
+  },
+  {
+   "id": "BTN_LR_XBOX",
+   "en": "←→",
+   "pt": "←→"
+  },
+  {
+   "id": "BTN_UD_XBOX",
+   "en": "↑↓",
+   "pt": "↑↓"
+  },
+  {
+   "id": "BTN_RSTICK_LR_XBOX",
+   "en": "Right Stick←→",
+   "pt": "Analógico Direito←→"
+  },
+  {
+   "id": "BTN_RSTICK_UD_XBOX",
+   "en": "Right Stick↑↓",
+   "pt": "Analógico Direito↑↓"
+  },
+  {
+   "id": "BTN_L1_PLUS_RSTICK_UD_XBOX",
+   "en": "LB+Right Stick↑↓",
+   "pt": "LB+Analógico Direito↑↓"
+  },
+  {
+   "id": "BTN_L2_OR_R2_XBOX",
+   "en": "LT/RT",
+   "pt": "LT/RT"
+  },
+  {
+   "id": "BTN_CANCEL_PRESS_XBOX",
+   "en": "Hold the A Button",
+   "pt": "Segure o botão A"
+  },
+  {
+   "id": "BTN_OPTION_PRESS_XBOX",
+   "en": "Hold the Y Button",
+   "pt": "Segure o botão Y"
+  },
+  {
+   "id": "BTN_ENTER_KB",
+   "en": "ENTER",
+   "pt": "ENTER"
+  },
+  {
+   "id": "BTN_CANCEL_KB",
+   "en": "BS",
+   "pt": "BS"
+  },
+  {
+   "id": "BTN_CIR_KB",
+   "en": "O",
+   "pt": "O"
+  },
+  {
+   "id": "BTN_X_KB",
+   "en": "J",
+   "pt": "J"
+  },
+  {
+   "id": "BTN_SQU_KB",
+   "en": "U",
+   "pt": "U"
+  },
+  {
+   "id": "BTN_TRI_KB",
+   "en": "I",
+   "pt": "I"
+  },
+  {
+   "id": "BTN_LEFT_KB",
+   "en": "A",
+   "pt": "A"
+  },
+  {
+   "id": "BTN_RIGHT_KB",
+   "en": "D",
+   "pt": "D"
+  },
+  {
+   "id": "BTN_UP_KB",
+   "en": "W",
+   "pt": "W"
+  },
+  {
+   "id": "BTN_DOWN_KB",
+   "en": "S",
+   "pt": "S"
+  },
+  {
+   "id": "BTN_L1_KB",
+   "en": "Q",
+   "pt": "Q"
+  },
+  {
+   "id": "BTN_L2_KB",
+   "en": "E",
+   "pt": "E"
+  },
+  {
+   "id": "BTN_L3_KB",
+   "en": "L3",
+   "pt": "L3"
+  },
+  {
+   "id": "BTN_LSTICK_KB",
+   "en": "WASD",
+   "pt": "WASD"
+  },
+  {
+   "id": "BTN_R1_KB",
+   "en": "N",
+   "pt": "N"
+  },
+  {
+   "id": "BTN_R2_KB",
+   "en": "M",
+   "pt": "M"
+  },
+  {
+   "id": "BTN_R3_KB",
+   "en": "R3",
+   "pt": "R3"
+  },
+  {
+   "id": "BTN_RSTICK_KB",
+   "en": "↑↓←→",
+   "pt": "↑↓←→"
+  },
+  {
+   "id": "BTN_START_KB",
+   "en": "SPACE",
+   "pt": "ESPAÇO"
+  },
+  {
+   "id": "BTN_SELECT_KB",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "BTN_LR_KB",
+   "en": "AD",
+   "pt": "AD"
+  },
+  {
+   "id": "BTN_UD_KB",
+   "en": "WS",
+   "pt": "WS"
+  },
+  {
+   "id": "BTN_RSTICK_LR_KB",
+   "en": "←→",
+   "pt": "←→"
+  },
+  {
+   "id": "BTN_RSTICK_UD_KB",
+   "en": "↑↓",
+   "pt": "↑↓"
+  },
+  {
+   "id": "BTN_L1_PLUS_RSTICK_UD_KB",
+   "en": "Q+↑↓",
+   "pt": "Q+↑↓"
+  },
+  {
+   "id": "BTN_L2_OR_R2_KB",
+   "en": "E/M",
+   "pt": "E/M"
+  },
+  {
+   "id": "BTN_CANCEL_PRESS_KB",
+   "en": "Hold the BS Button",
+   "pt": "Segure a tecla BS"
+  },
+  {
+   "id": "BTN_OPTION_PRESS_KB",
+   "en": "Hold the I Button",
+   "pt": "Segure a tecla I"
+  },
+  {
+   "id": "KEYDESC_DECISION",
+   "en": "Enter",
+   "pt": "Confirmar"
+  },
+  {
+   "id": "KEYDESC_BACK",
+   "en": "Return",
+   "pt": "Voltar"
+  },
+  {
+   "id": "KEYDESC_OPTION",
+   "en": "Options",
+   "pt": "Opções"
+  },
+  {
+   "id": "KEYDESC_START",
+   "en": "Select",
+   "pt": "Selecionar"
+  },
+  {
+   "id": "KEYDESC_END",
+   "en": "End",
+   "pt": "Encerrar"
+  },
+  {
+   "id": "KEYDESC_OPEN",
+   "en": "Open",
+   "pt": "Abrir"
+  },
+  {
+   "id": "KEYDESC_CLOSE",
+   "en": "Close",
+   "pt": "Fechar"
+  },
+  {
+   "id": "KEYDESC_NEXT",
+   "en": "Next",
+   "pt": "Próximo"
+  },
+  {
+   "id": "KEYDESC_PLAY",
+   "en": "Play",
+   "pt": "Reproduzir"
+  },
+  {
+   "id": "KEYDESC_PAUSE",
+   "en": "Pause",
+   "pt": "Pausar"
+  },
+  {
+   "id": "KEYDESC_SKIP",
+   "en": "Skip",
+   "pt": "Pular"
+  },
+  {
+   "id": "KEYDESC_DELETE",
+   "en": "Delete",
+   "pt": "Excluir"
+  },
+  {
+   "id": "KEYDESC_TO_CHAPTER_SEL",
+   "en": "Chapter Select",
+   "pt": "Seleção de Capítulo"
+  },
+  {
+   "id": "KEYDESC_BACK_MAINMENU",
+   "en": "Return to\nMain Menu",
+   "pt": "Voltar ao\nMenu Principal"
+  },
+  {
+   "id": "KEYDESC_TO_PART_SEL",
+   "en": "To Part Selection",
+   "pt": "Para a Seleção de Parte"
+  },
+  {
+   "id": "KEYDESC_BACK_CHAPTER_SEL",
+   "en": "Return to\nChapter Select",
+   "pt": "Voltar à\nSeleção de Capítulo"
+  },
+  {
+   "id": "KEYDESC_CHARA_DECISION",
+   "en": "Choose Character",
+   "pt": "Escolher Personagem"
+  },
+  {
+   "id": "KEYDESC_CHG_RANK_CHARA",
+   "en": "Display\nCharacter Ranking",
+   "pt": "Exibir Ranque\ndo Personagem"
+  },
+  {
+   "id": "KEYDESC_CHG_RANK_TOTAL",
+   "en": "Display\nOverall Ranking",
+   "pt": "Exibir Ranque\nGeral"
+  },
+  {
+   "id": "KEYDESC_START_GAME",
+   "en": "Start Game",
+   "pt": "Iniciar Jogo"
+  },
+  {
+   "id": "KEYDESC_START_TRAINING",
+   "en": "Start Training",
+   "pt": "Iniciar Treino"
+  },
+  {
+   "id": "KEYDESC_TO_CHARACTER_SEL",
+   "en": "To Character Select",
+   "pt": "Para a Seleção de Personagem"
+  },
+  {
+   "id": "KEYDESC_BREAK_UP_ROOM",
+   "en": "Disband Room",
+   "pt": "Desfazer Sala"
+  },
+  {
+   "id": "KEYDESC_EXIT_ROOM",
+   "en": "Exit Room",
+   "pt": "Sair da Sala"
+  },
+  {
+   "id": "KEYDESC_OPEN_CHAT",
+   "en": "Toggle\nChat Window",
+   "pt": "Alternar\nJanela de Chat"
+  },
+  {
+   "id": "KEYDESC_ENTER_ROOM",
+   "en": "Enter Room",
+   "pt": "Entrar na Sala"
+  },
+  {
+   "id": "KEYDESC_RESEARCH_ROOM",
+   "en": "Search Again",
+   "pt": "Buscar Novamente"
+  },
+  {
+   "id": "KEYDESC_TERMINATE_MATCHING",
+   "en": "End Matchmaking",
+   "pt": "Encerrar Busca"
+  },
+  {
+   "id": "KEYDESC_CHANGE_COLOR",
+   "en": "Change Color",
+   "pt": "Mudar Cor"
+  },
+  {
+   "id": "KEYDESC_NORMAL_CAMERA",
+   "en": "Normal Camera",
+   "pt": "Câmera Normal"
+  },
+  {
+   "id": "KEYDESC_FREE_CAMERA",
+   "en": "Free Camera",
+   "pt": "Câmera Livre"
+  },
+  {
+   "id": "KEYDESC_HIDE_UI",
+   "en": "Hide UI",
+   "pt": "Ocultar UI"
+  },
+  {
+   "id": "KEYDESC_FRAME",
+   "en": "Frame by frame",
+   "pt": "Quadro a quadro"
+  },
+  {
+   "id": "KEYDESC_LR_ROLL",
+   "en": "Rotate\nHorizontally",
+   "pt": "Girar\nHorizontalmente"
+  },
+  {
+   "id": "KEYDESC_UD_ROLL",
+   "en": "Rotate\nVertically",
+   "pt": "Girar\nVerticalmente"
+  },
+  {
+   "id": "KEYDESC_UD_MOVE",
+   "en": "Pan\nVertically",
+   "pt": "Mover\nVerticalmente"
+  },
+  {
+   "id": "KEYDESC_MOVE",
+   "en": "Move",
+   "pt": "Mover"
+  },
+  {
+   "id": "KEYDESC_HELP",
+   "en": "Help",
+   "pt": "Ajuda"
+  },
+  {
+   "id": "KEYDESC_CAMERA_MODE",
+   "en": "Switch to\nCamera Mode",
+   "pt": "Mudar para\nModo de Câmera"
+  },
+  {
+   "id": "KEYDESC_FIGURE_CHANGE",
+   "en": "Change Figure",
+   "pt": "Mudar Figura"
+  },
+  {
+   "id": "KEYDESC_HIDE_GUIDE",
+   "en": "Hide Guide",
+   "pt": "Ocultar Guia"
+  },
+  {
+   "id": "KEYDESC_REN_PLAY",
+   "en": "Play\nConsecutively",
+   "pt": "Reproduzir\nSeguidamente"
+  },
+  {
+   "id": "KEYDESC_FILTER",
+   "en": "Filter Settings",
+   "pt": "Configurações de Filtro"
+  },
+  {
+   "id": "KEYDESC_ROLL",
+   "en": "Rotate",
+   "pt": "Girar"
+  },
+  {
+   "id": "KEYDESC_FIGURE_MODE",
+   "en": "Switch to\nFigure Mode",
+   "pt": "Mudar para\nModo de Figura"
+  },
+  {
+   "id": "KEYDESC_STOP",
+   "en": "Stop",
+   "pt": "Parar"
+  },
+  {
+   "id": "KEYDESC_UNLOCK",
+   "en": "Unlock",
+   "pt": "Desbloquear"
+  },
+  {
+   "id": "KEYCFG_ACTION_00",
+   "en": "Special Attack",
+   "pt": "Ataque Especial"
+  },
+  {
+   "id": "KEYCFG_ACTION_01",
+   "en": "Guard Dash",
+   "pt": "Avanço com Defesa"
+  },
+  {
+   "id": "KEYCFG_ACTION_02",
+   "en": "Long Range Attack",
+   "pt": "Ataque à Distância"
+  },
+  {
+   "id": "KEYCFG_ACTION_03",
+   "en": "Close Range Attack",
+   "pt": "Ataque Corpo a Corpo"
+  },
+  {
+   "id": "KEYCFG_ACTION_04",
+   "en": "Break Attack",
+   "pt": "Ataque de Quebra"
+  },
+  {
+   "id": "KEYCFG_ACTION_05",
+   "en": "Jump",
+   "pt": "Pulo"
+  },
+  {
+   "id": "VOICE_LANGUAGE_CHANGE",
+   "en": "Changing voice language...",
+   "pt": "Mudando idioma das vozes..."
+  },
+  {
+   "id": "VOICE_LANGUAGE_00",
+   "en": "Japanese",
+   "pt": "Japonês"
+  },
+  {
+   "id": "VOICE_LANGUAGE_01",
+   "en": "English",
+   "pt": "Inglês"
+  },
+  {
+   "id": "SAVE_ICON_DESCRIPTION",
+   "en": "Data is being saved while this icon is displayed. \nPlease do not close the application or turn the power off \nwhen this icon is on the screen.",
+   "pt": "Os dados estão sendo salvos enquanto este ícone estiver sendo exibido. \nPor favor, não feche o aplicativo nem desligue a energia \nquando este ícone estiver na tela."
+  },
+  {
+   "id": "QUIT_MESSAGE",
+   "en": "End the game?\n(You will lose all unsaved content.)",
+   "pt": "Encerrar o jogo?\n(Você perderá todo o conteúdo não salvo.)"
+  },
+  {
+   "id": "DATA_TYPE_00",
+   "en": "System Data",
+   "pt": "Dados do Sistema"
+  },
+  {
+   "id": "DATA_TYPE_01",
+   "en": "Play Data",
+   "pt": "Dados de Jogo"
+  },
+  {
+   "id": "DATA_TYPE_02",
+   "en": "Figure Data",
+   "pt": "Dados de Figura"
+  },
+  {
+   "id": "DATA_TYPE_03",
+   "en": "Replay Data",
+   "pt": "Dados de Replay"
+  },
+  {
+   "id": "DATA_TYPE_04",
+   "en": "Dev Data",
+   "pt": "Dados de Desenvolvedor"
+  },
+  {
+   "id": "DATA_TYPE_05",
+   "en": "DLC Data",
+   "pt": "Dados de DLC"
+  },
+  {
+   "id": "BOOTMENU_POPUP_00_00",
+   "en": "Loading %ls",
+   "pt": "Carregando %ls"
+  },
+  {
+   "id": "BOOTMENU_POPUP_00_01",
+   "en": "Creating %ls",
+   "pt": "Criando %ls"
+  },
+  {
+   "id": "BOOTMENU_POPUP_01_00",
+   "en": "%ls is corrupted. \nWould you like to delete it and create new data?",
+   "pt": "%ls está corrompido. \nGostaria de excluí-lo e criar novos dados?"
+  },
+  {
+   "id": "BOOTMENU_POPUP_01_01",
+   "en": "%ls does not exist.\nWould you like to create a new one?",
+   "pt": "%ls não existe.\nGostaria de criar um novo?"
+  },
+  {
+   "id": "BOOTMENU_POPUP_01_02",
+   "en": "There is not enough to space on the hard drive to create %ls.\nPlease make room on the hard drive and try again.",
+   "pt": "Não há espaço suficiente no disco rígido para criar %ls.\nPor favor, libere espaço no disco rígido e tente novamente."
+  },
+  {
+   "id": "BOOTMENU_POPUP_02_00",
+   "en": "Checking DLC.",
+   "pt": "Checando DLC."
+  },
+  {
+   "id": "MAINMENU_DESC_00_00",
+   "en": "Battle your way through the story.",
+   "pt": "Lute para avançar na história."
+  },
+  {
+   "id": "MAINMENU_DESC_01_00",
+   "en": "Fight in an assortment of battle modes.",
+   "pt": "Lute em uma variedade de modos de batalha."
+  },
+  {
+   "id": "MAINMENU_DESC_02_00",
+   "en": "Learn the ropes and practice your skills.",
+   "pt": "Aprenda o básico e pratique suas habilidades."
+  },
+  {
+   "id": "MAINMENU_DESC_03_00",
+   "en": "Check out the game's assets.",
+   "pt": "Confira os materiais do jogo."
+  },
+  {
+   "id": "MAINMENU_DESC_01_01",
+   "en": "★Unlock Criteria★ Clear \"Episode 1\" in Story Mode.",
+   "pt": "★Requisito de Desbloqueio★ Conclua o \"Episódio 1\" no Modo História."
+  }
+ ]
+}

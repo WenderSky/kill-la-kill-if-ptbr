@@ -1,0 +1,668 @@
+{
+ "origem": "message/MES_ACTION",
+ "conteudo": "Nomes de acoes",
+ "parte": "1/1",
+ "instrucoes": "Traduza o campo 'en' para portugues do Brasil e escreva o resultado em 'pt'. Nao altere 'id'. Mantenha intactos os codigos entre chaves ({CA}, {LA}, {BR}, {JU}, {SP}, {GD}, {LS}, {L1}, {R1}, setas), os marcadores de formato (%d, %l, %ls, %hs) e as quebras de linha \\n. Se uma linha nao precisar de traducao, deixe 'pt' vazio.",
+ "linhas": [
+  {
+   "id": "C01_1_00_DecStageBuff_01",
+   "en": "Speed Boost",
+   "pt": "Bônus de Velocidade"
+  },
+  {
+   "id": "C01_1_00_DecStageBuff_02",
+   "en": "Special Break Attack Boost",
+   "pt": "Bônus de Ataque de Quebra Especial"
+  },
+  {
+   "id": "C01_1_00_DecStageBuff_03",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "C01_2_00_DecStageBuff_01",
+   "en": "Decapitation Mode Boost",
+   "pt": "Bônus de Modo Decapitação"
+  },
+  {
+   "id": "C01_2_00_DecStageBuff_02",
+   "en": "Special Break Attack Boost",
+   "pt": "Bônus de Ataque de Quebra Especial"
+  },
+  {
+   "id": "C01_2_00_DecStageBuff_03",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "C01_3_00_DecStageBuff_01",
+   "en": "HP Recovery",
+   "pt": "Recuperação de Vida"
+  },
+  {
+   "id": "C01_3_00_DecStageBuff_02",
+   "en": "HP Recovery",
+   "pt": "Recuperação de Vida"
+  },
+  {
+   "id": "C01_3_00_DecStageBuff_03",
+   "en": "HP Recovery",
+   "pt": "Recuperação de Vida"
+  },
+  {
+   "id": "C02_1_00_DecStageBuff_01",
+   "en": "Normal Attack Boost",
+   "pt": "Bônus de Ataque Normal"
+  },
+  {
+   "id": "C02_1_00_DecStageBuff_02",
+   "en": "Special Close Range Attack Boost",
+   "pt": "Bônus de Ataque de Perto Especial"
+  },
+  {
+   "id": "C02_1_00_DecStageBuff_03",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "C02_2_00_DecStageBuff_01",
+   "en": "Normal Attack Distance Boost",
+   "pt": "Bônus de Distância de Ataque Normal"
+  },
+  {
+   "id": "C02_2_00_DecStageBuff_02",
+   "en": "Special Close Range Attack Boost",
+   "pt": "Bônus de Ataque de Perto Especial"
+  },
+  {
+   "id": "C02_2_00_DecStageBuff_03",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "C02_3_00_DecStageBuff_01",
+   "en": "HP Recovery",
+   "pt": "Recuperação de Vida"
+  },
+  {
+   "id": "C02_3_00_DecStageBuff_02",
+   "en": "HP Recovery",
+   "pt": "Recuperação de Vida"
+  },
+  {
+   "id": "C02_3_00_DecStageBuff_03",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "C03_1_00_DecStageBuff_01",
+   "en": "Damage Charge MAX 300%",
+   "pt": "Carga de Dano MÁX 300%"
+  },
+  {
+   "id": "C03_1_00_DecStageBuff_02",
+   "en": "Special Long Range Attack Boost",
+   "pt": "Bônus de Ataque à Distância Especial"
+  },
+  {
+   "id": "C03_1_00_DecStageBuff_03",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "C04_1_00_DecStageBuff_01",
+   "en": "Shingan Step Awakened",
+   "pt": "Passo Shingan Despertado"
+  },
+  {
+   "id": "C04_1_00_DecStageBuff_02",
+   "en": "Special Close Range Attack Boost",
+   "pt": "Bônus de Ataque de Perto Especial"
+  },
+  {
+   "id": "C04_1_00_DecStageBuff_03",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "C05_1_00_DecStageBuff_01",
+   "en": "Reverb Bullet Boost",
+   "pt": "Bônus de Bala Reverberante"
+  },
+  {
+   "id": "C05_1_00_DecStageBuff_02",
+   "en": "Special Long Range Attack Boost",
+   "pt": "Bônus de Ataque à Distância Especial"
+  },
+  {
+   "id": "C05_1_00_DecStageBuff_03",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "C06_1_00_DecStageBuff_01",
+   "en": "Modified Break Attack",
+   "pt": "Ataque de Quebra Modificado"
+  },
+  {
+   "id": "C06_1_00_DecStageBuff_02",
+   "en": "Special Break Attack Boost",
+   "pt": "Bônus de Ataque de Quebra Especial"
+  },
+  {
+   "id": "C06_1_00_DecStageBuff_03",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "C07_1_00_DecStageBuff_01",
+   "en": "Bloody Valor Defend Boost",
+   "pt": "Bônus de Defesa Bloody Valor"
+  },
+  {
+   "id": "C07_1_00_DecStageBuff_02",
+   "en": "Special Break Attack Boost",
+   "pt": "Bônus de Ataque de Quebra Especial"
+  },
+  {
+   "id": "C07_1_00_DecStageBuff_03",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "C08_1_00_DecStageBuff_01",
+   "en": "EX Clone Attack Boost",
+   "pt": "Bônus de Ataque de Clone EX"
+  },
+  {
+   "id": "C08_1_00_DecStageBuff_02",
+   "en": "Special Long Range Attack Boost",
+   "pt": "Bônus de Ataque à Distância Especial"
+  },
+  {
+   "id": "C08_1_00_DecStageBuff_03",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "C08_1_02_DecStageBuff_01",
+   "en": "EX Clone Attack Boost",
+   "pt": "Bônus de Ataque de Clone EX"
+  },
+  {
+   "id": "C08_1_02_DecStageBuff_02",
+   "en": "Special Long Range Attack Boost",
+   "pt": "Bônus de Ataque à Distância Especial"
+  },
+  {
+   "id": "C08_1_02_DecStageBuff_03",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "C14_1_00_DecStageBuff_01",
+   "en": "Some kind of power-up thingy!",
+   "pt": "Algum tipo de paradinha de power-up!"
+  },
+  {
+   "id": "C14_1_00_DecStageBuff_02",
+   "en": "Special Break Attack Boost",
+   "pt": "Bônus de Ataque de Quebra Especial"
+  },
+  {
+   "id": "C14_1_00_DecStageBuff_03",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "C15_1_00_DecStageBuff_01",
+   "en": "Mobile Weapon Action Boost",
+   "pt": "Bônus de Ação de Arma Móvel"
+  },
+  {
+   "id": "C15_1_00_DecStageBuff_02",
+   "en": "Special Close Range Attack Boost",
+   "pt": "Bônus de Ataque de Perto Especial"
+  },
+  {
+   "id": "C15_1_00_DecStageBuff_03",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "PIC_FONT_INS1_1_00_00",
+   "en": "Move",
+   "pt": "Mover"
+  },
+  {
+   "id": "PIC_FONT_INS1_1_01_00",
+   "en": "{LS}",
+   "pt": "{LS}"
+  },
+  {
+   "id": "PIC_FONT_INS1_2_00_00",
+   "en": "Jump",
+   "pt": "Pular"
+  },
+  {
+   "id": "PIC_FONT_INS1_2_01_00",
+   "en": "{JU} button",
+   "pt": "Botão {JU}"
+  },
+  {
+   "id": "PIC_FONT_INS1_3_00_00",
+   "en": "Guard",
+   "pt": "Defesa"
+  },
+  {
+   "id": "PIC_FONT_INS1_3_01_00",
+   "en": "{GD} button",
+   "pt": "Botão {GD}"
+  },
+  {
+   "id": "PIC_FONT_INS1_4_00_00",
+   "en": "Step",
+   "pt": "Passo"
+  },
+  {
+   "id": "PIC_FONT_INS1_4_01_00",
+   "en": "{GD} + {LS}",
+   "pt": "{GD} + {LS}"
+  },
+  {
+   "id": "PIC_FONT_INS1_5_00_00",
+   "en": "Homing Dash",
+   "pt": "Avanço Teleguiado"
+  },
+  {
+   "id": "PIC_FONT_INS1_5_01_00",
+   "en": "{GD} + {JU}",
+   "pt": "{GD} + {JU}"
+  },
+  {
+   "id": "PIC_FONT_INS1_6_00_00",
+   "en": "Air Homing Dash",
+   "pt": "Avanço Teleguiado Aéreo"
+  },
+  {
+   "id": "PIC_FONT_INS1_6_01_00",
+   "en": "{JU} button while jumping",
+   "pt": "Botão {JU} durante o pulo"
+  },
+  {
+   "id": "PIC_FONT_INS2_1_00_00",
+   "en": "Close Ranged Attack",
+   "pt": "Ataque de Perto"
+  },
+  {
+   "id": "PIC_FONT_INS2_1_01_00",
+   "en": "{CA} button",
+   "pt": "Botão {CA}"
+  },
+  {
+   "id": "PIC_FONT_INS2_2_00_00",
+   "en": "Anti-Air Attack",
+   "pt": "Ataque Antiaéreo"
+  },
+  {
+   "id": "PIC_FONT_INS2_2_01_00",
+   "en": "{LS} {↑} or {↓}+{CA} button",
+   "pt": "{LS} {↑} ou {↓} + Botão {CA}"
+  },
+  {
+   "id": "PIC_FONT_INS2_2_01_01",
+   "en": " {↑} or {↓}+{CA} button",
+   "pt": " {↑} ou {↓} + Botão {CA}"
+  },
+  {
+   "id": "PIC_FONT_INS2_3_00_00",
+   "en": "Area Attack",
+   "pt": "Ataque em Área"
+  },
+  {
+   "id": "PIC_FONT_INS2_3_01_00",
+   "en": "{LS} {←} or {→}＋{CA} button",
+   "pt": "{LS} {←} ou {→} + Botão {CA}"
+  },
+  {
+   "id": "PIC_FONT_INS2_3_01_01",
+   "en": " {←} or {→}＋{CA} button",
+   "pt": " {←} ou {→} + Botão {CA}"
+  },
+  {
+   "id": "PIC_FONT_INS2_4_00_00",
+   "en": "Close Range Combo",
+   "pt": "Combo de Perto"
+  },
+  {
+   "id": "PIC_FONT_INS2_4_01_00",
+   "en": "{CA}・{CA}・{CA}・{CA} ",
+   "pt": "{CA}・{CA}・{CA}・{CA} "
+  },
+  {
+   "id": "PIC_FONT_INS2_5_00_00",
+   "en": "Final Blow",
+   "pt": "Golpe Final"
+  },
+  {
+   "id": "PIC_FONT_INS2_5_01_00",
+   "en": "After Close Range Combo, {CA} button",
+   "pt": "Após Combo de Perto, Botão {CA}"
+  },
+  {
+   "id": "PIC_FONT_INS3_1_00_00",
+   "en": "Long Ranged Attack",
+   "pt": "Ataque à Distância"
+  },
+  {
+   "id": "PIC_FONT_INS3_1_01_00",
+   "en": "{LA} button",
+   "pt": "Botão {LA}"
+  },
+  {
+   "id": "PIC_FONT_INS3_2_00_00",
+   "en": "Long Range Combo",
+   "pt": "Combo à Distância"
+  },
+  {
+   "id": "PIC_FONT_INS3_2_01_00",
+   "en": "{LA}・{LA}・{LA}・{LA}",
+   "pt": "{LA}・{LA}・{LA}・{LA}"
+  },
+  {
+   "id": "PIC_FONT_INS3_3_00_00",
+   "en": "Charged Long Range Attack",
+   "pt": "Ataque à Distância Carregado"
+  },
+  {
+   "id": "PIC_FONT_INS3_3_01_00",
+   "en": "Hold {LA} button⇒Release {LA} button",
+   "pt": "Segure o Botão {LA}⇒Solte o Botão {LA}"
+  },
+  {
+   "id": "PIC_FONT_INS4_1_00_00",
+   "en": "Break Attack",
+   "pt": "Ataque de Quebra"
+  },
+  {
+   "id": "PIC_FONT_INS4_1_01_00",
+   "en": "{BR} button",
+   "pt": "Botão {BR}"
+  },
+  {
+   "id": "PIC_FONT_INS4_2_00_00",
+   "en": "Homing Dash",
+   "pt": "Avanço Teleguiado"
+  },
+  {
+   "id": "PIC_FONT_INS4_2_01_00",
+   "en": "After Break Attack hits, press {JU} button",
+   "pt": "Após acertar o Ataque de Quebra, aperte o Botão {JU}"
+  },
+  {
+   "id": "PIC_FONT_INS5_1_00_00",
+   "en": "Dashing Close Range Attack",
+   "pt": "Ataque de Perto em Avanço"
+  },
+  {
+   "id": "PIC_FONT_INS5_1_01_00",
+   "en": "{GD} + {JU} ⇒ {CA}",
+   "pt": "{GD} + {JU} ⇒ {CA}"
+  },
+  {
+   "id": "PIC_FONT_INS5_2_00_00",
+   "en": "Dashing Long Range Attack",
+   "pt": "Ataque à Distância em Avanço"
+  },
+  {
+   "id": "PIC_FONT_INS5_2_01_00",
+   "en": "{GD} + {JU} ⇒ {LA}",
+   "pt": "{GD} + {JU} ⇒ {LA}"
+  },
+  {
+   "id": "PIC_FONT_INS5_3_00_00",
+   "en": "Dashing Break Attack",
+   "pt": "Ataque de Quebra em Avanço"
+  },
+  {
+   "id": "PIC_FONT_INS5_3_01_00",
+   "en": "{GD} + {JU} ⇒ {BR}",
+   "pt": "{GD} + {JU} ⇒ {BR}"
+  },
+  {
+   "id": "PIC_FONT_INS5_4_00_00",
+   "en": "Aerial Close Range Attack",
+   "pt": "Ataque de Perto Aéreo"
+  },
+  {
+   "id": "PIC_FONT_INS5_4_01_00",
+   "en": "{JU} Button ⇒ {CA} Button",
+   "pt": "Botão {JU} ⇒ Botão {CA}"
+  },
+  {
+   "id": "PIC_FONT_INS5_5_00_00",
+   "en": "Aerial Long Range Attack",
+   "pt": "Ataque à Distância Aéreo"
+  },
+  {
+   "id": "PIC_FONT_INS5_5_01_00",
+   "en": "{JU} Button ⇒ {LA} Button",
+   "pt": "Botão {JU} ⇒ Botão {LA}"
+  },
+  {
+   "id": "PIC_FONT_INS5_6_00_00",
+   "en": "Aerial Break Attack",
+   "pt": "Ataque de Quebra Aéreo"
+  },
+  {
+   "id": "PIC_FONT_INS5_6_01_00",
+   "en": "{JU} Button ⇒ {BR} Button",
+   "pt": "Botão {JU} ⇒ Botão {BR}"
+  },
+  {
+   "id": "PIC_FONT_INS6_1_00_00",
+   "en": "Close Range Deathblow",
+   "pt": "Golpe Fatal de Perto"
+  },
+  {
+   "id": "PIC_FONT_INS6_1_01_00",
+   "en": "While SP is 50% or more, press {SP} + {CA}",
+   "pt": "Com SP a 50% ou mais, aperte {SP} + {CA}"
+  },
+  {
+   "id": "PIC_FONT_INS6_2_00_00",
+   "en": "Long Range Deathblow",
+   "pt": "Golpe Fatal à Distância"
+  },
+  {
+   "id": "PIC_FONT_INS6_2_01_00",
+   "en": "While SP is 50% or more, press {SP} + {LA}",
+   "pt": "Com SP a 50% ou mais, aperte {SP} + {LA}"
+  },
+  {
+   "id": "PIC_FONT_INS6_3_00_00",
+   "en": "Deathblow Break",
+   "pt": "Quebra de Golpe Fatal"
+  },
+  {
+   "id": "PIC_FONT_INS6_3_01_00",
+   "en": "While SP is 50% or more, press {SP} + {BR}",
+   "pt": "Com SP a 50% ou mais, aperte {SP} + {BR}"
+  },
+  {
+   "id": "PIC_FONT_INS7_1_00_00",
+   "en": "Bloody Valor",
+   "pt": "Bloody Valor"
+  },
+  {
+   "id": "PIC_FONT_INS7_1_01_00",
+   "en": "While your SP Gauge is 50% or more, press {L1} button + {R1} button",
+   "pt": "Com a Barra de SP a 50% ou mais, aperte Botão {L1} + Botão {R1}"
+  },
+  {
+   "id": "ACT_SP",
+   "en": "{SP}",
+   "pt": "{SP}"
+  },
+  {
+   "id": "ACT_GD",
+   "en": "{GD}",
+   "pt": "{GD}"
+  },
+  {
+   "id": "ACT_CA",
+   "en": "{CA}",
+   "pt": "{CA}"
+  },
+  {
+   "id": "ACT_LA",
+   "en": "{LA}",
+   "pt": "{LA}"
+  },
+  {
+   "id": "ACT_BR",
+   "en": "{BR}",
+   "pt": "{BR}"
+  },
+  {
+   "id": "サンプル",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "CT_000_001_00",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "CT_000_001_01",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "CT_000_002_00",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "CT_000_002_01",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "CT_000_003_00",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "CT_000_003_01",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "CT_000_004_00",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "CT_000_004_01",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "CT_000_005_00",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "CT_000_005_01",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "CT_000_006_00",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "CT_000_006_01",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "CT_000_007_00",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "CT_000_007_01",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "CT_000_008_00",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "CT_000_009_00",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "CT_000_010_00",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "CT_000_011_00",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "CT_000_012_00",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "CT_000_012_01",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "CT_000_013_00",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "CT_000_014_00",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "CT_000_015_00",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "CT_000_016_00",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "CT_000_016_01",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "CT_000_017_00",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "CT_000_017_01",
+   "en": "",
+   "pt": ""
+  }
+ ]
+}

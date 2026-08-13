@@ -1,0 +1,43 @@
+{
+ "origem": "KlkResources/S701_MES/MES_022_SAT_ACT",
+ "conteudo": "Falas em batalha - Satsuki",
+ "parte": "4/4",
+ "instrucoes": "Traduza o campo 'en' para portugues do Brasil e escreva o resultado em 'pt'. Nao altere 'id'. Mantenha intactos os codigos entre chaves ({CA}, {LA}, {BR}, {JU}, {SP}, {GD}, {LS}, {L1}, {R1}, setas), os marcadores de formato (%d, %l, %ls, %hs) e as quebras de linha \\n. Se uma linha nao precisar de traducao, deixe 'pt' vazio.",
+ "linhas": [
+  {
+   "id": "C022_COVERS_FINISH_GOOD_03_KEYWORD",
+   "en": "You'd better prepare yourself.\nBecause next time, I will exterminate you.",
+   "pt": "É melhor se preparar.\nPorque da próxima vez, eu exterminarei você."
+  },
+  {
+   "id": "C022_COVERS_FINISH_PASS_01_KEYWORD",
+   "en": "I'm struggling against these weaklings, I have a long way to go.",
+   "pt": "Estou tendo dificuldades contra esses fracotes, tenho um longo caminho a percorrer."
+  },
+  {
+   "id": "C022_COVERS_FINISH_PASS_02_KEYWORD",
+   "en": "This won't cut it. I must train harder.",
+   "pt": "Isso não basta. Devo treinar mais."
+  },
+  {
+   "id": "C022_COVERS_FINISH_PASS_03_KEYWORD",
+   "en": "If I'm struggling against my followers, I'll never realize my ambitions...",
+   "pt": "Se tenho dificuldades contra meus seguidores, nunca realizarei minhas ambições..."
+  },
+  {
+   "id": "C022_COVERS_FINISH_BAD_01_KEYWORD",
+   "en": "Impossible! How could I lose to scraps of cloth?",
+   "pt": "Impossível! Como pude perder para retalhos de pano?"
+  },
+  {
+   "id": "C022_COVERS_FINISH_BAD_02_KEYWORD",
+   "en": "Kgh! I never thought I would misjudge my skills...",
+   "pt": "Kgh! Nunca pensei que julgaria mal minhas habilidades..."
+  },
+  {
+   "id": "C022_COVERS_FINISH_BAD_03_KEYWORD",
+   "en": "That was pitiful! Is this all I'm capable of?",
+   "pt": "Que lamentável! É só disso que sou capaz?"
+  }
+ ]
+}

@@ -1,0 +1,1008 @@
+{
+ "origem": "KlkResources/S701_MES/MES_081_NUI_ACT",
+ "conteudo": "Falas em batalha - Nui",
+ "parte": "1/3",
+ "instrucoes": "Traduza o campo 'en' para portugues do Brasil e escreva o resultado em 'pt'. Nao altere 'id'. Mantenha intactos os codigos entre chaves ({CA}, {LA}, {BR}, {JU}, {SP}, {GD}, {LS}, {L1}, {R1}, setas), os marcadores de formato (%d, %l, %ls, %hs) e as quebras de linha \\n. Se uma linha nao precisar de traducao, deixe 'pt' vazio.",
+ "linhas": [
+  {
+   "id": "C081_VS_C011_ENTRY_1P_01_KEYWORD",
+   "en": "Hi, Ryuko! Wanna play?",
+   "pt": "Oi, Ryuko! Quer brincar?"
+  },
+  {
+   "id": "C081_VS_C011_ENTRY_1P_02_KEYWORD",
+   "en": "But I thought you hated me.\nDon't you want to avenge your dear, dead daddy?",
+   "pt": "Mas eu achei que me odiasse.\nNão quer vingar o seu querido papai morto?"
+  },
+  {
+   "id": "C081_VS_C011_ENTRY_2P_01_KEYWORD",
+   "en": "I like your spirit, Ryuko! Soooooo fierce!",
+   "pt": "Gosto do seu espírito, Ryuko! Tãããããão feroz!"
+  },
+  {
+   "id": "C081_VS_C011_ENTRY_2P_02_KEYWORD",
+   "en": "Let's see how long you can keep up that tough-girl act of yours!",
+   "pt": "Vamos ver até quando você aguenta com essa pose de durona!"
+  },
+  {
+   "id": "C081_VS_C012_ENTRY_1P_01_KEYWORD",
+   "en": "Hi, Ryuko! Wanna play?",
+   "pt": "Oi, Ryuko! Quer brincar?"
+  },
+  {
+   "id": "C081_VS_C012_ENTRY_1P_02_KEYWORD",
+   "en": "But I thought you hated me.\nDon't you want to avenge your dear, dead daddy?",
+   "pt": "Mas eu achei que me odiasse.\nNão quer vingar o seu querido papai morto?"
+  },
+  {
+   "id": "C081_VS_C012_ENTRY_2P_01_KEYWORD",
+   "en": "Nope, nope, nope!\nYou're not strong enough to beat me, Ryuuuuuuko!",
+   "pt": "Não, não, não!\nVocê não é forte o bastante para me vencer, Ryuuuuuuko!"
+  },
+  {
+   "id": "C081_VS_C012_ENTRY_2P_02_KEYWORD",
+   "en": "I like your spirit, Ryuko! Soooooo fierce!",
+   "pt": "Gosto do seu espírito, Ryuko! Tãããããão feroz!"
+  },
+  {
+   "id": "C081_VS_C021_ENTRY_1P_01_KEYWORD",
+   "en": "Come on, Satsuki!\nHang out with me next! Please, pleeease!",
+   "pt": "Qual é, Satsuki!\nFica comigo agora! Por favooooor!"
+  },
+  {
+   "id": "C081_VS_C021_ENTRY_1P_02_KEYWORD",
+   "en": "I just wanted to have a duel with you!\nI mean, we're so close! Like two peas in a pod.",
+   "pt": "Eu só queria ter um duelo com você!\nDigo, somos tão próximas! Como unha e carne."
+  },
+  {
+   "id": "C081_VS_C021_ENTRY_2P_01_KEYWORD",
+   "en": "You're cute, Lady Satsuki.\nThat furrowed brow...? Yeah, not so much.",
+   "pt": "Você é fofa, Senhorita Satsuki.\nMas essa testa franzida...? É, nem tanto."
+  },
+  {
+   "id": "C081_VS_C021_ENTRY_2P_02_KEYWORD",
+   "en": "Ooooooo! Scary.\nBut I like that side of you, Satsuki.",
+   "pt": "Uuuuuuuu! Que medo.\nMas eu gosto desse seu lado, Satsuki."
+  },
+  {
+   "id": "C081_VS_C022_ENTRY_1P_01_KEYWORD",
+   "en": "Come on, Satsuki!\nHang out with me next! Please, pleeease!",
+   "pt": "Qual é, Satsuki!\nFica comigo agora! Por favooooor!"
+  },
+  {
+   "id": "C081_VS_C022_ENTRY_1P_02_KEYWORD",
+   "en": "I just wanted to have a duel with you!\nI mean, we're so close! Like two peas in a pod.",
+   "pt": "Eu só queria ter um duelo com você!\nDigo, somos tão próximas! Como unha e carne."
+  },
+  {
+   "id": "C081_VS_C022_ENTRY_2P_01_KEYWORD",
+   "en": "You're cute, Lady Satsuki.\nThat furrowed brow...? Yeah, not so much.",
+   "pt": "Você é fofa, Senhorita Satsuki.\nMas essa testa franzida...? É, nem tanto."
+  },
+  {
+   "id": "C081_VS_C022_ENTRY_2P_02_KEYWORD",
+   "en": "Ooooooo! Scary.\nBut I like that side of you, Satsuki.",
+   "pt": "Uuuuuuuu! Que medo.\nMas eu gosto desse seu lado, Satsuki."
+  },
+  {
+   "id": "C081_VS_C031_ENTRY_1P_01_KEYWORD",
+   "en": "So, you're Lady Satsuki's fave? Hee hee! You better be fuuuuun!",
+   "pt": "Então você é o favorito da Senhorita Satsuki? Hi hi! É bom que seja divertidiiiiiinho!"
+  },
+  {
+   "id": "C081_VS_C031_ENTRY_1P_02_KEYWORD",
+   "en": "I heard you call yourself Lady Satsuki's shield before.\nWell, if you're really that tough, I guess I don't have to hold back on you!",
+   "pt": "Ouvi você se chamando de escudo da Senhorita Satsuki antes.\nBom, se você é tão durão assim, acho que não preciso me segurar com você!"
+  },
+  {
+   "id": "C081_VS_C031_ENTRY_2P_01_KEYWORD",
+   "en": "I wasn't planning on interfering with anything!\nBut this looks like fun and I'm all about fun!",
+   "pt": "Eu não ia interferir em nada!\nMas isso parece divertido e eu adoro me divertir!"
+  },
+  {
+   "id": "C081_VS_C031_ENTRY_2P_02_KEYWORD",
+   "en": "Okie-dokie! Come at me with everything you got and I mean everything!\nYou don't have to go easy on me.",
+   "pt": "Oki-doki! Venha pra cima com tudo que tem, e digo tudo mesmo!\nNão precisa pegar leve comigo."
+  },
+  {
+   "id": "C081_VS_C041_ENTRY_1P_01_KEYWORD",
+   "en": "So, you're Lady Satsuki's fave?\nHee hee! You better be fuuuuun!",
+   "pt": "Então você é o favorito da Senhorita Satsuki?\nHi hi! É bom que seja divertidiiiiiinho!"
+  },
+  {
+   "id": "C081_VS_C041_ENTRY_1P_02_KEYWORD",
+   "en": "You think you can beat me just because you changed your outfit?\nOh, you silly boy!",
+   "pt": "Acha que pode me vencer só porque trocou de roupa?\nAh, seu garoto bobinho!"
+  },
+  {
+   "id": "C081_VS_C041_ENTRY_2P_01_KEYWORD",
+   "en": "How rude! Just for that, I'm going to stitch that ugly mouth of your shut!",
+   "pt": "Que rude! Só por isso, eu vou costurar essa sua boca feia!"
+  },
+  {
+   "id": "C081_VS_C041_ENTRY_2P_02_KEYWORD",
+   "en": "Good luck with that, luv.\nNo way is a turtle like you fast enough to keep up with me!",
+   "pt": "Boa sorte com isso, amor.\nSem chance que uma tartaruga como você consiga me acompanhar!"
+  },
+  {
+   "id": "C081_VS_C051_ENTRY_1P_01_KEYWORD",
+   "en": "So, you're Lady Satsuki's fave?\nHee hee! You better be fuuuuun!",
+   "pt": "Então você é o favorito da Senhorita Satsuki?\nHi hi! É bom que seja divertidiiiiiinho!"
+  },
+  {
+   "id": "C081_VS_C051_ENTRY_1P_02_KEYWORD",
+   "en": "I heard you play one of the wind instruments.\nPlay something for me, pretty please!",
+   "pt": "Ouvi dizer que você toca um dos instrumentos de sopro.\nToca alguma coisa pra mim, por favorzinho!"
+  },
+  {
+   "id": "C081_VS_C051_ENTRY_2P_01_KEYWORD",
+   "en": "Aw, don't be like that. We're both artists, so let's be friends!",
+   "pt": "Ah, não seja assim. Nós duas somos artistas, então vamos ser amigas!"
+  },
+  {
+   "id": "C081_VS_C051_ENTRY_2P_02_KEYWORD",
+   "en": "Jealous much, Nonon?\nTsk, tsk, tsk! Nothing's less cute than a jealous girl!",
+   "pt": "Com ciuminho, Nonon?\nTsc, tsc, tsc! Não tem nada menos fofo do que uma garota ciumenta!"
+  },
+  {
+   "id": "C081_VS_C061_ENTRY_1P_01_KEYWORD",
+   "en": "So, you're Lady Satsuki's fave? Hee hee! You better be fuuuuun!",
+   "pt": "Então você é o favorito da Senhorita Satsuki? Hi hi! É bom que seja divertidiiiiiinho!"
+  },
+  {
+   "id": "C081_VS_C061_ENTRY_1P_02_KEYWORD",
+   "en": "Sorry luv, but sneaky boys like you are a total turnoff.\nBuuuuut... if you wanna fight me fair and square, I'll take you up on it!",
+   "pt": "Desculpa, amor, mas garotos traiçoeiros como você não me atraem nem um pouco.\nMaaaas... se quiser lutar comigo de forma justa, eu aceito!"
+  },
+  {
+   "id": "C081_VS_C061_ENTRY_2P_01_KEYWORD",
+   "en": "Excuse me?! What a mean thing to say to a girl!\nI bet you don't have many friends.",
+   "pt": "Como é que é?! Que coisa malvada pra se dizer a uma garota!\nAposto que você não tem muitos amigos."
+  },
+  {
+   "id": "C081_VS_C061_ENTRY_2P_02_KEYWORD",
+   "en": "You're pissing me off.\nAre you gonna stand there, mumbling. Or, are you gonna do something. ",
+   "pt": "Você está me irritando.\nVai ficar aí parado, resmungando? Ou vai fazer alguma coisa?"
+  },
+  {
+   "id": "C081_VS_C071_ENTRY_1P_01_KEYWORD",
+   "en": "I can't wait to fight you, Lady Ragyō.",
+   "pt": "Mal posso esperar para lutar com você, Senhorita Ragyo."
+  },
+  {
+   "id": "C081_VS_C071_ENTRY_1P_02_KEYWORD",
+   "en": "I was thinking, Lady Ragyo...\nmaybe it might be a good idea for you to entertain me once in a while!",
+   "pt": "Eu estava pensando, Senhorita Ragyo...\ntalvez fosse uma boa ideia você me entreter de vez em quando!"
+  },
+  {
+   "id": "C081_VS_C071_ENTRY_2P_01_KEYWORD",
+   "en": "Thank you sooo much for this opportunity, Lady Ragyo.",
+   "pt": "Muuuito obrigada por esta oportunidade, Senhorita Ragyo."
+  },
+  {
+   "id": "C081_VS_C071_ENTRY_2P_02_KEYWORD",
+   "en": "You're too kind, Lady Ragyo! Okay, then... here I come!",
+   "pt": "Você é gentil demais, Senhorita Ragyo! Certo, então... lá vou eu!"
+  },
+  {
+   "id": "C081_VS_C081_ENTRY_1P_01_KEYWORD",
+   "en": "You've got some nerve impersonating me.\nYou're still super cute, though!",
+   "pt": "Você tem muita coragem de se passar por mim.\nMas você continua superfofa!"
+  },
+  {
+   "id": "C081_VS_C081_ENTRY_1P_02_KEYWORD",
+   "en": "I don't remember cloning myself lately.\nHumph! This pisses me off.",
+   "pt": "Eu não me lembro de ter me clonado ultimamente.\nHmph! Isso me irrita."
+  },
+  {
+   "id": "C081_VS_C081_ENTRY_2P_01_KEYWORD",
+   "en": "You look like me, which is annoying.\nBut I haaaaate the fact you sound like me, too.",
+   "pt": "Você se parece comigo, o que é irritante.\nMas eu odeiiiio o fato de que você soa como eu também."
+  },
+  {
+   "id": "C081_VS_C081_ENTRY_2P_02_KEYWORD",
+   "en": "You took the words right out of my mouth!\nIf you're one of my doppelgangers, then get back with the others!",
+   "pt": "Você tirou as palavras da minha boca!\nSe você é uma das minhas sósias, então volte lá com as outras!"
+  },
+  {
+   "id": "C081_VS_C141_ENTRY_1P_01_KEYWORD",
+   "en": "Lady Satsuki is so proud of her Goku Uniforms.\nLet's put them to the test!",
+   "pt": "A Senhorita Satsuki tem tanto orgulho dos Uniformes Goku dela.\nVamos colocá-los à prova!"
+  },
+  {
+   "id": "C081_VS_C141_ENTRY_1P_02_KEYWORD",
+   "en": "Uch, it's the annoying one.\nHow come you always appear at the worst possible time?",
+   "pt": "Ugh, é aquela irritante.\nPor que você sempre aparece na pior hora possível?"
+  },
+  {
+   "id": "C081_VS_C141_ENTRY_2P_01_KEYWORD",
+   "en": "What are you talking about?\nUch, never mind you bobble-head. I'm gonna shred you to scraps!",
+   "pt": "Do que é que você está falando?\nUgh, deixa pra lá, sua cabeça-oca. Eu vou te rasgar em pedacinhos!"
+  },
+  {
+   "id": "C081_VS_C141_ENTRY_2P_02_KEYWORD",
+   "en": "Sorry, luv. Can't do that! They're mine now.\nIf you want them back, you'll just have to take 'em from me!",
+   "pt": "Desculpa, amor. Não posso fazer isso! Eles são meus agora.\nSe os quiser de volta, você vai ter que tirá-los de mim!"
+  },
+  {
+   "id": "C081_VS_C151_ENTRY_1P_01_KEYWORD",
+   "en": "If you naked apes get in Lady Ragyo's way, I'll make a quilt out of your skins!",
+   "pt": "Se vocês macacos pelados entrarem no caminho da Senhorita Ragyo, vou fazer uma colcha com a pele de vocês!"
+  },
+  {
+   "id": "C081_VS_C151_ENTRY_1P_02_KEYWORD",
+   "en": "Uch, it's those nudie pests again in their ugly machine.\nIt's a good thing the Life Fibers aren't picky about their food!",
+   "pt": "Ugh, são aqueles pestinhas peladões de novo na máquina feiosa deles.\nAinda bem que as Fibras de Vida não são exigentes com a comida!"
+  },
+  {
+   "id": "C081_VS_C151_ENTRY_2P_01_KEYWORD",
+   "en": "Humans can't beat me, you silly! You're just naked apes, after all.\nBuuuut since you're here, wanna try?",
+   "pt": "Humanos não podem me vencer, seus bobinhos! Afinal, vocês são só macacos pelados.\nMaaaas já que estão aqui, querem tentar?"
+  },
+  {
+   "id": "C081_VS_C151_ENTRY_2P_02_KEYWORD",
+   "en": "Humans are just food for the Life Fibers.\nIf anyone gets exterminated today, it's gonna be you poop-heads!",
+   "pt": "Humanos são só comida para as Fibras de Vida.\nSe alguém for exterminado hoje, vão ser vocês, seus cabeças de cocô!"
+  },
+  {
+   "id": "C081_SP_NEAR_01_KEYWORD",
+   "en": "Alley oop!",
+   "pt": "Allez hop!"
+  },
+  {
+   "id": "C081_SP_NEAR_02_KEYWORD",
+   "en": "Ahahaha!",
+   "pt": "Ahahaha!"
+  },
+  {
+   "id": "C081_SP_NEAR_03_KEYWORD",
+   "en": "So annoying!",
+   "pt": "Que irritante!"
+  },
+  {
+   "id": "C081_SP_NEAR_04_KEYWORD",
+   "en": "Be a good little naked monkey!",
+   "pt": "Seja um bom macaquinho pelado!"
+  },
+  {
+   "id": "C081_SP_NEAR_05_KEYWORD",
+   "en": "I got yooouuu!",
+   "pt": "Te pegueeeei!"
+  },
+  {
+   "id": "C081_SP_NEAR_06_KEYWORD",
+   "en": "I'll make you behave!",
+   "pt": "Vou fazer você se comportar!"
+  },
+  {
+   "id": "C081_SP_NEAR_07_KEYWORD",
+   "en": "You're done for!",
+   "pt": "Você já era!"
+  },
+  {
+   "id": "C081_SP_NEAR_08_KEYWORD",
+   "en": "You're finished!",
+   "pt": "Você está acabado!"
+  },
+  {
+   "id": "C081_SP_NEAR_09_KEYWORD",
+   "en": "That's a time out for you!",
+   "pt": "Hora do cantinho do castigo!"
+  },
+  {
+   "id": "C081_SP_FAR_01_KEYWORD",
+   "en": "Better be ready!",
+   "pt": "Melhor se preparar!"
+  },
+  {
+   "id": "C081_SP_FAR_02_KEYWORD",
+   "en": "Here I come!",
+   "pt": "Aí vou eu!"
+  },
+  {
+   "id": "C081_SP_FAR_03_KEYWORD",
+   "en": "Alright, let's give it a try!",
+   "pt": "Tudo bem, vamos tentar!"
+  },
+  {
+   "id": "C081_SP_FAR_04_KEYWORD",
+   "en": "Go get 'em, my cute little doppelgangers!",
+   "pt": "Peguem-nos, minhas fofinhas sósias!"
+  },
+  {
+   "id": "C081_SP_FAR_05_KEYWORD",
+   "en": "Have fun with my clones!",
+   "pt": "Divirtam-se com os meus clones!"
+  },
+  {
+   "id": "C081_SP_FAR_06_KEYWORD",
+   "en": "Go, my little minions!",
+   "pt": "Vão, meus minionzinhos!"
+  },
+  {
+   "id": "C081_SP_BREAK_01_KEYWORD",
+   "en": "This is my secret special surprise!",
+   "pt": "Essa é a minha surpresa supersecreta!"
+  },
+  {
+   "id": "C081_SP_BREAK_02_KEYWORD",
+   "en": "Got a gift for you!",
+   "pt": "Tenho um presente pra você!"
+  },
+  {
+   "id": "C081_SP_BREAK_03_KEYWORD",
+   "en": "Here's a present!",
+   "pt": "Aqui está um presente!"
+  },
+  {
+   "id": "C081_SP_BREAK_04_KEYWORD",
+   "en": "Duck, duck, goose!",
+   "pt": "Pato, pato, ganso!"
+  },
+  {
+   "id": "C081_SP_BREAK_05_KEYWORD",
+   "en": "You should be grateful for that!",
+   "pt": "Você devia agradecer por isso!"
+  },
+  {
+   "id": "C081_SP_BREAK_06_KEYWORD",
+   "en": "You like that?",
+   "pt": "Gostou disso?"
+  },
+  {
+   "id": "C081_SSP_FAR_01_KEYWORD",
+   "en": "Go nuts!",
+   "pt": "Mandem ver!"
+  },
+  {
+   "id": "C081_SSP_FAR_02_KEYWORD",
+   "en": "Let's make this more fun!",
+   "pt": "Vamos deixar isso mais divertido!"
+  },
+  {
+   "id": "C081_SSP_FAR_03_KEYWORD",
+   "en": "Let's turn up the heat!",
+   "pt": "Vamos esquentar as coisas!"
+  },
+  {
+   "id": "C081_SSP_FAR_04_KEYWORD",
+   "en": "Mon mignon prêt-à-porter!",
+   "pt": "Mon mignon prêt-à-porter!"
+  },
+  {
+   "id": "C081_SSP_FAR_05_KEYWORD",
+   "en": "You gotta learn to enjoy yourself more!",
+   "pt": "Você tem que aprender a se divertir mais!"
+  },
+  {
+   "id": "C081_SSP_FAR_06_KEYWORD",
+   "en": "This'll make it more fun!",
+   "pt": "Isso vai deixar tudo mais divertido!"
+  },
+  {
+   "id": "C081_VS_C011_DECISION0_S_UPPER_KEYWORD",
+   "en": "C'mon, then! Let's see what you got!",
+   "pt": "Qual é, então! Vamos ver o que você tem!"
+  },
+  {
+   "id": "C081_VS_C011_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "Don't you worry, I'm waaaay stronger than you.\nSo don't hold back, luv!",
+   "pt": "Não se preocupe, eu sou muuuuito mais forte que você.\nEntão não se segure, amor!"
+  },
+  {
+   "id": "C081_VS_C011_DECISION0_S_LOWER_KEYWORD",
+   "en": "C'mon, c'mon! Let's play! ",
+   "pt": "Qual é, qual é! Vamos brincar! "
+  },
+  {
+   "id": "C081_VS_C011_DECISION0_P_UPPER_KEYWORD",
+   "en": "Let’s have some fun already! C'mon!",
+   "pt": "Vamos logo nos divertir! Qual é!"
+  },
+  {
+   "id": "C081_VS_C011_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "Gimmie all you got and don't pull any punches, got it?",
+   "pt": "Mande tudo o que tem e não pegue leve, entendeu?"
+  },
+  {
+   "id": "C081_VS_C011_DECISION0_P_LOWER_KEYWORD",
+   "en": "I mean, you're gonna die, either way!",
+   "pt": "Digo, você vai morrer de qualquer jeito!"
+  },
+  {
+   "id": "C081_VS_C011_DECISION0_G_UPPER_KEYWORD",
+   "en": "I don't think you're giving me your all.",
+   "pt": "Não acho que você está dando o seu melhor."
+  },
+  {
+   "id": "C081_VS_C011_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "When you play, you gotta play hard. Otherwise life's no fun!",
+   "pt": "Quando for brincar, tem que brincar pra valer. Senão a vida não tem graça!"
+  },
+  {
+   "id": "C081_VS_C011_DECISION0_G_LOWER_KEYWORD",
+   "en": "Let’s have some fun already! C'mon!",
+   "pt": "Vamos logo nos divertir! Qual é!"
+  },
+  {
+   "id": "C081_VS_C011_DECISION1_S_UPPER_KEYWORD",
+   "en": "I wouldn't do that if I were you!",
+   "pt": "Eu não faria isso se fosse você!"
+  },
+  {
+   "id": "C081_VS_C011_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "This stage is for the Grand Couturier's elegant fashion show!",
+   "pt": "Este palco é para o desfile elegante da Grande Costureira!"
+  },
+  {
+   "id": "C081_VS_C011_DECISION1_S_LOWER_KEYWORD",
+   "en": "You have front row seats!",
+   "pt": "Você tem lugares na primeira fila!"
+  },
+  {
+   "id": "C081_VS_C011_DECISION1_P_UPPER_KEYWORD",
+   "en": "Can't you see the difference in our strength?!",
+   "pt": "Você não vê a diferença na nossa força?!"
+  },
+  {
+   "id": "C081_VS_C011_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "I'm no ordinary human, silly!\nI'm a superior being, chosen by the Life Fibers.",
+   "pt": "Não sou uma humana comum, bobinho!\nSou um ser superior, escolhida pelas Fibras de Vida."
+  },
+  {
+   "id": "C081_VS_C011_DECISION1_P_LOWER_KEYWORD",
+   "en": "You can't hope to beat me!",
+   "pt": "Você não pode ter esperanças de me vencer!"
+  },
+  {
+   "id": "C081_VS_C011_DECISION1_G_UPPER_KEYWORD",
+   "en": "When you think about it, humans are all worthless!",
+   "pt": "Pensando bem, os humanos não valem nada!"
+  },
+  {
+   "id": "C081_VS_C011_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "Uch, these humans! Such worthless beings!",
+   "pt": "Ugh, esses humanos! Seres tão inúteis!"
+  },
+  {
+   "id": "C081_VS_C011_DECISION1_G_LOWER_KEYWORD",
+   "en": "They should all just hurry up and die already!",
+   "pt": "Eles todos deviam se apressar e morrer logo!"
+  },
+  {
+   "id": "C081_VS_C011_DECISION2_S_UPPER_KEYWORD",
+   "en": "If you get too cocky, you're gonna get hurt!",
+   "pt": "Se ficar se achando muito, vai se machucar!"
+  },
+  {
+   "id": "C081_VS_C011_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "I'm the main act, you sillies.\nAnd you're just trash that makes me look good!",
+   "pt": "Eu sou a atração principal, seus bobinhos.\nE você é só um lixo que me faz parecer melhor!"
+  },
+  {
+   "id": "C081_VS_C011_DECISION2_S_LOWER_KEYWORD",
+   "en": "And where does trash go? In the dumpster!",
+   "pt": "E para onde vai o lixo? Pro lixão!"
+  },
+  {
+   "id": "C081_VS_C011_DECISION2_P_UPPER_KEYWORD",
+   "en": "Ugh, ugly, ugly, ugly!",
+   "pt": "Ugh, feio, feio, feio!"
+  },
+  {
+   "id": "C081_VS_C011_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "What's your problem?\nYou're weak and you still challenge me?",
+   "pt": "Qual é o seu problema?\nVocê é fraco e ainda me desafia?"
+  },
+  {
+   "id": "C081_VS_C011_DECISION2_P_LOWER_KEYWORD",
+   "en": "See? This is why I hate humans!",
+   "pt": "Viu? É por isso que eu odeio humanos!"
+  },
+  {
+   "id": "C081_VS_C011_DECISION2_G_UPPER_KEYWORD",
+   "en": "Silly! Now you know the difference between you and me! ",
+   "pt": "Bobinho! Agora você sabe a diferença entre mim e você! "
+  },
+  {
+   "id": "C081_VS_C011_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "That's what happens to dummies who defy the glorious will of the Life Fibers!",
+   "pt": "Isso é o que acontece com os idiotas que desafiam a vontade gloriosa das Fibras de Vida!"
+  },
+  {
+   "id": "C081_VS_C011_DECISION2_G_LOWER_KEYWORD",
+   "en": "I hope you regret it!",
+   "pt": "Espero que se arrependa!"
+  },
+  {
+   "id": "C081_VS_C012_DECISION0_S_UPPER_KEYWORD",
+   "en": "C'mon, then! Let's see what you got!",
+   "pt": "Qual é, então! Vamos ver o que você tem!"
+  },
+  {
+   "id": "C081_VS_C012_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "Don't you worry, I'm waaaay stronger than you.\nSo don't hold back, luv!",
+   "pt": "Não se preocupe, eu sou muuuuito mais forte que você.\nEntão não se segure, amor!"
+  },
+  {
+   "id": "C081_VS_C012_DECISION0_S_LOWER_KEYWORD",
+   "en": "C'mon, c'mon! Let's play! ",
+   "pt": "Qual é, qual é! Vamos brincar! "
+  },
+  {
+   "id": "C081_VS_C012_DECISION0_P_UPPER_KEYWORD",
+   "en": "Let’s have some fun already! C'mon!",
+   "pt": "Vamos logo nos divertir! Qual é!"
+  },
+  {
+   "id": "C081_VS_C012_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "Gimmie all you got and don't pull any punches, got it?",
+   "pt": "Mande tudo o que tem e não pegue leve, entendeu?"
+  },
+  {
+   "id": "C081_VS_C012_DECISION0_P_LOWER_KEYWORD",
+   "en": "I mean, you're gonna die, either way!",
+   "pt": "Digo, você vai morrer de qualquer jeito!"
+  },
+  {
+   "id": "C081_VS_C012_DECISION0_G_UPPER_KEYWORD",
+   "en": "I don't think you're giving me your all.",
+   "pt": "Não acho que você está dando o seu melhor."
+  },
+  {
+   "id": "C081_VS_C012_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "When you play, you gotta play hard. Otherwise life's no fun!",
+   "pt": "Quando for brincar, tem que brincar pra valer. Senão a vida não tem graça!"
+  },
+  {
+   "id": "C081_VS_C012_DECISION0_G_LOWER_KEYWORD",
+   "en": "Let’s have some fun already! C'mon!",
+   "pt": "Vamos logo nos divertir! Qual é!"
+  },
+  {
+   "id": "C081_VS_C012_DECISION1_S_UPPER_KEYWORD",
+   "en": "I wouldn't do that if I were you!",
+   "pt": "Eu não faria isso se fosse você!"
+  },
+  {
+   "id": "C081_VS_C012_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "This stage is for the Grand Couturier's elegant fashion show!",
+   "pt": "Este palco é para o desfile elegante da Grande Costureira!"
+  },
+  {
+   "id": "C081_VS_C012_DECISION1_S_LOWER_KEYWORD",
+   "en": "You have front row seats!",
+   "pt": "Você tem lugares na primeira fila!"
+  },
+  {
+   "id": "C081_VS_C012_DECISION1_P_UPPER_KEYWORD",
+   "en": "Can't you see the difference in our strength?!",
+   "pt": "Você não vê a diferença na nossa força?!"
+  },
+  {
+   "id": "C081_VS_C012_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "I'm no ordinary human, silly!\nI'm a superior being, chosen by the Life Fibers.",
+   "pt": "Não sou uma humana comum, bobinho!\nSou um ser superior, escolhida pelas Fibras de Vida."
+  },
+  {
+   "id": "C081_VS_C012_DECISION1_P_LOWER_KEYWORD",
+   "en": "You can't hope to beat me!",
+   "pt": "Você não pode ter esperanças de me vencer!"
+  },
+  {
+   "id": "C081_VS_C012_DECISION1_G_UPPER_KEYWORD",
+   "en": "When you think about it, humans are all worthless!",
+   "pt": "Pensando bem, os humanos não valem nada!"
+  },
+  {
+   "id": "C081_VS_C012_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "Uch, these humans! Such worthless beings!",
+   "pt": "Ugh, esses humanos! Seres tão inúteis!"
+  },
+  {
+   "id": "C081_VS_C012_DECISION1_G_LOWER_KEYWORD",
+   "en": "They should all just hurry up and die already!",
+   "pt": "Eles todos deviam se apressar e morrer logo!"
+  },
+  {
+   "id": "C081_VS_C012_DECISION2_S_UPPER_KEYWORD",
+   "en": "If you get too cocky, you're gonna get hurt!",
+   "pt": "Se ficar se achando muito, vai se machucar!"
+  },
+  {
+   "id": "C081_VS_C012_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "I'm the main act, you sillies.\nAnd you're just trash that makes me look good!",
+   "pt": "Eu sou a atração principal, seus bobinhos.\nE você é só um lixo que me faz parecer melhor!"
+  },
+  {
+   "id": "C081_VS_C012_DECISION2_S_LOWER_KEYWORD",
+   "en": "And where does trash go? In the dumpster!",
+   "pt": "E para onde vai o lixo? Pro lixão!"
+  },
+  {
+   "id": "C081_VS_C012_DECISION2_P_UPPER_KEYWORD",
+   "en": "Ugh, ugly, ugly, ugly!",
+   "pt": "Ugh, feio, feio, feio!"
+  },
+  {
+   "id": "C081_VS_C012_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "What's your problem? You're weak and you still challenge me?",
+   "pt": "Qual é o seu problema? Você é fraco e ainda me desafia?"
+  },
+  {
+   "id": "C081_VS_C012_DECISION2_P_LOWER_KEYWORD",
+   "en": "See? This is why I hate humans!",
+   "pt": "Viu? É por isso que eu odeio humanos!"
+  },
+  {
+   "id": "C081_VS_C012_DECISION2_G_UPPER_KEYWORD",
+   "en": "Silly! Now you know the difference between you and me! ",
+   "pt": "Bobinho! Agora você sabe a diferença entre mim e você! "
+  },
+  {
+   "id": "C081_VS_C012_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "That's what happens to dummies who defy the glorious will of the Life Fibers!",
+   "pt": "Isso é o que acontece com os idiotas que desafiam a vontade gloriosa das Fibras de Vida!"
+  },
+  {
+   "id": "C081_VS_C012_DECISION2_G_LOWER_KEYWORD",
+   "en": "I hope you regret it!",
+   "pt": "Espero que se arrependa!"
+  },
+  {
+   "id": "C081_VS_C021_DECISION0_S_UPPER_KEYWORD",
+   "en": "C'mon, then! Let's see what you got!",
+   "pt": "Qual é, então! Vamos ver o que você tem!"
+  },
+  {
+   "id": "C081_VS_C021_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "Don't you worry, I'm waaaay stronger than you.\nSo don't hold back, luv!",
+   "pt": "Não se preocupe, eu sou muuuuito mais forte que você.\nEntão não se segure, amor!"
+  },
+  {
+   "id": "C081_VS_C021_DECISION0_S_LOWER_KEYWORD",
+   "en": "C'mon, c'mon! Let's play! ",
+   "pt": "Qual é, qual é! Vamos brincar! "
+  },
+  {
+   "id": "C081_VS_C021_DECISION0_P_UPPER_KEYWORD",
+   "en": "Let’s have some fun already! C'mon!",
+   "pt": "Vamos logo nos divertir! Qual é!"
+  },
+  {
+   "id": "C081_VS_C021_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "Gimmie all you got and don't pull any punches, got it?",
+   "pt": "Mande tudo o que tem e não pegue leve, entendeu?"
+  },
+  {
+   "id": "C081_VS_C021_DECISION0_P_LOWER_KEYWORD",
+   "en": "I mean, you're gonna die, either way!",
+   "pt": "Digo, você vai morrer de qualquer jeito!"
+  },
+  {
+   "id": "C081_VS_C021_DECISION0_G_UPPER_KEYWORD",
+   "en": "I don't think you're giving me your all.",
+   "pt": "Não acho que você está dando o seu melhor."
+  },
+  {
+   "id": "C081_VS_C021_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "When you play, you gotta play hard. Otherwise life's no fun!",
+   "pt": "Quando for brincar, tem que brincar pra valer. Senão a vida não tem graça!"
+  },
+  {
+   "id": "C081_VS_C021_DECISION0_G_LOWER_KEYWORD",
+   "en": "Let’s have some fun already! C'mon!",
+   "pt": "Vamos logo nos divertir! Qual é!"
+  },
+  {
+   "id": "C081_VS_C021_DECISION1_S_UPPER_KEYWORD",
+   "en": "I wouldn't do that if I were you!",
+   "pt": "Eu não faria isso se fosse você!"
+  },
+  {
+   "id": "C081_VS_C021_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "This stage is for the Grand Couturier's elegant fashion show!",
+   "pt": "Este palco é para o desfile elegante da Grande Costureira!"
+  },
+  {
+   "id": "C081_VS_C021_DECISION1_S_LOWER_KEYWORD",
+   "en": "You have front row seats!",
+   "pt": "Você tem lugares na primeira fila!"
+  },
+  {
+   "id": "C081_VS_C021_DECISION1_P_UPPER_KEYWORD",
+   "en": "Can't you see the difference in our strength?!",
+   "pt": "Você não vê a diferença na nossa força?!"
+  },
+  {
+   "id": "C081_VS_C021_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "I'm no ordinary human, silly!\nI'm a superior being, chosen by the Life Fibers.",
+   "pt": "Não sou uma humana comum, bobinho!\nSou um ser superior, escolhida pelas Fibras de Vida."
+  },
+  {
+   "id": "C081_VS_C021_DECISION1_P_LOWER_KEYWORD",
+   "en": "You can't hope to beat me!",
+   "pt": "Você não pode ter esperanças de me vencer!"
+  },
+  {
+   "id": "C081_VS_C021_DECISION1_G_UPPER_KEYWORD",
+   "en": "When you think about it, humans are all worthless!",
+   "pt": "Pensando bem, os humanos não valem nada!"
+  },
+  {
+   "id": "C081_VS_C021_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "Uch, these humans! Such worthless beings!",
+   "pt": "Ugh, esses humanos! Seres tão inúteis!"
+  },
+  {
+   "id": "C081_VS_C021_DECISION1_G_LOWER_KEYWORD",
+   "en": "They should all just hurry up and die already!",
+   "pt": "Eles todos deviam se apressar e morrer logo!"
+  },
+  {
+   "id": "C081_VS_C021_DECISION2_S_UPPER_KEYWORD",
+   "en": "If you get too cocky, you're gonna get hurt!",
+   "pt": "Se ficar se achando muito, vai se machucar!"
+  },
+  {
+   "id": "C081_VS_C021_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "I'm the main act, you sillies.\nAnd you're just trash that makes me look good!",
+   "pt": "Eu sou a atração principal, seus bobinhos.\nE você é só um lixo que me faz parecer melhor!"
+  },
+  {
+   "id": "C081_VS_C021_DECISION2_S_LOWER_KEYWORD",
+   "en": "And where does trash go? In the dumpster!",
+   "pt": "E para onde vai o lixo? Pro lixão!"
+  },
+  {
+   "id": "C081_VS_C021_DECISION2_P_UPPER_KEYWORD",
+   "en": "Ugh, ugly, ugly, ugly!",
+   "pt": "Ugh, feio, feio, feio!"
+  },
+  {
+   "id": "C081_VS_C021_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "What's your problem? You're weak and you still challenge me?",
+   "pt": "Qual é o seu problema? Você é fraco e ainda me desafia?"
+  },
+  {
+   "id": "C081_VS_C021_DECISION2_P_LOWER_KEYWORD",
+   "en": "See? This is why I hate humans!",
+   "pt": "Viu? É por isso que eu odeio humanos!"
+  },
+  {
+   "id": "C081_VS_C021_DECISION2_G_UPPER_KEYWORD",
+   "en": "Silly! Now you know the difference between you and me! ",
+   "pt": "Bobinho! Agora você sabe a diferença entre mim e você! "
+  },
+  {
+   "id": "C081_VS_C021_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "That's what happens to dummies who defy the glorious will of the Life Fibers!",
+   "pt": "Isso é o que acontece com os idiotas que desafiam a vontade gloriosa das Fibras de Vida!"
+  },
+  {
+   "id": "C081_VS_C021_DECISION2_G_LOWER_KEYWORD",
+   "en": "I hope you regret it!",
+   "pt": "Espero que se arrependa!"
+  },
+  {
+   "id": "C081_VS_C022_DECISION0_S_UPPER_KEYWORD",
+   "en": "C'mon, then! Let's see what you got!",
+   "pt": "Qual é, então! Vamos ver o que você tem!"
+  },
+  {
+   "id": "C081_VS_C022_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "Don't you worry, I'm waaaay stronger than you.\nSo don't hold back, luv!",
+   "pt": "Não se preocupe, eu sou muuuuito mais forte que você.\nEntão não se segure, amor!"
+  },
+  {
+   "id": "C081_VS_C022_DECISION0_S_LOWER_KEYWORD",
+   "en": "C'mon, c'mon! Let's play! ",
+   "pt": "Qual é, qual é! Vamos brincar! "
+  },
+  {
+   "id": "C081_VS_C022_DECISION0_P_UPPER_KEYWORD",
+   "en": "Let’s have some fun already! C'mon!",
+   "pt": "Vamos logo nos divertir! Qual é!"
+  },
+  {
+   "id": "C081_VS_C022_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "Gimmie all you got and don't pull any punches, got it?",
+   "pt": "Mande tudo o que tem e não pegue leve, entendeu?"
+  },
+  {
+   "id": "C081_VS_C022_DECISION0_P_LOWER_KEYWORD",
+   "en": "I mean, you're gonna die, either way!",
+   "pt": "Digo, você vai morrer de qualquer jeito!"
+  },
+  {
+   "id": "C081_VS_C022_DECISION0_G_UPPER_KEYWORD",
+   "en": "I don't think you're giving me your all.",
+   "pt": "Não acho que você está dando o seu melhor."
+  },
+  {
+   "id": "C081_VS_C022_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "When you play, you gotta play hard. Otherwise life's no fun!",
+   "pt": "Quando for brincar, tem que brincar pra valer. Senão a vida não tem graça!"
+  },
+  {
+   "id": "C081_VS_C022_DECISION0_G_LOWER_KEYWORD",
+   "en": "Let’s have some fun already! C'mon!",
+   "pt": "Vamos logo nos divertir! Qual é!"
+  },
+  {
+   "id": "C081_VS_C022_DECISION1_S_UPPER_KEYWORD",
+   "en": "I wouldn't do that if I were you!",
+   "pt": "Eu não faria isso se fosse você!"
+  },
+  {
+   "id": "C081_VS_C022_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "This stage is for the Grand Couturier's elegant fashion show!",
+   "pt": "Este palco é para o desfile elegante da Grande Costureira!"
+  },
+  {
+   "id": "C081_VS_C022_DECISION1_S_LOWER_KEYWORD",
+   "en": "You have front row seats!",
+   "pt": "Você tem lugares na primeira fila!"
+  },
+  {
+   "id": "C081_VS_C022_DECISION1_P_UPPER_KEYWORD",
+   "en": "Can't you see the difference in our strength?!",
+   "pt": "Você não vê a diferença na nossa força?!"
+  },
+  {
+   "id": "C081_VS_C022_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "I'm no ordinary human, silly!\nI'm a superior being, chosen by the Life Fibers.",
+   "pt": "Não sou uma humana comum, bobinho!\nSou um ser superior, escolhida pelas Fibras de Vida."
+  },
+  {
+   "id": "C081_VS_C022_DECISION1_P_LOWER_KEYWORD",
+   "en": "You can't hope to beat me!",
+   "pt": "Você não pode ter esperanças de me vencer!"
+  },
+  {
+   "id": "C081_VS_C022_DECISION1_G_UPPER_KEYWORD",
+   "en": "When you think about it, humans are all worthless!",
+   "pt": "Pensando bem, os humanos não valem nada!"
+  },
+  {
+   "id": "C081_VS_C022_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "Uch, these humans! Such worthless beings!",
+   "pt": "Ugh, esses humanos! Seres tão inúteis!"
+  },
+  {
+   "id": "C081_VS_C022_DECISION1_G_LOWER_KEYWORD",
+   "en": "They should all just hurry up and die already!",
+   "pt": "Eles todos deviam se apressar e morrer logo!"
+  },
+  {
+   "id": "C081_VS_C022_DECISION2_S_UPPER_KEYWORD",
+   "en": "If you get too cocky, you're gonna get hurt!",
+   "pt": "Se ficar se achando muito, vai se machucar!"
+  },
+  {
+   "id": "C081_VS_C022_DECISION2_S_MIDDLE_KEYWORD",
+   "en": "I'm the main act, you sillies.\nAnd you're just trash that makes me look good!",
+   "pt": "Eu sou a atração principal, seus bobinhos.\nE você é só um lixo que me faz parecer melhor!"
+  },
+  {
+   "id": "C081_VS_C022_DECISION2_S_LOWER_KEYWORD",
+   "en": "And where does trash go? In the dumpster!",
+   "pt": "E para onde vai o lixo? Pro lixão!"
+  },
+  {
+   "id": "C081_VS_C022_DECISION2_P_UPPER_KEYWORD",
+   "en": "Ugh, ugly, ugly, ugly!",
+   "pt": "Ugh, feio, feio, feio!"
+  },
+  {
+   "id": "C081_VS_C022_DECISION2_P_MIDDLE_KEYWORD",
+   "en": "What's your problem? You're weak and you still challenge me?",
+   "pt": "Qual é o seu problema? Você é fraco e ainda me desafia?"
+  },
+  {
+   "id": "C081_VS_C022_DECISION2_P_LOWER_KEYWORD",
+   "en": "See? This is why I hate humans!",
+   "pt": "Viu? É por isso que eu odeio humanos!"
+  },
+  {
+   "id": "C081_VS_C022_DECISION2_G_UPPER_KEYWORD",
+   "en": "Silly! Now you know the difference between you and me! ",
+   "pt": "Bobinho! Agora você sabe a diferença entre mim e você! "
+  },
+  {
+   "id": "C081_VS_C022_DECISION2_G_MIDDLE_KEYWORD",
+   "en": "That's what happens to dummies who defy the glorious will of the Life Fibers!",
+   "pt": "Isso é o que acontece com os idiotas que desafiam a vontade gloriosa das Fibras de Vida!"
+  },
+  {
+   "id": "C081_VS_C022_DECISION2_G_LOWER_KEYWORD",
+   "en": "I hope you regret it!",
+   "pt": "Espero que se arrependa!"
+  },
+  {
+   "id": "C081_VS_C031_DECISION0_S_UPPER_KEYWORD",
+   "en": "C'mon, then! Let's see what you got!",
+   "pt": "Qual é, então! Vamos ver o que você tem!"
+  },
+  {
+   "id": "C081_VS_C031_DECISION0_S_MIDDLE_KEYWORD",
+   "en": "Don't you worry, I'm waaaay stronger than you.\nSo don't hold back, luv!",
+   "pt": "Não se preocupe, eu sou muuuuito mais forte que você.\nEntão não se segure, amor!"
+  },
+  {
+   "id": "C081_VS_C031_DECISION0_S_LOWER_KEYWORD",
+   "en": "C'mon, c'mon! Let's play! ",
+   "pt": "Qual é, qual é! Vamos brincar! "
+  },
+  {
+   "id": "C081_VS_C031_DECISION0_P_UPPER_KEYWORD",
+   "en": "Let’s have some fun already! C'mon!",
+   "pt": "Vamos logo nos divertir! Qual é!"
+  },
+  {
+   "id": "C081_VS_C031_DECISION0_P_MIDDLE_KEYWORD",
+   "en": "Gimmie all you got and don't pull any punches, got it?",
+   "pt": "Mande tudo o que tem e não pegue leve, entendeu?"
+  },
+  {
+   "id": "C081_VS_C031_DECISION0_P_LOWER_KEYWORD",
+   "en": "I mean, you're gonna die, either way!",
+   "pt": "Digo, você vai morrer de qualquer jeito!"
+  },
+  {
+   "id": "C081_VS_C031_DECISION0_G_UPPER_KEYWORD",
+   "en": "I don't think you're giving me your all.",
+   "pt": "Não acho que você está dando o seu melhor."
+  },
+  {
+   "id": "C081_VS_C031_DECISION0_G_MIDDLE_KEYWORD",
+   "en": "When you play, you gotta play hard. Otherwise life's no fun!",
+   "pt": "Quando for brincar, tem que brincar pra valer. Senão a vida não tem graça!"
+  },
+  {
+   "id": "C081_VS_C031_DECISION0_G_LOWER_KEYWORD",
+   "en": "Let’s have some fun already! C'mon!",
+   "pt": "Vamos logo nos divertir! Qual é!"
+  },
+  {
+   "id": "C081_VS_C031_DECISION1_S_UPPER_KEYWORD",
+   "en": "I wouldn't do that if I were you!",
+   "pt": "Eu não faria isso se fosse você!"
+  },
+  {
+   "id": "C081_VS_C031_DECISION1_S_MIDDLE_KEYWORD",
+   "en": "This stage is for the Grand Couturier's elegant fashion show!",
+   "pt": "Este palco é para o desfile elegante da Grande Costureira!"
+  },
+  {
+   "id": "C081_VS_C031_DECISION1_S_LOWER_KEYWORD",
+   "en": "You have front row seats!",
+   "pt": "Você tem lugares na primeira fila!"
+  },
+  {
+   "id": "C081_VS_C031_DECISION1_P_UPPER_KEYWORD",
+   "en": "Can't you see the difference in our strength?!",
+   "pt": "Você não vê a diferença na nossa força?!"
+  },
+  {
+   "id": "C081_VS_C031_DECISION1_P_MIDDLE_KEYWORD",
+   "en": "I'm no ordinary human, silly!\nI'm a superior being, chosen by the Life Fibers.",
+   "pt": "Não sou uma humana comum, bobinho!\nSou um ser superior, escolhida pelas Fibras de Vida."
+  },
+  {
+   "id": "C081_VS_C031_DECISION1_P_LOWER_KEYWORD",
+   "en": "You can't hope to beat me!",
+   "pt": "Você não pode ter esperanças de me vencer!"
+  },
+  {
+   "id": "C081_VS_C031_DECISION1_G_UPPER_KEYWORD",
+   "en": "When you think about it, humans are all worthless!",
+   "pt": "Pensando bem, os humanos não valem nada!"
+  },
+  {
+   "id": "C081_VS_C031_DECISION1_G_MIDDLE_KEYWORD",
+   "en": "Uch, these humans! Such worthless beings!",
+   "pt": "Ugh, esses humanos! Seres tão inúteis!"
+  }
+ ]
+}

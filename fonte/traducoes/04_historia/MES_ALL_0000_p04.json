@@ -1,0 +1,1008 @@
+{
+ "origem": "KlkStory/STY_MS_0000/MES_ALL_0000",
+ "conteudo": "Modo Historia - dialogos",
+ "parte": "4/8",
+ "instrucoes": "Traduza o campo 'en' para portugues do Brasil e escreva o resultado em 'pt'. Nao altere 'id'. Mantenha intactos os codigos entre chaves ({CA}, {LA}, {BR}, {JU}, {SP}, {GD}, {LS}, {L1}, {R1}, setas), os marcadores de formato (%d, %l, %ls, %hs) e as quebras de linha \\n. Se uma linha nao precisar de traducao, deixe 'pt' vazio.",
+ "linhas": [
+  {
+   "id": "STS_R22A_674_C",
+   "en": "She's unconscious.\nBut she continues to fight on pure instinct.",
+   "pt": "Ela está inconsciente.\nMas continua lutando por puro instinto."
+  },
+  {
+   "id": "STS_R22A_675_A",
+   "en": "She ain't even awake? Man, that chick's unbelievable...",
+   "pt": "Ela nem tá acordada? Cara, essa garota é inacreditável..."
+  },
+  {
+   "id": "STS_R22A_675_B",
+   "en": "Lady Satsuki!",
+   "pt": "Senhorita Satsuki!"
+  },
+  {
+   "id": "STS_R22A_676_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_R22A_678_A",
+   "en": "What's going on, Inu?!\nIt's your job to explain stuff like this, so hop to it!",
+   "pt": "O que tá rolando, Inu?!\nÉ o seu trabalho explicar essas paradas, então desembucha!"
+  },
+  {
+   "id": "STS_R22A_678_B",
+   "en": "What's going on, Inu?!\nIt's your job to explain stuff like this, so hop to it!",
+   "pt": "O que tá rolando, Inu?!\nÉ o seu trabalho explicar essas paradas, então desembucha!"
+  },
+  {
+   "id": "STS_R22A_679_A",
+   "en": "I don't have enough data to be sure, but I do have a theory. ",
+   "pt": "Eu não tenho dados suficientes para ter certeza, mas tenho uma teoria."
+  },
+  {
+   "id": "STS_R22A_679_B",
+   "en": "That said, it's only sound as long as what Ragyo said is true.",
+   "pt": "Dito isso, ela só faz sentido desde que o que a Ragyo disse seja verdade."
+  },
+  {
+   "id": "STS_R22A_679_C",
+   "en": "Then would you tell us already!\nLady Satsuki's in trouble!",
+   "pt": "Então conta logo pra gente!\nA senhorita Satsuki tá em apuros!"
+  },
+  {
+   "id": "STS_R22A_679_D",
+   "en": "Then would you tell us already!\nLady Satsuki's in trouble!",
+   "pt": "Então conta logo pra gente!\nA senhorita Satsuki tá em apuros!"
+  },
+  {
+   "id": "STS_R22A_680_A",
+   "en": "If Lady Satsuki's delusions created this world,\nthen she can't be defeated by the Primordial Life Fiber.",
+   "pt": "Se os delírios da senhorita Satsuki criaram este mundo,\nentão ela não pode ser derrotada pela Fibra de Vida Primordial."
+  },
+  {
+   "id": "STS_R22A_680_B",
+   "en": "That would be self-destructive.",
+   "pt": "Isso seria autodestrutivo."
+  },
+  {
+   "id": "STS_R22A_680_C",
+   "en": "But if this is her dream, then why can't she just destroy it?",
+   "pt": "Mas se este é o sonho dela, então por que ela não pode simplesmente destruí-lo?"
+  },
+  {
+   "id": "STS_R22A_680_D",
+   "en": "It's possible the Primordial Life Fiber is absorbing Life\nFibers from other dimensions.",
+   "pt": "É possível que a Fibra de Vida Primordial esteja absorvendo Fibras\nde Vida de outras dimensões."
+  },
+  {
+   "id": "STS_R22A_681_A",
+   "en": "But when all Life Fibers past, present and future have been absorbed,\nthis world will reach critical mass.",
+   "pt": "Mas quando todas as Fibras de Vida do passado, presente e futuro forem absorvidas,\neste mundo alcançará massa crítica."
+  },
+  {
+   "id": "STS_R22A_681_B",
+   "en": "But when all Life Fibers past, present and future have been absorbed,\nthis world will reach critical mass.",
+   "pt": "Mas quando todas as Fibras de Vida do passado, presente e futuro forem absorvidas,\neste mundo alcançará massa crítica."
+  },
+  {
+   "id": "STS_R22A_681_C",
+   "en": "What'll happen then?! Will Lady Satsuki be okay?!",
+   "pt": "O que vai acontecer então?! A senhorita Satsuki vai ficar bem?!"
+  },
+  {
+   "id": "STS_R22A_682_A",
+   "en": "If she doesn't wake up... No, scratch that.\nThe moment she eventually wakes up...",
+   "pt": "Se ela não acordar... Não, esqueça.\nNo momento em que ela eventualmente acordar..."
+  },
+  {
+   "id": "STS_R22A_682_B",
+   "en": "If she doesn't wake up... No, scratch that.\nThe moment she eventually wakes up...",
+   "pt": "Se ela não acordar... Não, esqueça.\nNo momento em que ela eventualmente acordar..."
+  },
+  {
+   "id": "STS_R22A_683_A",
+   "en": "...this world and everything in it will end.",
+   "pt": "...este mundo e tudo o que há nele chegarão ao fim."
+  },
+  {
+   "id": "STS_R22A_684_A",
+   "en": "Look around. Her world is already starting to break down.",
+   "pt": "Olhem ao redor. O mundo dela já está começando a desmoronar."
+  },
+  {
+   "id": "STS_R22A_684_B",
+   "en": "What about Lady Satsuki's ambitions for humanity?!\nAre you saying they will disappear with her dream, too?!",
+   "pt": "E os objetivos da senhorita Satsuki para a humanidade?!\nEstá dizendo que vão desaparecer com o sonho dela também?!"
+  },
+  {
+   "id": "STS_R22A_684_C",
+   "en": "What about Lady Satsuki's ambitions for humanity?!\nAre you saying they will disappear with her dream, too?!",
+   "pt": "E os objetivos da senhorita Satsuki para a humanidade?!\nEstá dizendo que vão desaparecer com o sonho dela também?!"
+  },
+  {
+   "id": "STS_R22A_684_D",
+   "en": "But if this is her dream, shouldn't everything just go back the way it was?!",
+   "pt": "Mas se este é o sonho dela, tudo não deveria simplesmente voltar a ser como era?!"
+  },
+  {
+   "id": "STS_R22A_684_E",
+   "en": "But if this is her dream, shouldn't everything just go back the way it was?!",
+   "pt": "Mas se este é o sonho dela, tudo não deveria simplesmente voltar a ser como era?!"
+  },
+  {
+   "id": "STS_R22A_685_A",
+   "en": "I don't know. This is her delusion, after all.\nThere's a chance everything that's happening is how she wants it.",
+   "pt": "Eu não sei. Afinal, é o delírio dela.\nHá uma chance de que tudo o que está acontecendo seja exatamente como ela quer."
+  },
+  {
+   "id": "STS_R22A_685_B",
+   "en": "I don't know. This is her delusion, after all.\nThere's a chance everything that's happening is how she wants it.",
+   "pt": "Eu não sei. Afinal, é o delírio dela.\nHá uma chance de que tudo o que está acontecendo seja exatamente como ela quer."
+  },
+  {
+   "id": "STS_R22A_685_C",
+   "en": "Which means all we can do is sit back and watch this world destroy itself.",
+   "pt": "O que significa que tudo o que podemos fazer é sentar e assistir este mundo se destruir."
+  },
+  {
+   "id": "STS_R22A_686_A",
+   "en": "What else can we do? We don't have our Goku Uniforms...",
+   "pt": "O que mais podemos fazer? Não temos nossos Uniformes Goku..."
+  },
+  {
+   "id": "STS_R22A_687_A",
+   "en": "Goddammit!",
+   "pt": "Porra!"
+  },
+  {
+   "id": "STS_R22A_688_A",
+   "en": "You're all a bunch of dumbasses! ",
+   "pt": "Vocês são todos um bando de idiotas!"
+  },
+  {
+   "id": "STS_R22A_688_B",
+   "en": "So what if this world is Satsuki's dream, that doesn't change a damn thing!",
+   "pt": "E daí se esse mundo é o sonho da Satsuki, isso não muda porra nenhuma!"
+  },
+  {
+   "id": "STS_R22A_688_C",
+   "en": "The whole point of you Elites was to stop Ragyo\nand get everyone out from under her bullshit! ",
+   "pt": "O objetivo inteiro de vocês, Elites, era impedir a Ragyo\ne tirar todo mundo daquelas merdas dela!"
+  },
+  {
+   "id": "STS_R22A_688_D",
+   "en": "Hell, Satsuki's still out there, trying to make that happen!",
+   "pt": "Caralho, a Satsuki ainda tá lá, tentando fazer isso acontecer!"
+  },
+  {
+   "id": "STS_R22A_689_A",
+   "en": "And now you're all... oh no, what do we do now?\nLike a bunch of pussies!",
+   "pt": "E agora vocês estão todos... ah não, o que a gente faz agora?\nComo um bando de covardes de merda!"
+  },
+  {
+   "id": "STS_R22A_689_B",
+   "en": "Well, go ahead and keep talkin' shit.\nI'm not gonna stand around. ",
+   "pt": "Bom, continuem falando merda aí.\nEu não vou ficar aqui parada."
+  },
+  {
+   "id": "STS_R22A_689_C",
+   "en": "I'm gonna go smack her in the face and wake her ass up!",
+   "pt": "Eu vou meter a porrada na cara dela e acordar aquela vadia!"
+  },
+  {
+   "id": "STS_R22A_690_A",
+   "en": "That's all good, but do you even know what you're up against?\nLady Satsuki is wearing Junketsu Shinzui. It's no joke.",
+   "pt": "Tudo bem, mas você sabe contra o que está lutando?\nA senhorita Satsuki está vestindo Junketsu Shinzui. Não é brincadeira."
+  },
+  {
+   "id": "STS_R22A_690_B",
+   "en": "That's all good, but do you even know what you're up against?\nLady Satsuki is wearing Junketsu Shinzui. It's no joke.",
+   "pt": "Tudo bem, mas você sabe contra o que está lutando?\nA senhorita Satsuki está vestindo Junketsu Shinzui. Não é brincadeira."
+  },
+  {
+   "id": "STS_R22A_690_C",
+   "en": "It's way more powerful than your Senketsu.",
+   "pt": "Ele é muito mais poderoso que o seu Senketsu."
+  },
+  {
+   "id": "STS_R22A_691_A",
+   "en": "Do I look like I give a damn?!",
+   "pt": "Eu tenho cara de quem se importa, caralho?!"
+  },
+  {
+   "id": "STS_R22A_692_A",
+   "en": "If you stop and think for a second… instead of being such a hothead…\nyou'll see how futile this is.",
+   "pt": "Se você parar e pensar por um segundo… em vez de ser tão esquentada…\nvocê verá o quão inútil isso é."
+  },
+  {
+   "id": "STS_R22A_692_B",
+   "en": "Lady Satsuki will overpower you.\nNo one can stop her now.",
+   "pt": "A senhorita Satsuki irá dominar você.\nNinguém pode pará-la agora."
+  },
+  {
+   "id": "STS_R22A_693_A",
+   "en": "Oh, whatever!\nDidn't you want me to save her? Or was that all bullshit, too!",
+   "pt": "Ah, tanto faz!\nVocês não queriam que eu a salvasse? Ou isso tudo era merda também?!"
+  },
+  {
+   "id": "STS_R22A_693_B",
+   "en": "Oh, whatever!\nDidn't you want me to save her? Or was that all bullshit, too!",
+   "pt": "Ah, tanto faz!\nVocês não queriam que eu a salvasse? Ou isso tudo era merda também?!"
+  },
+  {
+   "id": "STS_R22A_693_C",
+   "en": "No, but--",
+   "pt": "Não, mas--"
+  },
+  {
+   "id": "STS_R22A_693_D",
+   "en": "No more buts or butterscotch!",
+   "pt": "Sem essa de mas ou de marshmallow!"
+  },
+  {
+   "id": "STS_R22A_694_A",
+   "en": "I like butterscotch!\nAnd I bet Lady Satsuki likes butterscotch, too!",
+   "pt": "Eu amo marshmallow!\nE aposto que a senhorita Satsuki também adora marshmallow!"
+  },
+  {
+   "id": "STS_R22A_695_A",
+   "en": "I like butterscotch!\nAnd I bet Lady Satsuki likes butterscotch, too!",
+   "pt": "Eu amo marshmallow!\nE aposto que a senhorita Satsuki também adora marshmallow!"
+  },
+  {
+   "id": "STS_R22A_695_B",
+   "en": "I like butterscotch!\nAnd I bet Lady Satsuki likes butterscotch, too!",
+   "pt": "Eu amo marshmallow!\nE aposto que a senhorita Satsuki também adora marshmallow!"
+  },
+  {
+   "id": "STS_R22A_696_A",
+   "en": "But real butterscotch is way better than imaginary butterscotch!\nWay better!",
+   "pt": "Mas marshmallow de verdade é muito melhor que marshmallow imaginário!\nMuito melhor!"
+  },
+  {
+   "id": "STS_R22A_697_A",
+   "en": "But real butterscotch is way better than imaginary butterscotch!\nWay better!",
+   "pt": "Mas marshmallow de verdade é muito melhor que marshmallow imaginário!\nMuito melhor!"
+  },
+  {
+   "id": "STS_R22A_698_A",
+   "en": "A smart person once said...",
+   "pt": "Uma pessoa inteligente disse uma vez..."
+  },
+  {
+   "id": "STS_R22A_699_A",
+   "en": "When life gives you lemons, don't make lemonade.\nEat butterscotch!",
+   "pt": "Quando a vida te der limões, não faça uma limonada.\nComa marshmallow!"
+  },
+  {
+   "id": "STS_R22A_700_A",
+   "en": "When life gives you lemons, don't make lemonade.\nEat butterscotch!",
+   "pt": "Quando a vida te der limões, não faça uma limonada.\nComa marshmallow!"
+  },
+  {
+   "id": "STS_R22A_701_A",
+   "en": "When life gives you lemons, don't make lemonade.\nEat butterscotch!",
+   "pt": "Quando a vida te der limões, não faça uma limonada.\nComa marshmallow!"
+  },
+  {
+   "id": "STS_R22A_702_A",
+   "en": "Riiiiiiight, Ryuko?!",
+   "pt": "Ceeeeeerto, Ryuko?!"
+  },
+  {
+   "id": "STS_R22A_703_A",
+   "en": "Um... I guess?",
+   "pt": "Hum... Eu acho que sim?"
+  },
+  {
+   "id": "STS_R22A_704_A",
+   "en": "I take back what I said. ",
+   "pt": "Eu retiro o que eu disse."
+  },
+  {
+   "id": "STS_R22A_704_B",
+   "en": "That wasn't very Elite Four of me at all.\nWe can't just sit back and watch the world end.",
+   "pt": "Isso não foi nada digno de um dos Quatro Elites da minha parte.\nNão podemos simplesmente sentar e assistir o mundo acabar."
+  },
+  {
+   "id": "STS_R22A_704_C",
+   "en": "That wasn't very Elite Four of me at all.\nWe can't just sit back and watch the world end.",
+   "pt": "Isso não foi nada digno de um dos Quatro Elites da minha parte.\nNão podemos simplesmente sentar e assistir o mundo acabar."
+  },
+  {
+   "id": "STS_R22A_704_D",
+   "en": "I was just thinking… the Life Fibers that are responsible for\ncreating Lady Satsuki's delusions are woven into Junketsu Shinzui. ",
+   "pt": "Eu estava só pensando… as Fibras de Vida que são responsáveis por\ncriar os delírios da senhorita Satsuki estão tecidas no Junketsu Shinzui."
+  },
+  {
+   "id": "STS_R22A_704_E",
+   "en": "I was just thinking… the Life Fibers that are responsible for\ncreating Lady Satsuki's delusions are woven into Junketsu Shinzui. ",
+   "pt": "Eu estava só pensando… as Fibras de Vida que são responsáveis por\ncriar os delírios da senhorita Satsuki estão tecidas no Junketsu Shinzui."
+  },
+  {
+   "id": "STS_R22A_704_F",
+   "en": "If we can remove it, we might be able to wake her up.",
+   "pt": "Se nós conseguirmos removê-lo, talvez possamos acordá-la."
+  },
+  {
+   "id": "STS_R22A_705_A",
+   "en": "Awww yeah!\nNow we got a plan! C'mon, let's rip it off her!",
+   "pt": "Aí sim!\nAgora a gente tem um plano! Vamos lá arrancar isso dela!"
+  },
+  {
+   "id": "STS_R22A_705_B",
+   "en": "Right. Our mission is to keep Lady Satsuki busy.",
+   "pt": "Certo. Nossa missão é manter a senhorita Satsuki ocupada."
+  },
+  {
+   "id": "STS_R22A_706_A",
+   "en": "We're coming, Satsuki!",
+   "pt": "Estamos indo, Satsuki!"
+  },
+  {
+   "id": "STS_R22A_707_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_R22A_721_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_R22A_722_A",
+   "en": "I get it.",
+   "pt": "Eu entendi."
+  },
+  {
+   "id": "STS_R22A_723_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_R22A_724_A",
+   "en": "I know what I gotta do.",
+   "pt": "Eu sei o que tenho que fazer."
+  },
+  {
+   "id": "STS_R22A_725_A",
+   "en": "Ryuko... it's good you want to keep your word and save Satsuki.\nBut trying to take her on now is unbelievably reckless.",
+   "pt": "Ryuko... é bom que você queira manter sua palavra e salvar Satsuki.\nMas tentar enfrentá-la agora é incrivelmente imprudente."
+  },
+  {
+   "id": "STS_R22A_725_B",
+   "en": "Ryuko... it's good you want to keep your word and save Satsuki.\nBut trying to take her on now is unbelievably reckless.",
+   "pt": "Ryuko... é bom que você queira manter sua palavra e salvar Satsuki.\nMas tentar enfrentá-la agora é incrivelmente imprudente."
+  },
+  {
+   "id": "STS_R22A_726_A",
+   "en": "I know.\nBut with them all goin' balls out, we might have the edge we need.",
+   "pt": "Eu sei.\nMas com eles lutando pra valer, talvez tenhamos a vantagem que precisamos."
+  },
+  {
+   "id": "STS_R22A_726_B",
+   "en": "What do you mean? What edge?",
+   "pt": "O que você quer dizer? Qual vantagem?"
+  },
+  {
+   "id": "STS_R22A_726_C",
+   "en": "Senketsu... I got a batshit crazy idea.",
+   "pt": "Senketsu... Eu tive uma ideia louca pra caralho."
+  },
+  {
+   "id": "STS_R22A_727_A",
+   "en": "Don't you always?",
+   "pt": "E você não tem sempre?"
+  },
+  {
+   "id": "STS_R22A_727_B",
+   "en": "You know it!\nAnyway, do you think you can you do what it's doing?",
+   "pt": "Você sabe disso!\nEnfim, você acha que consegue fazer o mesmo que ela tá fazendo?"
+  },
+  {
+   "id": "STS_R22A_728_A",
+   "en": "I don't know how it's screwing with time. ",
+   "pt": "Eu não sei como ela está zoando com o tempo."
+  },
+  {
+   "id": "STS_R22A_728_B",
+   "en": "All I know is that it's gobbling up every Life Fiber ever.\nSo I was thinking, maybe we can, too!",
+   "pt": "Tudo o que eu sei é que ela está engolindo todas as Fibras de Vida que existem.\nEntão eu tava pensando, talvez a gente possa também!"
+  },
+  {
+   "id": "STS_R22A_728_C",
+   "en": "All I know is that it's gobbling up every Life Fiber ever.\nSo I was thinking, maybe we can, too!",
+   "pt": "Tudo o que eu sei é que ela está engolindo todas as Fibras de Vida que existem.\nEntão eu tava pensando, talvez a gente possa também!"
+  },
+  {
+   "id": "STS_R22A_729_A",
+   "en": "There's nothing the Primordial Life Fiber can do that you and me can't.\nNothing.",
+   "pt": "Não tem nada que a Fibra de Vida Primordial consiga fazer que você e eu não possamos.\nNada."
+  },
+  {
+   "id": "STS_R22A_730_A",
+   "en": "I say we go and grab some Life Fibers of our own.\nWhaddya think?",
+   "pt": "Eu digo pra gente ir lá pegar umas Fibras de Vida pra nós também.\nO que cê acha?"
+  },
+  {
+   "id": "STS_R22A_730_B",
+   "en": "Fascinating. Let's give it a try!",
+   "pt": "Fascinante. Vamos tentar!"
+  },
+  {
+   "id": "STS_R22A_731_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_R22A_741_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_R22A_742A",
+   "en": "Senketsu Kisaragi!",
+   "pt": "Senketsu Kisaragi!"
+  },
+  {
+   "id": "STS_R22A_743_A",
+   "en": "Whoa....\nTheir power is on the same level as Junketsu Shinzui's!",
+   "pt": "Nossa....\nO poder deles está no mesmo nível que o de Junketsu Shinzui!"
+  },
+  {
+   "id": "STS_R22A_743_B",
+   "en": "Whoa....\nTheir power is on the same level as Junketsu Shinzui's!",
+   "pt": "Nossa....\nO poder deles está no mesmo nível que o de Junketsu Shinzui!"
+  },
+  {
+   "id": "STS_R22A_744_A",
+   "en": "I guess this future can happen, too!",
+   "pt": "Acho que esse futuro também pode acontecer!"
+  },
+  {
+   "id": "STS_R22A_745_A",
+   "en": "Watch it! Get outta the way!",
+   "pt": "Cuidado! Saia do caminho!"
+  },
+  {
+   "id": "STS_R22A_746_A",
+   "en": "Don't you disrespect me, new girl or I'll-- !\nOh, never mind. Just... save Lady Satsuki.",
+   "pt": "Não me desrespeite, novata ou eu vou-- !\nAh, esquece. Apenas... salve a senhorita Satsuki."
+  },
+  {
+   "id": "STS_R22A_746_B",
+   "en": "Don't you disrespect me, new girl or I'll-- !\nOh, never mind. Just... save Lady Satsuki.",
+   "pt": "Não me desrespeite, novata ou eu vou-- !\nAh, esquece. Apenas... salve a senhorita Satsuki."
+  },
+  {
+   "id": "STS_R22A_747_A",
+   "en": "Based on the data, that's the best option.",
+   "pt": "Com base nos dados, essa é a melhor opção."
+  },
+  {
+   "id": "STS_R22A_747_B",
+   "en": "Matoi. I am giving you the honor of awakening Lady Satsuki.",
+   "pt": "Matoi. Estou lhe dando a honra de despertar a senhorita Satsuki."
+  },
+  {
+   "id": "STS_R22A_748_A",
+   "en": "Lady Satsuki's all yours Matoi.\nI promise I'll pay you back for this someday.",
+   "pt": "A senhorita Satsuki é toda sua, Matoi.\nEu prometo que vou te retribuir por isso algum dia."
+  },
+  {
+   "id": "STS_R22A_749_A",
+   "en": "I'm begging you...",
+   "pt": "Eu estou implorando..."
+  },
+  {
+   "id": "STS_R22A_750_A",
+   "en": "Please save Lady Satsuki. ",
+   "pt": "Por favor, salve a senhorita Satsuki."
+  },
+  {
+   "id": "STS_R22A_751_A",
+   "en": "God, would you guys chill out already? ",
+   "pt": "Porra, vocês podem se acalmar logo?"
+  },
+  {
+   "id": "STS_R22A_751_B",
+   "en": "I said I was gonna slap her out of it and I'm gonna.\nSo, quit bein' all weird about it. Don't worry, I got this.",
+   "pt": "Eu disse que ia meter um tapa na cara dela e acordar ela, e eu vou.\nEntão, parem de frescura. Não esquenta, deixa comigo."
+  },
+  {
+   "id": "STS_R22A_751_C",
+   "en": "I said I was gonna slap her out of it and I'm gonna.\nSo, quit bein' all weird about it. Don't worry, I got this.",
+   "pt": "Eu disse que ia meter um tapa na cara dela e acordar ela, e eu vou.\nEntão, parem de frescura. Não esquenta, deixa comigo."
+  },
+  {
+   "id": "STS_R22A_751_D",
+   "en": "I said I was gonna slap her out of it and I'm gonna.\nSo, quit bein' all weird about it. Don't worry, I got this.",
+   "pt": "Eu disse que ia meter um tapa na cara dela e acordar ela, e eu vou.\nEntão, parem de frescura. Não esquenta, deixa comigo."
+  },
+  {
+   "id": "STS_R22A_752_A",
+   "en": "Reckless is our middle name!",
+   "pt": "Imprudência é o nosso nome do meio!"
+  },
+  {
+   "id": "STS_R22A_752_B",
+   "en": "Damn right!",
+   "pt": "Pode apostar que sim!"
+  },
+  {
+   "id": "STS_R22A_753_A",
+   "en": "Now let's go wake sleepin' beauty up!",
+   "pt": "Agora vamos lá acordar a bela adormecida!"
+  },
+  {
+   "id": "STS_R22A_754_A",
+   "en": "C'mon, Senketsu!",
+   "pt": "Bora, Senketsu!"
+  },
+  {
+   "id": "STS_R23A_756_A",
+   "en": "That's it, Ryuko. It's over.",
+   "pt": "É isso, Ryuko. Acabou."
+  },
+  {
+   "id": "STS_R23A_756_B",
+   "en": "Yeah.",
+   "pt": "É."
+  },
+  {
+   "id": "STS_R23A_757_A",
+   "en": "How you doin'? You okay?",
+   "pt": "Como cê tá? Cê tá bem?"
+  },
+  {
+   "id": "STS_R23A_757_B",
+   "en": "I'm in pain, but I'll be fine.",
+   "pt": "Estou com dor, mas ficarei bem."
+  },
+  {
+   "id": "STS_R23A_758_A",
+   "en": "Hey... Senketsu?",
+   "pt": "Ei... Senketsu?"
+  },
+  {
+   "id": "STS_R23A_759_A",
+   "en": "When this world disappears... what'll happen to us?",
+   "pt": "Quando esse mundo desaparecer... o que vai rolar com a gente?"
+  },
+  {
+   "id": "STS_R23A_759_B",
+   "en": "I don't know.\nI suppose we'll be returned to just before Satsuki Kiryuin's delusions started.",
+   "pt": "Eu não sei.\nSuponho que seremos devolvidos para o momento exato antes dos delírios de Satsuki Kiryuin começarem."
+  },
+  {
+   "id": "STS_R23A_759_C",
+   "en": "If all this was just a dream,\nthen time has barely passed in that reality.",
+   "pt": "Se tudo isso foi apenas um sonho,\nentão o tempo mal passou naquela realidade."
+  },
+  {
+   "id": "STS_R23A_759_D",
+   "en": "Oh.",
+   "pt": "Ah."
+  },
+  {
+   "id": "STS_R23A_771_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_R23A_772_A",
+   "en": "I am sorry I trapped all of you in my delusions.\nForgive me.",
+   "pt": "Peço perdão por prender todos vocês em meus delírios.\nMe perdoem."
+  },
+  {
+   "id": "STS_R23A_773_A",
+   "en": "I am sorry I trapped all of you in my delusions.\nForgive me.",
+   "pt": "Peço perdão por prender todos vocês em meus delírios.\nMe perdoem."
+  },
+  {
+   "id": "STS_R23A_773_B",
+   "en": "You don't have to apologize, Satsuki!\nYou couldn't help it!",
+   "pt": "Você não precisa se desculpar, Satsuki!\nVocê não tinha como evitar!"
+  },
+  {
+   "id": "STS_R23A_774_A",
+   "en": "She's right, Lady Satsuki.",
+   "pt": "Ela tem razão, senhorita Satsuki."
+  },
+  {
+   "id": "STS_R23A_774_B",
+   "en": "We all want to see you change the world. So, in a way,\nyour delusions are our delusions.",
+   "pt": "Todos nós queremos ver você mudar o mundo. Então, de certa forma,\nseus delírios são nossos delírios."
+  },
+  {
+   "id": "STS_R23A_774_C",
+   "en": "We all want to see you change the world. So, in a way,\nyour delusions are our delusions.",
+   "pt": "Todos nós queremos ver você mudar o mundo. Então, de certa forma,\nseus delírios são nossos delírios."
+  },
+  {
+   "id": "STS_R23A_774_D",
+   "en": "I second that, m'Lady!",
+   "pt": "Eu concordo com isso, minha senhora!"
+  },
+  {
+   "id": "STS_R23A_775_A",
+   "en": "You got nothing to feel bad about, Lady Satsuki.\nEverything worked out in the end.",
+   "pt": "Você não tem do que se sentir mal, senhorita Satsuki.\nTudo deu certo no final."
+  },
+  {
+   "id": "STS_R23A_776_A",
+   "en": "I bet the experience made you even stronger, too.",
+   "pt": "Aposto que essa experiência deixou você ainda mais forte também."
+  },
+  {
+   "id": "STS_R23A_776_B",
+   "en": "Thank you.",
+   "pt": "Obrigada."
+  },
+  {
+   "id": "STS_R23A_777_A",
+   "en": "Even though this world ends, my goals remain...",
+   "pt": "Embora este mundo termine, meus objetivos permanecem..."
+  },
+  {
+   "id": "STS_R23A_778_A",
+   "en": "Destroy Ragyo and cut our ties with the Life Fibers!",
+   "pt": "Destruir Ragyo e cortar nossos laços com as Fibras de Vida!"
+  },
+  {
+   "id": "STS_R23A_811_A",
+   "en": "Don't! Please, don't!",
+   "pt": "Não! Por favor, não!"
+  },
+  {
+   "id": "STS_R23A_812_A",
+   "en": "For God's sake, stoooop!",
+   "pt": "Pelo amor de Deus, paraaaaa!"
+  },
+  {
+   "id": "STS_R23A_817_A",
+   "en": "Senketsu!",
+   "pt": "Senketsu!"
+  },
+  {
+   "id": "STS_R23A_818_A",
+   "en": "Damn. What a weird dream.",
+   "pt": "Que merda. Que sonho bizarro."
+  },
+  {
+   "id": "STS_R23A_818_B",
+   "en": "We're gonna be late, we're gonna be late! ",
+   "pt": "A gente vai se atrasar, a gente vai se atrasar!"
+  },
+  {
+   "id": "STS_R23A_819_A",
+   "en": "WE'RE GONNA BE LATE!\nHurry up and get dressed, Ryuko!",
+   "pt": "A GENTE VAI SE ATRASAR!\nAnda logo e se veste, Ryuko!"
+  },
+  {
+   "id": "STS_R23A_819_B",
+   "en": "Oh no, oh no, oh no!",
+   "pt": "Ah não, ah não, ah não!"
+  },
+  {
+   "id": "STS_R23A_819_C",
+   "en": "Jeez chill out, Mako!\nIt's like, four in the morning...",
+   "pt": "Caralho, relaxa aí, Mako!\nSão tipo, quatro da manhã..."
+  },
+  {
+   "id": "STS_R24A_999_A",
+   "en": "The 4 AM siren means it's No Tardies Day.\nWatch the anime to find out more. ",
+   "pt": "A sirene das 4 da manhã significa que é o Dia Sem Atrasos.\nAssista ao anime para saber mais."
+  },
+  {
+   "id": "STS_R24A_999_B",
+   "en": "If you've already seen it,\nwatch it again and maybe you'll notice something you missed!",
+   "pt": "Se você já assistiu,\nassista de novo e talvez você note algo que deixou passar!"
+  },
+  {
+   "id": "STS_R24A_999_C",
+   "en": "Next time on Kill la Kill - IF: it's the Satsuki Kiryuin Chapter.\n\"Torn Spirits, Changing Fates\".",
+   "pt": "Da próxima vez em Kill la Kill - IF: é o Capítulo de Satsuki Kiryuin.\n\"Espíritos Despedaçados, Destinos em Mudança\"."
+  },
+  {
+   "id": "STS_S01A_1_A",
+   "en": "Satsuki Kiryuin…\nThe Student Council president and ruler of Honnouji Academy.",
+   "pt": "Satsuki Kiryuin…\nA Presidente do Conselho Estudantil e governante da Academia Honnouji."
+  },
+  {
+   "id": "STS_S01A_1_B",
+   "en": "Using Goku uniforms infused with Life Fibers,\n she trains her Elite Four and fellow students for battle. ",
+   "pt": "Usando Uniformes Goku infundidos com Fibras de Vida,\n ela treina seus Quatro Elites e colegas estudantes para a batalha."
+  },
+  {
+   "id": "STS_S01A_1_C",
+   "en": "Using Goku uniforms infused with Life Fibers,\n she trains her Elite Four and fellow students for battle. ",
+   "pt": "Usando Uniformes Goku infundidos com Fibras de Vida,\n ela treina seus Quatro Elites e colegas estudantes para a batalha."
+  },
+  {
+   "id": "STS_S01A_1_D",
+   "en": "Satsuki's ultimate goal…\nto lead a rebellion against her mother, Ragyo Kiryuin... ",
+   "pt": "O objetivo final de Satsuki…\nliderar uma rebelião contra sua mãe, Ragyo Kiryuin..."
+  },
+  {
+   "id": "STS_S01A_1_E",
+   "en": "Satsuki's ultimate goal…\nto lead a rebellion against her mother, Ragyo Kiryuin... ",
+   "pt": "O objetivo final de Satsuki…\nliderar uma rebelião contra sua mãe, Ragyo Kiryuin..."
+  },
+  {
+   "id": "STS_S01A_1_F",
+   "en": "director of Honnouji Academy and CEO of the sinister clothing conglomerate, REVOCS.",
+   "pt": "diretora da Academia Honnouji e CEO do sinistro conglomerado de roupas, REVOCS."
+  },
+  {
+   "id": "STS_S01A_1_F_",
+   "en": "director of Honnouji Academy and CEO of the sinister clothing conglomerate, REVOCS.",
+   "pt": "diretora da Academia Honnouji e CEO do sinistro conglomerado de roupas, REVOCS."
+  },
+  {
+   "id": "STS_S01A_1_G",
+   "en": "One day, Satsuki runs into an unexpected roadblock... ",
+   "pt": "Um dia, Satsuki se depara com um obstáculo inesperado..."
+  },
+  {
+   "id": "STS_S01A_1_H",
+   "en": "Ryuko Matoi.\nWith her trusty Scissorblade and sentient sailor uniform, Senketsu... ",
+   "pt": "Ryuko Matoi.\nCom sua fiel Lâmina-Tesoura e seu uniforme de marinheira consciente, Senketsu..."
+  },
+  {
+   "id": "STS_S01A_1_I",
+   "en": "Ryuko has come to the Academy to avenge her father's death. ",
+   "pt": "Ryuko veio à Academia para vingar a morte de seu pai."
+  },
+  {
+   "id": "STS_S01A_1_J",
+   "en": "Realizing a golden opportunity,\nSatsuki decides to use Ryuko to help put the final touches to her plan.",
+   "pt": "Percebendo uma oportunidade de ouro,\nSatsuki decide usar Ryuko para ajudar a dar os toques finais ao seu plano."
+  },
+  {
+   "id": "STS_S01A_1_K",
+   "en": "Realizing a golden opportunity,\nSatsuki decides to use Ryuko to help put the final touches to her plan.",
+   "pt": "Percebendo uma oportunidade de ouro,\nSatsuki decide usar Ryuko para ajudar a dar os toques finais ao seu plano."
+  },
+  {
+   "id": "STS_S01A_2_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S01A_13_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S01A_14_A",
+   "en": "This Ryuko Matoi and her Kamui, Senketsu, ",
+   "pt": "Essa Ryuko Matoi e seu Kamui, Senketsu,"
+  },
+  {
+   "id": "STS_S01A_14_B",
+   "en": "will help me perfect my Goku Uniforms. ",
+   "pt": "vão me ajudar a aperfeiçoar meus Uniformes Goku."
+  },
+  {
+   "id": "STS_S01A_15_A",
+   "en": "Let's see how strong she is...",
+   "pt": "Vamos ver o quão forte ela é..."
+  },
+  {
+   "id": "STS_S01A_16_A",
+   "en": "Attention! Satsuki Kiryuin, your Student Council President, ",
+   "pt": "Atenção! Satsuki Kiryuin, sua Presidente do Conselho Estudantil,"
+  },
+  {
+   "id": "STS_S01A_16_B",
+   "en": "has an announcement!",
+   "pt": "tem um anúncio!"
+  },
+  {
+   "id": "STS_S01A_17_A",
+   "en": "Today...!",
+   "pt": "Hoje...!"
+  },
+  {
+   "id": "STS_S01A_18_A",
+   "en": "...we embark on the complete overhaul of the Student Council!",
+   "pt": "...nós embarcamos na reformulação completa do Conselho Estudantil!"
+  },
+  {
+   "id": "STS_S01A_18_B",
+   "en": "If you participate, you will have free reign to attack your peers.",
+   "pt": "Se vocês participarem, terão liberdade total para atacar seus colegas."
+  },
+  {
+   "id": "STS_S01A_19_A",
+   "en": "There are no restrictions on the types of weapons or sneaky tactics you use.\nAnything goes!",
+   "pt": "Não há restrições sobre os tipos de armas ou táticas sorrateiras que usarem.\nVale tudo!"
+  },
+  {
+   "id": "STS_S01A_19_B",
+   "en": "There are no restrictions on the types of weapons or sneaky tactics you use.\nAnything goes!",
+   "pt": "Não há restrições sobre os tipos de armas ou táticas sorrateiras que usarem.\nVale tudo!"
+  },
+  {
+   "id": "STS_S01A_20_A",
+   "en": "Use your strength and cunning to claim your social standing!",
+   "pt": "Usem sua força e astúcia para reivindicar sua posição social!"
+  },
+  {
+   "id": "STS_S01A_21_A",
+   "en": "Fight for change in Honnouji Academy's first!\nNaturals! Election!",
+   "pt": "Lutem por mudanças na primeira!\nEleição Natural! Da Academia Honnouji!"
+  },
+  {
+   "id": "STS_S01A_22_A",
+   "en": "Unlike traditional elections,\nyou will not choose someone else to represent you! ",
+   "pt": "Ao contrário das eleições tradicionais,\nvocês não escolherão outra pessoa para representá-los!"
+  },
+  {
+   "id": "STS_S01A_22_B",
+   "en": "You will represent yourselves!\nYour status! Your strength! Your way of life! ",
+   "pt": "Vocês representarão a si mesmos!\nSeu status! Sua força! Seu modo de vida!"
+  },
+  {
+   "id": "STS_S01A_22_C",
+   "en": "You will represent yourselves!\nYour status! Your strength! Your way of life! ",
+   "pt": "Vocês representarão a si mesmos!\nSeu status! Sua força! Seu modo de vida!"
+  },
+  {
+   "id": "STS_S01A_23_A",
+   "en": "Then, in seven days, at eight thirty AM, ",
+   "pt": "Então, em sete dias, às oito e meia da manhã,"
+  },
+  {
+   "id": "STS_S01A_23_B",
+   "en": "the survivors will assemble here, for a sudden death runoff!",
+   "pt": "os sobreviventes se reunirão aqui, para um desempate de morte súbita!"
+  },
+  {
+   "id": "STS_S01A_24_A",
+   "en": "And if you emerge victorious...",
+   "pt": "E se vocês saírem vitoriosos..."
+  },
+  {
+   "id": "STS_S01A_25_A",
+   "en": "... I will personally grant you a brand new Goku Uniform! ",
+   "pt": "... eu concederei pessoalmente a vocês um novíssimo Uniforme Goku!"
+  },
+  {
+   "id": "STS_S01A_26_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S01A_27_A",
+   "en": "Now... students of Honnouji Academy...! ",
+   "pt": "Agora... estudantes da Academia Honnouji...!"
+  },
+  {
+   "id": "STS_S01A_28_A",
+   "en": "FIGHT!",
+   "pt": "LUTEM!"
+  },
+  {
+   "id": "STS_S01A_29_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S01A_33_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S01A_34_A",
+   "en": "Students of Honnouji Academy!",
+   "pt": "Estudantes da Academia Honnouji!"
+  },
+  {
+   "id": "STS_S01A_35_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S01A_36_A",
+   "en": "Welcome to the Sudden Death Runoff!",
+   "pt": "Bem-vindos ao Desempate de Morte Súbita!"
+  },
+  {
+   "id": "STS_S01A_37_A",
+   "en": "For the past week, you've fought long and hard. ",
+   "pt": "Durante a última semana, vocês lutaram muito e bravamente."
+  },
+  {
+   "id": "STS_S01A_38_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S01A_39_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S01A_40_A",
+   "en": "However, your fight has only just begun!",
+   "pt": "No entanto, a luta de vocês apenas começou!"
+  },
+  {
+   "id": "STS_S01A_41_A",
+   "en": "Every battle over the past week has been recorded... ",
+   "pt": "Todas as batalhas da última semana foram registradas..."
+  },
+  {
+   "id": "STS_S01A_41_B",
+   "en": "...and now we know who the survivors are.",
+   "pt": "...e agora sabemos quem são os sobreviventes."
+  },
+  {
+   "id": "STS_S01A_41_C",
+   "en": "Based on what happens today,\nI will determine who acquires Three-Star status! ",
+   "pt": "Com base no que acontecer hoje,\neu vou determinar quem adquire o status de Três Estrelas!"
+  },
+  {
+   "id": "STS_S01A_47_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S01A_48_A",
+   "en": "The five pillars are your next challenge! ",
+   "pt": "Os cinco pilares são o seu próximo desafio!"
+  },
+  {
+   "id": "STS_S01A_49_A",
+   "en": "Fight your way to the top of one and be a front-runner in the election!",
+   "pt": "Lutem até o topo de um deles e sejam favoritos na eleição!"
+  },
+  {
+   "id": "STS_S01A_49_B",
+   "en": "Fight your way to the top of one and be a front-runner in the election!",
+   "pt": "Lutem até o topo de um deles e sejam favoritos na eleição!"
+  },
+  {
+   "id": "STS_S01A_50_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S01A_56_A",
+   "en": "",
+   "pt": ""
+  },
+  {
+   "id": "STS_S01A_57_A",
+   "en": "Even with this power, it's not enough...",
+   "pt": "Mesmo com esse poder, não é o suficiente..."
+  },
+  {
+   "id": "STS_S01A_57_B",
+   "en": "Our odds of success are less than 50%. ",
+   "pt": "Nossas chances de sucesso são menores que 50%."
+  },
+  {
+   "id": "STS_S01A_57_C",
+   "en": "We'll be lucky to reach 30.",
+   "pt": "Teremos sorte se chegarmos a 30."
+  },
+  {
+   "id": "STS_S01A_58_A",
+   "en": "Iori... are you collecting the data?",
+   "pt": "Iori... você está coletando os dados?"
+  },
+  {
+   "id": "STS_S01A_58_B",
+   "en": "Of course, Lady Satsuki. ",
+   "pt": "Claro, senhorita Satsuki."
+  },
+  {
+   "id": "STS_S01A_58_C",
+   "en": "However, I'm afraid what I have so far isn't very useful.",
+   "pt": "No entanto, temo que o que eu tenho até agora não seja muito útil."
+  }
+ ]
+}

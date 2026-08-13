@@ -1,0 +1,319 @@
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  GUIA DA COMUNIDADE STEAM — KILL la KILL -IF PT-BR                           ║
+║  Copie cada bloco na seção correspondente do editor de guias.                ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+COMO CRIAR O GUIA
+  Steam > Biblioteca > KILL la KILL -IF > Comunidade > Guias > Criar um guia
+  O editor tem "Adicionar seção" no rodapé. Cada SEÇÃO abaixo vira uma dessas.
+  O índice do guia se monta sozinho a partir dos títulos das seções.
+
+IMAGEM DE MARCA
+  A Steam pede uma imagem quadrada, mínimo 195x195. Sugestão: um print do
+  modo história com uma fala boa em português, cortado no quadrado. A Ryuko
+  gritando funciona bem — é o que o jogo é.
+
+COMO INSERIR OS PRINTS
+  1. No jogo, tire as capturas com F12.
+  2. Steam > Exibir > Capturas de tela > Enviar para a Steam (deixe públicas).
+  3. Abra a captura no navegador, clique com o direito na imagem >
+     "Copiar endereço da imagem".
+  4. Cole dentro de [img]ENDEREÇO[/img] onde estiver marcado no texto.
+
+  Onde cada print faz mais efeito está indicado com  ►►  ao longo do guia.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+ TÍTULO DO GUIA
+═══════════════════════════════════════════════════════════════════════════════
+
+Tradução PT-BR completa — história, batalhas e menus (PC e Steam Deck)
+
+
+═══════════════════════════════════════════════════════════════════════════════
+ DESCRIÇÃO CURTA  (o resumo que aparece na listagem de guias)
+═══════════════════════════════════════════════════════════════════════════════
+
+KILL la KILL -IF em português do Brasil: o modo história inteiro, as provocações
+de batalha de todo mundo, os menus e a lista de golpes. Gratuito, funciona no PC
+e no Steam Deck, e não precisa configurar nada.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+ SEÇÃO 1  ·  título: "KILL la KILL -IF em português do Brasil"
+═══════════════════════════════════════════════════════════════════════════════
+
+►► print grande aqui: uma cena do modo história com legenda em português
+[img]COLE_O_ENDERECO_DA_IMAGEM_AQUI[/img]
+
+[h1]KILL la KILL -IF em português do Brasil[/h1]
+
+O jogo de luta da Trigger nunca saiu em português. Agora saiu.
+
+Esta é uma tradução [b]completa[/b] e [b]gratuita[/b] do texto de KILL la KILL
+-IF para o português do Brasil: o modo história inteiro, as provocações de
+batalha de cada personagem, os menus, os tutoriais, a galeria e a lista de
+golpes. São [b]11.524 linhas[/b].
+
+[table]
+  [tr][th]Cobertura[/th][th]100% do texto do jogo[/th][/tr]
+  [tr][td]Plataformas[/td][td]PC (Windows) e Steam Deck[/td][/tr]
+  [tr][td]Preço[/td][td]Gratuito[/td][/tr]
+  [tr][td]Configuração[/td][td]Nenhuma — instalou, abriu, está em português[/td][/tr]
+  [tr][td]Saves[/td][td]Não são afetados[/td][/tr]
+  [tr][td]Conquistas[/td][td]Continuam funcionando[/td][/tr]
+[/table]
+
+[hr][/hr]
+
+[b]Por que não tem opção de idioma?[/b]
+
+Porque a tradução ocupa o lugar do inglês, que já é o idioma padrão do jogo.
+Você não precisa entrar em menu nenhum. Para voltar ao inglês, é só desinstalar
+— leva dois segundos e está explicado mais abaixo.
+
+[b]Uma coisa que eu preciso dizer de cara[/b]
+
+É uma tradução amadora, feita por um fã. Pode ter typo, alguma frase com sentido
+um pouco diferente, ou um texto que estourou a caixa. Se você achar algo assim,
+comenta aqui embaixo com um print que eu corrijo. Sério, pode comentar — é assim
+que a próxima versão fica melhor.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+ SEÇÃO 2  ·  título: "O que está traduzido"
+═══════════════════════════════════════════════════════════════════════════════
+
+[h1]O que está traduzido[/h1]
+
+[table]
+  [tr][th]Conteúdo[/th][th]Linhas[/th][th][/th][/tr]
+  [tr][td]Falas de batalha, por personagem[/td][td]7.705[/td][td]100%[/td][/tr]
+  [tr][td]Modo História — diálogos[/td][td]1.248[/td][td]100%[/td][/tr]
+  [tr][td]Menus, sistema, tutoriais e galeria[/td][td]1.362[/td][td]100%[/td][/tr]
+  [tr][td]Lista de golpes e nomes de ações[/td][td]681[/td][td]100%[/td][/tr]
+  [tr][td]Falas rápidas do modo online[/td][td]528[/td][td]100%[/td][/tr]
+[/table]
+
+Na prática:
+
+[list]
+[*][b]O modo história inteiro[/b] — o arco da Satsuki e o da Ryuko, com as
+descrições de episódio e as telas de resultado
+[*][b]As provocações de batalha de todo mundo[/b] — Ryuko, Satsuki, Gamagoori,
+Sanageyama, Jakuzure, Inumuta, Ragyo, Nui, Mako e a Ryuko de Dois Estrelas,
+incluindo as falas específicas de cada confronto
+[*][b]A lista de golpes completa[/b], com nomes de ataques, combos e mecânicas
+[*][b]Menus, opções, tutoriais, requisitos de desbloqueio e galeria[/b]
+[*][b]As falas rápidas do modo online[/b]
+[/list]
+
+►► print aqui: a lista de golpes de algum personagem
+[img]COLE_O_ENDERECO_DA_IMAGEM_AQUI[/img]
+
+[hr][/hr]
+
+[h2]Sobre o tom[/h2]
+
+Kill la Kill é escrachado, gritado e sem freio. A tradução acompanha:
+[b]xingamento é xingamento, provocação é provocação[/b]. Nada foi suavizado.
+
+Cada personagem manteve a voz. A Ryuko fala na agressividade e na gíria, a
+Satsuki é imperiosa e formal, a Mako é acelerada e caótica, o Gamagoori é solene
+e exagerado.
+
+Os termos seguem a legendagem brasileira do anime: [b]Fibras de Vida[/b],
+[b]Uniforme Goku[/b], [b]Lâmina-Tesoura[/b], [b]Academia Honnouji[/b],
+[b]Quatro Elites[/b]. Nomes próprios ficaram como são — Ryuko, Satsuki,
+Senketsu, Junketsu, REVOCS.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+ SEÇÃO 3  ·  título: "O que ficou em inglês, e por quê"
+═══════════════════════════════════════════════════════════════════════════════
+
+[h1]O que ficou em inglês, e por quê[/h1]
+
+Uma parte da interface do jogo [b]não é texto: é imagem[/b]. Palavras como
+STORY, VERSUS, GALLERY, OPTIONS, EPISODE, FIGHT e KO estão desenhadas dentro de
+texturas, com a fonte estilizada do jogo.
+
+Essas ficaram em inglês, [b]de propósito[/b].
+
+É a convenção de jogo de luta — ninguém estranha um KO ou um FIGHT na tela — e
+fica mais coerente do que meia interface em português e meia em outro idioma.
+[b]Todo o texto que importa para entender o jogo está traduzido:[/b] as falas,
+as descrições, os tutoriais, os requisitos de desbloqueio e a lista de golpes.
+
+►► print aqui: o menu principal, mostrando os rótulos em inglês e a descrição
+   embaixo em português
+[img]COLE_O_ENDERECO_DA_IMAGEM_AQUI[/img]
+
+
+═══════════════════════════════════════════════════════════════════════════════
+ SEÇÃO 4  ·  título: "Instalação no PC (Windows)"
+═══════════════════════════════════════════════════════════════════════════════
+
+[h1]Instalação no PC (Windows)[/h1]
+
+Leva menos de um minuto e não precisa de Python, nem de mexer em arquivo de
+configuração, nem de nada disso.
+
+[olist]
+[*][b]Baixe o pacote do Windows:[/b]
+[url=https://github.com/WenderSky/kill-la-kill-if-ptbr/releases/latest]clique aqui para baixar[/url]
+(procure por [i]KillLaKill_PTBR_Windows.zip[/i])
+[*][b]Descompacte[/b] a pasta em qualquer lugar.
+[*][b]Feche o jogo[/b], se estiver aberto.
+[*]Dê [b]dois cliques em INSTALAR.bat[/b].
+[*]Abra o jogo. Pronto — já está em português.
+[/olist]
+
+O instalador acha a pasta do jogo sozinho, em qualquer biblioteca do Steam,
+[b]inclusive se o jogo estiver em outro disco[/b]. Se por algum motivo ele não
+encontrar, ele pergunta o caminho e você cola ali.
+
+[quote=Como achar o caminho, se precisar]Na sua Biblioteca, clique com o botão
+direito em KILL la KILL -IF > Gerenciar > Procurar arquivos locais. A pasta que
+abrir é o caminho.[/quote]
+
+[b]O idioma do jogo precisa estar em Inglês[/b] — que é o padrão. Se você nunca
+mexeu nisso, não precisa fazer nada. Se já tinha trocado: Propriedades do jogo >
+Idioma > Inglês.
+
+[b]Para desinstalar:[/b] dois cliques em DESINSTALAR.bat. O jogo volta ao inglês
+na hora.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+ SEÇÃO 5  ·  título: "Instalação no Steam Deck"
+═══════════════════════════════════════════════════════════════════════════════
+
+[h1]Instalação no Steam Deck[/h1]
+
+Funciona igual, e [b]não precisa mexer em Proton[/b], nem em opção de
+inicialização, nem em variável de ambiente. A tradução é só um punhado de
+arquivos de texto do jogo.
+
+[olist]
+[*][b]Baixe o pacote do Steam Deck:[/b]
+[url=https://github.com/WenderSky/kill-la-kill-if-ptbr/releases/latest]clique aqui para baixar[/url]
+(procure por [i]KillLaKill_PTBR_SteamDeck.zip[/i])
+[*]Copie para o Deck e [b]descompacte[/b] — em Downloads está ótimo.
+[*][b]Feche o jogo[/b] e vá para o [b]Modo Área de Trabalho[/b].
+[*]Abra o [b]Konsole[/b] e digite:
+[code]cd ~/Downloads/SteamDeck
+bash instalar.sh[/code]
+[*]Volte ao [b]Modo Jogo[/b] e abra o jogo. Pronto.
+[/olist]
+
+O script encontra o jogo sozinho, [b]inclusive se estiver no cartão SD[/b].
+
+[quote=Por que "bash instalar.sh" e não "./instalar.sh"?]Porque o arquivo perde a
+permissão de execução quando passa pelo Windows. Chamando com "bash" na frente,
+funciona de qualquer jeito e você não precisa se preocupar com isso.[/quote]
+
+[b]Para desinstalar:[/b] no mesmo lugar, rode [code]bash desinstalar.sh[/code]
+
+
+═══════════════════════════════════════════════════════════════════════════════
+ SEÇÃO 6  ·  título: "Perguntas frequentes"
+═══════════════════════════════════════════════════════════════════════════════
+
+[h1]Perguntas frequentes[/h1]
+
+[b]Isso apaga ou corrompe meus saves?[/b]
+Não. A tradução não encosta nos saves. Você pode instalar no meio de uma partida
+e continuar de onde parou.
+
+[b]E as conquistas?[/b]
+Continuam funcionando normalmente.
+
+[b]Como eu volto para o inglês?[/b]
+Rode o DESINSTALAR.bat (ou bash desinstalar.sh). O instalador guarda os arquivos
+originais dentro da pasta do jogo, e o desinstalador devolve todos eles.
+
+[b]Verifiquei a integridade dos arquivos e o jogo voltou pro inglês[/b]
+É esperado. A verificação do Steam devolve qualquer arquivo modificado ao
+original. É só rodar o instalador de novo.
+
+[b]E quando o jogo for atualizado?[/b]
+Uma atualização pode sobrescrever os arquivos e devolver o inglês. Se isso
+acontecer, rode o instalador de novo. Se a atualização mexer nos textos, eu
+publico uma versão nova.
+
+[b]Funciona na versão de PS4 ou Nintendo Switch?[/b]
+Não. Só na versão de PC, pela Steam.
+
+[b]Dá para jogar online com quem não instalou?[/b]
+Dá. A tradução só troca o texto que aparece na sua tela; não muda nada do jogo
+em si.
+
+[b]Por que STORY e VERSUS continuam em inglês?[/b]
+Porque são imagens, não texto — e foi uma escolha. Tem uma seção acima só sobre
+isso.
+
+[b]Achei um erro de tradução / um texto cortado[/b]
+Comenta aqui embaixo com um print. Se puder dizer onde aconteceu, ajuda muito a
+localizar. Também dá para abrir uma issue no repositório, se você usa GitHub.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+ SEÇÃO 7  ·  título: "Bastidores e créditos"
+═══════════════════════════════════════════════════════════════════════════════
+
+[h1]Bastidores e créditos[/h1]
+
+Para quem tem curiosidade.
+
+O texto do jogo fica em [b]23 arquivos de formato próprio[/b], que não abre em
+editor nenhum: uma tabela de entradas com o rótulo em ASCII e o texto em UTF-16,
+mais uma tabela de busca por rótulo. Esse formato foi decifrado do zero.
+
+A primeira coisa que a ferramenta precisou provar não foi traduzir: foi
+[b]reconstruir os 207 arquivos do jogo sem alterar nada e devolver o arquivo
+idêntico, bit a bit[/b]. Só depois disso a tradução começou. É o que garante que
+nada quebra.
+
+[quote=A boa surpresa]O jogo tem nove idiomas e nenhum deles usa "ã" ou "õ".
+Achei que ia ter que remapear glifo na fonte, que é o pesadelo padrão desse tipo
+de projeto. Mas a fonte do jogo tem os acentos do português todos lá dentro,
+prontos, só nunca usados. "Eleição", "Excursão", "às", "Três" — tudo apareceu
+certo de primeira.[/quote]
+
+[hr][/hr]
+
+[h2]Código-fonte[/h2]
+
+Os textos e as ferramentas estão abertos, para quem quiser conferir, corrigir ou
+usar de base em outro projeto:
+[url=https://github.com/WenderSky/kill-la-kill-if-ptbr]github.com/WenderSky/kill-la-kill-if-ptbr[/url]
+
+[h2]Créditos[/h2]
+
+[b]Tradução, engenharia reversa e ferramentas:[/b] Wender_sky
+
+[hr][/hr]
+
+Projeto de fã, sem fins lucrativos e sem qualquer relação com a Arc System Works,
+a APLUS Games ou a Studio Trigger. É preciso ter uma cópia legítima do jogo —
+nada aqui substitui a compra.
+
+Se a tradução te ajudou, deixa um joinha no guia. Ajuda outras pessoas a
+encontrarem. o/
+
+
+═══════════════════════════════════════════════════════════════════════════════
+ DEPOIS DE PUBLICAR
+═══════════════════════════════════════════════════════════════════════════════
+
+1. Marque o guia com as etiquetas certas na hora de publicar. As que importam
+   aqui são "Idiomas" e "Modificações" — é por elas que as pessoas filtram.
+
+2. Poste também na aba Discussões do jogo, com um texto curto e o link do guia.
+   Use o modelo em post-steam.txt. O guia é o que fica achável para sempre; a
+   discussão é o que aparece para quem está no fórum hoje.
+
+3. Responda os comentários nos primeiros dias. Guia com autor ativo sobe no
+   ranqueamento da Steam, e as pessoas confiam mais quando veem que tem alguém
+   do outro lado.

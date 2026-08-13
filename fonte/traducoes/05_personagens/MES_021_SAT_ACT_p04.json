@@ -1,0 +1,253 @@
+{
+ "origem": "KlkResources/S701_MES/MES_021_SAT_ACT",
+ "conteudo": "Falas em batalha - Satsuki",
+ "parte": "4/4",
+ "instrucoes": "Traduza o campo 'en' para portugues do Brasil e escreva o resultado em 'pt'. Nao altere 'id'. Mantenha intactos os codigos entre chaves ({CA}, {LA}, {BR}, {JU}, {SP}, {GD}, {LS}, {L1}, {R1}, setas), os marcadores de formato (%d, %l, %ls, %hs) e as quebras de linha \\n. Se uma linha nao precisar de traducao, deixe 'pt' vazio.",
+ "linhas": [
+  {
+   "id": "C021_VS_C041_VICTORY_03_KEYWORD",
+   "en": "At this rate, you'll never surpass me, Sanageyama.",
+   "pt": "Nesse ritmo, você nunca me superará, Sanageyama."
+  },
+  {
+   "id": "C021_VS_C051_VICTORY_01_KEYWORD",
+   "en": "What's the matter, Nonon? This can't possibly be your best.",
+   "pt": "Qual é o problema, Nonon? Esse não pode ser o seu melhor."
+  },
+  {
+   "id": "C021_VS_C051_VICTORY_02_KEYWORD",
+   "en": "What's wrong, Nonon. Your performances aren't usually this boring.",
+   "pt": "O que há de errado, Nonon. Suas apresentações não costumam ser tão entediantes."
+  },
+  {
+   "id": "C021_VS_C051_VICTORY_03_KEYWORD",
+   "en": "I admire your enthusiasm. But without results, it is meaningless.",
+   "pt": "Admiro o seu entusiasmo. Mas, sem resultados, não significa nada."
+  },
+  {
+   "id": "C021_VS_C061_VICTORY_01_KEYWORD",
+   "en": "Well, well... It seems my power exceeded your calculations. ",
+   "pt": "Ora, ora... Parece que meu poder superou os seus cálculos. "
+  },
+  {
+   "id": "C021_VS_C061_VICTORY_02_KEYWORD",
+   "en": "Everyone makes mistakes. Be sure to update your data.",
+   "pt": "Todos cometem erros. Certifique-se de atualizar os seus dados."
+  },
+  {
+   "id": "C021_VS_C061_VICTORY_03_KEYWORD",
+   "en": "Rethink your strategy and I shall take you on again, any time.",
+   "pt": "Repense a sua estratégia e o enfrentarei de novo, a qualquer momento."
+  },
+  {
+   "id": "C021_VS_C071_VICTORY_01_KEYWORD",
+   "en": "An inevitable result.  Atone for your sins in hell.",
+   "pt": "Um resultado inevitável. Expie os seus pecados no inferno."
+  },
+  {
+   "id": "C021_VS_C071_VICTORY_02_KEYWORD",
+   "en": "Ragyo Kiryuin... I will make you atone for your sins by taking your life.",
+   "pt": "Ragyo Kiryuin... Farei com que expie os seus pecados tirando a sua vida."
+  },
+  {
+   "id": "C021_VS_C071_VICTORY_03_KEYWORD",
+   "en": "It's over? For a finale, that was most unsatisfying.",
+   "pt": "Acabou? Para um final, isso foi muito insatisfatório."
+  },
+  {
+   "id": "C021_VS_C081_VICTORY_01_KEYWORD",
+   "en": "If you don't want to die, never oppose me again.",
+   "pt": "Se não quer morrer, nunca mais se oponha a mim."
+  },
+  {
+   "id": "C021_VS_C081_VICTORY_02_KEYWORD",
+   "en": "My path will not be blocked by anyone. Even you.",
+   "pt": "O meu caminho não será bloqueado por ninguém. Nem mesmo por você."
+  },
+  {
+   "id": "C021_VS_C081_VICTORY_03_KEYWORD",
+   "en": "If I lost to you here, I'd never realize my ambitions.\nThey would remain a dream forever. ",
+   "pt": "Se eu perdesse para você aqui, nunca realizaria as minhas ambições.\nElas continuariam sendo um sonho para sempre. "
+  },
+  {
+   "id": "C021_VS_C141_VICTORY_01_KEYWORD",
+   "en": "You put up a good fight, Mankanshoku.\nI'll give you that. But you still lack experience. ",
+   "pt": "Você lutou bem, Mankanshoku.\nTenho de admitir. Mas ainda lhe falta experiência. "
+  },
+  {
+   "id": "C021_VS_C141_VICTORY_02_KEYWORD",
+   "en": "I praise your bravery, Mankanshoku.\nHowever... I think you've bitten off more than you can chew.",
+   "pt": "Elogio a sua bravura, Mankanshoku.\nPorém... Acho que você deu um passo maior do que a perna."
+  },
+  {
+   "id": "C021_VS_C141_VICTORY_03_KEYWORD",
+   "en": "Now do you understand, Mankanshoku? There is a chasm between our strength.",
+   "pt": "Agora você entende, Mankanshoku? Há um abismo entre as nossas forças."
+  },
+  {
+   "id": "C021_VS_C151_VICTORY_01_KEYWORD",
+   "en": "Looks like this is the end, you naked fools.",
+   "pt": "Parece que este é o fim, seus tolos pelados."
+  },
+  {
+   "id": "C021_VS_C151_VICTORY_02_KEYWORD",
+   "en": "I praise your bravery for entering the tiger's den empty-handed.\nBut in the end, you became its dinner.",
+   "pt": "Elogio a sua bravura por entrar na cova do tigre de mãos vazias.\nMas, no final, vocês viraram o jantar dele."
+  },
+  {
+   "id": "C021_VS_C151_VICTORY_03_KEYWORD",
+   "en": "I would never allow fools like you to have an advantage over me.",
+   "pt": "Eu nunca permitiria que tolos como vocês tivessem vantagem sobre mim."
+  },
+  {
+   "id": "C021_KACHINUKI_START_01_KEYWORD",
+   "en": "I will cut down anyone who opposes me!",
+   "pt": "Eu cortarei qualquer um que se opuser a mim!"
+  },
+  {
+   "id": "C021_KACHINUKI_START_02_KEYWORD",
+   "en": "No amount of enemies shall stop my wrath!",
+   "pt": "Nenhuma quantidade de inimigos deterá a minha fúria!"
+  },
+  {
+   "id": "C021_KACHINUKI_START_03_KEYWORD",
+   "en": "Your fate was determined the moment you chose to challenge my blade!",
+   "pt": "O seu destino foi determinado no momento em que escolheu desafiar a minha lâmina!"
+  },
+  {
+   "id": "C021_KACHINUKI_FINISH_EXCELLENT_01_KEYWORD",
+   "en": "That was nothing. Less than nothing, in fact.",
+   "pt": "Isso não foi nada. Menos que nada, na verdade."
+  },
+  {
+   "id": "C021_KACHINUKI_FINISH_EXCELLENT_02_KEYWORD",
+   "en": "If I'm to do something, I'll do it right. It's that simple.",
+   "pt": "Se vou fazer algo, vou fazer direito. Simples assim."
+  },
+  {
+   "id": "C021_KACHINUKI_FINISH_GREAT_01_KEYWORD",
+   "en": "Hm! Those are fine results.",
+   "pt": "Hm! São bons resultados."
+  },
+  {
+   "id": "C021_KACHINUKI_FINISH_GREAT_02_KEYWORD",
+   "en": "That was adequate, for a warm-up.",
+   "pt": "Foi adequado, para um aquecimento."
+  },
+  {
+   "id": "C021_KACHINUKI_FINISH_GOOD_01_KEYWORD",
+   "en": "I am not even close to being satisfied!",
+   "pt": "Não estou nem perto de estar satisfeita!"
+  },
+  {
+   "id": "C021_KACHINUKI_FINISH_GOOD_02_KEYWORD",
+   "en": "I will put up a better fight next time.",
+   "pt": "Eu lutarei melhor da próxima vez."
+  },
+  {
+   "id": "C021_KACHINUKI_FINISH_PASS_01_KEYWORD",
+   "en": "I'll give you a passing grade.",
+   "pt": "Eu lhe darei uma nota de aprovação."
+  },
+  {
+   "id": "C021_KACHINUKI_FINISH_PASS_02_KEYWORD",
+   "en": "I need more training after that.",
+   "pt": "Eu preciso de mais treino depois dessa."
+  },
+  {
+   "id": "C021_KACHINUKI_FINISH_BAD_01_KEYWORD",
+   "en": "How pathetic. So unlike me!",
+   "pt": "Que patético. Tão diferente de mim!"
+  },
+  {
+   "id": "C021_KACHINUKI_FINISH_BAD_02_KEYWORD",
+   "en": "As long as I live... I, Satsuki Kiryuin, will not give in!",
+   "pt": "Enquanto eu viver... Eu, Satsuki Kiryuin, não irei ceder!"
+  },
+  {
+   "id": "C021_COVERS_START_01_KEYWORD",
+   "en": "Come at me, you damn dishrags!\nI shall take you all on at once!",
+   "pt": "Venham, seus malditos trapos de chão!\nEnfrentarei todos vocês de uma vez!"
+  },
+  {
+   "id": "C021_COVERS_START_02_KEYWORD",
+   "en": "I shall happily take you all on by myself!",
+   "pt": "Eu enfrentarei todos vocês sozinha, com muito prazer!"
+  },
+  {
+   "id": "C021_COVERS_START_03_KEYWORD",
+   "en": "Come at me. I'll cut you all into strips!",
+   "pt": "Venham. Cortarei todos vocês em tiras!"
+  },
+  {
+   "id": "C021_COVERS_FINISH_EXCELLENT_01_KEYWORD",
+   "en": "Go right ahead! Mass together, as much you want!\nYou still won't defeat me!",
+   "pt": "Vão em frente! Juntem-se, o quanto quiserem!\nVocês ainda não irão me derrotar!"
+  },
+  {
+   "id": "C021_COVERS_FINISH_EXCELLENT_02_KEYWORD",
+   "en": "I, Satsuki Kiryuin, shall never fall to a bunch of worn out scraps like you! ",
+   "pt": "Eu, Satsuki Kiryuin, nunca cairei para um bando de retalhos gastos como vocês! "
+  },
+  {
+   "id": "C021_COVERS_FINISH_GREAT_01_KEYWORD",
+   "en": "I won't be beaten by opponents of such low caliber!",
+   "pt": "Não serei derrotada por oponentes de calibre tão baixo!"
+  },
+  {
+   "id": "C021_COVERS_FINISH_GREAT_02_KEYWORD",
+   "en": "Hmph! Your existence is not worth my attention!",
+   "pt": "Hmph! A existência de vocês não vale a minha atenção!"
+  },
+  {
+   "id": "C021_COVERS_FINISH_GREAT_03_KEYWORD",
+   "en": "I may be alone in this fight, but I shall never falter to the likes of you! ",
+   "pt": "Posso estar sozinha nesta luta, mas nunca hesitarei contra tipos como vocês! "
+  },
+  {
+   "id": "C021_COVERS_FINISH_GOOD_01_KEYWORD",
+   "en": "This is fine for now. I've achieved my goal.",
+   "pt": "Está bom por enquanto. Eu atingi o meu objetivo."
+  },
+  {
+   "id": "C021_COVERS_FINISH_GOOD_02_KEYWORD",
+   "en": "I've had enough. Let's call it a day.",
+   "pt": "Já chega. Vamos encerrar por hoje."
+  },
+  {
+   "id": "C021_COVERS_FINISH_GOOD_03_KEYWORD",
+   "en": "You'd better prepare yourself. Because next time, I will exterminate you.",
+   "pt": "É melhor se prepararem. Porque, da próxima vez, eu os exterminarei."
+  },
+  {
+   "id": "C021_COVERS_FINISH_PASS_01_KEYWORD",
+   "en": "I'm struggling against these weaklings, I have a long way to go.",
+   "pt": "Estou sofrendo contra esses fracotes, tenho um longo caminho pela frente."
+  },
+  {
+   "id": "C021_COVERS_FINISH_PASS_02_KEYWORD",
+   "en": "This won't cut it. I must train harder.",
+   "pt": "Isso não vai servir. Devo treinar mais."
+  },
+  {
+   "id": "C021_COVERS_FINISH_PASS_03_KEYWORD",
+   "en": "If I'm struggling against my followers, I'll never realize my ambitions...",
+   "pt": "Se sofro contra os meus seguidores, nunca realizarei as minhas ambições..."
+  },
+  {
+   "id": "C021_COVERS_FINISH_BAD_01_KEYWORD",
+   "en": "Impossible! How could I lose to scraps of cloth?",
+   "pt": "Impossível! Como eu pude perder para retalhos de pano?"
+  },
+  {
+   "id": "C021_COVERS_FINISH_BAD_02_KEYWORD",
+   "en": "Kgh! I never thought I would misjudge my skills...",
+   "pt": "Kgh! Nunca pensei que avaliaria mal as minhas habilidades..."
+  },
+  {
+   "id": "C021_COVERS_FINISH_BAD_03_KEYWORD",
+   "en": "That was pitiful! Is this all I'm capable of?",
+   "pt": "Foi lamentável! É só disso que sou capaz?"
+  }
+ ]
+}
