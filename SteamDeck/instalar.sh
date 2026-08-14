@@ -2,10 +2,14 @@
 # Instala a tradução PT-BR de KILL la KILL -IF no Steam Deck (ou qualquer Linux com Steam).
 set -uo pipefail
 
-MARCA="KILLlaKILL_IF.exe"
-PASTA_JOGO="KILL la KILL -IF"
 AQUI="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 DADOS="$AQUI/dados"
+. "$AQUI/comum.sh"
+
+# Correção do Modo Jogo (ver modo_jogo.sh). Para pular: bash instalar.sh --sem-modo-jogo
+MODO_JOGO=1
+[ "${1:-}" = "--sem-modo-jogo" ] && MODO_JOGO=0
+. "$AQUI/modo_jogo.sh"
 
 printf '\n  KILL la KILL -IF — tradução PT-BR\n'
 printf '  ---------------------------------\n\n'
@@ -16,48 +20,12 @@ if [ ! -d "$DADOS" ]; then
   exit 1
 fi
 
-# Bibliotecas Steam: as padrão, as do cartão SD e as declaradas no libraryfolders.vdf
-CANDIDATAS=(
-  "$HOME/.local/share/Steam"
-  "$HOME/.steam/steam"
-  "$HOME/.var/app/com.valvesoftware.Steam/data/Steam"
-)
-for m in /run/media/*/ /run/media/deck/*/ ; do
-  [ -d "$m" ] && CANDIDATAS+=("${m%/}")
-done
-for vdf in "$HOME/.local/share/Steam/steamapps/libraryfolders.vdf" \
-           "$HOME/.steam/steam/steamapps/libraryfolders.vdf"; do
-  # sed POSIX em vez de grep -oP: -P depende do locale e nem sempre existe
-  [ -f "$vdf" ] && while IFS= read -r p; do
-    [ -n "$p" ] && CANDIDATAS+=("$p")
-  done < <(sed -n 's/.*"path"[[:space:]]*"\(.*\)".*/\1/p' "$vdf" 2>/dev/null)
-done
-
-DESTINO=""
-for b in "${CANDIDATAS[@]}"; do
-  for alvo in "$b/steamapps/common/$PASTA_JOGO" "$b/common/$PASTA_JOGO"; do
-    if [ -f "$alvo/$MARCA" ]; then DESTINO="$alvo"; break 2; fi
-  done
-done
-
-if [ -z "$DESTINO" ]; then
-  printf '  Não encontrei a pasta do jogo automaticamente.\n'
-  printf '  No Steam: KILL la KILL -IF > engrenagem > Propriedades >\n'
-  printf '  Arquivos instalados > Procurar, e cole o caminho aqui.\n\n'
-  read -r -p '  Caminho da pasta do jogo: ' DESTINO
-  DESTINO="${DESTINO%\"}"; DESTINO="${DESTINO#\"}"
-fi
-
-if [ ! -f "$DESTINO/$MARCA" ]; then
-  printf '\n  Isso não parece a pasta do jogo: %s\n' "$DESTINO"
-  printf '  Deve existir um %s lá dentro.\n\n' "$MARCA"
-  exit 1
-fi
-
+DESTINO="$(perguntar_jogo)" || exit 1
 printf '  Jogo encontrado em:\n  %s\n\n' "$DESTINO"
 
-# Guarda os originais na primeira instalação, para o desinstalador ter o que devolver
 BACKUP="$DESTINO/ResourceWin/_backup_ptbr"
+
+# Guarda os originais na primeira instalação, para o desinstalador ter o que devolver
 GUARDADOS=0
 while IFS= read -r -d '' f; do
   REL="${f#$DADOS/}"
@@ -77,8 +45,20 @@ while IFS= read -r -d '' f; do
   COPIADOS=$((COPIADOS+1))
 done < <(find "$DADOS" -type f -print0)
 
-printf '\n  Pronto! %s arquivos instalados.\n\n' "$COPIADOS"
-printf '  IMPORTANTE: o jogo precisa estar em INGLÊS no Steam.\n'
+printf '\n  Pronto! %s arquivos instalados.\n' "$COPIADOS"
+
+# Sem isso o jogo trava numa tela preta no Modo Jogo do Deck
+if [ "$MODO_JOGO" = "1" ]; then
+  aplicar_modo_jogo "$DESTINO" "$BACKUP"
+  case $? in
+    0) printf '  Correção do Modo Jogo aplicada no executável.\n' ;;
+    1) printf '  Correção do Modo Jogo: já estava aplicada.\n' ;;
+    2) printf '  Correção do Modo Jogo: padrão não encontrado — o jogo pode ter\n'
+       printf '  sido atualizado. A tradução funciona do mesmo jeito.\n' ;;
+  esac
+fi
+
+printf '\n  IMPORTANTE: o jogo precisa estar em INGLÊS no Steam.\n'
 printf '  Propriedades do jogo > Idioma > Inglês.\n'
 printf '  (Se você nunca mexeu nisso, já está em inglês.)\n\n'
 printf '  Para remover: bash desinstalar.sh\n\n'

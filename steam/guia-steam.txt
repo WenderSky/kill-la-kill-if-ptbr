@@ -229,6 +229,34 @@ bash instalar.sh[/code]
 
 O script encontra o jogo sozinho, [b]inclusive se estiver no cartão SD[/b].
 
+[hr][/hr]
+
+[h2]A correção do Modo Jogo vem junto[/h2]
+
+Se você já tentou jogar KILL la KILL -IF no Deck, provavelmente esbarrou nisso:
+[b]o jogo trava numa tela preta quando aberto pelo Modo Jogo[/b]. Isso é do jogo,
+não da tradução — acontece igual na versão em inglês.
+
+O motivo: o launcher cria a janela marcada como "ferramenta sempre no topo", e o
+Modo Jogo não reconhece esse tipo de janela como sendo o jogo, então fica
+esperando para sempre.
+
+[b]O instalador corrige isso junto com a tradução.[/b] São 4 bytes zerados dentro
+do executável, que desligam essas duas marcações. O executável original fica
+guardado, e o desinstalador devolve tudo.
+
+[table]
+  [tr][th]O que eu quero[/th][th]Comando[/th][/tr]
+  [tr][td]Tradução + correção (padrão)[/td][td]bash instalar.sh[/td][/tr]
+  [tr][td]Só a correção, sem a tradução[/td][td]bash modo_jogo.sh[/td][/tr]
+  [tr][td]Só a tradução, sem mexer no .exe[/td][td]bash instalar.sh --sem-modo-jogo[/td][/tr]
+[/table]
+
+A descoberta e o padrão de bytes são do [b]bkacjios[/b]:
+[url=https://gist.github.com/bkacjios/649227c6691d2f49faaba871a11e351b]gist.github.com/bkacjios/649227c6691d2f49faaba871a11e351b[/url]
+
+No PC essa correção não é necessária e não é aplicada.
+
 [quote=Por que "bash instalar.sh" e não "./instalar.sh"?]Porque o arquivo perde a
 permissão de execução quando passa pelo Windows. Chamando com "bash" na frente,
 funciona de qualquer jeito e você não precisa se preocupar com isso.[/quote]
@@ -258,10 +286,14 @@ Substituir apaga o resto do ResourceWin — que tem os modelos, as texturas e o
 som do jogo — e aí o jogo para de abrir. Se acontecer, dá para recuperar
 verificando a integridade pelo Steam, mas é download de novo.
 
-[quote=O que você perde fazendo assim]O backup. O script guarda os 23 arquivos
-originais antes de copiar, e é isso que o desinstalar.sh usa depois. Copiando na
-mão não tem de onde voltar — para desfazer, só pelo Steam: Propriedades do jogo
-> Arquivos instalados > Verificar integridade.[/quote]
+[quote=O que você perde fazendo assim]O backup e a correção do Modo Jogo. O
+script guarda os 23 arquivos originais antes de copiar, e é isso que o
+desinstalar.sh usa depois. Copiando na mão não tem de onde voltar — para
+desfazer, só pelo Steam: Propriedades do jogo > Arquivos instalados > Verificar
+integridade.
+
+Se copiar na mão, rode [b]bash modo_jogo.sh[/b] depois: sem a correção o jogo não
+abre no Modo Jogo.[/quote]
 
 
 ═══════════════════════════════════════════════════════════════════════════════
@@ -296,6 +328,11 @@ Não. Só na versão de PC, pela Steam.
 [b]Dá para jogar online com quem não instalou?[/b]
 Dá. A tradução só troca o texto que aparece na sua tela; não muda nada do jogo
 em si.
+
+[b]O jogo não abre no Modo Jogo do meu Steam Deck[/b]
+Isso é um problema do próprio jogo, não da tradução — acontece igual em inglês. O
+instalador do Deck já corrige junto. Se você instalou copiando os arquivos na
+mão, rode [b]bash modo_jogo.sh[/b] que resolve.
 
 [b]Por que STORY e VERSUS continuam em inglês?[/b]
 Porque são imagens, não texto — e foi uma escolha. Tem uma seção acima só sobre

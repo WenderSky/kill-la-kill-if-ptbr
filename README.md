@@ -126,6 +126,20 @@ Baixe o pacote da sua plataforma na página de [**Releases**](../../releases/lat
 
 > 💡 Rode com `bash instalar.sh` mesmo, e não `./instalar.sh`: o bit de execução se perde quando o arquivo passa pelo Windows.
 
+#### 🩹 A correção do Modo Jogo vem junto
+
+*KILL la KILL -IF* **trava numa tela preta quando aberto pelo Modo Jogo do Deck** — isso é do jogo, não da tradução. O launcher cria a janela com as marcações `WS_EX_TOPMOST | WS_EX_TOOLWINDOW`, e o Modo Jogo não reconhece uma janela de ferramenta sempre-no-topo como sendo o jogo.
+
+O instalador **corrige isso junto com a tradução**: zera 4 bytes dentro do `KILLlaKILL_IF.exe` que desligam essas duas marcações. O executável original fica guardado no mesmo backup, e o `desinstalar.sh` devolve os dois — tradução e executável.
+
+| quero | comando |
+|---|---|
+| Tradução + correção *(padrão)* | `bash instalar.sh` |
+| Só a correção, sem a tradução | `bash modo_jogo.sh` |
+| Só a tradução, sem mexer no `.exe` | `bash instalar.sh --sem-modo-jogo` |
+
+A descoberta e o padrão de bytes são do [**bkacjios**](https://gist.github.com/bkacjios/649227c6691d2f49faaba871a11e351b). No PC essa correção não é necessária e não é aplicada.
+
 ### 📋 Instalar na mão, sem o instalador
 
 Se preferir copiar e colar, dá. A pasta `dados/ResourceWin` é um espelho da estrutura do jogo: copie **`ResourceWin`** e cole dentro da pasta do jogo, **mesclando** as pastas e sobrescrevendo os arquivos repetidos.
@@ -136,6 +150,8 @@ Se preferir copiar e colar, dá. A pasta `dados/ResourceWin` é um espelho da es
 > ⚠️ No Steam Deck, o Dolphin vai perguntar o que fazer com a pasta que já existe: escolha **Mesclar**, nunca *Substituir*. Substituir apaga o resto do `ResourceWin` e o jogo para de abrir.
 
 Fazendo assim você perde o **backup**: o instalador guarda os 23 arquivos originais antes de copiar, e é isso que o desinstalador usa depois. Para desfazer, aí só pelo Steam — *Propriedades → Arquivos instalados → Verificar integridade*.
+
+> 🎮 **No Steam Deck você também perde a correção do Modo Jogo.** Se copiar na mão, rode `bash modo_jogo.sh` depois — sem ela o jogo não abre no Modo Jogo.
 
 ### ⚙️ O idioma do jogo tem que estar em Inglês
 
@@ -173,6 +189,8 @@ Esta é uma **tradução de fã**, feita **sem fins lucrativos** e **sem qualque
 ## 🙏 Créditos
 
 **Tradução, engenharia reversa e ferramentas:** **Wender_sky** *(Steam)*
+
+**Correção do Modo Jogo do Steam Deck:** descoberta e padrão de bytes de [**bkacjios**](https://gist.github.com/bkacjios/649227c6691d2f49faaba871a11e351b), integrada aqui ao instalador.
 
 Feito com muito café e um respeito enorme pela bagunça gloriosa que a Trigger fez. ✂️
 

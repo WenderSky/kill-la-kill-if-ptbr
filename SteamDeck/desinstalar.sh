@@ -1,35 +1,15 @@
 #!/usr/bin/env bash
-# Devolve os arquivos originais de KILL la KILL -IF, tirando a tradução PT-BR.
+# Devolve os arquivos originais de KILL la KILL -IF, tirando a tradução PT-BR
+# e a correção do Modo Jogo.
 set -uo pipefail
 
-MARCA="KILLlaKILL_IF.exe"
-PASTA_JOGO="KILL la KILL -IF"
+AQUI="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+. "$AQUI/comum.sh"
 
 printf '\n  KILL la KILL -IF — remover a tradução PT-BR\n'
 printf '  ------------------------------------------\n\n'
 
-CANDIDATAS=(
-  "$HOME/.local/share/Steam"
-  "$HOME/.steam/steam"
-  "$HOME/.var/app/com.valvesoftware.Steam/data/Steam"
-)
-for m in /run/media/*/ /run/media/deck/*/ ; do
-  [ -d "$m" ] && CANDIDATAS+=("${m%/}")
-done
-for vdf in "$HOME/.local/share/Steam/steamapps/libraryfolders.vdf" \
-           "$HOME/.steam/steam/steamapps/libraryfolders.vdf"; do
-  [ -f "$vdf" ] && while IFS= read -r p; do
-    [ -n "$p" ] && CANDIDATAS+=("$p")
-  done < <(sed -n 's/.*"path"[[:space:]]*"\(.*\)".*/\1/p' "$vdf" 2>/dev/null)
-done
-
-DESTINO=""
-for b in "${CANDIDATAS[@]}"; do
-  for alvo in "$b/steamapps/common/$PASTA_JOGO" "$b/common/$PASTA_JOGO"; do
-    if [ -f "$alvo/$MARCA" ]; then DESTINO="$alvo"; break 2; fi
-  done
-done
-[ -z "$DESTINO" ] && read -r -p '  Caminho da pasta do jogo: ' DESTINO
+DESTINO="$(perguntar_jogo)" || exit 1
 
 BACKUP="$DESTINO/ResourceWin/_backup_ptbr"
 if [ ! -d "$BACKUP" ]; then
@@ -48,4 +28,4 @@ done < <(find "$BACKUP" -type f -print0)
 rm -rf -- "$BACKUP"
 
 printf '\n  Pronto! %s arquivos originais devolvidos.\n' "$N"
-printf '  O jogo voltou ao inglês.\n\n'
+printf '  O jogo voltou ao inglês, e o executável ao estado de fábrica.\n\n'

@@ -20,6 +20,30 @@ COMO INSTALAR
   cartão SD. Se não encontrar, ele pergunta o caminho.
 
 
+A CORREÇÃO DO MODO JOGO VEM JUNTO
+
+  KILL la KILL -IF trava numa tela preta quando você abre pelo
+  Modo Jogo do Deck. Não é problema da tradução: o launcher do
+  jogo cria a janela como "ferramenta sempre no topo", e o Modo
+  Jogo não reconhece esse tipo de janela como sendo o jogo.
+
+  O instalador corrige isso junto com a tradução. São 4 bytes
+  zerados dentro do KILLlaKILL_IF.exe, que desligam essas duas
+  marcações. O executável original fica guardado, e o
+  desinstalar.sh devolve tudo.
+
+  Se você quiser SÓ a correção, sem a tradução:
+
+       bash modo_jogo.sh
+
+  Se quiser SÓ a tradução, sem mexer no executável:
+
+       bash instalar.sh --sem-modo-jogo
+
+  Descoberta e padrão de bytes: bkacjios
+  gist.github.com/bkacjios/649227c6691d2f49faaba871a11e351b
+
+
 INSTALAR NA MÃO, SEM O SCRIPT
 
   Dá para copiar e colar, se preferir. A pasta dados/ResourceWin
@@ -39,10 +63,16 @@ INSTALAR NA MÃO, SEM O SCRIPT
      apaga o resto do ResourceWin e o jogo para de abrir.
   4. Nos arquivos repetidos, escolha "Sobrescrever todos".
 
-  O que você perde fazendo assim: o backup. O script guarda os
-  originais antes de copiar, e é isso que o desinstalar.sh usa.
-  Copiando na mão, para desfazer só pelo Steam: Propriedades do
-  jogo > Arquivos instalados > Verificar integridade.
+  O que você perde fazendo assim: o backup E a correção do Modo
+  Jogo. O script guarda os originais antes de copiar, e é isso
+  que o desinstalar.sh usa. Copiando na mão, para desfazer só
+  pelo Steam: Propriedades do jogo > Arquivos instalados >
+  Verificar integridade.
+
+  Se copiar na mão, rode a correção do Modo Jogo depois, senão
+  o jogo não abre no Modo Jogo:
+
+       bash modo_jogo.sh
 
 
 O IDIOMA DO JOGO PRECISA ESTAR EM INGLÊS
